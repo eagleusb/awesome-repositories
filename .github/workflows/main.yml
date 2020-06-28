@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build-starred:
+    runs-on: ubuntu-latest
+    steps:
+    - name: "repository checkout"
+      uses: actions/checkout@v2
+    - name: "python setup"
+      uses: actions/setup-python@v2
+    - name: "run starred"
+      run: |
+        pip3 install --no-cache --user starred
+        starred --username eagleusb --token ${{ secrets.GITHUB_TOKEN }} --repository awesome-repositories --sort --message 'chore(ci) automated update'
+        
