@@ -14,8 +14,9 @@ jobs:
       uses: actions/checkout@v2
     - name: "python setup"
       uses: actions/setup-python@v2
+    - name: "env requirements"
+      run: echo '::add-path::/home/runner/.local/bin'
     - name: "run starred"
       run: |
-        pip3 install --no-cache --user starred
+        pip3 install --no-cache starred
         starred --username eagleusb --token ${{ secrets.GITHUB_TOKEN }} --repository awesome-repositories --sort --message 'chore(ci) automated update'
-        
