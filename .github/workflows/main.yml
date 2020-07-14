@@ -2,9 +2,11 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
+  schedule:
+    - cron: '00 01 * * *'
 
 jobs:
   build-starred:
@@ -15,8 +17,14 @@ jobs:
     - name: "python setup"
       uses: actions/setup-python@v2
     - name: "env requirements"
-      run: echo '::add-path::/home/runner/.local/bin'
+      run: |
+        echo '::add-path::/home/runner/.local/bin'
     - name: "run starred"
       run: |
         pip3 install --no-cache starred
-        starred --username eagleusb --token ${{ secrets.GITHUB_TOKEN }} --repository awesome-repositories --sort --message 'chore(ci) automated update'
+        starred \
+          --username eagleusb \
+          --token ${{ secrets.GITHUB_TOKEN }} \
+          --repository awesome-repositories \
+          --sort \
+          --message 'chore(ci) automated update'
