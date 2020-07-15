@@ -1533,7 +1533,6 @@
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [b612](https://github.com/polarsys/b612) - Eclipse B612
-- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python :wrench: ⚙
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online.
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -2567,6 +2566,7 @@
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [helix](https://github.com/mcmadhatter/helix) - A compact split ortholinear keyboard.
 - [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python :wrench: ⚙
 - [gradtype](https://github.com/indutny/gradtype) - WIP
 - [amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [chaosplatform](https://github.com/chaostoolkit/chaosplatform) - The Chaos Engineering platform for everyone
