@@ -529,6 +529,7 @@
 
 ## Go 
 
+- [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
 - [bigmachine](https://github.com/grailbio/bigmachine) - Bigmachine is a library for self-managing serverless computing in Go
 - [gosms](https://github.com/haxpax/gosms) - :mailbox_closed: Your own local SMS gateway in Go
@@ -813,7 +814,6 @@
 - [kask](https://github.com/kui-shell/kask) - A manager for UI plugins to kubectl
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package
-- [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [nomad](https://github.com/virtual-kubelet/nomad) - HashiCorp Nomad Provider for Virtual Kubelet
 - [getenvoy](https://github.com/tetratelabs/getenvoy) - A collection of tooling focused on building, distributing, deploying and maintaining a fleet of Envoys
 - [pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
@@ -871,7 +871,6 @@
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [goproc](https://github.com/dolmen-go/goproc) - Tool to apply Go templates to JSON/YAML data
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [rget](https://github.com/merklecounty/rget) - download URLs and verify the contents against a publicly recorded cryptographic log
 - [gommit](https://github.com/antham/gommit) - Enforce git message commit consistency
 - [aws-operator](https://github.com/giantswarm/aws-operator) - Manages Kubernetes clusters running on AWS
@@ -1254,7 +1253,7 @@
 - [ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
+- [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -1452,7 +1451,7 @@
 - [consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd
-- [scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway | v2 in beta =&gt;
+- [scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway
 - [ghostunnel](https://github.com/square/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
 - [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
@@ -1658,6 +1657,7 @@
 
 ## JavaScript 
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
 - [balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
@@ -1697,6 +1697,7 @@
 - [node-steam-user](https://github.com/DoctorMcKay/node-steam-user) - Allows interaction with the Steam network via the Steam client protocol
 - [node-steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js
 - [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
+- [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 - [terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
@@ -1803,7 +1804,7 @@
 - [mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
-- [joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
+- [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [monogram](https://github.com/boosterfuels/monogram) - Aspect-oriented layer on top of the MongoDB Node.js driver
@@ -2923,6 +2924,7 @@
 
 ## Rust 
 
+- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 - [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
@@ -3194,7 +3196,7 @@
 - [node-k8s-client](https://github.com/Goyoo/node-k8s-client) - kubernetes client of node.js
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [javascript](https://github.com/kubernetes-client/javascript) - Javascript client
-- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
