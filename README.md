@@ -92,7 +92,6 @@
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
 - [android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
-- [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [avs4x26x](https://github.com/astrataro/avs4x26x) - modified avs4x264
 - [L-SMASH-Works](https://github.com/HolyWu/L-SMASH-Works) - Works based on L-SMASH project
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
@@ -327,6 +326,7 @@
 
 - [cam2web](https://github.com/cvsandbox/cam2web) - Streaming camera to web as MJPEG stream or individual JPEG snapshots. Providing embedded web UI for watching camera directly from a web browser.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
+- [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [AviSynthPlus](https://github.com/AviSynth/AviSynthPlus) - AviSynth with improvements
@@ -529,6 +529,11 @@
 
 ## Go 
 
+- [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
+- [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+- [shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
+- [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
 - [bigmachine](https://github.com/grailbio/bigmachine) - Bigmachine is a library for self-managing serverless computing in Go
@@ -2419,6 +2424,7 @@
 
 ## Python 
 
+- [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [dlint](https://github.com/duo-labs/dlint) - Dlint is a tool for encouraging best coding practices and helping ensure we're writing secure Python code.
 - [ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
@@ -3132,6 +3138,7 @@
 
 ## TypeScript 
 
+- [wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
