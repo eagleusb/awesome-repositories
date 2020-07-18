@@ -434,6 +434,7 @@
 
 ## CSS 
 
+- [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
@@ -732,7 +733,7 @@
 - [statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [httpmole](https://github.com/jcchavezs/httpmole) - A HTTP mole service
 - [manifestival](https://github.com/manifestival/manifestival) - Create, manipulate, apply and delete Kubernetes resource manifests at runtime
-- [arkade](https://github.com/alexellis/arkade) - Kubernetes apps for developers
+- [arkade](https://github.com/alexellis/arkade) - From zero to Kubernetes hero
 - [blake3](https://github.com/lukechampine/blake3) - A pure Go implementation of the BLAKE3 cryptographic hash function
 - [clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
@@ -1528,6 +1529,8 @@
 
 ## HTML 
 
+- [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
+- [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster.
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
@@ -2160,6 +2163,8 @@
 
 ## Others 
 
+- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
+- [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
 - [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
@@ -2644,7 +2649,7 @@
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [kubernetes-validate](https://github.com/willthames/kubernetes-validate) - 
 - [Tardis](https://github.com/koldinger/Tardis) - A backup system, similar to TimeMachine.  Supports encrypted, incremental backups, with filesystem based recovery.
-- [zentral](https://github.com/zentralopensource/zentral) - Zentral is an Event Hub to gather, process, and monitor system events and link them to an inventory.
+- [zentral](https://github.com/zentralopensource/zentral) - Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing. It provides build-in orchestration of macOS security components (Santa, Osquery, et-al.), event correlation and event management. It consolidates its features with various data store backends (ElasticStack, Azure Log Analytics, Splunk, et-al.).
 - [xar](https://github.com/facebookincubator/xar) - executable archive format
 - [data_hacks](https://github.com/bitly/data_hacks) - Command line utilities for data analysis
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -2930,6 +2935,7 @@
 
 ## Rust 
 
+- [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
@@ -2960,7 +2966,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast tool for building observability pipelines
+- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast router for building observability pipelines
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A hand wired ortholinear mechanical keyboard with a firmware in rust
@@ -3138,6 +3144,7 @@
 
 ## TypeScript 
 
+- [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
