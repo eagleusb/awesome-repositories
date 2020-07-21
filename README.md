@@ -324,6 +324,7 @@
 
 ## C++ 
 
+- [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [cam2web](https://github.com/cvsandbox/cam2web) - Streaming camera to web as MJPEG stream or individual JPEG snapshots. Providing embedded web UI for watching camera directly from a web browser.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -441,6 +442,7 @@
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
+- [mqtt.github.io](https://github.com/mqtt/mqtt.github.io) - website
 - [Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
@@ -512,6 +514,7 @@
 
 ## Elixir 
 
+- [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
 - [cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
 
 ## Emacs Lisp 
@@ -533,6 +536,9 @@
 
 ## Go 
 
+- [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
+- [Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
@@ -549,7 +555,7 @@
 - [rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC, let the server do the pausing and seeking.
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [webcam](https://github.com/blackjack/webcam) - Golang webcam library for Linux
-- [serviceq](https://github.com/gptankit/serviceq) - A fault-tolerant gateway for HTTP clusters, written in Go.
+- [serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant gateway for HTTP clusters, written in Go.
 - [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
@@ -873,7 +879,7 @@
 - [saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -1045,7 +1051,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Cluster-wide aggregator of resource usage data.
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
-- [porter](https://github.com/deislabs/porter) - Porter is a cloud installer
+- [porter](https://github.com/deislabs/porter) - Porter
 - [lotus](https://github.com/lotusload/lotus) - Kubernetes controller for running load testing
 - [gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
@@ -1533,6 +1539,7 @@
 
 ## HTML 
 
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
@@ -1670,6 +1677,7 @@
 
 ## JavaScript 
 
+- [freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -2169,6 +2177,8 @@
 
 ## Others 
 
+- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+- [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
@@ -2201,7 +2211,6 @@
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX) - A set of AMD provided GPU effects with provided source and sample implementations
 - [50k-addons](https://github.com/50k-Customs/50k-addons) - Legendary mod pack with most useful truck hookup addons for Euro Truck Simulator 2.
 - [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) - A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
-- [mqtt.github.io](https://github.com/mqtt/mqtt.github.io) - website
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [ansible-maas](https://github.com/mrlesmithjr/ansible-maas) - 
 - [k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
@@ -2941,6 +2950,7 @@
 
 ## Rust 
 
+- [dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
@@ -3028,6 +3038,7 @@
 
 ## Shell 
 
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [build](https://github.com/armbian/build) - Armbian build tools
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
 - [sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
