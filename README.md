@@ -536,6 +536,9 @@
 
 ## Go 
 
+- [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
+- [validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
 - [Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
@@ -743,7 +746,7 @@
 - [statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [httpmole](https://github.com/jcchavezs/httpmole) - A HTTP mole service
 - [manifestival](https://github.com/manifestival/manifestival) - Create, manipulate, apply and delete Kubernetes resource manifests at runtime
-- [arkade](https://github.com/alexellis/arkade) - From zero to Kubernetes hero
+- [arkade](https://github.com/alexellis/arkade) - Your one-stop CLI for Kubernetes
 - [blake3](https://github.com/lukechampine/blake3) - A pure Go implementation of the BLAKE3 cryptographic hash function
 - [clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
@@ -1762,7 +1765,7 @@
 - [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [oz](https://github.com/outmoded/oz) - Web Authorization Protocol
-- [hawk](https://github.com/hapijs/hawk) - HTTP Holder-Of-Key Authentication Scheme
+- [hawk](https://github.com/outmoded/hawk) - HTTP Holder-Of-Key Authentication Scheme
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
@@ -2639,6 +2642,7 @@
 - [sh](https://github.com/amoffat/sh) - Python process launching
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool
+- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [mazer](https://github.com/ansible/mazer) - Experimental Ansible Galaxy Content Manager
 - [calamari](https://github.com/ceph/calamari) - Web-based monitoring and management for Ceph
 - [ceph-deploy](https://github.com/ceph/ceph-deploy) - Deploy Ceph with minimal infrastructure, using just SSH access
@@ -2950,6 +2954,7 @@
 
 ## Rust 
 
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
@@ -3079,7 +3084,6 @@
 - [helm-kubeval](https://github.com/instrumenta/helm-kubeval) - A Helm plugin for validating Charts against the Kubernetes schemas
 - [miuni32](https://github.com/bigtunaIO/miuni32) - 
 - [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
-- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [pagerduty-monit](https://github.com/pinterest/pagerduty-monit) - Wrapper scripts to integrate monit and PagerDuty.
 - [containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification
