@@ -536,6 +536,10 @@
 
 ## Go 
 
+- [ion-go](https://github.com/amzn/ion-go) - A Go implementation of Amazon Ion.
+- [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
+- [spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
+- [emissary](https://github.com/github/emissary) - Envoy External Authorization API Bridge To SPIFFE Workload API
 - [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection
 - [validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
@@ -787,7 +791,7 @@
 - [terraform-provider-consul](https://github.com/terraform-providers/terraform-provider-consul) - Terraform Consul provider
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [kube-query](https://github.com/aquasecurity/kube-query) - [EXPERIMENTAL] Extend osquery to report on Kubernetes
-- [faasd](https://github.com/openfaas/faasd) - faasd - lightweight OSS serverless  🐳
+- [faasd](https://github.com/openfaas/faasd) - faasd - Serverless for everyone else
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [robin](https://github.com/jiansoft/robin) - robin provides a high performance golang goroutine library and job scheduling、in-memory cache for humans.
@@ -882,7 +886,7 @@
 - [saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
-- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -1238,7 +1242,7 @@
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) - Fast and secure tunnels over HTTP/2
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
-- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
 - [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
 - [scat](https://github.com/Roman2K/scat) - Decentralized, trustless backup tool
@@ -1632,7 +1636,7 @@
 - [GCViewer](https://github.com/chewiebug/GCViewer) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
 - [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
-- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [dcache](https://github.com/dCache/dcache) - dCache - a system for storing and retrieving huge amounts of data, distributed among a large number of heterogenous server nodes, under a single virtual filesystem tree with a variety of standard access methods
 - [apollo](https://github.com/logzio/apollo) - Apollo - The logz.io continuous deployment solution over kubernetes
 - [haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
@@ -1682,7 +1686,7 @@
 
 - [freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
 - [balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
