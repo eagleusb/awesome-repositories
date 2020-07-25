@@ -85,6 +85,8 @@
 
 ## C 
 
+- [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
+- [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
 - [nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
@@ -536,6 +538,13 @@
 
 ## Go 
 
+- [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+- [shuttle](https://github.com/lunarway/shuttle) - CLI for handling shared build and deploy tools between projects no matter what technologies the projects are using
+- [release-manager](https://github.com/lunarway/release-manager) - GitOps release manager for Kubernetes configuration repositories
+- [kubecarrier](https://github.com/kubermatic/kubecarrier) - KubeCarrier - Service Management at Scale
+- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
+- [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
+- [squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
 - [ion-go](https://github.com/amzn/ion-go) - A Go implementation of Amazon Ion.
 - [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
@@ -1367,7 +1376,6 @@
 - [dnsmetrics](https://github.com/PagerDuty/dnsmetrics) - DNSmetrics connects to your accounts at multiple managed DNS providers using their APIs and emits standardized metrics in statsd format for easy ingestion into your monitoring solution of choice.
 - [codeflow](https://github.com/checkr/codeflow) - Open source event based Platform as a Service
 - [slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
-- [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [appdash](https://github.com/sourcegraph/appdash) - Application tracing system for Go, based on Google's Dapper.
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
@@ -1501,6 +1509,7 @@
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
+- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -1606,6 +1615,7 @@
 
 ## Java 
 
+- [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [terraform-custom-provider](https://github.com/julianespinel/terraform-custom-provider) - Repository to learn how to create a Terraform custom provider.
 - [popcorn-android](https://github.com/popcorn-official/popcorn-android) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player
@@ -2171,6 +2181,8 @@
 
 ## Objective-C 
 
+- [phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
+- [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [routerkeygenPC](https://github.com/routerkeygen/routerkeygenPC) - Qt Port for Linux, Mac OSX and Windows
 
 ## Open Policy Agent 
@@ -2184,6 +2196,9 @@
 
 ## Others 
 
+- [enduser-public](https://github.com/cncf/enduser-public) - 🔚👩🏾‍💻👨🏽‍💻👩🏼‍💻CNCF End User Community
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -2451,6 +2466,8 @@
 
 ## Python 
 
+- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [dlint](https://github.com/duo-labs/dlint) - Dlint is a tool for encouraging best coding practices and helping ensure we're writing secure Python code.
@@ -3009,7 +3026,7 @@
 - [click](https://github.com/databricks/click) - The "Command Line Interactive Controller for Kubernetes"
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
-- [swc](https://github.com/swc-project/swc) - Super-fast typescript / javascript compiler written in rust
+- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
@@ -3136,7 +3153,6 @@
 - [openshift-on-openstack](https://github.com/redhat-openstack/openshift-on-openstack) - A place to write templates, docs etc. for deploying OpenShift on OpenStack.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [glftpd-scripts](https://github.com/glftpd-scripts/glftpd-scripts) - 
-- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
@@ -3169,6 +3185,7 @@
 
 ## TypeScript 
 
+- [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
@@ -3295,6 +3312,7 @@
 
 ## Vue 
 
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
