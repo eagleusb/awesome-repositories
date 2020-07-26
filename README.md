@@ -1007,7 +1007,7 @@
 - [iprepd](https://github.com/mozilla-services/iprepd) - Centralized IP reputation daemon
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for ceph
+- [ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 - [joy4](https://github.com/nareix/joy4) - Golang audio/video library and streaming server
 - [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Marrying Ansible with Terraform 0.12.x
 - [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
@@ -1694,7 +1694,6 @@
 
 ## JavaScript 
 
-- [freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -1761,7 +1760,7 @@
 - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [kbf_qmk_converter](https://github.com/noroadsleft/kbf_qmk_converter) - A file that, ideally, converts the contents of a KBFirmware-format JSON file to QMK code.
-- [quickchart](https://github.com/typpo/quickchart) - Render chart images and QR codes
+- [quickchart](https://github.com/typpo/quickchart) - Chart image and QR code web API
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -2196,6 +2195,7 @@
 
 ## Others 
 
+- [awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [enduser-public](https://github.com/cncf/enduser-public) - 🔚👩🏾‍💻👨🏽‍💻👩🏼‍💻CNCF End User Community
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -2466,6 +2466,8 @@
 
 ## Python 
 
+- [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+- [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub actions for terraform
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
