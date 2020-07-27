@@ -71,6 +71,7 @@
   - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
   - [YAML](#yaml)
+  - [Zig](#zig)
   - [sed](#sed)
 
 ## Assembly 
@@ -85,6 +86,7 @@
 
 ## C 
 
+- [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
@@ -437,6 +439,7 @@
 
 ## CSS 
 
+- [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
@@ -538,6 +541,9 @@
 
 ## Go 
 
+- [upduck](https://github.com/xarantolus/upduck) - simple HTTP and HTTPs static file server that integrates with DuckDNS
+- [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
+- [yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours where only jq could
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [shuttle](https://github.com/lunarway/shuttle) - CLI for handling shared build and deploy tools between projects no matter what technologies the projects are using
 - [release-manager](https://github.com/lunarway/release-manager) - GitOps release manager for Kubernetes configuration repositories
@@ -1602,6 +1608,7 @@
 
 ## Haskell 
 
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
 - [squee](https://github.com/KMahoney/squee) - A Typed, Composable Database Query Language
 - [purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
@@ -2195,6 +2202,7 @@
 
 ## Others 
 
+- [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [enduser-public](https://github.com/cncf/enduser-public) - 🔚👩🏾‍💻👨🏽‍💻👩🏼‍💻CNCF End User Community
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -2466,6 +2474,8 @@
 
 ## Python 
 
+- [wdcrypt](https://github.com/IamStefin/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
+- [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2977,6 +2987,8 @@
 
 ## Rust 
 
+- [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
+- [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
@@ -3066,6 +3078,7 @@
 
 ## Shell 
 
+- [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [build](https://github.com/armbian/build) - Armbian build tools
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
@@ -3336,6 +3349,10 @@
 ## YAML 
 
 - [deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+
+## Zig 
+
+- [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## sed 
 
