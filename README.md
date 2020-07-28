@@ -86,6 +86,8 @@
 
 ## C 
 
+- [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
+- [aws-graviton-gettting-started](https://github.com/aws/aws-graviton-gettting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (e.g. C6g/M6g/R6g)
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -107,7 +109,7 @@
 - [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [android_kernel_google_wahoo](https://github.com/kerneltoast/android_kernel_google_wahoo) - Pixel 2/XL kernel.
-- [ly](https://github.com/cylgom/ly) - TUI (ncurses-like) display manager
+- [ly](https://github.com/nullgemm/ly) - TUI (ncurses-like) display manager
 - [go-tpm-tools](https://github.com/google/go-tpm-tools) - Go packages built on go-tpm providing a high-level API for using TPMs
 - [tinc](https://github.com/gsliepen/tinc) - a VPN daemon
 - [redis-cluster-proxy](https://github.com/RedisLabs/redis-cluster-proxy) - A proxy for Redis clusters.
@@ -360,7 +362,6 @@
 - [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [ts100](https://github.com/Ralim/ts100) - The Feature Packed Alternate Open Source firmware for the TS100 iron by miniware.
 - [8-Pack](https://github.com/cgarcia2097/8-Pack) - Repository for design files, source code and assembly guides regarding this keypad.
@@ -541,6 +542,7 @@
 
 ## Go 
 
+- [coredns-plugins](https://github.com/segmentio/coredns-plugins) - Segment CoreDNS plugins
 - [upduck](https://github.com/xarantolus/upduck) - simple HTTP and HTTPs static file server that integrates with DuckDNS
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours where only jq could
@@ -1489,7 +1491,7 @@
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd
 - [scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway
-- [ghostunnel](https://github.com/square/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
+- [ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
 - [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
@@ -1630,6 +1632,7 @@
 - [thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [hono](https://github.com/eclipse/hono) - Eclipse Hono™ Project
 - [hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [singer](https://github.com/pinterest/singer) - A high-performance, reliable and extensible logging agent for uploading data to Kafka, Pulsar, etc.
 - [pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [dslabs](https://github.com/emichael/dslabs) - Distributed Systems Labs and Framework
@@ -2202,6 +2205,7 @@
 
 ## Others 
 
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [enduser-public](https://github.com/cncf/enduser-public) - 🔚👩🏾‍💻👨🏽‍💻👩🏼‍💻CNCF End User Community
@@ -2652,7 +2656,7 @@
 - [python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
 - [chaostoolkit-google-cloud](https://github.com/chaostoolkit-incubator/chaostoolkit-google-cloud) - [DEPRECATED] Chaos Extension for the Google Cloud Engine platform
 - [helix](https://github.com/MakotoKurauchi/helix) - A compact split ortholinear keyboard.
-- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [nek-type-a](https://github.com/ecopoesis/nek-type-a) - Natural Ergonomic Keyboard Type A
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -2987,6 +2991,7 @@
 
 ## Rust 
 
+- [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -3218,7 +3223,7 @@
 - [bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [vpcstudio](https://github.com/houqp/vpcstudio) - VPC design made easy
-- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
+- [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [metacar](https://github.com/thibo73800/metacar) - A reinforcement learning environment for self-driving cars in the browser.
 - [talkyard](https://github.com/debiki/talkyard) - Forum software, brings together the best from StackOverflow, Discourse, Slack, Reddit, Disqus.
 - [balena-supervisor](https://github.com/balena-io/balena-supervisor) - Balena Supervisor: balena's agent on devices.
