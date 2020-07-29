@@ -339,6 +339,7 @@
 - [AviSynthPlus](https://github.com/AviSynth/AviSynthPlus) - AviSynth with improvements
 - [LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [ncpamixer](https://github.com/fulhax/ncpamixer) - ncurses PulseAudio Mixer
+- [fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
 - [faasm](https://github.com/lsds/faasm) - High-performance stateful serverless runtime based on WebAssembly
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -542,6 +543,8 @@
 
 ## Go 
 
+- [metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
+- [Nova](https://github.com/FairwindsOps/Nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [coredns-plugins](https://github.com/segmentio/coredns-plugins) - Segment CoreDNS plugins
 - [upduck](https://github.com/xarantolus/upduck) - simple HTTP and HTTPs static file server that integrates with DuckDNS
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
@@ -693,7 +696,7 @@
 - [profefe](https://github.com/profefe/profefe) - Continuously collect profiling data for long-term postmortem analysis
 - [boots](https://github.com/tinkerbell/boots) - The DHCP and iPXE server for Tinkerbell.
 - [tink](https://github.com/tinkerbell/tink) - A workflow engine for provisioning bare metal.
-- [botkube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
+- [botkube](https://github.com/infracloudio/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [broccoli](https://github.com/aletheia-icu/broccoli) - Using brotli compression to embed static files in Go.
 - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
@@ -1477,7 +1480,7 @@
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [runv](https://github.com/hyperhq/runv) - Hypervisor-based Runtime for OCI
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI Client
+- [gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [precommit-vet-lint](https://github.com/ashwch/precommit-vet-lint) - A precommit hook that runs Golint and Vet on your staged go files.
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [rocker](https://github.com/grammarly/rocker) - Rocker breaks the limits of Dockerfile.
@@ -2478,6 +2481,8 @@
 
 ## Python 
 
+- [polypomo](https://github.com/unode/polypomo) - Pomodoro widget for use with polybar (or standalone if you are so inclined)
+- [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [wdcrypt](https://github.com/IamStefin/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
@@ -2602,7 +2607,7 @@
 - [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [qtile](https://github.com/qtile/qtile) - :cookie: A small, flexible, scriptable tiling window manager written in Python
+- [qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [i3-gnome-pomodoro](https://github.com/kantord/i3-gnome-pomodoro) - :tomato: Integrate gnome-pomodoro into i3
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
@@ -3095,7 +3100,6 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [gitops-with-kustomize](https://github.com/swade1987/gitops-with-kustomize) - An example repo structure for GitOps with Kustomize
-- [fuzzing](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
 - [aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit) - The source of the amazon/aws-for-fluent-bit container image
 - [linux-luks-tpm-boot](https://github.com/morbitzer/linux-luks-tpm-boot) - A guide for setting up LUKS boot with a key from TPM in Linux
 - [build](https://github.com/nodejs/build) - Better build and test infra for Node.
