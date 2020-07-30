@@ -86,6 +86,7 @@
 
 ## C 
 
+- [bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [aws-graviton-gettting-started](https://github.com/aws/aws-graviton-gettting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (e.g. C6g/M6g/R6g)
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -543,10 +544,12 @@
 
 ## Go 
 
+- [helm-controller](https://github.com/fluxcd/helm-controller) - Experimental Kubernetes operator for building GitOps pipelines with Helm
+- [toolkit](https://github.com/fluxcd/toolkit) - Experimental toolkit for assembling CD pipelines the GitOps way
 - [metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [Nova](https://github.com/FairwindsOps/Nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [coredns-plugins](https://github.com/segmentio/coredns-plugins) - Segment CoreDNS plugins
-- [upduck](https://github.com/xarantolus/upduck) - simple HTTP and HTTPs static file server that integrates with DuckDNS
+- [upduck](https://github.com/xarantolus/upduck) - simple HTTP and HTTPS static file server that integrates with DuckDNS
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours where only jq could
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -914,6 +917,7 @@
 - [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [goproc](https://github.com/dolmen-go/goproc) - Tool to apply Go templates to JSON/YAML data
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [rget](https://github.com/merklecounty/rget) - download URLs and verify the contents against a publicly recorded cryptographic log
 - [gommit](https://github.com/antham/gommit) - Enforce git message commit consistency
 - [aws-operator](https://github.com/giantswarm/aws-operator) - Manages Kubernetes clusters running on AWS
@@ -1613,6 +1617,7 @@
 
 ## Haskell 
 
+- [linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
 - [squee](https://github.com/KMahoney/squee) - A Typed, Composable Database Query Language
@@ -1748,7 +1753,6 @@
 - [node-steam-user](https://github.com/DoctorMcKay/node-steam-user) - Allows interaction with the Steam network via the Steam client protocol
 - [node-steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js
 - [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
-- [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 - [terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
 - [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
@@ -2481,6 +2485,7 @@
 
 ## Python 
 
+- [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer.
 - [polypomo](https://github.com/unode/polypomo) - Pomodoro widget for use with polybar (or standalone if you are so inclined)
 - [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [wdcrypt](https://github.com/IamStefin/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
@@ -3192,6 +3197,7 @@
 
 ## Smarty 
 
+- [helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
 - [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [openfaas-flux](https://github.com/stefanprodan/openfaas-flux) - OpenFaaS Kubernetes cluster state management with FluxCD
 
@@ -3277,7 +3283,7 @@
 - [node-k8s-client](https://github.com/Goyoo/node-k8s-client) - kubernetes client of node.js
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [javascript](https://github.com/kubernetes-client/javascript) - Javascript client
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
