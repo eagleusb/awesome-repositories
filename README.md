@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
+  - [BitBake](#bitbake)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -83,6 +84,10 @@
 ## Batchfile 
 
 - [tkg-toolkit](https://github.com/kairyu/tkg-toolkit) - A collection of tools used for supporting TKG (TMK Keymap Generator).
+
+## BitBake 
+
+- [meta-balena](https://github.com/balena-os/meta-balena) - A collection of Yocto layers used to build balenaOS images
 
 ## C 
 
@@ -442,6 +447,7 @@
 
 ## CSS 
 
+- [hugo-whisper-theme](https://github.com/JugglerX/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
 - [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
@@ -544,6 +550,9 @@
 
 ## Go 
 
+- [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
+- [gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
+- [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [helm-controller](https://github.com/fluxcd/helm-controller) - Experimental Kubernetes operator for building GitOps pipelines with Helm
 - [toolkit](https://github.com/fluxcd/toolkit) - Experimental toolkit for assembling CD pipelines the GitOps way
 - [metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
@@ -1013,7 +1022,7 @@
 - [kube-eagle](https://github.com/cloudworkz/kube-eagle) - A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
 - [krontab](https://github.com/jacobtomlinson/krontab) - ⏰ A crontab like editor for Kubernetes cron jobs
 - [conform](https://github.com/talos-systems/conform) - Policy enforcement for your pipelines.
-- [talos](https://github.com/talos-systems/talos) - A modern OS for Kubernetes.
+- [talos](https://github.com/talos-systems/talos) - Talos is a modern OS for Kubernetes.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
 - [mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
@@ -1936,7 +1945,7 @@
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 - [storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
 - [sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
 - [terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
@@ -3215,6 +3224,8 @@
 
 ## TypeScript 
 
+- [open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
+- [open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -3342,7 +3353,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
