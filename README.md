@@ -550,6 +550,8 @@
 
 ## Go 
 
+- [goflow](https://github.com/faasflow/goflow) - A Golang based high performance, scalable and distributed workflow framework
+- [envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
 - [gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
@@ -1610,7 +1612,7 @@
 - [fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) - What is browser fingerprinting and how should specification authors address it.
 - [cosr-back](https://github.com/commonsearch/cosr-back) - Backend of Common Search. Analyses webpages and sends them to the index.
 - [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
+- [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [SONiC](https://github.com/Azure/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - http://azure.github.io/SONiC/
 - [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
@@ -2494,6 +2496,7 @@
 
 ## Python 
 
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer.
 - [polypomo](https://github.com/unode/polypomo) - Pomodoro widget for use with polybar (or standalone if you are so inclined)
 - [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
