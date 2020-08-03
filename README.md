@@ -338,6 +338,7 @@
 
 ## C++ 
 
+- [aitracker](https://github.com/AIRLegend/aitracker) - 6DoF Head tracking software
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [cam2web](https://github.com/cvsandbox/cam2web) - Streaming camera to web as MJPEG stream or individual JPEG snapshots. Providing embedded web UI for watching camera directly from a web browser.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -552,6 +553,7 @@
 
 ## Go 
 
+- [grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
 - [lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [marky](https://github.com/muesli/marky) - Generate markdown programmatically
