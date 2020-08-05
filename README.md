@@ -78,7 +78,7 @@
 ## Assembly 
 
 - [x265](https://github.com/videolan/x265) - https://bitbucket.org/multicoreware/x265/ git mirror
-- [blake3](https://github.com/lukechampine/blake3) - A pure Go implementation of the BLAKE3 cryptographic hash function
+- [blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
 - [virtualagc](https://github.com/virtualagc/virtualagc) - Virtual Apollo Guidance Computer (AGC) software
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
@@ -209,7 +209,7 @@
 - [ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [burp](https://github.com/grke/burp) - burp - backup and restore program
 - [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
-- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL for multi-tenant and real-time analytics workloads
+- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
 - [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
