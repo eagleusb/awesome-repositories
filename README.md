@@ -633,7 +633,7 @@
 - [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 - [kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
-- [oneshot](https://github.com/raphaelreyna/oneshot) - A first-come-first-serve single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
+- [oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [terraform-controller](https://github.com/rancher/terraform-controller) - Use K8s to Run Terraform
 - [terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
 - [terranova](https://github.com/johandry/terranova) - Using Terraform package from Go
@@ -799,7 +799,7 @@
 - [arkade](https://github.com/alexellis/arkade) - Your one-stop CLI for Kubernetes
 - [clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
-- [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes
+- [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
 - [hamlet](https://github.com/vmware/hamlet) - Multi-Vendor Service Mesh Interoperation
@@ -1601,6 +1601,7 @@
 - [discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
 - [the-zen-of-go](https://github.com/davecheney/the-zen-of-go) - https://the-zen-of-go.netlify.com
 - [eng-hiring](https://github.com/18F/eng-hiring) - 18F Engineering's guide to candidate selection, from resume screen to offer.
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
@@ -2541,7 +2542,7 @@
 - [venom-xbmc-addons](https://github.com/Kodi-vStream/venom-xbmc-addons) - Addon de Streaming français pour Xbmc
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [ansible-assertive](https://github.com/larsks/ansible-assertive) - 
-- [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible examples from Ansible for DevOps.
+- [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
@@ -3042,7 +3043,6 @@
 - [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A rust-vmm based cloud hypervisor
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
