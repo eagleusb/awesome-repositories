@@ -553,6 +553,8 @@
 
 ## Go 
 
+- [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
+- [bulward](https://github.com/kubermatic/bulward) - Multi User/Project management for Kubernetes
 - [k8sdeploy](https://github.com/pyang55/k8sdeploy) - a tool to deploy to multiple namespaces in a cluster
 - [qovery-cli](https://github.com/Qovery/qovery-cli) - Qovery Command Line Interface
 - [grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
@@ -971,7 +973,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
-- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
+- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
 - [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -3367,7 +3369,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 70k+ developers. https://postwoman.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
