@@ -553,6 +553,7 @@
 
 ## Go 
 
+- [plumber](https://github.com/batchcorp/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [bulward](https://github.com/kubermatic/bulward) - Multi User/Project management for Kubernetes
 - [k8sdeploy](https://github.com/pyang55/k8sdeploy) - a tool to deploy to multiple namespaces in a cluster
@@ -803,7 +804,7 @@
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
-- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [hamlet](https://github.com/vmware/hamlet) - Multi-Vendor Service Mesh Interoperation
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -973,7 +974,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for cloud services development
 - [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -1230,7 +1231,7 @@
 - [goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [cri](https://github.com/containerd/cri) - Containerd Plugin for Kubernetes Container Runtime Interface
 - [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-- [external-storage](https://github.com/kubernetes-incubator/external-storage) - External storage plugins, provisioners, and helper libraries
+- [external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
 - [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -1603,7 +1604,6 @@
 - [discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
 - [the-zen-of-go](https://github.com/davecheney/the-zen-of-go) - https://the-zen-of-go.netlify.com
 - [eng-hiring](https://github.com/18F/eng-hiring) - 18F Engineering's guide to candidate selection, from resume screen to offer.
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
@@ -2302,7 +2302,7 @@
 - [gh60](https://github.com/komar007/gh60) - GH60 - an open-source mechanical keyboard PCB designed for the community at geekhack.org
 - [services-engineering](https://github.com/mmcgrana/services-engineering) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [systems-reading](https://github.com/lorin/systems-reading) - Systems and failure reading list
-- [Lubrigante](https://github.com/Zambumon/Lubrigante) - 
+- [Lubrigante](https://github.com/Zambumon/Lubrigante) - Acrylic TGR Alice revision by Zambumon
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - Open source mechanical keyboard and where to find them
 - [riff](https://github.com/projectriff/riff) - riff is for functions
@@ -3045,6 +3045,7 @@
 - [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A rust-vmm based cloud hypervisor
 - [OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
