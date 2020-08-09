@@ -403,7 +403,7 @@
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
-- [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
+- [node-packer](https://github.com/pmq20/node-packer) - ** THIS REPO HAS STOPPED MAINTENANCE, PLEASE USE OTHER FORKS **
 - [omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
 - [pika](https://github.com/Qihoo360/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
 - [phxsql](https://github.com/Tencent/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
@@ -553,6 +553,7 @@
 
 ## Go 
 
+- [kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
 - [plumber](https://github.com/batchcorp/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL
 - [bulward](https://github.com/kubermatic/bulward) - Multi User/Project management for Kubernetes
