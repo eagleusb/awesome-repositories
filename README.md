@@ -553,6 +553,7 @@
 
 ## Go 
 
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [k8s-worker-pod-autoscaler](https://github.com/practo/k8s-worker-pod-autoscaler) - Kubernetes autoscaler for the workers. Resource is called WPA. Queues Supported: SQS, Beanstalkd.
 - [kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
@@ -3375,7 +3376,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
