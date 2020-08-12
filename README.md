@@ -553,6 +553,8 @@
 
 ## Go 
 
+- [loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
+- [capsule](https://github.com/clastix/capsule) - Kubernetes multi-tenant Operator
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [k8s-worker-pod-autoscaler](https://github.com/practo/k8s-worker-pod-autoscaler) - Kubernetes autoscaler for the workers. Resource is called WPA. Queues Supported: SQS, Beanstalkd.
@@ -1324,7 +1326,7 @@
 - [skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - [go-git](https://github.com/src-d/go-git) - Projects has been moved to:
 - [cashier](https://github.com/nsheridan/cashier) - A self-service CA for OpenSSH
-- [origin](https://github.com/openshift/origin) - Images for OpenShift 3 and 4 - see openshift/okd for more
+- [origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
