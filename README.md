@@ -309,7 +309,7 @@
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [pcp](https://github.com/performancecopilot/pcp) - Performance Co-Pilot
 - [RRO](https://github.com/RevolutionAnalytics/RRO) - Revolution R Open
-- [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem - (this is only a public mirror, see the README for contributing)
+- [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your storage in minutes
 - [Rserve](https://github.com/s-u/Rserve) - Fast, flexible and powerful server providing access to R from many languages and systems
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -451,6 +451,7 @@
 ## CSS 
 
 - [hugo-whisper-theme](https://github.com/JugglerX/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
+- [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
@@ -2518,10 +2519,10 @@
 
 ## Python 
 
+- [cloudflare-analytics](https://github.com/thcp/cloudflare-analytics) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer.
 - [polypomo](https://github.com/unode/polypomo) - Pomodoro widget for use with polybar (or standalone if you are so inclined)
-- [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [wdcrypt](https://github.com/IamStefin/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
