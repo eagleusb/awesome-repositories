@@ -94,7 +94,7 @@
 - [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [aws-graviton-gettting-started](https://github.com/aws/aws-graviton-gettting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (e.g. C6g/M6g/R6g)
+- [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (e.g. C6g/M6g/R6g)
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -553,6 +553,7 @@
 
 ## Go 
 
+- [pinmonl](https://github.com/pinmonl/pinmonl) - Bookmark manager with hierarchical tags
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
 - [capsule](https://github.com/clastix/capsule) - Kubernetes multi-tenant Operator
@@ -810,6 +811,7 @@
 - [clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [terrascan](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform
 - [tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [hamlet](https://github.com/vmware/hamlet) - Multi-Vendor Service Mesh Interoperation
@@ -2582,7 +2584,6 @@
 - [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform.
 - [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - 
-- [terrascan](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform
 - [ec2-metadata](https://github.com/adamchainz/ec2-metadata) - An easy interface to query the EC2 metadata API, with caching.
 - [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [structlog](https://github.com/hynek/structlog) - Structured Logging for Python
@@ -2916,7 +2917,7 @@
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [indico](https://github.com/indico/indico) - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
 - [PerfKitBenchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) - PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.
-- [httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [ursula](https://github.com/blueboxgroup/ursula) - Ansible playbooks for operating OpenStack - Powering Blue Box Cloud.
 - [Nscan](https://github.com/OffensivePython/Nscan) - Nscan: Fast internet-wide scanner
 - [Dshell](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework.
