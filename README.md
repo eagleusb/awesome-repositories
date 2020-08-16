@@ -573,7 +573,7 @@
 - [kubefs](https://github.com/configurator/kubefs) - Mount kubernetes metadata storage as a filesystem
 - [wormhole](https://github.com/superfly/wormhole) - Fly.io secure tunnel
 - [autowire](https://github.com/superfly/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
-- [goflow](https://github.com/faasflow/goflow) - A Golang based high performance, scalable and distributed workflow framework
+- [goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
 - [gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
@@ -811,7 +811,7 @@
 - [clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
-- [terrascan](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform
+- [terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [hamlet](https://github.com/vmware/hamlet) - Multi-Vendor Service Mesh Interoperation
@@ -2667,7 +2667,6 @@
 - [kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [ambassador](https://github.com/datawire/ambassador) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
-- [litmus](https://github.com/litmuschaos/litmus) - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 - [ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [aptly-api-client](https://github.com/gopythongo/aptly-api-client) - A Python 3 API client for aptly
@@ -3281,6 +3280,7 @@
 - [garden](https://github.com/garden-io/garden) - Cloud native testing platform for testing and developing container applications on Kubernetes
 - [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [mokka](https://github.com/ega-forever/mokka) - Mokka consensus
+- [litmus](https://github.com/litmuschaos/litmus) - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
