@@ -2521,6 +2521,7 @@
 
 ## Python 
 
+- [tiny0](https://github.com/xemeds/tiny0) - Custom URL shortener in Flask.
 - [cloudflare-analytics](https://github.com/thcp/cloudflare-analytics) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer.
@@ -3035,6 +3036,7 @@
 
 ## Rust 
 
+- [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -3380,7 +3382,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
