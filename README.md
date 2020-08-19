@@ -214,7 +214,7 @@
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
 - [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
-- [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
+- [john](https://github.com/openwall/john) - This is the official repo for John the Ripper jumbo. The "bleeding-jumbo" branch is based on 1.9.0-jumbo-1, which was released on May 14, 2019. An import of John the Ripper core that this jumbo was based on is found in the "core" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/).
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
@@ -403,7 +403,7 @@
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
-- [node-packer](https://github.com/pmq20/node-packer) - ** THIS REPO HAS STOPPED MAINTENANCE, PLEASE USE OTHER FORKS **
+- [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
 - [pika](https://github.com/Qihoo360/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
 - [phxsql](https://github.com/Tencent/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
@@ -450,6 +450,7 @@
 
 ## CSS 
 
+- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [hugo-whisper-theme](https://github.com/JugglerX/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
 - [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
@@ -554,6 +555,10 @@
 
 ## Go 
 
+- [go-attestation](https://github.com/google/go-attestation) - 
+- [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
+- [mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
+- [infracost](https://github.com/aliscott/infracost) - Get cost estimates from a Terraform project
 - [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
@@ -823,7 +828,7 @@
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [build](https://github.com/shipwright-io/build) - [ Proposal ] An API to build images on Kubernetes with diverse strategies
+- [build](https://github.com/shipwright-io/build) - An API to build images on Kubernetes with diverse strategies
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -1594,6 +1599,7 @@
 
 ## HCL 
 
+- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
 - [vault-on-gke](https://github.com/sethvargo/vault-on-gke) - Run @HashiCorp Vault on Google Kubernetes Engine (GKE) with Terraform
 - [quickstart](https://github.com/rancher/quickstart) - 
 - [fury-kubernetes-aws](https://github.com/sighupio/fury-kubernetes-aws) - Fury Kubernetes AWS
@@ -1610,7 +1616,7 @@
 ## HTML 
 
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 580 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
@@ -1752,6 +1758,8 @@
 
 ## JavaScript 
 
+- [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -3136,6 +3144,7 @@
 
 ## Shell 
 
+- [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [build](https://github.com/armbian/build) - Armbian build tools
@@ -3389,7 +3398,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
