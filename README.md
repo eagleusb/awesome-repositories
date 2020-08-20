@@ -555,6 +555,8 @@
 
 ## Go 
 
+- [guora](https://github.com/meloalright/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
+- [etcdadm](https://github.com/kubernetes-sigs/etcdadm) - 
 - [go-attestation](https://github.com/google/go-attestation) - 
 - [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
@@ -1599,6 +1601,7 @@
 
 ## HCL 
 
+- [terraform-guides](https://github.com/hashicorp/terraform-guides) - Example usage of HashiCorp Terraform
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
 - [vault-on-gke](https://github.com/sethvargo/vault-on-gke) - Run @HashiCorp Vault on Google Kubernetes Engine (GKE) with Terraform
 - [quickstart](https://github.com/rancher/quickstart) - 
@@ -3267,6 +3270,7 @@
 
 ## TypeScript 
 
+- [vscode-terraform-doc-snippets](https://github.com/run-at-scale/vscode-terraform-doc-snippets) - Snippets in vscode for all resources and data sources, as yanked directly from provider docs.
 - [open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
 - [open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
