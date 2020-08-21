@@ -338,7 +338,7 @@
 
 ## C++ 
 
-- [aitracker](https://github.com/AIRLegend/aitracker) - 6DoF Head tracking software
+- [aitrack](https://github.com/AIRLegend/aitrack) - 6DoF Head tracking software
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [cam2web](https://github.com/cvsandbox/cam2web) - Streaming camera to web as MJPEG stream or individual JPEG snapshots. Providing embedded web UI for watching camera directly from a web browser.
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -857,7 +857,7 @@
 - [consul-esm](https://github.com/hashicorp/consul-esm) - External service monitoring for Consul
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [consul-replicate](https://github.com/hashicorp/consul-replicate) - Consul cross-DC KV replication daemon.
-- [terraform-provider-consul](https://github.com/terraform-providers/terraform-provider-consul) - Terraform Consul provider
+- [terraform-provider-consul](https://github.com/hashicorp/terraform-provider-consul) - Terraform Consul provider
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [kube-query](https://github.com/aquasecurity/kube-query) - [EXPERIMENTAL] Extend osquery to report on Kubernetes
 - [faasd](https://github.com/openfaas/faasd) - faasd - Serverless for everyone else
@@ -2537,6 +2537,7 @@
 
 ## Python 
 
+- [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [slack-standup](https://github.com/vipul-sharma20/slack-standup) - An application for Slack based daily standups
 - [tiny0](https://github.com/xemeds/tiny0) - Custom URL shortener in Flask.
 - [cloudflare-analytics](https://github.com/thcp/cloudflare-analytics) - 
