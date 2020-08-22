@@ -1785,7 +1785,7 @@
 - [ets2-local-radio](https://github.com/Koenvh1/ets2-local-radio) - Radio from wherever you are in ETS2/ATS
 - [ets2-mobile-route-advisor](https://github.com/mike-koch/ets2-mobile-route-advisor) - ETS2 / ATS's Route Advisor, for mobile devices
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [node-clinic](https://github.com/nearform/node-clinic) - Clinic.js diagnoses your Node.js performance issues
+- [node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way
 - [mosca](https://github.com/moscajs/mosca) - MQTT broker as a module
 - [Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
