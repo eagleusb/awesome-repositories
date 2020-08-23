@@ -516,7 +516,7 @@
 
 ## Dart 
 
-- [dshell](https://github.com/bsutton/dshell) - DShell - a library and tools for building bash style cli scripts using the Dart programming language.
+- [dcli](https://github.com/bsutton/dcli) - An extensive library and tooling for building console/cli applications and scripts using the Dart programming language.
 - [sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
@@ -742,7 +742,7 @@
 - [whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
 - [regogo](https://github.com/itaysk/regogo) - JSON query library, based on Rego
 - [webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [profefe](https://github.com/profefe/profefe) - Continuously collect profiling data for long-term postmortem analysis
+- [profefe](https://github.com/profefe/profefe) - Continuous profiling for long-term postmortem analysis
 - [boots](https://github.com/tinkerbell/boots) - The DHCP and iPXE server for Tinkerbell.
 - [tink](https://github.com/tinkerbell/tink) - A workflow engine for provisioning bare metal.
 - [botkube](https://github.com/infracloudio/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
@@ -2808,7 +2808,7 @@
 - [iris](https://github.com/linkedin/iris) - Iris is a highly configurable and flexible service for paging and messaging.
 - [forseti-security](https://github.com/forseti-security/forseti-security) - Forseti Security
 - [securitybot](https://github.com/dropbox/securitybot) - Distributed alerting for the masses!
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.30, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [binaryalert](https://github.com/airbnb/binaryalert) - BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.
