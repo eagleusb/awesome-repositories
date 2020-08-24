@@ -150,7 +150,7 @@
 - [i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
 - [i3lock-color](https://github.com/Raymo111/i3lock-color) - Improved i3lock with color customization
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-- [picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork)
+- [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -1960,7 +1960,7 @@
 - [node-sec-roadmap](https://github.com/google/node-sec-roadmap) - Some thoughts on how Node.js might respond to a changing security environment
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
-- [airtap](https://github.com/airtap/airtap) - Test your JavaScript in 800+ browsers.
+- [airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
 - [cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
