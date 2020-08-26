@@ -555,6 +555,11 @@
 
 ## Go 
 
+- [kubectl-flame](https://github.com/VerizonMedia/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [terraform-exec](https://github.com/hashicorp/terraform-exec) - Terraform CLI commands via Go.
+- [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
+- [service-level-operator](https://github.com/spotahome/service-level-operator) - Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster
 - [echelon](https://github.com/cirruslabs/echelon) - hierarchical progress bars in terminal on steroids
 - [manael](https://github.com/manaelproxy/manael) - Manael is a simple HTTP proxy for processing images.
 - [guora](https://github.com/meloalright/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
