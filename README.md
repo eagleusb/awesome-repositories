@@ -555,6 +555,7 @@
 
 ## Go 
 
+- [binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
 - [cabourotte](https://github.com/mcorbin/cabourotte) - Verify if your infrastructure is healthy
 - [go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
 - [kubectl-flame](https://github.com/VerizonMedia/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes
@@ -1992,7 +1993,6 @@
 - [secretin-app](https://github.com/secretin/secretin-app) - Open source secret manager with sharing capability
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [kimetrak](https://github.com/davlgd/kimetrak) - Quels sont les services qui vous pistent en ligne ? On vous aide à le découvrir. Par l'équipe de Nextinpact
-- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [exocortex](https://github.com/SpencerCDixon/exocortex) - Open source, language independent, modern personal wiki
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 - [storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
@@ -2555,7 +2555,7 @@
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer.
 - [polypomo](https://github.com/unode/polypomo) - Pomodoro widget for use with polybar (or standalone if you are so inclined)
-- [wdcrypt](https://github.com/IamStefin/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
+- [wdcrypt](https://github.com/iamstefin/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
@@ -3365,6 +3365,7 @@
 - [pkgsign](https://github.com/RedpointGames/pkgsign) - A CLI tool for signing and verifying npm and yarn packages.
 - [opencensus-node](https://github.com/census-instrumentation/opencensus-node) - A stats collection and distributed tracing framework
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
