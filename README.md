@@ -91,6 +91,8 @@
 
 ## C 
 
+- [zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
+- [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
