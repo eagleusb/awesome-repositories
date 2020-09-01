@@ -557,6 +557,11 @@
 
 ## Go 
 
+- [helm-freeze](https://github.com/Qovery/helm-freeze) - Freeze your charts in the wished versions
+- [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
+- [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
+- [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [go-nfs](https://github.com/willscott/go-nfs) - golang NFSv3 server
 - [kapp](https://github.com/k14s/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [kbld](https://github.com/k14s/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure instead of text
@@ -1579,7 +1584,7 @@
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
+- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [cpustat](https://github.com/uber-archive/cpustat) - high frequency performance measurements for Linux. This project is deprecated and not maintained.
 - [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
@@ -2947,7 +2952,7 @@
 - [passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Multiplatform command-line password manager
 - [rally](https://github.com/openstack/rally) - Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments. Mirror of code maintained at opendev.org.
 - [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) - List of github lists
-- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
+- [searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [indico](https://github.com/indico/indico) - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
 - [PerfKitBenchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) - PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.
@@ -3070,6 +3075,7 @@
 
 ## Rust 
 
+- [cavif](https://github.com/kornelski/cavif) - AVIF image creator in pure Rust
 - [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
