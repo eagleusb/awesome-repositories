@@ -1639,7 +1639,7 @@
 ## HTML 
 
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 650 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
@@ -2558,6 +2558,8 @@
 
 ## Python 
 
+- [howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decode encryptions without a key, decode encodings, and crack hashes
 - [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [slack-standup](https://github.com/vipul-sharma20/slack-standup) - An application for Slack based daily standups
 - [tiny0](https://github.com/xemeds/tiny0) - Custom URL shortener in Flask.
@@ -3113,7 +3115,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast router for building observability pipelines
+- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast binary for building observability pipelines
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A hand wired ortholinear mechanical keyboard with a firmware in rust
