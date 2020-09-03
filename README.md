@@ -557,6 +557,8 @@
 
 ## Go 
 
+- [clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
+- [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [helm-freeze](https://github.com/Qovery/helm-freeze) - Freeze your charts in the wished versions
 - [open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
@@ -580,7 +582,7 @@
 - [go-attestation](https://github.com/google/go-attestation) - 
 - [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
-- [infracost](https://github.com/aliscott/infracost) - Get cost estimates from a Terraform project
+- [infracost](https://github.com/infracost/infracost) - Cloud cost estimation for Terraform
 - [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
@@ -1404,7 +1406,7 @@
 - [manifesto](https://github.com/aquasecurity/manifesto) - Use Manifesto to store and query metadata for container images.
 - [image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [lumogon](https://github.com/puppetlabs/lumogon) - Get a complete picture of what your applications are made of *without* changing how you currently build and run containers. Just run and report.
-- [kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
+- [kubicorn](https://github.com/kubicorn/kubicorn) - Created by @kris-nova Kris Nóva. Simple, cloud native infrastructure for Kubernetes.
 - [smith](https://github.com/oracle/smith) - Smith: A microcontainer builder
 - [tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -3172,6 +3174,7 @@
 
 ## Shell 
 
+- [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
