@@ -332,7 +332,7 @@
 - [ts-map](https://github.com/dariowouters/ts-map) - ATS/ETS2 map renderer
 - [ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server) - ETS2/ATS Telemetry Web Server + Mobile Dashboard
 - [ilSFV](https://github.com/judwhite/ilSFV) - SFV, MD5 and SHA-1 file verification utility for Windows.
-- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store, in C# and C++, from Microsoft Research.
+- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
 - [GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
@@ -357,7 +357,7 @@
 - [omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
 - [WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine
 - [simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
-- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
 - [ets_ros2](https://github.com/brunodmt/ets_ros2) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in to publish telemetry data using ROS2
 - [ets2-sdk-plugin](https://github.com/Funbit/ets2-sdk-plugin) - Euro Truck Simulator 2 Telemetry Plug-in. The data is shared via Memory Mapped File.
 - [ogon](https://github.com/ogon-project/ogon) - ogon session manager and RDP server
@@ -557,6 +557,7 @@
 
 ## Go 
 
+- [osc-bsu-csi-driver](https://github.com/outscale-dev/osc-bsu-csi-driver) - 
 - [clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
 - [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [helm-freeze](https://github.com/Qovery/helm-freeze) - Freeze your charts in the wished versions
@@ -1641,7 +1642,7 @@
 ## HTML 
 
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 650 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
@@ -3162,7 +3163,7 @@
 
 ## Scala 
 
-- [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Load Test Tool
+- [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [nelson](https://github.com/getnelson/nelson) - Automated, multi-region container deployment
 - [enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
