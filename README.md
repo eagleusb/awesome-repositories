@@ -2576,7 +2576,7 @@
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
-- [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [dlint](https://github.com/duo-labs/dlint) - Dlint is a tool for encouraging best coding practices and helping ensure we're writing secure Python code.
 - [ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [community.aws](https://github.com/ansible-collections/community.aws) - Ansible Collection for Community AWS
@@ -2727,7 +2727,7 @@
 - [amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [chaosplatform](https://github.com/chaostoolkit/chaosplatform) - The Chaos Engineering platform for everyone
 - [chaostoolkit-lib](https://github.com/chaostoolkit/chaostoolkit-lib) - The Chaos Toolkit core library
-- [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
+- [machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [kle_render](https://github.com/CQCumbers/kle_render) - Get prettier images of Keyboard Layout Editor designs
 - [Keyboard-Layout-Editor-for-Blender](https://github.com/Kirpal/Keyboard-Layout-Editor-for-Blender) - Allows you to import keyboard layouts into blender and render them in 3d
@@ -3299,6 +3299,7 @@
 
 ## TypeScript 
 
+- [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
 - [vscode-terraform-doc-snippets](https://github.com/run-at-scale/vscode-terraform-doc-snippets) - Snippets in vscode for all resources and data sources, as yanked directly from provider docs.
 - [open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
 - [open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
