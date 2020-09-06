@@ -557,6 +557,9 @@
 
 ## Go 
 
+- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
+- [quake-kube](https://github.com/criticalstack/quake-kube) - Quake 3 on Kubernetes
 - [osc-bsu-csi-driver](https://github.com/outscale-dev/osc-bsu-csi-driver) - 
 - [clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
 - [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
@@ -1528,7 +1531,7 @@
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [docker-bigtable](https://github.com/spotify/docker-bigtable) - A docker container with an in memory implementation of Google Cloud Bigtable
 - [dgr](https://github.com/blablacar/dgr) - Container build and runtime tool
-- [dep](https://github.com/golang/dep) - Go dependency management tool
+- [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [chisel](https://github.com/jpillora/chisel) - A fast TCP tunnel over HTTP
 - [cherami-server](https://github.com/uber-archive/cherami-server) - Distributed, scalable, durable, and highly available message queue system. This project is deprecated and not maintained.
@@ -3121,7 +3124,7 @@
 - [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast binary for building observability pipelines
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
-- [keyberon](https://github.com/TeXitoi/keyberon) - A hand wired ortholinear mechanical keyboard with a firmware in rust
+- [keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [shorty](https://github.com/ffissore/shorty) - URL shortener available as library, microservice (even containerized), aws lambda, and azure function
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [lucet](https://github.com/bytecodealliance/lucet) - Lucet, the Sandboxing WebAssembly Compiler.
