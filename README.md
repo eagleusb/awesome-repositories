@@ -210,7 +210,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [burp](https://github.com/grke/burp) - burp - backup and restore program
-- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
 - [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
@@ -340,6 +340,7 @@
 
 ## C++ 
 
+- [thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [aitrack](https://github.com/AIRLegend/aitrack) - 6DoF Head tracking software
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [cam2web](https://github.com/cvsandbox/cam2web) - Streaming camera to web as MJPEG stream or individual JPEG snapshots. Providing embedded web UI for watching camera directly from a web browser.
@@ -453,7 +454,7 @@
 ## CSS 
 
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-- [hugo-whisper-theme](https://github.com/JugglerX/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
+- [hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
 - [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -557,6 +558,9 @@
 
 ## Go 
 
+- [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [graviton](https://github.com/deroproject/graviton) - Graviton Database: ZFS for key-value stores.
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 - [quake-kube](https://github.com/criticalstack/quake-kube) - Quake 3 on Kubernetes
@@ -586,7 +590,7 @@
 - [go-attestation](https://github.com/google/go-attestation) - 
 - [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
-- [infracost](https://github.com/infracost/infracost) - Cloud cost estimation for Terraform
+- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform
 - [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
@@ -2290,6 +2294,7 @@
 
 ## Others 
 
+- [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) - Resources to learn and implement authentication in your application
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -2564,6 +2569,10 @@
 
 ## Python 
 
+- [ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+- [ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher) - 
+- [pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them
+- [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
 - [howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decode encryptions without a key, decode encodings, and crack hashes
 - [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -2602,7 +2611,6 @@
 - [venom-xbmc-addons](https://github.com/Kodi-vStream/venom-xbmc-addons) - Addon de Streaming français pour Xbmc
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [ansible-assertive](https://github.com/larsks/ansible-assertive) - 
-- [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
@@ -2772,7 +2780,6 @@
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
-- [mazer](https://github.com/ansible/mazer) - Experimental Ansible Galaxy Content Manager
 - [calamari](https://github.com/ceph/calamari) - Web-based monitoring and management for Ceph
 - [ceph-deploy](https://github.com/ceph/ceph-deploy) - Deploy Ceph with minimal infrastructure, using just SSH access
 - [ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
@@ -2915,7 +2922,6 @@
 - [livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [exabgp](https://github.com/thomas-mangin/exabgp) - The BGP swiss army knife of networking
 - [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-- [ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [nectar-tools](https://github.com/NeCTAR-RC/nectar-tools) - Various scripts to help operate openstack
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [git-plus](https://github.com/tkrajina/git-plus) - Git utilities
@@ -3015,7 +3021,6 @@
 - [discourse-subscriptions](https://github.com/discourse/discourse-subscriptions) - A Discourse plugin that allows payments and subscription management via Stripe.
 - [discourse-calendar](https://github.com/discourse/discourse-calendar) - Adds the ability to create a dynamic calendar in the first post of a topic.
 - [shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
-- [ansible-consul](https://github.com/mattfinlayson/ansible-consul) - Ansible role for consul
 - [oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [runbook](https://github.com/braintree/runbook) - A framework for gradual system automation
 - [thredded](https://github.com/thredded/thredded) - The best Rails forums engine ever.
@@ -3211,7 +3216,6 @@
 - [helm-tiller](https://github.com/rimusz/helm-tiller) - Helm v2 Tiller plugin aka Tillerless Helm
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [gh-action-hugo-deploy](https://github.com/jsumners/gh-action-hugo-deploy) - An action to deploy Hugo based sites to GitHub organization repos
-- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Consul clusters
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
