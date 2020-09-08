@@ -340,6 +340,7 @@
 
 ## C++ 
 
+- [aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes
 - [thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [aitrack](https://github.com/AIRLegend/aitrack) - 6DoF Head tracking software
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -525,6 +526,7 @@
 
 ## Dhall 
 
+- [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) - Ansible definitions with Dhall
 - [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
 - [dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
 
@@ -558,6 +560,9 @@
 
 ## Go 
 
+- [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
+- [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to update firewalld rules on a linux server
+- [lsoc-overlay](https://github.com/diamondburned/lsoc-overlay) - List Open Cameras.
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [graviton](https://github.com/deroproject/graviton) - Graviton Database: ZFS for key-value stores.
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -590,7 +595,7 @@
 - [go-attestation](https://github.com/google/go-attestation) - 
 - [osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
-- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform
+- [infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
 - [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
@@ -1674,6 +1679,7 @@
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - 
 - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
@@ -1791,6 +1797,7 @@
 
 ## JavaScript 
 
+- [dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
@@ -2267,7 +2274,7 @@
 ## Nix 
 
 - [nixos-config](https://github.com/tazjin/nixos-config) - NixOS configuration for my machines. This public version is not updated anymore.
-- [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
+- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 ## OCaml 
@@ -2574,7 +2581,7 @@
 - [pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them
 - [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
 - [howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
-- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decode encryptions without a key, decode encodings, and crack hashes
+- [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [slack-standup](https://github.com/vipul-sharma20/slack-standup) - An application for Slack based daily standups
 - [tiny0](https://github.com/xemeds/tiny0) - Custom URL shortener in Flask.
@@ -2880,7 +2887,6 @@
 - [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [keyrotator](https://github.com/GoogleCloudPlatform/keyrotator) - 
 - [ara](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot. This is the GitHub mirror for https://opendev.org/recordsansible/ara.
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [TTSL](https://github.com/dchrastil/TTSL) - Tool to scrape LinkedIn
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [lxdock](https://github.com/lxdock/lxdock) - Build and orchestrate your development environments with LXD - a.k.a. Vagrant is Too Heavy™
