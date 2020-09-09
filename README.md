@@ -1778,7 +1778,7 @@
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
-- [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE.  Open source workspace server and cloud IDE.
+- [che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
@@ -2274,7 +2274,7 @@
 ## Nix 
 
 - [nixos-config](https://github.com/tazjin/nixos-config) - NixOS configuration for my machines. This public version is not updated anymore.
-- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix
+- [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 ## OCaml 
@@ -2355,7 +2355,7 @@
 - [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
 - [stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) - VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
-- [plain60-c](https://github.com/Maartenwut/plain60-c) - Universally compatible 60% PCB with minimal layout support and USB-C
+- [plain60-c](https://github.com/maartenwut/plain60-c) - Universally compatible 60% PCB with minimal layout support and USB-C
 - [awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [keyboard_pcb](https://github.com/ahtn/keyboard_pcb) - 
 - [case](https://github.com/kiibohd/case) - Cad files for cases plates and related mechanicals.
@@ -2576,6 +2576,8 @@
 
 ## Python 
 
+- [keymaker](https://github.com/kislyuk/keymaker) - Lightweight SSH key management on AWS EC2
+- [aegea](https://github.com/kislyuk/aegea) - Amazon Web Services Operator Interface
 - [ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 - [ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher) - 
 - [pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them
@@ -2799,7 +2801,7 @@
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [pkictl](https://github.com/bincyber/pkictl) - Declaratively provision PKI with HashiCorp Vault
 - [openshift-ansible](https://github.com/openshift/openshift-ansible) - Install and config an OpenShift 3.x cluster
-- [byob](https://github.com/malwaredllc/byob) - BYOB (Build Your Own Botnet)
+- [byob](https://github.com/malwaredllc/byob) - Post-exploitation framework.
 - [_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
 - [WAPT](https://github.com/tranquilit/WAPT) - WAPT is an established method for managing the lifecycle of an installed base of Windows applications. WAPT has many similarities with Debian's APT software manager, thus its name. WAPT is particularly useful to system administrators who are tired of repetitive and low value tasks.
