@@ -558,6 +558,7 @@
 
 ## Go 
 
+- [octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to update firewalld rules on a linux server
@@ -583,7 +584,6 @@
 - [cabourotte](https://github.com/mcorbin/cabourotte) - Verify if your infrastructure is healthy
 - [go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
 - [kubectl-flame](https://github.com/VerizonMedia/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes
-- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [terraform-exec](https://github.com/hashicorp/terraform-exec) - Terraform CLI commands via Go.
 - [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [service-level-operator](https://github.com/spotahome/service-level-operator) - Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster
@@ -1800,6 +1800,7 @@
 
 - [dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
@@ -2293,6 +2294,7 @@
 
 ## Open Policy Agent 
 
+- [magtape](https://github.com/tmobile/magtape) - MagTape Policy-as-Code for Kubernetes
 - [regula](https://github.com/fugue/regula) - Regula checks Terraform for AWS, Azure and GCP security and CIS compliance using Open Policy Agent/Rego
 
 ## OpenSCAD 
@@ -2626,7 +2628,6 @@
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [lemur](https://github.com/Netflix/lemur) - Repository for the Lemur Certificate Manager
-- [magtape](https://github.com/tmobile/magtape) - MagTape Policy-as-Code for Kubernetes
 - [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [canaryd](https://github.com/Oxygem/canaryd) - The Service Canary daemon.
@@ -3162,7 +3163,7 @@
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [papito](https://github.com/pepsighan/papito) - A Beginner Friendly Rusty WASM Framework
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
