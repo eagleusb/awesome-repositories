@@ -2380,7 +2380,6 @@
 - [plaid](https://github.com/hsgw/plaid) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
 - [ContraPlates](https://github.com/ai03-2725/ContraPlates) - A basic PCB case for Contra
 - [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-- [notes](https://github.com/8483/notes) - Full-stack web development notes.
 - [AgileLite](https://github.com/davebs/AgileLite) - Agile software development without all the burnout.
 - [Keyboard-Design-Files](https://github.com/SouthPawEngineer/Keyboard-Design-Files) - Design files for various hardware projects.
 - [linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
@@ -3234,6 +3233,7 @@
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [helm-kubeval](https://github.com/instrumenta/helm-kubeval) - A Helm plugin for validating Charts against the Kubernetes schemas
+- [notes](https://github.com/8483/notes) - Full-stack web development notes.
 - [miuni32](https://github.com/bigtunaIO/miuni32) - 
 - [usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [pagerduty-monit](https://github.com/pinterest/pagerduty-monit) - Wrapper scripts to integrate monit and PagerDuty.
