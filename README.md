@@ -150,7 +150,7 @@
 - [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [jgmenu](https://github.com/johanmalm/jgmenu) - A simple X11 menu
 - [i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - Improved i3lock with color customization
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default lockscreen.
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
@@ -696,7 +696,7 @@
 - [terranova](https://github.com/johandry/terranova) - Using Terraform package from Go
 - [alexa-skills-kit-golang](https://github.com/ericdaugherty/alexa-skills-kit-golang) - GoLang port of the Amazon Alexa Skills Kit
 - [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
-- [ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI for scanning endpoints and identifying exposition of services/files/folders through the webroot.
+- [ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI for developers to help you scanning endpoints and identifying exposition of sensitive services/files/folders.
 - [service-apis](https://github.com/kubernetes-sigs/service-apis) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
 - [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
@@ -2156,7 +2156,7 @@
 - [gh-board](https://github.com/philschatz/gh-board) - :octocat: "Serverless" Kanban for GitHub Issues using gh-pages
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
-- [fingerprintjs2](https://github.com/fingerprintjs/fingerprintjs2) - Modern & flexible browser fingerprinting library
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
