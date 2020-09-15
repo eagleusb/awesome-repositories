@@ -2578,6 +2578,7 @@
 
 ## Python 
 
+- [community.general](https://github.com/ansible-collections/community.general) - 
 - [keymaker](https://github.com/kislyuk/keymaker) - Lightweight SSH key management on AWS EC2
 - [aegea](https://github.com/kislyuk/aegea) - Amazon Web Services Operator Interface
 - [ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
