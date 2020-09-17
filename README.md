@@ -1009,7 +1009,7 @@
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [aws-mfa](https://github.com/mmatur/aws-mfa) - Help to manage MFA with awscli
-- [yaegi](https://github.com/containous/yaegi) - Yaegi is Another Elegant Go Interpreter
+- [yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [keptn](https://github.com/keptn/keptn) - Keptn is a message-driven control-plane for application delivery and automated operations
 - [muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
@@ -1162,7 +1162,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Cluster-wide aggregator of resource usage data.
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
-- [porter](https://github.com/deislabs/porter) - Porter
+- [porter](https://github.com/getporter/porter) - Porter
 - [lotus](https://github.com/lotusload/lotus) - Kubernetes controller for running load testing
 - [gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
@@ -1610,7 +1610,7 @@
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [gryffin](https://github.com/yahoo/gryffin) - Gryffin is a large scale web security scanning platform.
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [uchiwa](https://github.com/sensu/uchiwa) - Uchiwa is a simple yet effective open-source dashboard for the Sensu monitoring framework.
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -1663,6 +1663,7 @@
 - [discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
 - [the-zen-of-go](https://github.com/davecheney/the-zen-of-go) - https://the-zen-of-go.netlify.com
 - [eng-hiring](https://github.com/18F/eng-hiring) - 18F Engineering's guide to candidate selection, from resume screen to offer.
+- [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
@@ -1798,6 +1799,7 @@
 
 ## JavaScript 
 
+- [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -2535,7 +2537,7 @@
 - [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
-- [selfoss](https://github.com/SSilence/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
+- [selfoss](https://github.com/fossar/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
 - [librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
 - [roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
@@ -3099,6 +3101,7 @@
 
 ## Rust 
 
+- [asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
 - [cavif-rs](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust
 - [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
@@ -3137,7 +3140,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - A high-performance, vendor-neutral tool for building observability data pipelines.
+- [vector](https://github.com/timberio/vector) - A high-performance, vendor-neutral tool for building observability pipelines.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -3304,7 +3307,6 @@
 ## Smarty 
 
 - [helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
-- [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [openfaas-flux](https://github.com/stefanprodan/openfaas-flux) - OpenFaaS Kubernetes cluster state management with FluxCD
 
 ## Starlark 
