@@ -696,7 +696,7 @@
 - [terranova](https://github.com/johandry/terranova) - Using Terraform package from Go
 - [alexa-skills-kit-golang](https://github.com/ericdaugherty/alexa-skills-kit-golang) - GoLang port of the Amazon Alexa Skills Kit
 - [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
-- [ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI for developers to help you scanning endpoints and identifying exposition of sensitive services/files/folders.
+- [ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
 - [service-apis](https://github.com/kubernetes-sigs/service-apis) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
 - [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
@@ -1004,7 +1004,7 @@
 - [runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortex](https://github.com/cortexlabs/cortex) - Build machine learning APIs
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving infrastructure for developers
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -1547,7 +1547,7 @@
 - [keytransparency](https://github.com/google/keytransparency) - A transparent and secure way to look up public keys.
 - [build](https://github.com/containers/build) - another build tool for container images (archived, see https://github.com/rkt/rkt/issues/4024)
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system to store and serve billions of files fast! SeaweedFS object store has O(1) disk seek, transparent cloud integration, and SeaweedFS Filer supports cross-DC active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system to store and serve billions of files fast! SeaweedFS object store has O(1) disk seek, transparent cloud integration, and SeaweedFS Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -3140,7 +3140,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - A high-performance, vendor-neutral tool for building observability pipelines.
+- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
