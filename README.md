@@ -461,6 +461,7 @@
 - [98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
+- [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
@@ -566,7 +567,7 @@
 - [graviton](https://github.com/deroproject/graviton) - Graviton Database: ZFS for key-value stores.
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
+- [gatus](https://github.com/TwinProduction/gatus) - Gatus - Automated service health dashboard
 - [quake-kube](https://github.com/criticalstack/quake-kube) - Quake 3 on Kubernetes
 - [osc-bsu-csi-driver](https://github.com/outscale-dev/osc-bsu-csi-driver) - 
 - [clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
@@ -863,7 +864,7 @@
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [build](https://github.com/shipwright-io/build) - An API to build images on Kubernetes with diverse strategies
+- [build](https://github.com/shipwright-io/build) - Shipwright - a framework for building container images on Kubernetes
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -1655,7 +1656,6 @@
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
-- [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster.
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
@@ -1679,6 +1679,7 @@
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - 
@@ -3059,7 +3060,6 @@
 - [jerakia](https://github.com/jerakia/jerakia) - A pluggable and extendable data lookup system
 - [openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
 - [postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [showterm](https://github.com/ConradIrwin/showterm) - The rubygem to upload to http://showterm.io
@@ -3139,7 +3139,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
+- [vector](https://github.com/timberio/vector) - Unified, vendor-neutral observability pipelines.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -3458,7 +3458,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
