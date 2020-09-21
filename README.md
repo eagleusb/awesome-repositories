@@ -558,6 +558,7 @@
 
 ## Go 
 
+- [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -1810,6 +1811,7 @@
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
 - [balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [alexa-spotify-connect](https://github.com/thorpelawrence/alexa-spotify-connect) - Control Spotify Connect devices with Alexa
 - [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
@@ -3110,7 +3112,6 @@
 - [dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
 - [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
