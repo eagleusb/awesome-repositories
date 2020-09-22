@@ -474,7 +474,6 @@
 - [rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [hugo-fresh](https://github.com/StefMa/hugo-fresh) - Hugo Fresh Theme
-- [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
 - [elastickube](https://github.com/ElasticBox/elastickube) - ElasticKube is an open source management platform for Kubernetes.
@@ -558,6 +557,7 @@
 
 ## Go 
 
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
@@ -721,7 +721,7 @@
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
 - [helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [step](https://github.com/coinbase/step) - step is a framework for building, testing and deploying AWS Step Functions and Lambda
-- [odin](https://github.com/coinbase/odin) - Odin deployer to AWS for 12 Factor applications
+- [odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
 - [pike](https://github.com/sashabaranov/pike) - Generate CRUD gRPC backends from single YAML description.
 - [draft](https://github.com/lucasepe/draft) - Generate High Level Cloud Architecture diagrams using YAML syntax.
 - [streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything
@@ -1066,7 +1066,7 @@
 - [abs](https://github.com/abs-lang/abs) - Home of the ABS programming language: the joy of shell scripting.
 - [wormhole](https://github.com/gravitational/wormhole) - Wireguard based overlay network CNI plugin for kubernetes
 - [smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
-- [nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb and rpm packager written in Go
+- [nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
@@ -1408,7 +1408,7 @@
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [janus](https://github.com/hellofresh/janus) - An API Gateway written in Go
 - [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
-- [kube2haproxy](https://github.com/adohe/kube2haproxy) - High Availability HAProxy auto configuration and auto service discovery for Kubernetes.
+- [kube2haproxy](https://github.com/adohe-zz/kube2haproxy) - High Availability HAProxy auto configuration and auto service discovery for Kubernetes.
 - [voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure HAProxy Ingress Controller for Kubernetes
 - [event-gateway](https://github.com/serverless/event-gateway) - React to any event with serverless functions across clouds
 - [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
@@ -1805,7 +1805,7 @@
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 750 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -2163,7 +2163,7 @@
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
+- [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
 - [addic7ed-api](https://github.com/same31/addic7ed-api) - API to search and download subtitles files from addic7ed.com
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
@@ -3186,6 +3186,7 @@
 ## SCSS 
 
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
+- [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 
 ## Scala 
