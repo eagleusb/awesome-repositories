@@ -465,7 +465,6 @@
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
-- [mqtt.github.io](https://github.com/mqtt/mqtt.github.io) - website
 - [Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) - A modern flat theme with a combination of light and dark elements.
 - [workflow](https://github.com/teamhephy/workflow) - Hephy Workflow - An open source fork of Deis Workflow - The open source PaaS for Kubernetes.
@@ -557,6 +556,7 @@
 
 ## Go 
 
+- [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
@@ -3102,6 +3102,7 @@
 
 ## Rust 
 
+- [tmpo](https://github.com/perryrh0dan/tmpo) - Command line interface to create new workspaces based on templates
 - [asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
 - [cavif-rs](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust
 - [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
@@ -3140,7 +3141,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - Unified, vendor-neutral observability pipelines.
+- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -3185,6 +3186,7 @@
 
 ## SCSS 
 
+- [mqtt.github.io](https://github.com/mqtt/mqtt.github.io) - website
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
@@ -3314,6 +3316,7 @@
 
 ## Starlark 
 
+- [org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) - Base images for Google Docker containers.
 
