@@ -92,6 +92,7 @@
 
 ## C 
 
+- [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
 - [zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -556,6 +557,8 @@
 
 ## Go 
 
+- [lakeFS](https://github.com/treeverse/lakeFS) - An open source platform that delivers resilience and manageability to object-storage based data lakes
+- [pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -1005,7 +1008,7 @@
 - [runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving infrastructure for developers
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -1611,7 +1614,7 @@
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [gryffin](https://github.com/yahoo/gryffin) - Gryffin is a large scale web security scanning platform.
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [uchiwa](https://github.com/sensu/uchiwa) - Uchiwa is a simple yet effective open-source dashboard for the Sensu monitoring framework.
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -2966,7 +2969,7 @@
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
-- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
+- [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [targetcli](https://github.com/Datera/targetcli) - CLI and shell for the Linux SCSI Target
 - [cloudinit-userdata](https://github.com/hep-gc/cloudinit-userdata) - 
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -3206,6 +3209,7 @@
 
 ## Shell 
 
+- [vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
