@@ -571,7 +571,7 @@
 - [graviton](https://github.com/deroproject/graviton) - Graviton Database: ZFS for key-value stores.
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [gatus](https://github.com/TwinProduction/gatus) - Gatus - Automated service health dashboard
+- [gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
 - [quake-kube](https://github.com/criticalstack/quake-kube) - Quake 3 on Kubernetes
 - [osc-bsu-csi-driver](https://github.com/outscale-dev/osc-bsu-csi-driver) - 
 - [clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
@@ -809,7 +809,7 @@
 - [kcat](https://github.com/ahmetb/kcat) - Syntax highlighting for Kubernetes manifests [WIP]
 - [go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
 - [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
-- [dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data
+- [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [kpt](https://github.com/GoogleContainerTools/kpt) - 
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [driverkit](https://github.com/falcosecurity/driverkit) - Kit for building Falco drivers: kernel modules or eBPF probes
@@ -1682,6 +1682,7 @@
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
+- [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -2311,6 +2312,7 @@
 
 ## Others 
 
+- [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok-like tunneling software and services
 - [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) - Resources to learn and implement authentication in your application
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -3272,7 +3274,6 @@
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [vagrant-bash-completion](https://github.com/brbsix/vagrant-bash-completion) - Bash autocomplete for Vagrant
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
