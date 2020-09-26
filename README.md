@@ -557,6 +557,7 @@
 
 ## Go 
 
+- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [lakeFS](https://github.com/treeverse/lakeFS) - An open source platform that delivers resilience and manageability to object-storage based data lakes
 - [pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
@@ -1245,7 +1246,7 @@
 - [federation](https://github.com/kubernetes-retired/federation) - [EOL] Cluster Federation
 - [chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
 - [kedge](https://github.com/improbable-eng/kedge) - kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices
-- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
