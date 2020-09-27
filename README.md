@@ -1657,6 +1657,7 @@
 
 ## HTML 
 
+- [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
@@ -1810,7 +1811,7 @@
 - [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 750 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -2738,7 +2739,7 @@
 - [py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
 - [jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
-- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface allowing to scrape a website and then displays a tree of domains calling each other.
 - [goss-ansible](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
