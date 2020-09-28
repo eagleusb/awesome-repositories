@@ -776,7 +776,7 @@
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [go-sdk](https://github.com/temporalio/go-sdk) - Temporal Go SDK
+- [sdk-go](https://github.com/temporalio/sdk-go) - Temporal Go SDK
 - [temporal](https://github.com/temporalio/temporal) - Temporal service and CLI
 - [whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
 - [regogo](https://github.com/itaysk/regogo) - JSON query library, based on Rego
