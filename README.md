@@ -31,6 +31,7 @@
   - [HLSL](#hlsl)
   - [HTML](#html)
   - [Hack](#hack)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -1700,13 +1701,16 @@
 - [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
 - [mitro](https://github.com/mitro-co/mitro) - Repository for all Mitro client & server code
 - [openstack-manuals](https://github.com/openstack/openstack-manuals) - OpenStack Manuals. Mirror of code maintained at opendev.org.
 
 ## Hack 
 
 - [fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions
+
+## Handlebars 
+
+- [vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
 
 ## Haskell 
 
@@ -2002,7 +2006,6 @@
 - [TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [passport-azure-ad-oauth2](https://github.com/auth0/passport-azure-ad-oauth2) - OAuth 2.0 authentication Passport strategies for Windows Azure Active Directory
 - [consola](https://github.com/nuxt-contrib/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -3265,6 +3268,7 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [jboss-autopwn](https://github.com/SpiderLabs/jboss-autopwn) - A JBoss script for obtaining remote shell access
 - [spec](https://github.com/cloudevents/spec) - CloudEvents Specification
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [kubernetes](https://github.com/linuxkit/kubernetes) - minimal and immutable Kubernetes images built with LinuxKit
 - [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) - Get up and running with Jenkins on Google Kubernetes Engine
 - [helm-secrets](https://github.com/zendesk/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
