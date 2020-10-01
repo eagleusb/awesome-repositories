@@ -558,6 +558,7 @@
 
 ## Go 
 
+- [grafana-consul-datasource](https://github.com/sbueringer/grafana-consul-datasource) - Consul Datasource for Grafana
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [lakeFS](https://github.com/treeverse/lakeFS) - An open source platform that delivers resilience and manageability to object-storage based data lakes
@@ -631,7 +632,7 @@
 - [shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
 - [gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
-- [helm-controller](https://github.com/fluxcd/helm-controller) - Experimental Kubernetes operator for building GitOps pipelines with Helm
+- [helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [toolkit](https://github.com/fluxcd/toolkit) - Experimental toolkit for assembling CD pipelines the GitOps way
 - [metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
@@ -2317,6 +2318,7 @@
 
 ## Others 
 
+- [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok-like tunneling software and services
 - [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) - Resources to learn and implement authentication in your application
@@ -3116,7 +3118,7 @@
 - [tmpo](https://github.com/perryrh0dan/tmpo) - Command line interface to create new workspaces based on templates
 - [asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
 - [cavif-rs](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust
-- [crush](https://github.com/liljencrantz/crush) - Crush is an attempt to make a command line shell that is also a powerful modern programming language.
+- [crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -3173,7 +3175,7 @@
 - [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
