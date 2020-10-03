@@ -100,7 +100,7 @@
 - [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (e.g. C6g/M6g/R6g)
+- [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g)
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -532,7 +532,7 @@
 
 - [cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Docker image with all the components of the Google Cloud SDK
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [dockerfiles](https://github.com/firecat53/dockerfiles) - Dockerfiles: Check_Mk, Couchpotato, Deluge, Gollum, Headphones, Jackett, Lazy Librarian, Nginx/PHP-FPM, OpenVPN PIA client, Plex, Privatebin, Radarr, Sabnzbd, Samba, SSH Socks Proxy server, Sonarr, Syncthing, Stringer,Transmission, Unifi Controller.
+- [dockerfiles](https://github.com/firecat53/dockerfiles) - Dockerfiles: Check_Mk, Couchpotato, Deluge, Gollum, Headphones, Jackett, Lazy Librarian, Miniflux, Nginx/PHP-FPM, OpenVPN PIA client, Plex, Privatebin, Radarr, Sabnzbd, Samba, SSH Socks Proxy server, Sonarr, Syncthing, Stringer,Transmission, Unifi Controller.
 
 ## Elixir 
 
@@ -558,6 +558,7 @@
 
 ## Go 
 
+- [amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [grafana-consul-datasource](https://github.com/sbueringer/grafana-consul-datasource) - Consul Datasource for Grafana
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -593,6 +594,7 @@
 - [cabourotte](https://github.com/mcorbin/cabourotte) - Verify if your infrastructure is healthy
 - [go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
 - [kubectl-flame](https://github.com/VerizonMedia/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes
+- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [terraform-exec](https://github.com/hashicorp/terraform-exec) - Terraform CLI commands via Go.
 - [oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [service-level-operator](https://github.com/spotahome/service-level-operator) - Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster
@@ -634,7 +636,7 @@
 - [gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [toolkit](https://github.com/fluxcd/toolkit) - Experimental toolkit for assembling CD pipelines the GitOps way
+- [toolkit](https://github.com/fluxcd/toolkit) - Kubernetes toolkit for assembling CD pipelines the GitOps way
 - [metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [coredns-plugins](https://github.com/segmentio/coredns-plugins) - Segment CoreDNS plugins
@@ -669,7 +671,7 @@
 - [bigmachine](https://github.com/grailbio/bigmachine) - Bigmachine is a library for self-managing serverless computing in Go
 - [gosms](https://github.com/haxpax/gosms) - :mailbox_closed: Your own local SMS gateway in Go
 - [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
-- [upterm](https://github.com/jingweno/upterm) - Secure Terminal Sharing
+- [upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go.
 - [rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC, let the server do the pausing and seeking.
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
@@ -1811,10 +1813,10 @@
 
 ## JavaScript 
 
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
-- [owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -2552,7 +2554,7 @@
 - [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
-- [selfoss](https://github.com/fossar/selfoss) - selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application
+- [selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
 - [roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
@@ -2595,6 +2597,7 @@
 
 ## Python 
 
+- [awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [community.general](https://github.com/ansible-collections/community.general) - 
 - [keymaker](https://github.com/kislyuk/keymaker) - Lightweight SSH key management on AWS EC2
 - [aegea](https://github.com/kislyuk/aegea) - Amazon Web Services Operator Interface
