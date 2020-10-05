@@ -93,6 +93,7 @@
 
 ## C 
 
+- [quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
 - [zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -343,6 +344,7 @@
 
 ## C++ 
 
+- [Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes
 - [thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [aitrack](https://github.com/AIRLegend/aitrack) - 6DoF Head tracking software
@@ -557,6 +559,8 @@
 
 ## Go 
 
+- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
+- [derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [grafana-consul-datasource](https://github.com/sbueringer/grafana-consul-datasource) - Consul Datasource for Grafana
@@ -1812,6 +1816,7 @@
 
 ## JavaScript 
 
+- [jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
