@@ -3037,7 +3037,6 @@
 
 ## Reason 
 
-- [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in native ReasonML
 - [revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
 ## RobotFramework 
@@ -3158,6 +3157,7 @@
 - [flowgger](https://github.com/awslabs/flowgger) - A fast data collector in Rust
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [rezolus](https://github.com/twitter/rezolus) - Systems performance telemetry
+- [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [polybar-forecast](https://github.com/kamek-pf/polybar-forecast) - A weather forecast module for Polybar
