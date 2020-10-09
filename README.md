@@ -382,6 +382,7 @@
 - [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [ts100](https://github.com/Ralim/ts100) - The Feature Packed Alternate Open Source firmware for the TS100 iron by miniware.
 - [8-Pack](https://github.com/cgarcia2097/8-Pack) - Repository for design files, source code and assembly guides regarding this keypad.
@@ -560,6 +561,9 @@
 
 ## Go 
 
+- [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
+- [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
+- [ClusterCloner](https://github.com/doitintl/ClusterCloner) - Clone Kubernetes clusters (VM infrastructure, not K8s objects) to/from AWS EKS, GCP GKE, and Azure EKS.
 - [go-edlib](https://github.com/hbollon/go-edlib) - Golang string comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, etc...
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
@@ -1421,7 +1425,7 @@
 - [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
 - [statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected.
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
-- [janus](https://github.com/hellofresh/janus) - An API Gateway written in Go
+- [janus](https://github.com/motiv-labs/janus) - An API Gateway written in Go
 - [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
 - [kube2haproxy](https://github.com/adohe-zz/kube2haproxy) - High Availability HAProxy auto configuration and auto service discovery for Kubernetes.
 - [voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure HAProxy Ingress Controller for Kubernetes
@@ -1747,7 +1751,6 @@
 - [thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [hono](https://github.com/eclipse/hono) - Eclipse Hono™ Project
 - [hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [singer](https://github.com/pinterest/singer) - A high-performance, reliable and extensible logging agent for uploading data to Kafka, Pulsar, etc.
 - [pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [dslabs](https://github.com/emichael/dslabs) - Distributed Systems Labs and Framework
