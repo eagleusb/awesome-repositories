@@ -561,6 +561,7 @@
 
 ## Go 
 
+- [buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
 - [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [ClusterCloner](https://github.com/doitintl/ClusterCloner) - Clone Kubernetes clusters (VM infrastructure, not K8s objects) to/from AWS EKS, GCP GKE, and Azure EKS.
@@ -1024,7 +1025,7 @@
 - [runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -2244,6 +2245,7 @@
 
 ## Jsonnet 
 
+- [jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib) - Codegen for Kubernetes-API-compatible Jsonnet libraries
 
@@ -3357,7 +3359,7 @@
 
 ## TypeScript 
 
-- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go
+- [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
 - [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
 - [vscode-terraform-doc-snippets](https://github.com/run-at-scale/vscode-terraform-doc-snippets) - Snippets in vscode for all resources and data sources, as yanked directly from provider docs.
