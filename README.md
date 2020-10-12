@@ -39,6 +39,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [M](#m)
   - [Makefile](#makefile)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -570,7 +571,6 @@
 - [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [ClusterCloner](https://github.com/doitintl/ClusterCloner) - Clone Kubernetes clusters (VM infrastructure, not K8s objects) to/from AWS EKS, GCP GKE, and Azure EKS.
 - [go-edlib](https://github.com/hbollon/go-edlib) - Golang string comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -2256,6 +2256,7 @@
 
 ## Jupyter Notebook 
 
+- [calculette-impots-m-language-parser](https://github.com/etalab/calculette-impots-m-language-parser) - Calculette de l'impôt sur le revenu parsée
 - [datasets](https://github.com/unsplash/datasets) - 🎁 2,000,000+ Unsplash images made available for research and machine learning
 - [course-nlp](https://github.com/fastai/course-nlp) - A Code-First Introduction to NLP course
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
@@ -2289,6 +2290,10 @@
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+
+## M 
+
+- [calculette-impots-m-source-code](https://github.com/etalab/calculette-impots-m-source-code) - Code source du calcul de l'impôt sur les revenus
 
 ## Makefile 
 
@@ -3364,6 +3369,7 @@
 ## TypeScript 
 
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
 - [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
