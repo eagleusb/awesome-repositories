@@ -562,10 +562,11 @@
 
 ## Go 
 
+- [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gotp](https://github.com/itsmewes/gotp) - Handling Google Authenitcator codes.
 - [vpc](https://github.com/tcfw/vpc) - Create simple VPCs written in (mostly) Go using Linux bridges/netlinks, iptables & network namespaces
 - [promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
-- [tobs](https://github.com/timescale/tobs) - A Helm chart for deploying Prometheus configured to use TimescaleDB as compressed long-term store for time-series metrics through the Timescale-Prometheus Connector.
+- [tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [kratos](https://github.com/ory/kratos) - Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.
 - [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
@@ -2415,7 +2416,7 @@
 - [systems-reading](https://github.com/lorin/systems-reading) - Systems and failure reading list
 - [Lubrigante](https://github.com/Zambumon/Lubrigante) - Acrylic TGR Alice revision by Zambumon
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
-- [mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - Open source mechanical keyboard and where to find them
+- [mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [riff](https://github.com/projectriff/riff) - riff is for functions
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [The_RoMac_rev2.1](https://github.com/The-Royal/The_RoMac_rev2.1) - A "Plaid" Inspired 12-Key Macro Pad
