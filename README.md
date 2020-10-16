@@ -562,7 +562,10 @@
 
 ## Go 
 
-- [boundary](https://github.com/hashicorp/boundary) - 
+- [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
+- [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gotp](https://github.com/itsmewes/gotp) - Handling Google Authenitcator codes.
@@ -695,7 +698,7 @@
 - [webcam](https://github.com/blackjack/webcam) - Golang webcam library for Linux
 - [serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant gateway for HTTP clusters, written in Go.
 - [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
-- [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules
+- [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
 - [go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [vault-secrets-gen](https://github.com/sethvargo/vault-secrets-gen) - A Vault secrets plugin for generating high entropy passwords and passphrases.
@@ -1087,7 +1090,7 @@
 - [tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &gt;= 0.12)
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [mantle](https://github.com/coreos/mantle) - Mantle: Gluing Container Linux together
-- [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Container Linux / Fedora CoreOS clusters
+- [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters
 - [tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
 - [abs](https://github.com/abs-lang/abs) - Home of the ABS programming language: the joy of shell scripting.
@@ -1680,13 +1683,14 @@
 
 ## HTML 
 
-- [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font designed to work well with the Julia language. Details in the web site:
+- [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support. Details in the web site:
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster.
+- [ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
 - [the-zen-of-go](https://github.com/davecheney/the-zen-of-go) - https://the-zen-of-go.netlify.com
@@ -2191,7 +2195,6 @@
 - [gh-board](https://github.com/philschatz/gh-board) - :octocat: "Serverless" Kanban for GitHub Issues using gh-pages
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -2369,7 +2372,6 @@
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) - 🗣Curated list of awesome resources for the Amazon Alexa platform.
 - [dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
-- [ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
 - [learn-programming-languages](https://github.com/jeanqasaur/learn-programming-languages) - Resources for the working programmer to learn more about the fundamentals and theory of programming languages.
 - [awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [learn-istio](https://github.com/askmeegs/learn-istio) - ⛵️ Istio resources 🕸
@@ -3485,6 +3487,7 @@
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
