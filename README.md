@@ -268,7 +268,6 @@
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [3proxy](https://github.com/z3APA3A/3proxy) - 3proxy - tiny free proxy server
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
-- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
 - [tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [snoopy](https://github.com/a2o/snoopy) - Log every executed command to syslog (a.k.a. Snoopy Logger).
 - [librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
@@ -562,6 +561,7 @@
 
 ## Go 
 
+- [cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
@@ -1060,7 +1060,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
 - [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -1683,7 +1683,7 @@
 
 ## HTML 
 
-- [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support. Details in the web site:
+- [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
@@ -3333,6 +3333,7 @@
 - [crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions )
 - [multibinder](https://github.com/github/multibinder) - multibinder is a tiny ruby server that makes writing zero-downtime-reload services simpler.
+- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
 - [haproxy-consul](https://github.com/CiscoCloud/haproxy-consul) - Dynamic haproxy configuration using consul
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
