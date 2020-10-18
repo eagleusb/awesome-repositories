@@ -662,7 +662,7 @@
 - [coredns-plugins](https://github.com/segmentio/coredns-plugins) - Segment CoreDNS plugins
 - [upduck](https://github.com/xarantolus/upduck) - simple HTTP and HTTPS static file server that integrates with DuckDNS
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
-- [yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours where only jq could
+- [yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours to kubectl output
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [shuttle](https://github.com/lunarway/shuttle) - CLI for handling shared build and deploy tools between projects no matter what technologies the projects are using
 - [release-manager](https://github.com/lunarway/release-manager) - GitOps release manager for Kubernetes configuration repositories
