@@ -561,6 +561,7 @@
 
 ## Go 
 
+- [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs and fields.
 - [cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
@@ -869,7 +870,7 @@
 - [statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [volcano](https://github.com/volcano-sh/volcano) - A Kubernetes Native Batch System (Project under CNCF)
-- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
@@ -1246,7 +1247,7 @@
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
 - [kubetest](https://github.com/garethr/kubetest) - Write unit tests for your Kubernetes configurations
 - [skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
@@ -1700,7 +1701,7 @@
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [b612](https://github.com/polarsys/b612) - Eclipse B612
-- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online.
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
