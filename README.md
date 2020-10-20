@@ -94,6 +94,7 @@
 
 ## C 
 
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
@@ -561,6 +562,8 @@
 
 ## Go 
 
+- [tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+- [reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs and fields.
 - [cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
@@ -949,7 +952,7 @@
 - [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Static analysis powered security scanner for your terraform code
-- [aws-node-termination-handler](https://github.com/aws/aws-node-termination-handler) - A Kubernetes Daemonset to gracefully handle EC2 instance shutdown
+- [aws-node-termination-handler](https://github.com/aws/aws-node-termination-handler) - Gracefully handle EC2 instance shutdown within Kubernetes
 - [kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
 - [gokeyless](https://github.com/cloudflare/gokeyless) - Go implementation of the keyless protocol
@@ -1161,7 +1164,7 @@
 - [cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) - 
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 - [cn](https://github.com/ceph/cn) - Ceph Nano - One step S3 in container with Ceph.
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [longhorn-manager](https://github.com/longhorn/longhorn-manager) - Millions and millions of volumes orchestrated
 - [cerebral](https://github.com/containership/cerebral) - Kubernetes cluster autoscaler with pluggable metrics backends and scaling engines
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1685,6 +1688,7 @@
 ## HTML 
 
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
+- [ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Vault
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
@@ -3254,7 +3258,6 @@
 
 ## Shell 
 
-- [ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Vault
 - [vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
