@@ -534,6 +534,7 @@
 
 ## Dockerfile 
 
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Docker image with all the components of the Google Cloud SDK
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [dockerfiles](https://github.com/firecat53/dockerfiles) - Dockerfiles: Check_Mk, Couchpotato, Deluge, Gollum, Headphones, Jackett, Lazy Librarian, Miniflux, Nginx/PHP-FPM, OpenVPN PIA client, Plex, Privatebin, Radarr, Sabnzbd, Samba, SSH Socks Proxy server, Sonarr, Syncthing, Stringer,Transmission, Unifi Controller.
@@ -564,7 +565,7 @@
 
 - [tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
-- [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs and fields.
+- [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
@@ -2343,7 +2344,6 @@
 
 ## Open Policy Agent 
 
-- [magtape](https://github.com/tmobile/magtape) - MagTape Policy-as-Code for Kubernetes
 - [regula](https://github.com/fugue/regula) - Regula checks Terraform for AWS, Azure and GCP security and CIS compliance using Open Policy Agent/Rego
 
 ## OpenSCAD 
@@ -2682,6 +2682,7 @@
 - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [lemur](https://github.com/Netflix/lemur) - Repository for the Lemur Certificate Manager
+- [magtape](https://github.com/tmobile/magtape) - MagTape Policy-as-Code for Kubernetes
 - [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [canaryd](https://github.com/Oxygem/canaryd) - The Service Canary daemon.
@@ -2771,7 +2772,6 @@
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [i3-gnome-pomodoro](https://github.com/kantord/i3-gnome-pomodoro) - :tomato: Integrate gnome-pomodoro into i3
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [tern](https://github.com/tern-tools/tern) - Open Source compliance for containers
 - [ansible-runner-service](https://github.com/ansible/ansible-runner-service) - 
