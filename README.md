@@ -563,6 +563,7 @@
 
 ## Go 
 
+- [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
@@ -1040,7 +1041,7 @@
 - [runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning in production
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -1704,6 +1705,7 @@
 - [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
+- [ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Consul clusters
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [b612](https://github.com/polarsys/b612) - Eclipse B612
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
@@ -3258,6 +3260,7 @@
 
 ## Shell 
 
+- [vault-guides](https://github.com/hashicorp/vault-guides) - Example usage of HashiCorp Vault secrets management
 - [vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
@@ -3293,7 +3296,6 @@
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [gh-action-hugo-deploy](https://github.com/jsumners/gh-action-hugo-deploy) - An action to deploy Hugo based sites to GitHub organization repos
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Consul clusters
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
