@@ -563,6 +563,7 @@
 
 ## Go 
 
+- [cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) - 
 - [goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 - [aws-otel-collector](https://github.com/aws-observability/aws-otel-collector) - AWS Distro for OpenTelemetry Collector
@@ -1005,7 +1006,7 @@
 - [aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 - [api](https://github.com/kubernetes/api) - The canonical location of the Kubernetes API definition.
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review Access - kubectl plugin to show an access matrix for k8s server resources
-- [aws-alb-ingress-controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) - A Kubernetes controller for Elastic Load Balancers
+- [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [kube-aws-iam-controller](https://github.com/zalando-incubator/kube-aws-iam-controller) - Distribute different AWS IAM credentials to different pods in Kubernetes via secrets.
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
@@ -3265,7 +3266,6 @@
 
 ## Shell 
 
-- [vault-guides](https://github.com/hashicorp/vault-guides) - Example usage of HashiCorp Vault secrets management
 - [vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
