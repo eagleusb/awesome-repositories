@@ -563,6 +563,8 @@
 
 ## Go 
 
+- [memo](https://github.com/mattn/memo) - 📓 Memo Life For You
+- [consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul on Kubernetes, integrate Connect, sync services, and more.
 - [cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) - 
 - [goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
@@ -2360,6 +2362,7 @@
 
 ## Others 
 
+- [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok-like tunneling software and services
@@ -2636,6 +2639,8 @@
 
 ## Python 
 
+- [falco-security-workshop](https://github.com/falcosecurity/falco-security-workshop) - Container Security Workshop covering using Falco on Kubernetes.
+- [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
 - [pinject](https://github.com/google/pinject) - A pythonic dependency injection library.
 - [keylime](https://github.com/keylime/keylime) - Bootstrap & Maintain Trust on the Edge / Cloud and IoT
