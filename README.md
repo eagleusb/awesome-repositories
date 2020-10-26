@@ -563,6 +563,7 @@
 
 ## Go 
 
+- [kube-vip](https://github.com/plunder-app/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul on Kubernetes, integrate Connect, sync services, and more.
 - [cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) - 
@@ -2639,6 +2640,7 @@
 
 ## Python 
 
+- [python-textbok](https://github.com/confluence/python-textbok) - 
 - [falco-security-workshop](https://github.com/falcosecurity/falco-security-workshop) - Container Security Workshop covering using Falco on Kubernetes.
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
