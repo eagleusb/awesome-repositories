@@ -563,6 +563,9 @@
 
 ## Go 
 
+- [wiregate](https://github.com/sirMackk/wiregate) - Simple WireGuard setup for LANs for humans
+- [gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
+- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: An SSH server that launches containers
 - [kube-vip](https://github.com/plunder-app/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul on Kubernetes, integrate Connect, sync services, and more.
@@ -919,7 +922,7 @@
 - [routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast docker image distribution plugin for containerd, based on CRFS/stargz
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
 - [gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
@@ -3167,6 +3170,7 @@
 
 ## Rust 
 
+- [blades](https://github.com/grego/blades) - Blazing fast dead simple static site generator
 - [tmpo](https://github.com/perryrh0dan/tmpo) - Command line interface to create new workspaces based on templates
 - [asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
 - [cavif-rs](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust
