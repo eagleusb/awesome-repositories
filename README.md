@@ -563,6 +563,15 @@
 
 ## Go 
 
+- [odoh-server-go](https://github.com/cloudflare/odoh-server-go) - Oblivious DoH server in Go
+- [circl](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library
+- [goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+- [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - A standalone, specification-compliant,  OAuth2 server written in Golang.
+- [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [branca](https://github.com/hako/branca) - :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go.
+- [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+- [which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used
+- [mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀
 - [wiregate](https://github.com/sirMackk/wiregate) - Simple WireGuard setup for LANs for humans
 - [gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: An SSH server that launches containers
@@ -1683,6 +1692,7 @@
 
 ## HCL 
 
+- [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
 - [terraform-guides](https://github.com/hashicorp/terraform-guides) - Example usage of HashiCorp Terraform
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
 - [vault-on-gke](https://github.com/sethvargo/vault-on-gke) - Run @HashiCorp Vault on Google Kubernetes Engine (GKE) with Terraform
@@ -1724,6 +1734,7 @@
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+- [redfish-ansible-module](https://github.com/dell/redfish-ansible-module) - Ansible modules for Out-Of-Band Controllers using Redfish APIs
 - [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
@@ -2480,7 +2491,6 @@
 - [mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [packethunting](https://github.com/packetrat/packethunting) - Resources and materials for DEF CON 2018 Packet Hunting Workshop
 - [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
-- [redfish-ansible-module](https://github.com/dell/redfish-ansible-module) - Ansible modules for Out-Of-Band Controllers using Redfish APIs
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
 - [gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers
@@ -2643,6 +2653,8 @@
 
 ## Python 
 
+- [pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [python-textbok](https://github.com/confluence/python-textbok) - 
 - [falco-security-workshop](https://github.com/falcosecurity/falco-security-workshop) - Container Security Workshop covering using Falco on Kubernetes.
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -3543,7 +3555,7 @@
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
+- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [rbac-view](https://github.com/jasonrichardsmith/rbac-view) - Visualize Kubernetes RBAC rules
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
