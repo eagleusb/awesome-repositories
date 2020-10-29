@@ -479,7 +479,6 @@
 - [rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [hugo-fresh](https://github.com/StefMa/hugo-fresh) - Hugo Fresh Theme
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
 - [elastickube](https://github.com/ElasticBox/elastickube) - ElasticKube is an open source management platform for Kubernetes.
 - [csstyle](https://github.com/csstyle-org/csstyle) - clean, simple styling for styling the web.
@@ -563,6 +562,9 @@
 
 ## Go 
 
+- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
+- [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [louis](https://github.com/owen-d/louis) - 
 - [odoh-server-go](https://github.com/cloudflare/odoh-server-go) - Oblivious DoH server in Go
 - [circl](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library
 - [goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
@@ -1061,7 +1063,7 @@
 - [runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning in production
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -2997,7 +2999,7 @@
 - [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [exaproxy](https://github.com/Exa-Networks/exaproxy) - Performant Content Modifying Non-Caching Proxy [stable - accepting patches for bug fixes only]
 - [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
-- [django-th](https://github.com/push-things/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
+- [django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool.
@@ -3273,6 +3275,7 @@
 - [workflow](https://github.com/teamhephy/workflow) - Hephy Workflow - An open source fork of Deis Workflow - The open source PaaS for Kubernetes.
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala 
 
@@ -3551,7 +3554,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
