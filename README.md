@@ -157,7 +157,7 @@
 - [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [jgmenu](https://github.com/johanmalm/jgmenu) - A simple X11 menu
 - [i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default lockscreen.
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
@@ -562,6 +562,7 @@
 
 ## Go 
 
+- [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
 - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [louis](https://github.com/owen-d/louis) - 
@@ -684,7 +685,7 @@
 - [gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [toolkit](https://github.com/fluxcd/toolkit) - Kubernetes toolkit for assembling CD pipelines the GitOps way
+- [flux2](https://github.com/fluxcd/flux2) - Kubernetes toolkit for assembling CD pipelines the GitOps way
 - [metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [coredns-plugins](https://github.com/segmentio/coredns-plugins) - Segment CoreDNS plugins
@@ -1407,7 +1408,7 @@
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
-- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [scat](https://github.com/Roman2K/scat) - Decentralized, trustless backup tool
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [periph](https://github.com/google/periph) - Go·Hardware·Lean
@@ -2186,7 +2187,7 @@
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
-- [sqlpad](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+- [sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [lovefield](https://github.com/google/lovefield) - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
 - [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for running Ansible playbooks
