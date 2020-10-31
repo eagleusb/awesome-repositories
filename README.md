@@ -562,6 +562,10 @@
 
 ## Go 
 
+- [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
+- [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices written in Go.
+- [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
+- [hive](https://github.com/suborbital/hive) - A powerful job scheduler for Go & WASM
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
 - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
@@ -1089,7 +1093,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed systems development.
 - [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -1714,7 +1718,6 @@
 ## HTML 
 
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
-- [ansible-vault](https://github.com/ansible-community/ansible-vault) - :key: Ansible role for Vault
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
@@ -1729,7 +1732,7 @@
 - [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
-- [ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Consul clusters
+- [ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Hashicorp Consul clusters
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [b612](https://github.com/polarsys/b612) - Eclipse B612
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
@@ -2994,6 +2997,7 @@
 - [barman](https://github.com/2ndquadrant-it/barman) - BaRMan - Backup and Recovery Manager for PostgreSQL
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [scudcloud](https://github.com/raelgc/scudcloud) - ScudCloud - Slack for Linux
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [conn-check](https://github.com/canonical-ols/conn-check) - git mirror of lp:conn-check, PRs welcome and will be merged into trunk
@@ -3416,6 +3420,7 @@
 
 ## TypeScript 
 
+- [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
@@ -3524,7 +3529,6 @@
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
