@@ -94,6 +94,7 @@
 
 ## C 
 
+- [criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
@@ -562,6 +563,7 @@
 
 ## Go 
 
+- [edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
 - [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices written in Go.
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
@@ -2101,7 +2103,7 @@
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 - [storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
 - [sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
 - [terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
@@ -2383,6 +2385,8 @@
 
 ## Others 
 
+- [bakeneko-60](https://github.com/kkatano/bakeneko-60) - An open source O-ring gasket mount keyboard
+- [bakeneko-65](https://github.com/kkatano/bakeneko-65) - An open source O-ring gasket mount keyboard. This project is based on Bakeneko 60 that is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini
 - [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
@@ -2659,6 +2663,8 @@
 
 ## Python 
 
+- [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test and use models without writing code
+- [synator](https://github.com/TheYkk/synator) - Synator Kubernetes Secret and ConfigMap synchronizer
 - [pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [python-textbok](https://github.com/confluence/python-textbok) - 
@@ -3189,6 +3195,7 @@
 
 ## Rust 
 
+- [aws-nitro-enclaves-cli](https://github.com/aws/aws-nitro-enclaves-cli) - Tooling for Nitro Enclave Management
 - [blades](https://github.com/grego/blades) - Blazing fast dead simple static site generator
 - [tmpo](https://github.com/perryrh0dan/tmpo) - Command line interface to create new workspaces based on templates
 - [asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
@@ -3422,7 +3429,7 @@
 
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. Features a man-in-the-middle HTTP/1.1 proxy, project management, scope and logs.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
 - [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
