@@ -563,6 +563,7 @@
 
 ## Go 
 
+- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
 - [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices written in Go.
@@ -621,7 +622,7 @@
 - [lakeFS](https://github.com/treeverse/lakeFS) - An open source platform that delivers resilience and manageability to object-storage based data lakes
 - [pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [octo-cli](https://github.com/octoproject/octo-cli) - CLI tool to expose data from any database as a serverless web service.
 - [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
@@ -1095,7 +1096,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed systems development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -2324,6 +2325,7 @@
 
 ## Lua 
 
+- [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) - OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -2385,8 +2387,6 @@
 
 ## Others 
 
-- [bakeneko-60](https://github.com/kkatano/bakeneko-60) - An open source O-ring gasket mount keyboard
-- [bakeneko-65](https://github.com/kkatano/bakeneko-65) - An open source O-ring gasket mount keyboard. This project is based on Bakeneko 60 that is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini
 - [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
@@ -3291,6 +3291,7 @@
 
 ## Scala 
 
+- [collins](https://github.com/tumblr/collins) - groovy kind of love
 - [flix](https://github.com/flix/flix) - The Flix Programming Language
 - [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [nelson](https://github.com/getnelson/nelson) - Automated, multi-region container deployment
@@ -3429,7 +3430,7 @@
 
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. Features a man-in-the-middle HTTP/1.1 proxy, project management, scope and logs.
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
 - [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
