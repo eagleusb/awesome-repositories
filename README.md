@@ -563,6 +563,8 @@
 
 ## Go 
 
+- [krakend-ce](https://github.com/devopsfaith/krakend-ce) - KrakenD Community Edition. Make your binary of KrakenD API Gateway
+- [duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
@@ -599,7 +601,7 @@
 - [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
 - [memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -971,7 +973,7 @@
 - [tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go
 - [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed file system and object store for cloud native applications
 - [egress-operator](https://github.com/monzo/egress-operator) - A Kubernetes operator to produce egress gateway Envoy pods and control access to them with network policies
-- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)
+- [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [observer](https://github.com/yaacov/observer) - Golang event emitter and listener with builtin file watcher package.
 - [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [kubectl-fzf](https://github.com/bonnefoa/kubectl-fzf) - A fast kubectl autocompletion with fzf
@@ -1038,7 +1040,7 @@
 - [rbIAM](https://github.com/mhausenblas/rbIAM) - A unified IAM+Kubernetes RBAC access control exploration tool
 - [amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook) - Amazon EKS Pod Identity Webhook
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
+- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [aks-periscope](https://github.com/Azure/aks-periscope) - aks-periscope aims to detect various kubernetes cluster problems
 - [dnsmasq_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
 - [manager](https://github.com/awsctrl/manager) - Production grade Kubernetes controller for managing AWS Services using CRDs
@@ -2289,7 +2291,6 @@
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-- [peerio-client](https://github.com/PeerioTechnologies/peerio-client) - Peerio Legacy for macOS, Windows, Linux
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
@@ -2325,6 +2326,7 @@
 
 ## Lua 
 
+- [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) - OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
@@ -2663,6 +2665,7 @@
 
 ## Python 
 
+- [apatite](https://github.com/mahmoud/apatite) - Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
 - [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test and use models without writing code
 - [synator](https://github.com/TheYkk/synator) - Synator Kubernetes Secret and ConfigMap synchronizer
 - [pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
@@ -2806,7 +2809,7 @@
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
-- [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
+- [pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
