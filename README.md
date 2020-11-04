@@ -323,6 +323,7 @@
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserever using DCC
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [foo-tools](https://github.com/glftpd/foo-tools) - collected foo-tools sources + some fixes
@@ -563,6 +564,7 @@
 
 ## Go 
 
+- [louketo-proxy](https://github.com/louketo/louketo-proxy) - A OpenID / Proxy service
 - [krakend-ce](https://github.com/devopsfaith/krakend-ce) - KrakenD Community Edition. Make your binary of KrakenD API Gateway
 - [duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
@@ -1879,7 +1881,7 @@
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
-- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
+- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -2291,7 +2293,6 @@
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
 ## Jsonnet 
@@ -2326,6 +2327,7 @@
 
 ## Lua 
 
+- [APIcast](https://github.com/3scale/APIcast) - 3scale API Gateway
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) - OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
 - [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
@@ -2709,7 +2711,7 @@
 - [Chatette](https://github.com/SimGus/Chatette) - A powerful dataset generator for Rasa NLU, inspired by Chatito
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
-- [rasa](https://github.com/RasaHQ/rasa) - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+- [rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [twittor](https://github.com/PaulSec/twittor) - A fully featured backdoor that uses Twitter as a C&C server
 - [kiwi](https://github.com/OSInside/kiwi) - KIWI - Appliance Builder Next Generation
 - [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
@@ -3446,7 +3448,7 @@
 - [wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
+- [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [Chatito](https://github.com/rodrigopivi/Chatito) - 🎯🗯 Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
