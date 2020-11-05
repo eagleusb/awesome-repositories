@@ -334,7 +334,7 @@
 ## C# # 
 
 - [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [Axiom](https://github.com/MattMcManis/Axiom) - An FFmpeg GUI for Windows
 - [tricycle](https://github.com/kmcclive/tricycle) - Video transcoding... easier than riding a bike.
 - [ts-map](https://github.com/dariowouters/ts-map) - ATS/ETS2 map renderer
@@ -564,6 +564,7 @@
 
 ## Go 
 
+- [gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
 - [louketo-proxy](https://github.com/louketo/louketo-proxy) - A OpenID / Proxy service
 - [krakend-ce](https://github.com/devopsfaith/krakend-ce) - KrakenD Community Edition. Make your binary of KrakenD API Gateway
 - [duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
@@ -696,7 +697,7 @@
 - [gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
-- [flux2](https://github.com/fluxcd/flux2) - Kubernetes toolkit for assembling CD pipelines the GitOps way
+- [flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [coredns-plugins](https://github.com/segmentio/coredns-plugins) - Segment CoreDNS plugins
@@ -1757,6 +1758,7 @@
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
+- [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
@@ -3377,7 +3379,6 @@
 - [docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
