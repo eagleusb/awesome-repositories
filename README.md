@@ -966,7 +966,7 @@
 - [terraform-provider-consul](https://github.com/hashicorp/terraform-provider-consul) - Terraform Consul provider
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [kube-query](https://github.com/aquasecurity/kube-query) - [EXPERIMENTAL] Extend osquery to report on Kubernetes
-- [faasd](https://github.com/openfaas/faasd) - faasd - Serverless for everyone else
+- [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [robin](https://github.com/jiansoft/robin) - robin provides a high performance golang goroutine library and job scheduling、in-memory cache for humans.
@@ -2349,6 +2349,7 @@
 
 ## Makefile 
 
+- [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [hellogopher](https://github.com/vincentbernat/hellogopher) - Makefile to build a Go project
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
@@ -3202,6 +3203,7 @@
 
 ## Rust 
 
+- [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [aws-nitro-enclaves-cli](https://github.com/aws/aws-nitro-enclaves-cli) - Tooling for Nitro Enclave Management
 - [blades](https://github.com/grego/blades) - Blazing fast dead simple static site generator
 - [tmpo](https://github.com/perryrh0dan/tmpo) - Command line interface to create new workspaces based on templates
