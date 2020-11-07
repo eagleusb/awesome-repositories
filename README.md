@@ -196,6 +196,7 @@
 - [sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU
 - [minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
+- [Hardware-and-Firmware-Security-Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber
 - [ergodox-firmware](https://github.com/benblazak/ergodox-firmware) - firmware for the ergoDOX keyboard
 - [agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
 - [natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
@@ -564,6 +565,9 @@
 
 ## Go 
 
+- [cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
+- [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
+- [authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
 - [gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
 - [louketo-proxy](https://github.com/louketo/louketo-proxy) - A OpenID / Proxy service
 - [krakend-ce](https://github.com/devopsfaith/krakend-ce) - KrakenD Community Edition. Make your binary of KrakenD API Gateway
@@ -1176,7 +1180,7 @@
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 - [joy4](https://github.com/nareix/joy4) - Golang audio/video library and streaming server
-- [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Marrying Ansible with Terraform 0.12.x
+- [terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.13.x
 - [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [k8s-cluster-bundle](https://github.com/GoogleCloudPlatform/k8s-cluster-bundle) - The Cluster Bundle: Declarative Kubernetes Cluster Management
@@ -1755,6 +1759,7 @@
 - [tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
+- [ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
@@ -1957,6 +1962,7 @@
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
 - [sourcebuster-js](https://github.com/alexfedoseev/sourcebuster-js) - Track the sources of your traffic
 - [orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
@@ -2293,7 +2299,6 @@
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
@@ -2356,7 +2361,6 @@
 - [k8s-clusters](https://github.com/grampelberg/k8s-clusters) - Simple kubernetes clusters on cloud providers for development
 - [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
-- [ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Nim 
@@ -2443,7 +2447,7 @@
 - [ansible-maas](https://github.com/mrlesmithjr/ansible-maas) - 
 - [k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
-- [TLS-Padding-Oracles](https://github.com/RUB-NDS/TLS-Padding-Oracles) - New TLS Padding Oracles
+- [TLS-Padding-Oracles](https://github.com/tls-attacker/TLS-Padding-Oracles) - New TLS Padding Oracles
 - [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - 
 - [Keyboard-files](https://github.com/RGBKB/Keyboard-files) - Public files for keyboards and more
 - [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
@@ -2487,7 +2491,6 @@
 - [msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [branca-spec](https://github.com/tuupola/branca-spec) - Authenticated and encrypted API tokens using modern crypto
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [Hardware-and-Firmware-Security-Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
 - [sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release
@@ -3480,7 +3483,6 @@
 - [avatar-generator](https://github.com/arusanov/avatar-generator) - 8bit avatar generator. Inspired by https://github.com/matveyco/8biticon
 - [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [security-kibana-plugin](https://github.com/opendistro-for-elasticsearch/security-kibana-plugin) - 🔐Open Distro for Elasticsearch Security Kibana Plugin
 - [kosko](https://github.com/tommy351/kosko) - Write Kubernetes manifests in JavaScript.
