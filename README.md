@@ -608,7 +608,7 @@
 - [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development
 - [memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -625,7 +625,6 @@
 - [derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [grafana-consul-datasource](https://github.com/sbueringer/grafana-consul-datasource) - Consul Datasource for Grafana
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [lakeFS](https://github.com/treeverse/lakeFS) - An open source platform that delivers resilience and manageability to object-storage based data lakes
@@ -2370,7 +2369,7 @@
 
 ## Nix 
 
-- [nixos-config](https://github.com/tazjin/nixos-config) - NixOS configuration for my machines. This public version is not updated anymore.
+- [nixos-config](https://github.com/tazjin/nixos-config) - NixOS configuration for my machines. This repository is deprecated, config now lives at https://cs.tvl.fyi/depot/-/tree/users/tazjin/nixos
 - [home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
@@ -3443,6 +3442,7 @@
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+- [grafana-consul-datasource](https://github.com/sbueringer/grafana-consul-datasource) - Consul Datasource for Grafana
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
 - [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
 - [vscode-terraform-doc-snippets](https://github.com/run-at-scale/vscode-terraform-doc-snippets) - Snippets in vscode for all resources and data sources, as yanked directly from provider docs.
