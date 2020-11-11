@@ -340,7 +340,7 @@
 - [ts-map](https://github.com/dariowouters/ts-map) - ATS/ETS2 map renderer
 - [ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server) - ETS2/ATS Telemetry Web Server + Mobile Dashboard
 - [ilSFV](https://github.com/judwhite/ilSFV) - SFV, MD5 and SHA-1 file verification utility for Windows.
-- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
+- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
 - [GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
 - [docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
@@ -577,7 +577,7 @@
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
 - [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices written in Go.
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
-- [hive](https://github.com/suborbital/hive) - A powerful job scheduler for Go & WASM
+- [hive](https://github.com/suborbital/hive) - A powerful job scheduler for Go & Wasm
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
 - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
@@ -950,7 +950,7 @@
 - [desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast docker image distribution plugin for containerd, based on CRFS/stargz
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
+- [juju](https://github.com/juju/juju) - Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux and Windows apps, with declarative integration between operators for automated microservice integration.
 - [gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
@@ -1730,7 +1730,6 @@
 
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
-- [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -2696,6 +2695,7 @@
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [slack-standup](https://github.com/vipul-sharma20/slack-standup) - An application for Slack based daily standups
+- [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [tiny0](https://github.com/xemeds/tiny0) - Custom URL shortener in Flask.
 - [cloudflare-analytics](https://github.com/thcp/cloudflare-analytics) - 
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -3275,7 +3275,7 @@
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [papito](https://github.com/pepsighan/papito) - A Beginner Friendly Rusty WASM Framework
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
@@ -3317,6 +3317,7 @@
 
 ## Shell 
 
+- [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
