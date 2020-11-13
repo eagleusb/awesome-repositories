@@ -564,6 +564,7 @@
 
 ## Go 
 
+- [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
 - [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
@@ -653,7 +654,7 @@
 - [minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [go-nfs](https://github.com/willscott/go-nfs) - golang NFSv3 server
 - [kapp](https://github.com/k14s/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-- [kbld](https://github.com/k14s/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
+- [carvel-kbld](https://github.com/vmware-tanzu/carvel-kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [ytt](https://github.com/k14s/ytt) - YAML templating tool that works on YAML structure instead of text
 - [binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
 - [cabourotte](https://github.com/mcorbin/cabourotte) - Verify if your infrastructure is healthy
@@ -2401,7 +2402,7 @@
 - [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
-- [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok-like tunneling software and services
+- [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services
 - [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) - Resources to learn and implement authentication in your application
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -2673,6 +2674,8 @@
 
 ## Python 
 
+- [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [apatite](https://github.com/mahmoud/apatite) - Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
 - [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test and use models without writing code
 - [synator](https://github.com/TheYkk/synator) - Synator Kubernetes Secret and ConfigMap synchronizer
