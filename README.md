@@ -94,6 +94,7 @@
 
 ## C 
 
+- [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
@@ -564,6 +565,8 @@
 
 ## Go 
 
+- [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
+- [teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
 - [server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
@@ -1579,7 +1582,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [mcm](https://github.com/zombiezen/mcm) - A suite of tools to provide configuration management.
 - [contrib](https://github.com/kubernetes-retired/contrib) - [EOL] This is a place for various components in the Kubernetes ecosystem that aren't part of the Kubernetes core.
-- [charts](https://github.com/helm/charts) - Curated applications for Kubernetes
+- [charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [fluentd-forwarder](https://github.com/fluent/fluentd-forwarder) - Fluentd Forwarder: Lightweight Data Collector in Golang
 - [fluent-agent-hydra](https://github.com/fujiwara/fluent-agent-hydra) - A Fluentd log agent.
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -1891,7 +1894,7 @@
 - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -3253,7 +3256,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
+- [vector](https://github.com/timberio/vector) - A high-performance observability data platform.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -3582,6 +3585,7 @@
 
 ## Vue 
 
+- [forum](https://github.com/sbkwgh/forum) - Forum software created using Express, Vue, and Sequelize
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
