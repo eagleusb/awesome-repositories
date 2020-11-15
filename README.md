@@ -565,6 +565,7 @@
 
 ## Go 
 
+- [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
@@ -1109,7 +1110,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development, IoT, edge and p2p.
 - [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -1963,7 +1964,7 @@
 - [kbf_qmk_converter](https://github.com/noroadsleft/kbf_qmk_converter) - A file that, ideally, converts the contents of a KBFirmware-format JSON file to QMK code.
 - [quickchart](https://github.com/typpo/quickchart) - Chart image and QR code web API
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
@@ -2691,7 +2692,7 @@
 - [pinject](https://github.com/google/pinject) - A pythonic dependency injection library.
 - [keylime](https://github.com/keylime/keylime) - Bootstrap & Maintain Trust on the Edge / Cloud and IoT
 - [awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
-- [community.general](https://github.com/ansible-collections/community.general) - 
+- [community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [keymaker](https://github.com/kislyuk/keymaker) - Lightweight SSH key management on AWS EC2
 - [aegea](https://github.com/kislyuk/aegea) - Amazon Web Services Operator Interface
 - [ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
