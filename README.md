@@ -2394,6 +2394,7 @@
 
 ## Open Policy Agent 
 
+- [opa-notary-connector](https://github.com/sighupio/opa-notary-connector) - 
 - [regula](https://github.com/fugue/regula) - Regula checks Terraform for AWS, Azure and GCP security and CIS compliance using Open Policy Agent/Rego
 
 ## OpenSCAD 
@@ -2610,7 +2611,7 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [mysos](https://github.com/twitter-archive/mysos) - Cotton (formerly known as Mysos)
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [france.code-civil](https://github.com/steeve/france.code-civil) - Le code civil français sous git
 - [budgetdata](https://github.com/WhiteHouse/budgetdata) - The data behind the President's 2016 Budget
 
