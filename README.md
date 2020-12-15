@@ -1132,7 +1132,7 @@
 - [runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
+- [cortex](https://github.com/cortexlabs/cortex) - Run inference at scale
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -1889,6 +1889,7 @@
 - [GCViewer](https://github.com/chewiebug/GCViewer) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
 - [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
+- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [dcache](https://github.com/dCache/dcache) - dCache - a system for storing and retrieving huge amounts of data, distributed among a large number of heterogenous server nodes, under a single virtual filesystem tree with a variety of standard access methods
 - [apollo](https://github.com/logzio/apollo) - Apollo - The logz.io continuous deployment solution over kubernetes
 - [haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
@@ -3604,7 +3605,6 @@
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 - [kashti](https://github.com/brigadecore/kashti) - Kashti is a dashboard for your Brigade pipelines.
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
