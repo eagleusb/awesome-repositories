@@ -1403,7 +1403,6 @@
 - [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
-- [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
 - [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
 - [chart-operator](https://github.com/giantswarm/chart-operator) - The chart-operator deploys Helm charts.
 - [pal](https://github.com/cloudflare/pal) - PAL: A secret bootstrapping tool for Docker
@@ -1849,7 +1848,7 @@
 - [squee](https://github.com/KMahoney/squee) - A Typed, Composable Database Query Language
 - [purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
-- [xmobar](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar
+- [xmobar](https://github.com/jaor/xmobar) - A minimalistic status bar
 - [klfc](https://github.com/39aldo39/klfc) - Keyboard Layout Files Creator
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) - A peer-to-peer stack for code collaboration
 - [koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
@@ -2076,7 +2075,7 @@
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -2584,6 +2583,7 @@
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [cn-ref](https://github.com/mhausenblas/cn-ref) - A collection of tools and references around container networking
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+- [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
 - [spec](https://github.com/app-registry/spec) - the working specification for a standard application registry
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
