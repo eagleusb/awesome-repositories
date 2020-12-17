@@ -1784,6 +1784,7 @@
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
+- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster.
@@ -2296,7 +2297,6 @@
 - [browsix](https://github.com/plasma-umass/browsix) - Browsix is a Unix-like operating system for the browser.
 - [art-of-node](https://github.com/maxogden/art-of-node) - :snowflake: a short introduction to node.js
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
-- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [gh-board](https://github.com/philschatz/gh-board) - :octocat: "Serverless" Kanban for GitHub Issues using gh-pages
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
@@ -2469,7 +2469,6 @@
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 - [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
-- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
@@ -2901,7 +2900,7 @@
 - [py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
 - [jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
-- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface that allows users to scrape a website page and then display a tree of domains that call each other.
 - [goss-ansible](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
@@ -3086,6 +3085,7 @@
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [conn-check](https://github.com/canonical-ols/conn-check) - git mirror of lp:conn-check, PRs welcome and will be merged into trunk
 - [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [exaproxy](https://github.com/Exa-Networks/exaproxy) - Performant Content Modifying Non-Caching Proxy [stable - accepting patches for bug fixes only]
 - [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
 - [django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
