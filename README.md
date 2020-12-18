@@ -452,7 +452,7 @@
 - [mcrouter](https://github.com/facebook/mcrouter) - Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.
-- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
 - [mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
@@ -730,7 +730,7 @@
 - [pinmonl](https://github.com/pinmonl/pinmonl) - Bookmark manager with hierarchical tags
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
-- [capsule](https://github.com/clastix/capsule) - Kubernetes multi-tenant Operator
+- [capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
 - [k8s-worker-pod-autoscaler](https://github.com/practo/k8s-worker-pod-autoscaler) - Kubernetes autoscaler for the workers. Resource is called WPA. Queues Supported: SQS, Beanstalkd.
