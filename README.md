@@ -1769,7 +1769,7 @@
 - [fury-kubernetes-aws](https://github.com/sighupio/fury-kubernetes-aws) - Fury Kubernetes AWS
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) - 
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS
-- [typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution
+- [typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
 - [stack](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure with AWS
 
 ## HLSL 
@@ -2124,7 +2124,6 @@
 - [webpack-command](https://github.com/webpack-contrib/webpack-command) - [DEPRECATED] Lightweight, modular, and opinionated webpack CLI that provides a superior experience
 - [web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js
 - [kubernetes-client](https://github.com/godaddy/kubernetes-client) - Simplified Kubernetes API client for Node.js.
-- [env-and-files](https://github.com/wtgtybhertgeghgtwtg/env-and-files) - Load configuration from environmental variables and files.
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities
 - [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
@@ -3602,6 +3601,7 @@
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [env-and-files](https://github.com/wtgtybhertgeghgtwtg/env-and-files) - Load configuration from environmental variables and files.
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
