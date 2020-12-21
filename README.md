@@ -600,7 +600,7 @@
 - [gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
 - [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
-- [kubevela](https://github.com/oam-dev/kubevela) - An Easy-to-use yet Highly Extensible App Platform based on Kubernetes and Open Application Model.
+- [kubevela](https://github.com/oam-dev/kubevela) - A Platform Engine based on Kubernetes, CUE and Open Application Model.
 - [vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
 - [m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 - [PenguinCast](https://github.com/ssetin/PenguinCast) - Icecast compatible streaming audio server
@@ -1157,7 +1157,7 @@
 - [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -1355,7 +1355,6 @@
 - [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
-- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [terminal-parrot](https://github.com/jmhobbs/terminal-parrot) - 
 - [faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ
 - [grafeas-tutorial](https://github.com/kelseyhightower/grafeas-tutorial) - A step by step guide for getting started with Grafeas and Kubernetes.
@@ -3668,6 +3667,7 @@
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [rbac-view](https://github.com/jasonrichardsmith/rbac-view) - Visualize Kubernetes RBAC rules
+- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 - [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
