@@ -402,7 +402,6 @@
 - [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [ts100](https://github.com/Ralim/ts100) - The Feature Packed Alternate Open Source firmware for the TS100 iron by miniware.
 - [8-Pack](https://github.com/cgarcia2097/8-Pack) - Repository for design files, source code and assembly guides regarding this keypad.
@@ -1864,6 +1863,7 @@
 - [thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [hono](https://github.com/eclipse/hono) - Eclipse Hono™ Project
 - [hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [singer](https://github.com/pinterest/singer) - A high-performance, reliable and extensible logging agent for uploading data to Kafka, Pulsar, etc.
 - [pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [dslabs](https://github.com/emichael/dslabs) - Distributed Systems Labs and Framework
