@@ -671,6 +671,7 @@
 - [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [ClusterCloner](https://github.com/doitintl/ClusterCloner) - Clone Kubernetes clusters (VM infrastructure, not K8s objects) to/from AWS EKS, GCP GKE, and Azure EKS.
 - [go-edlib](https://github.com/hbollon/go-edlib) - Golang string comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -3523,7 +3524,6 @@
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile dashboard for Kubernetes brought to you by Kinvolk.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
 - [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
