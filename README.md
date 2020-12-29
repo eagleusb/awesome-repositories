@@ -1366,7 +1366,7 @@
 - [chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository
 - [kedge](https://github.com/improbable-eng/kedge) - kEdge - Kubernetes Edge Proxy for gRPC and HTTP Microservices
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet,vSphere, MetalStack, and kubevirt with minimal TCO.
+- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
@@ -2082,7 +2082,7 @@
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
-- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant HTTP client based on window.fetch
+- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
@@ -2450,7 +2450,7 @@
 
 - [vault-raft-backup-agent](https://github.com/adfinis-sygroup/vault-raft-backup-agent) - Vault Raft Integrated Storage Snapshot Automation
 - [data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
@@ -3359,7 +3359,7 @@
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
 - [linkerd-tcp](https://github.com/linkerd/linkerd-tcp) - A TCP/TLS load balancer for Linkerd 1.x.
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## SCSS 
 
