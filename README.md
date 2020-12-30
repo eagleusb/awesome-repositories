@@ -3661,7 +3661,7 @@
 ## Vue 
 
 - [forum](https://github.com/sbkwgh/forum) - Forum software created using Express, Vue, and Sequelize
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
