@@ -1182,7 +1182,7 @@
 - [aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [tflint](https://github.com/terraform-linters/tflint) - TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &gt;= 0.12)
+- [tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [mantle](https://github.com/coreos/mantle) - Mantle: Gluing Container Linux together
 - [matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters
@@ -2361,7 +2361,7 @@
 - [datasets](https://github.com/unsplash/datasets) - 🎁 2,000,000+ Unsplash images made available for research and machine learning
 - [course-nlp](https://github.com/fastai/course-nlp) - A Code-First Introduction to NLP course
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
-- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
+- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [notes](https://github.com/CME211/notes) - CME211 Notes | Outline -&gt;
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
@@ -2616,7 +2616,7 @@
 - [linux-re-101](https://github.com/michalmalik/linux-re-101) - A collection of resources for linux reverse engineering
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 - [picasso](https://github.com/openstack-archive/picasso) - MOVED: now at https://opendev.org/x/picasso
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
