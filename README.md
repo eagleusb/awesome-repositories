@@ -628,7 +628,7 @@
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
 - [hive](https://github.com/suborbital/hive) - A powerful job scheduler for Go & Wasm
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
-- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency trace storage.
+- [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [louis](https://github.com/owen-d/louis) - 
 - [odoh-server-go](https://github.com/cloudflare/odoh-server-go) - Oblivious DoH server in Go
@@ -774,7 +774,7 @@
 - [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
@@ -2446,6 +2446,7 @@
 
 ## Others 
 
+- [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [vault-raft-backup-agent](https://github.com/adfinis-sygroup/vault-raft-backup-agent) - Vault Raft Integrated Storage Snapshot Automation
 - [data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -2820,7 +2821,7 @@
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform
-- [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - a lightweight, security focused, BDD test framework against terraform.
+- [cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [ec2-metadata](https://github.com/adamchainz/ec2-metadata) - An easy interface to query the EC2 metadata API, with caching.
 - [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
@@ -2847,7 +2848,7 @@
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [inat_comp](https://github.com/visipedia/inat_comp) - iNaturalist competition details
 - [aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
-- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
