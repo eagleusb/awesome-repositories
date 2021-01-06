@@ -3087,7 +3087,7 @@
 - [exaproxy](https://github.com/Exa-Networks/exaproxy) - Performant Content Modifying Non-Caching Proxy [stable - accepting patches for bug fixes only]
 - [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
 - [django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool.
 - [marathon-lb](https://github.com/mesosphere/marathon-lb) - Marathon-lb is a service discovery & load balancing tool for DC/OS
