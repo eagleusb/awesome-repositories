@@ -597,7 +597,7 @@
 - [gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
 - [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
-- [kubevela](https://github.com/oam-dev/kubevela) - A Platform Engine based on Kubernetes, CUELang templating and Open Application Model.
+- [kubevela](https://github.com/oam-dev/kubevela) - A Highly Extensible Platform Engine based on Kubernetes and Open Application Model.
 - [vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
 - [m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 - [PenguinCast](https://github.com/ssetin/PenguinCast) - Icecast compatible streaming audio server
@@ -2425,7 +2425,7 @@
 ## OCaml 
 
 - [liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
-- [reason](https://github.com/facebook/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels
@@ -2805,7 +2805,7 @@
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [canaryd](https://github.com/Oxygem/canaryd) - The Service Canary daemon.
 - [cheekymonkey](https://github.com/richstokes/cheekymonkey) - Literally a Chaos Monkey for your Kubernetes clusters
-- [jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax
+- [jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
