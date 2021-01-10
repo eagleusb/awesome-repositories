@@ -791,7 +791,7 @@
 - [rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC, let the server do the pausing and seeking.
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [webcam](https://github.com/blackjack/webcam) - Golang webcam library for Linux
-- [serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant gateway for HTTP clusters, written in Go.
+- [serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant gateway for HTTP clusters, written in Go. White paper for reference - https://github.com/gptankit/adareqmodel-paper
 - [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
@@ -2303,7 +2303,7 @@
 - [addic7ed-api](https://github.com/same31/addic7ed-api) - API to search and download subtitles files from addic7ed.com
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
-- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Docs at https://github.com/wekan/wekan-doc/wiki . Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [board](https://github.com/RestyaPlatform/board) - Trello like kanban board. Based on Restya platform.
 - [anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
@@ -2945,7 +2945,7 @@
 - [kube-downscaler](https://github.com/hjacobs/kube-downscaler) - Scale down Kubernetes deployments after work hours
 - [kube-janitor](https://github.com/hjacobs/kube-janitor) - Clean up (delete) Kubernetes resources after a configured TTL (time to live)
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS decentralized secure filesystem.
 - [strace-pipes-presentation](https://github.com/nh2/strace-pipes-presentation) - Presentation: Debugging across pipes and sockets with strace
 - [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
