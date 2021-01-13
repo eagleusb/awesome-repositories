@@ -119,6 +119,7 @@
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
 - [nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
@@ -668,7 +669,7 @@
 - [promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
 - [tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
-- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or theming headaches.
+- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
 - [fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [ClusterCloner](https://github.com/doitintl/ClusterCloner) - Clone Kubernetes clusters (VM infrastructure, not K8s objects) to/from AWS EKS, GCP GKE, and Azure EKS.
 - [go-edlib](https://github.com/hbollon/go-edlib) - Golang string comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
@@ -781,7 +782,6 @@
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
 - [bigmachine](https://github.com/grailbio/bigmachine) - Bigmachine is a library for self-managing serverless computing in Go
@@ -850,7 +850,7 @@
 - [odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
 - [pike](https://github.com/sashabaranov/pike) - Generate CRUD gRPC backends from single YAML description.
 - [draft](https://github.com/lucasepe/draft) - Generate High Level Cloud Architecture diagrams using YAML syntax.
-- [streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything
+- [streamhut](https://github.com/miguelmota/streamhut) - Stream your terminal to web without installing anything 🌐
 - [cluster-turndown](https://github.com/kubecost/cluster-turndown) - Automated turndown of Kubernetes clusters on specific schedules.
 - [stars](https://github.com/gkze/stars) - :star: Keep your Github Stars fresh!
 - [storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
@@ -1890,7 +1890,6 @@
 - [data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [dcache](https://github.com/dCache/dcache) - dCache - a system for storing and retrieving huge amounts of data, distributed among a large number of heterogenous server nodes, under a single virtual filesystem tree with a variety of standard access methods
-- [apollo](https://github.com/logzio/apollo) - Apollo - The logz.io continuous deployment solution over kubernetes
 - [haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [lavagna](https://github.com/digitalfondue/lavagna) - Lavagna: issue tracker/project management tool
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
@@ -1936,7 +1935,7 @@
 
 ## JavaScript 
 
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
 - [ui](https://github.com/criticalstack/ui) - Frontend, backend, and Helm chart for CS UI
 - [bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
@@ -3078,7 +3077,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [barman](https://github.com/2ndquadrant-it/barman) - Barman - Backup and Recovery Manager for PostgreSQL
-- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
 - [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [scudcloud](https://github.com/raelgc/scudcloud) - ScudCloud - Slack for Linux
