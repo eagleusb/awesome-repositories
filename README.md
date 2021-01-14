@@ -334,6 +334,7 @@
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserever using DCC
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [foo-tools](https://github.com/glftpd/foo-tools) - collected foo-tools sources + some fixes
@@ -1201,7 +1202,7 @@
 - [berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [serverless-registry-proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains.
-- [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
+- [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers
 - [pipehub](https://github.com/pipehub/pipehub) - A programmable proxy server
 - [konfig](https://github.com/kelseyhightower/konfig) - 
 - [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
@@ -1472,7 +1473,7 @@
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
-- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [scat](https://github.com/Roman2K/scat) - Decentralized, trustless backup tool
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [periph](https://github.com/google/periph) - Go·Hardware·Lean
@@ -2349,7 +2350,6 @@
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
 ## Jsonnet 
@@ -2500,7 +2500,6 @@
 - [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) - A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [ansible-maas](https://github.com/mrlesmithjr/ansible-maas) - 
-- [k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [TLS-Padding-Oracles](https://github.com/tls-attacker/TLS-Padding-Oracles) - New TLS Padding Oracles
 - [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - 
@@ -2509,7 +2508,6 @@
 - [Mini-LoRa](https://github.com/hallard/Mini-LoRa) - Arduino Mini Lora Battery/Sensors Board
 - [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
 - [stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) - VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
-- [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [plain60-c](https://github.com/evyd13/plain60-c) - Universally compatible 60% PCB with minimal layout support and USB-C
 - [awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [keyboard_pcb](https://github.com/ahtn/keyboard_pcb) - 
@@ -2746,7 +2744,7 @@
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
 - [pinject](https://github.com/google/pinject) - A pythonic dependency injection library.
-- [keylime](https://github.com/keylime/keylime) - Bootstrap & Maintain Trust on the Edge / Cloud and IoT
+- [keylime](https://github.com/keylime/keylime) - A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT
 - [awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [keymaker](https://github.com/kislyuk/keymaker) - Lightweight SSH key management on AWS EC2
@@ -2917,6 +2915,7 @@
 - [helix](https://github.com/mcmadhatter/helix) - A compact split ortholinear keyboard.
 - [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
+- [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [gradtype](https://github.com/indutny/gradtype) - WIP
 - [amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [chaosplatform](https://github.com/chaostoolkit/chaosplatform) - The Chaos Engineering platform for everyone
@@ -3423,6 +3422,7 @@
 - [fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
 - [longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
 - [wks-quickstart-firekube](https://github.com/weaveworks/wks-quickstart-firekube) - Example configuration to create Kubernetes clusters powered by ignite and gitops
+- [k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [helm-tiller](https://github.com/rimusz/helm-tiller) - Helm v2 Tiller plugin aka Tillerless Helm
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -3522,7 +3522,7 @@
 
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-- [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile dashboard for Kubernetes brought to you by Kinvolk.
+- [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile web UI for Kubernetes brought to you by Kinvolk.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
@@ -3595,7 +3595,7 @@
 - [core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [kubernetes-app](https://github.com/grafana/kubernetes-app) - A set of dashboards and panels for kubernetes.
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [chameleon](https://github.com/sereneblue/chameleon) - A WebExtension port of Random Agent Spoofer
+- [chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [start](https://github.com/deepsweet/start) - :red_circle: Functional task runner for Node.js
 - [node-k8s-client](https://github.com/Goyoo/node-k8s-client) - kubernetes client of node.js
