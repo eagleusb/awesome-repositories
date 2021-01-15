@@ -649,7 +649,7 @@
 - [kube-vip](https://github.com/plunder-app/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul on Kubernetes, integrate Connect, sync services, and more.
-- [cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) - 
+- [cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of "self-managed" and EKS Kubernetes clusters on AWS.
 - [goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 - [aws-otel-collector](https://github.com/aws-observability/aws-otel-collector) - AWS Distro for OpenTelemetry Collector
@@ -3470,7 +3470,7 @@
 - [crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions )
 - [multibinder](https://github.com/github/multibinder) - multibinder is a tiny ruby server that makes writing zero-downtime-reload services simpler.
-- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
+- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [haproxy-consul](https://github.com/CiscoCloud/haproxy-consul) - Dynamic haproxy configuration using consul
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
@@ -3552,7 +3552,7 @@
 - [vpcstudio](https://github.com/houqp/vpcstudio) - VPC design made easy
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [metacar](https://github.com/thibo73800/metacar) - A reinforcement learning environment for self-driving cars in the browser.
-- [talkyard](https://github.com/debiki/talkyard) - Forum software, brings together the best from StackOverflow, Discourse, Slack, Reddit, Disqus.
+- [talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [balena-supervisor](https://github.com/balena-io/balena-supervisor) - Balena Supervisor: balena's agent on devices.
 - [pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
