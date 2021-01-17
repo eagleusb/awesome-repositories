@@ -981,7 +981,7 @@
 - [statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [httpmole](https://github.com/jcchavezs/httpmole) - A HTTP mole service
 - [manifestival](https://github.com/manifestival/manifestival) - Create, manipulate, apply and delete Kubernetes resource manifests at runtime
-- [arkade](https://github.com/alexellis/arkade) - Portable DevOps Marketplace
+- [arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
 - [clarity](https://github.com/xchapter7x/clarity) - A declaritive test framework for Terraform
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
