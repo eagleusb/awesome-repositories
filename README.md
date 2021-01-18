@@ -1795,7 +1795,6 @@
 - [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [openfaas-flux](https://github.com/stefanprodan/openfaas-flux) - OpenFaaS Kubernetes cluster state management with FluxCD
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
-- [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Hashicorp Consul clusters
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [b612](https://github.com/polarsys/b612) - Eclipse B612
@@ -1982,6 +1981,7 @@
 - [algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
+- [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [node-x11](https://github.com/sidorares/node-x11) - X11 node.js network protocol client
 - [node-i3](https://github.com/sidorares/node-i3) - i3-ipc node.js client
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -2754,7 +2754,7 @@
 - [ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 - [ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher) - 
 - [pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them
-- [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
+- [mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
