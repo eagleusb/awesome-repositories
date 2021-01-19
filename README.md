@@ -579,6 +579,8 @@
 
 ## Go 
 
+- [knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
+- [please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 - [boringproxy](https://github.com/boringproxy/boringproxy) - No-frills HTTPS/SSH tunneling solution with as much automation as possible. Designed for self-hosters.
 - [porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
@@ -793,7 +795,7 @@
 - [rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC, let the server do the pausing and seeking.
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [webcam](https://github.com/blackjack/webcam) - Golang webcam library for Linux
-- [serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant gateway for HTTP clusters, written in Go. White paper for reference - https://github.com/gptankit/adareqmodel-paper
+- [serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant gateway for HTTP clusters, written in Go. White paper for reference - https://github.com/gptankit/serviceq-paper
 - [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
@@ -2010,7 +2012,6 @@
 - [kubeasy](https://github.com/marcenacp/kubeasy) - ⛅️ Immersive command-line interface to manage Kubernetes cloud clusters
 - [typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
 - [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
-- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [httpie](https://github.com/lukeed/httpie) - A Node.js HTTP client as easy as pie! 🥧
 - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
@@ -3560,6 +3561,7 @@
 - [garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching.
 - [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [mokka](https://github.com/ega-forever/mokka) - Mokka consensus
+- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [litmus](https://github.com/litmuschaos/litmus) - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 - [aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
