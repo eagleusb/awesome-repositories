@@ -579,6 +579,7 @@
 
 ## Go 
 
+- [reva](https://github.com/cs3org/reva) - IOP (Inter Operability Platform)
 - [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
 - [please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
@@ -2768,7 +2769,7 @@
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer.
 - [polypomo](https://github.com/unode/polypomo) - Pomodoro widget for use with polybar (or standalone if you are so inclined)
-- [wdcrypt](https://github.com/iamstefin/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
+- [wdcrypt](https://github.com/stefins/wdcrypt) - 🔐A CLI to encrypt all the files and folder in your current working directory.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
@@ -2921,7 +2922,7 @@
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [gradtype](https://github.com/indutny/gradtype) - WIP
 - [amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
-- [chaosplatform](https://github.com/chaostoolkit/chaosplatform) - The Chaos Engineering platform for everyone
+- [chaosplatform](https://github.com/chaostoolkit-attic/chaosplatform) - The Chaos Engineering platform for everyone
 - [chaostoolkit-lib](https://github.com/chaostoolkit/chaostoolkit-lib) - The Chaos Toolkit core library
 - [machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
@@ -3391,6 +3392,7 @@
 
 ## Shell 
 
+- [jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
