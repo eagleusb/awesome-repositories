@@ -579,6 +579,7 @@
 
 ## Go 
 
+- [gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [reva](https://github.com/cs3org/reva) - IOP (Inter Operability Platform)
 - [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
@@ -1940,6 +1941,7 @@
 
 ## JavaScript 
 
+- [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
 - [ui](https://github.com/criticalstack/ui) - Frontend, backend, and Helm chart for CS UI
@@ -3089,7 +3091,7 @@
 - [book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [exaproxy](https://github.com/Exa-Networks/exaproxy) - Performant Content Modifying Non-Caching Proxy [stable - accepting patches for bug fixes only]
-- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
+- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
