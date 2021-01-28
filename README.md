@@ -580,6 +580,7 @@
 
 ## Go 
 
+- [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
 - [gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [reva](https://github.com/cs3org/reva) - IOP (Inter Operability Platform)
 - [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -1251,7 +1252,7 @@
 - [k8s-config-projector](https://github.com/tumblr/k8s-config-projector) - Create Kubernetes ConfigMaps from configuration files
 - [k8s-secret-projector](https://github.com/tumblr/k8s-secret-projector) - Kubernetes Secret generation from secure credential repos
 - [roughtime](https://github.com/cloudflare/roughtime) - A secure clock-synchronization protocol for when rough is enough.
-- [aws-lambda-container-image-converter](https://github.com/awslabs/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
+- [aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [runq](https://github.com/gotoz/runq) - run regular Docker images in KVM/Qemu
 - [mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [tengo](https://github.com/d5/tengo) - A fast script language for Go
@@ -1443,7 +1444,7 @@
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [distribution](https://github.com/docker/distribution) - The toolkit to pack, ship, store, and deliver container content
+- [distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
