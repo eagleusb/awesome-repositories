@@ -95,6 +95,7 @@
 
 ## C 
 
+- [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [nntp-proxy](https://github.com/nieluj/nntp-proxy) - simple NNTP proxy with SSL support
 - [riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
@@ -2907,7 +2908,7 @@
 - [demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
 - [ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
-- [lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface that allows users to scrape a website page and then display a tree of domains that call each other.
+- [lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface that allows users to capture a website page and then display a tree of domains that call each other.
 - [goss-ansible](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
 - [kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
