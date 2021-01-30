@@ -581,13 +581,14 @@
 
 ## Go 
 
+- [etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
 - [gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
 - [reva](https://github.com/cs3org/reva) - IOP (Inter Operability Platform)
 - [grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
 - [please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
-- [boringproxy](https://github.com/boringproxy/boringproxy) - No-frills HTTPS/SSH tunneling solution with as much automation as possible. Designed for self-hosters.
+- [boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [go-sh](https://github.com/codeskyblue/go-sh) - like python-sh, for easy call shell with golang.
@@ -2095,7 +2096,7 @@
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js
 - [jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
@@ -2787,7 +2788,7 @@
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Chatette](https://github.com/SimGus/Chatette) - A powerful dataset generator for Rasa NLU, inspired by Chatito
-- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [twittor](https://github.com/PaulSec/twittor) - A fully featured backdoor that uses Twitter as a C&C server
