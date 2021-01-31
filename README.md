@@ -1014,7 +1014,7 @@
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [juju](https://github.com/juju/juju) - Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux and Windows apps, with declarative integration between operators for automated microservice integration.
 - [gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
-- [buf](https://github.com/bufbuild/buf) - 
+- [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [gitty-up](https://github.com/liatrio/gitty-up) - GitOps tool to update manifest files in remote git repositories
 - [rode](https://github.com/liatrio/rode) - cloud native software supply chain ☁️🔗
