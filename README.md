@@ -106,7 +106,6 @@
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
-- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [doslinux](https://github.com/charliesome/doslinux) - Run Linux programs on DOS
@@ -204,7 +203,7 @@
 - [casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [nbd](https://github.com/NetworkBlockDevice/nbd) - Network Block Device
-- [moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System
+- [moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)
 - [sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU
 - [minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
@@ -367,6 +366,7 @@
 - [snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes
 - [thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
@@ -690,7 +690,7 @@
 - [grafana-consul-datasource](https://github.com/sbueringer/grafana-consul-datasource) - Consul Datasource for Grafana
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
-- [lakeFS](https://github.com/treeverse/lakeFS) - An open source platform that delivers resilience and manageability to object-storage based data lakes
+- [lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
 - [pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1954,7 +1954,6 @@
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
-- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -2812,7 +2811,7 @@
 - [i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [canaryd](https://github.com/Oxygem/canaryd) - The Service Canary daemon.
-- [cheekymonkey](https://github.com/richstokes/cheekymonkey) - Literally a Chaos Monkey for your Kubernetes clusters
+- [cheekymonkey](https://github.com/richstokes/cheekymonkey) - 🐵 Literally a Chaos Monkey for your Kubernetes clusters
 - [jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
@@ -3103,7 +3102,7 @@
 - [marathon-lb](https://github.com/mesosphere/marathon-lb) - Marathon-lb is a service discovery & load balancing tool for DC/OS
 - [coal-mine](https://github.com/quantopian/coal-mine) - Coal Mine - Periodic task execution monitor
 - [addic7ed](https://github.com/adrian-maurin/addic7ed) - Addic7ed scraper written in Python to download subtitles (almost) automatically
-- [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
+- [healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
@@ -3409,7 +3408,7 @@
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [build](https://github.com/armbian/build) - Armbian Linux build tools
-- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
+- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
 - [sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Simple benchmark for single board computers
 - [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
 - [alexa-remote-control](https://github.com/thorsten-gehrig/alexa-remote-control) - control Amazon Alexa from command Line (set volume, select station from tunein or pandora)
@@ -3538,6 +3537,7 @@
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
 - [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
+- [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [vscode-terraform-doc-snippets](https://github.com/run-at-scale/vscode-terraform-doc-snippets) - Snippets in vscode for all resources and data sources, as yanked directly from provider docs.
 - [open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
 - [open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
