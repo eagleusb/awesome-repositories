@@ -559,7 +559,7 @@
 
 ## Elixir 
 
-- [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
+- [analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
 
 ## Emacs Lisp 
@@ -3612,7 +3612,7 @@
 - [node-k8s-client](https://github.com/Goyoo/node-k8s-client) - kubernetes client of node.js
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [javascript](https://github.com/kubernetes-client/javascript) - Javascript client
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [env-and-files](https://github.com/wtgtybhertgeghgtwtg/env-and-files) - Load configuration from environmental variables and files.
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
