@@ -581,6 +581,7 @@
 
 ## Go 
 
+- [shaas](https://github.com/heroku/shaas) - Shell as a Service: API to inspect and execute scripts in a server's environment via HTTP and WebSockets
 - [etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
 - [gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
@@ -2178,7 +2179,7 @@
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 - [storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
 - [sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
@@ -3529,6 +3530,7 @@
 
 ## TypeScript 
 
+- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile web UI for Kubernetes brought to you by Kinvolk.
