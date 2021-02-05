@@ -581,6 +581,10 @@
 
 ## Go 
 
+- [go-memdb](https://github.com/hashicorp/go-memdb) - Golang in-memory database built on immutable radix trees
+- [dazzle](https://github.com/gitpod-io/dazzle) - dazzle is a rather experimental Docker image builder which builds independent layers
+- [leeway](https://github.com/gitpod-io/leeway) - Leeway is a heavily caching build system for Go, Typescript and Docker projects.
+- [werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
 - [shaas](https://github.com/heroku/shaas) - Shell as a Service: API to inspect and execute scripts in a server's environment via HTTP and WebSockets
 - [etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
@@ -707,6 +711,7 @@
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
 - [quake-kube](https://github.com/criticalstack/quake-kube) - Quake 3 on Kubernetes
+- [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
 - [osc-bsu-csi-driver](https://github.com/outscale-dev/osc-bsu-csi-driver) - 
 - [clusterlint](https://github.com/digitalocean/clusterlint) - A best practices checker for Kubernetes clusters. 🤠
 - [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
@@ -1770,6 +1775,7 @@
 
 ## HCL 
 
+- [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
 - [terraform-guides](https://github.com/hashicorp/terraform-guides) - Example usage of HashiCorp Terraform
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
@@ -3538,7 +3544,6 @@
 - [cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
 - [elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) - Simple URL-shortener that offers a GraphQL API and is highly extensible and configurable created for https://twa.si.
-- [kalm](https://github.com/kalmhq/kalm) - Kalm | Kubernetes AppLication Manager
 - [arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [vscode-terraform-doc-snippets](https://github.com/run-at-scale/vscode-terraform-doc-snippets) - Snippets in vscode for all resources and data sources, as yanked directly from provider docs.
 - [open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
