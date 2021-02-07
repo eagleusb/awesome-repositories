@@ -643,7 +643,7 @@
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
 - [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices written in Go.
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
-- [hive](https://github.com/suborbital/hive) - A powerful job scheduler for Go & Wasm
+- [reactr](https://github.com/suborbital/reactr) - A powerful function scheduler for Go & Wasm
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
@@ -1892,7 +1892,7 @@
 - [deprecated-security-ssl](https://github.com/opendistro-for-elasticsearch/deprecated-security-ssl) - [DO NOT USE - DEPRECATED AS OF v1.0.0] SSL module for Open Distro for Elasticsearch security plugin
 - [deprecated-security-advanced-modules](https://github.com/opendistro-for-elasticsearch/deprecated-security-advanced-modules) - [DO NOT USE - DEPRECATED as of v1.4.0] Advanced modules for the Open Distro for Elasticsearch security plugin; Merged into security repo.
 - [airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
-- [doctorkafka](https://github.com/pinterest/doctorkafka) - DoctorKafka is a service for Kafka cluster auto healing and workload balancing
+- [DoctorK](https://github.com/pinterest/DoctorK) - DoctorK is a service for Kafka cluster auto healing and workload balancing
 - [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
 - [kafka-connect-hdfs](https://github.com/confluentinc/kafka-connect-hdfs) - Kafka Connect HDFS connector
@@ -3682,7 +3682,7 @@
 ## Vue 
 
 - [forum](https://github.com/sbkwgh/forum) - Forum software created using Express, Vue, and Sequelize
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
