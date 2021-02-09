@@ -223,7 +223,7 @@
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 - [odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
-- [openvas](https://github.com/greenbone/openvas) - Open Vulnerability Assessment Scanner - Scanner for Greenbone Vulnerability Management (GVM)
+- [openvas-scanner](https://github.com/greenbone/openvas-scanner) - Open Vulnerability Assessment Scanner - Scanner for Greenbone Vulnerability Management (GVM)
 - [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) - NFS-Ganesha is an NFSv3,v4,v4.1 fileserver that runs in user mode on most UNIX/Linux systems
 - [bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
@@ -643,7 +643,7 @@
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
 - [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices written in Go.
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
-- [reactr](https://github.com/suborbital/reactr) - A powerful function scheduler for Go & Wasm
+- [reactr](https://github.com/suborbital/reactr) - A powerful function scheduler for Go & WebAssembly
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
