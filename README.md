@@ -63,7 +63,6 @@
   - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
-  - [Smarty](#smarty)
   - [Starlark](#starlark)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -581,6 +580,8 @@
 
 ## Go 
 
+- [wireguard-go](https://github.com/tailscale/wireguard-go) - Tailscale's temporary fork of https://git.zx2c4.com/wireguard-go
+- [docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - A Docker credential helper for GCR users
 - [go-memdb](https://github.com/hashicorp/go-memdb) - Golang in-memory database built on immutable radix trees
 - [dazzle](https://github.com/gitpod-io/dazzle) - dazzle is a rather experimental Docker image builder which builds independent layers
 - [leeway](https://github.com/gitpod-io/leeway) - Leeway is a heavily caching build system for Go, Typescript and Docker projects.
@@ -872,7 +873,7 @@
 - [storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 - [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [openyurt](https://github.com/alibaba/openyurt) - OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
+- [openyurt](https://github.com/openyurtio/openyurt) - OpenYurt - Extending your native Kubernetes to edge(project under CNCF)
 - [dragon-iss-docking-autopilot](https://github.com/mbertschler/dragon-iss-docking-autopilot) - Autopilot in Go for docking the SpaceX Dragon capsule in the simulator
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet
 - [go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go
@@ -1089,7 +1090,7 @@
 - [helm-operator](https://github.com/fluxcd/helm-operator) - The Flux Helm Operator, for declarative Helming
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
-- [ent](https://github.com/facebook/ent) - An entity framework for Go
+- [ent](https://github.com/ent/ent) - An entity framework for Go
 - [test-infra](https://github.com/gardener/test-infra) - Test machinery for orchestration of integration/e2e/smoke style tests
 - [muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
@@ -1358,7 +1359,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
 - [kubetest](https://github.com/garethr/kubetest) - Write unit tests for your Kubernetes configurations
 - [skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
 - [apm-server](https://github.com/elastic/apm-server) - APM Server
@@ -1485,7 +1486,7 @@
 - [dispatch](https://github.com/vmware-archive/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) - Fast and secure tunnels over HTTP/2
-- [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+- [dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
 - [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
@@ -1798,6 +1799,7 @@
 - [helm-charts](https://github.com/adfinis-sygroup/helm-charts) - Helm charts from Adfinis
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
+- [helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
@@ -3398,7 +3400,7 @@
 - [openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [scheduler](https://github.com/PagerDuty/scheduler) - A Scala library for scheduling arbitrary code to run at an arbitrary time.
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
-- [linkerd](https://github.com/linkerd/linkerd) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 1.x.
+- [linkerd](https://github.com/linkerd/linkerd) - Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
 - [chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 
 ## Shell 
@@ -3510,10 +3512,6 @@
 - [diskimage-builder](https://github.com/openstack/diskimage-builder) - Image building tools for OpenStack. Mirror of code maintained at opendev.org.
 - [glftpd](https://github.com/signor-/glftpd) - glftpd scripts
 - [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
-
-## Smarty 
-
-- [helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
 
 ## Starlark 
 
