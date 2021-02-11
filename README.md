@@ -501,7 +501,7 @@
 - [elastickube](https://github.com/ElasticBox/elastickube) - ElasticKube is an open source management platform for Kubernetes.
 - [csstyle](https://github.com/csstyle-org/csstyle) - clean, simple styling for styling the web.
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [source-sans-pro](https://github.com/adobe-fonts/source-sans-pro) - Sans serif font family for user interface environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
@@ -580,6 +580,10 @@
 
 ## Go 
 
+- [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
+- [booklit](https://github.com/vito/booklit) - a pretty lit content authoring system
+- [pipe](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
+- [go-wasm-http-server](https://github.com/nlepage/go-wasm-http-server) - Embed your Go HTTP handlers in a ServiceWorker and emulate an HTTP server!
 - [wireguard-go](https://github.com/tailscale/wireguard-go) - Tailscale's temporary fork of https://git.zx2c4.com/wireguard-go
 - [docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - A Docker credential helper for GCR users
 - [go-memdb](https://github.com/hashicorp/go-memdb) - Golang in-memory database built on immutable radix trees
@@ -1080,7 +1084,6 @@
 - [cnab-go](https://github.com/cnabio/cnab-go) - A Go implementation of CNAB Core 1.0
 - [duffle](https://github.com/cnabio/duffle) - CNAB installer
 - [aws-service-operator](https://github.com/amazon-archives/aws-service-operator) - AWS Service Operator allows you to create AWS resources using kubectl.
-- [amazon-ecr-continuous-scan](https://github.com/aws-samples/amazon-ecr-continuous-scan) - Example container image re-scan with Amazon ECR
 - [kask](https://github.com/kui-shell/kask) - A manager for UI plugins to kubectl
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package
@@ -2743,6 +2746,7 @@
 
 ## Python 
 
+- [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer) - A pure-Python Network Packet Sniffing tool
@@ -3289,6 +3293,7 @@
 
 ## Rust 
 
+- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sonnerie](https://github.com/njaard/sonnerie) - A simple timeseries database
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -3533,6 +3538,7 @@
 
 ## TypeScript 
 
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
