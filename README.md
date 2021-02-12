@@ -61,6 +61,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Starlark](#starlark)
@@ -359,7 +360,7 @@
 ## C++ 
 
 - [filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
-- [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent BitTorrent client (Enhanced Edition)
+- [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
@@ -496,7 +497,6 @@
 - [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
-- [hugo-fresh](https://github.com/StefMa/hugo-fresh) - Hugo Fresh Theme
 - [reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
 - [elastickube](https://github.com/ElasticBox/elastickube) - ElasticKube is an open source management platform for Kubernetes.
 - [csstyle](https://github.com/csstyle-org/csstyle) - clean, simple styling for styling the web.
@@ -747,7 +747,6 @@
 - [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
-- [community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [pinmonl](https://github.com/pinmonl/pinmonl) - Bookmark manager with hierarchical tags
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
@@ -1402,7 +1401,7 @@
 - [gimbal](https://github.com/projectcontour/gimbal) - Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio.
 - [cni-benchmarks](https://github.com/jessfraz/cni-benchmarks) - A simple program to benchmark various container networking (CNI) plugins.
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-- [brigade](https://github.com/brigadecore/brigade) - Event-based Scripting for Kubernetes.
+- [brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [tenta-dns](https://github.com/tenta-browser/tenta-dns) - Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS
@@ -3394,6 +3393,10 @@
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
+## Sass 
+
+- [hugo-fresh](https://github.com/StefMa/hugo-fresh) - Hugo Fresh Theme
+
 ## Scala 
 
 - [collins](https://github.com/tumblr/collins) - groovy kind of love
@@ -3418,6 +3421,7 @@
 - [vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
+- [community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [build](https://github.com/armbian/build) - Armbian Linux build tools
