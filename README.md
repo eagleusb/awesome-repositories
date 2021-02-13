@@ -844,7 +844,7 @@
 - [alexa-skills-kit-golang](https://github.com/ericdaugherty/alexa-skills-kit-golang) - GoLang port of the Amazon Alexa Skills Kit
 - [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
 - [ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [service-apis](https://github.com/kubernetes-sigs/service-apis) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
 - [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
@@ -1956,6 +1956,7 @@
 
 ## JavaScript 
 
+- [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
