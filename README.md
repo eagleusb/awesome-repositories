@@ -580,6 +580,8 @@
 
 ## Go 
 
+- [vorteil](https://github.com/vorteil/vorteil) - turn your applications and containers into micro virtual machines
+- [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [booklit](https://github.com/vito/booklit) - a pretty lit content authoring system
@@ -3294,6 +3296,7 @@
 
 ## Rust 
 
+- [runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sonnerie](https://github.com/njaard/sonnerie) - A simple timeseries database
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
@@ -3608,7 +3611,7 @@
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kui](https://github.com/IBM/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [sdk-javascript](https://github.com/cloudevents/sdk-javascript) - Javascript SDK for CloudEvents
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [duffle-coat](https://github.com/deislabs/duffle-coat) - VS Code extension for generating CNAB self-installers
