@@ -580,6 +580,7 @@
 
 ## Go 
 
+- [cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [vorteil](https://github.com/vorteil/vorteil) - turn your applications and containers into micro virtual machines
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
@@ -847,7 +848,6 @@
 - [alexa-skills-kit-golang](https://github.com/ericdaugherty/alexa-skills-kit-golang) - GoLang port of the Amazon Alexa Skills Kit
 - [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
 - [ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
-- [gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [go-envconfig](https://github.com/sethvargo/go-envconfig) - A Go library for parsing struct tags from environment variables.
 - [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages
@@ -1809,6 +1809,7 @@
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
+- [gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 - [ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
 - [subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
@@ -2168,7 +2169,7 @@
 - [airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
 - [cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
-- [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [xo](https://github.com/xojs/xo) - ❤️ JavaScript linter with great defaults
@@ -2240,7 +2241,7 @@
 - [markvis](https://github.com/geekplux/markvis) - make visualization in markdown. 📊📈
 - [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application
+- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
 - [cloudboost](https://github.com/CloudBoost/cloudboost) - Realtime JavaScript Backend.
@@ -2950,7 +2951,7 @@
 - [Keyboard-Layout-Editor-for-Blender](https://github.com/Kirpal/Keyboard-Layout-Editor-for-Blender) - Allows you to import keyboard layouts into blender and render them in 3d
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
+- [pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 - [ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
@@ -3296,6 +3297,7 @@
 
 ## Rust 
 
+- [bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sonnerie](https://github.com/njaard/sonnerie) - A simple timeseries database
@@ -3547,6 +3549,7 @@
 
 ## TypeScript 
 
+- [signoz](https://github.com/SigNoz/signoz) - Open source Observability Platform. 👉 SigNoz helps developers find issues in their deployed applications & solve them quickly
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
