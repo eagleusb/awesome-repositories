@@ -334,7 +334,6 @@
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserever using DCC
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [foo-tools](https://github.com/glftpd/foo-tools) - collected foo-tools sources + some fixes
@@ -580,6 +579,9 @@
 
 ## Go 
 
+- [kuma](https://github.com/kumahq/kuma) - 🐻 The Universal Service Mesh. CNCF Sandbox Project.
+- [compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
+- [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [vorteil](https://github.com/vorteil/vorteil) - turn your applications and containers into micro virtual machines
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
@@ -1693,7 +1695,7 @@
 - [keytransparency](https://github.com/google/keytransparency) - A transparent and secure way to look up public keys.
 - [build](https://github.com/containers/build) - another build tool for container images (archived, see https://github.com/rkt/rkt/issues/4024)
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, transparent cloud integration. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -1800,6 +1802,7 @@
 
 ## HTML 
 
+- [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [helm-charts](https://github.com/adfinis-sygroup/helm-charts) - Helm charts from Adfinis
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
@@ -2374,6 +2377,7 @@
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
 ## Jsonnet 
@@ -2750,6 +2754,8 @@
 
 ## Python 
 
+- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -3549,6 +3555,7 @@
 
 ## TypeScript 
 
+- [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [signoz](https://github.com/SigNoz/signoz) - Open source Observability Platform. 👉 SigNoz helps developers find issues in their deployed applications & solve them quickly
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
@@ -3664,6 +3671,7 @@
 - [nodejs-docker](https://github.com/GoogleCloudPlatform/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -3707,7 +3715,6 @@
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 
 ## XSLT 
 
