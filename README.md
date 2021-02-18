@@ -156,7 +156,6 @@
 - [legato-af](https://github.com/legatoproject/legato-af) - Legato Application Framework
 - [scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
 - [ets2-sdk-plugin](https://github.com/nlhans/ets2-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
-- [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [rauc](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux
@@ -390,6 +389,7 @@
 - [ets_ros2](https://github.com/brunodmt/ets_ros2) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in to publish telemetry data using ROS2
 - [ets2-sdk-plugin](https://github.com/Funbit/ets2-sdk-plugin) - Euro Truck Simulator 2 Telemetry Plug-in. The data is shared via Memory Mapped File.
 - [ogon](https://github.com/ogon-project/ogon) - ogon session manager and RDP server
+- [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
 - [pyets2_telemetry](https://github.com/thomasa88/pyets2_telemetry) - Python plug-in support for SCS Telemetry SDK
 - [aktualizr](https://github.com/advancedtelematic/aktualizr) - C++ SOTA Client
@@ -473,7 +473,6 @@
 - [ssltrace](https://github.com/jethrogb/ssltrace) - ssltrace hooks an application's SSL libraries to record keying data of all SSL connections
 - [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
 - [hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
-- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [prebw](https://github.com/bioboy/prebw) - glFTPd PreBW
 - [slowkicker](https://github.com/bioboy/slowkicker) - glFTPd Slowkicker
 - [pftp](https://github.com/glftpd/pftp) - pftp repository
@@ -579,6 +578,7 @@
 
 ## Go 
 
+- [earthly](https://github.com/earthly/earthly) - Build automation for the container era
 - [kuma](https://github.com/kumahq/kuma) - 🐻 The Universal Service Mesh. CNCF Sandbox Project.
 - [compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
@@ -1505,7 +1505,7 @@
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [multus-cni](https://github.com/intel/multus-cni) - 
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
+- [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [gandalf](https://github.com/tsuru/gandalf) - Gandalf is an HTTP API for managing Git repositories.
 - [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service (PaaS).
@@ -2424,6 +2424,7 @@
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 
 ## M 
 
@@ -2754,6 +2755,7 @@
 
 ## Python 
 
+- [PyPagekite](https://github.com/pagekite/PyPagekite) - Python implementation of the PageKite remote front-end protocols.
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -3426,6 +3428,7 @@
 
 ## Shell 
 
+- [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
