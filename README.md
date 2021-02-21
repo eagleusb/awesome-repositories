@@ -358,6 +358,7 @@
 
 ## C++ 
 
+- [fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -579,6 +580,7 @@
 
 ## Go 
 
+- [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
 - [go](https://github.com/paketo-buildpacks/go) - A Cloud Native Buildpack for Go
 - [nodejs](https://github.com/paketo-buildpacks/nodejs) - A Cloud Native Buildpack for Node.JS
@@ -913,7 +915,7 @@
 - [plum](https://github.com/boreq/plum) - Plum is a real-time web server access log analyser.
 - [scribble](https://github.com/sdomino/scribble) - A tiny Golang JSON database
 - [pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
-- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
 - [webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
@@ -1059,7 +1061,7 @@
 - [gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [kala](https://github.com/ajvb/kala) - Modern Job Scheduler
 - [tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go
-- [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed file system and data lake store.
+- [chubaofs](https://github.com/chubaofs/chubaofs) - A distributed file system and object store.
 - [egress-operator](https://github.com/monzo/egress-operator) - A Kubernetes operator to produce egress gateway Envoy pods and control access to them with network policies
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [observer](https://github.com/yaacov/observer) - Golang event emitter and listener with builtin file watcher package.
@@ -1808,7 +1810,6 @@
 ## HTML 
 
 - [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [helm-charts](https://github.com/adfinis-sygroup/helm-charts) - Helm charts from Adfinis
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
@@ -2376,7 +2377,7 @@
 - [vector](https://github.com/Netflix/vector) - Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
 - [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 - [laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
-- [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
+- [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
@@ -2446,6 +2447,7 @@
 
 ## Mustache 
 
+- [charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 
 ## Nim 
