@@ -567,6 +567,7 @@
 
 ## Erlang 
 
+- [couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [leofs](https://github.com/leo-project/leofs) - The LeoFS Storage System
 - [MongooseIM](https://github.com/esl/MongooseIM) - MongooseIM is a mobile messaging platform with focus on performance and scalability
 
@@ -580,6 +581,7 @@
 
 ## Go 
 
+- [ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
 - [go](https://github.com/paketo-buildpacks/go) - A Cloud Native Buildpack for Go
@@ -1039,7 +1041,7 @@
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [gitty-up](https://github.com/liatrio/gitty-up) - GitOps tool to update manifest files in remote git repositories
-- [rode](https://github.com/liatrio/rode) - cloud native software supply chain ☁️🔗
+- [rode-legacy](https://github.com/rode/rode-legacy) - cloud native software supply chain ☁️🔗
 - [wrangler](https://github.com/rancher/wrangler) - Write controllers like a boss
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [kube-scan](https://github.com/octarinesec/kube-scan) - kube-scan: Octarine k8s cluster risk assessment tool
@@ -1111,6 +1113,7 @@
 - [gosh](https://github.com/vladimirvivien/gosh) - Gosh -  a pluggable framework for building command shell programs
 - [terraform-provider-maas](https://github.com/negronjl/terraform-provider-maas) - A simple Terraform provider for MAAS
 - [kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service
+- [k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 - [balena-engine](https://github.com/balena-os/balena-engine) - Moby-based Container Engine for Embedded, IoT, and Edge uses
 - [rain](https://github.com/cenkalti/rain) - 🌧 BitTorrent client and library in Go
 - [books](https://github.com/essentialbooks/books) - Programming books. For the people, by the people.
@@ -1373,7 +1376,7 @@
 - [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [kubetest](https://github.com/garethr/kubetest) - Write unit tests for your Kubernetes configurations
 - [skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
 - [apm-server](https://github.com/elastic/apm-server) - APM Server
@@ -1809,7 +1812,6 @@
 
 ## HTML 
 
-- [helm-charts](https://github.com/adfinis-sygroup/helm-charts) - Helm charts from Adfinis
 - [juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
@@ -2448,6 +2450,7 @@
 ## Mustache 
 
 - [charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
+- [helm-charts](https://github.com/adfinis-sygroup/helm-charts) - Helm charts from Adfinis
 - [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 
 ## Nim 
@@ -2873,7 +2876,7 @@
 - [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
 - [requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuthlib support for Python-Requests!
 - [python-libmaas](https://github.com/maas/python-libmaas) - Official python client library for MAAS
-- [subiquity](https://github.com/CanonicalLtd/subiquity) - Ubuntu Server Installer
+- [subiquity](https://github.com/canonical/subiquity) - Ubuntu Server Installer
 - [lorax](https://github.com/weldr/lorax) - Tools for creating images, including the Anaconda boot.iso, live disk images, iso's, and filesystem images.
 - [osbuild](https://github.com/osbuild/osbuild) - Build-Pipelines for Operating System Artifacts
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -3437,6 +3440,7 @@
 
 ## Shell 
 
+- [buildtagpush](https://github.com/matti/buildtagpush) - 
 - [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
@@ -3474,7 +3478,6 @@
 - [fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
 - [longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
 - [wks-quickstart-firekube](https://github.com/weaveworks/wks-quickstart-firekube) - Example configuration to create Kubernetes clusters powered by ignite and gitops
-- [k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [helm-tiller](https://github.com/rimusz/helm-tiller) - Helm v2 Tiller plugin aka Tillerless Helm
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
