@@ -1172,7 +1172,7 @@
 - [aws-mfa](https://github.com/mmatur/aws-mfa) - Help to manage MFA with awscli
 - [yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [keptn](https://github.com/keptn/keptn) - Keptn is a message-driven control-plane for application delivery and automated operations
+- [keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 - [muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
 - [ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
@@ -1643,7 +1643,7 @@
 - [kube-applier](https://github.com/box/kube-applier) - kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
-- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [certificate-init-container](https://github.com/kelseyhightower/certificate-init-container) - Bootstrap TLS certificates for Pods using the Kubernetes certificates API.
 - [k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily
