@@ -1643,7 +1643,7 @@
 - [kube-applier](https://github.com/box/kube-applier) - kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
-- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
 - [ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [certificate-init-container](https://github.com/kelseyhightower/certificate-init-container) - Bootstrap TLS certificates for Pods using the Kubernetes certificates API.
 - [k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily
@@ -3570,6 +3570,7 @@
 
 ## TypeScript 
 
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [signoz](https://github.com/SigNoz/signoz) - Open source Observability Platform. 👉 SigNoz helps developers find issues in their deployed applications & solve them quickly
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
@@ -3686,7 +3687,6 @@
 - [nodejs-docker](https://github.com/GoogleCloudPlatform/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -3730,6 +3730,7 @@
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 
 ## XSLT 
 
