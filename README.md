@@ -662,7 +662,7 @@
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
-- [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices written in Go.
+- [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices (mainly using SNMP)
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
 - [reactr](https://github.com/suborbital/reactr) - A powerful function scheduler for Go & WebAssembly
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
