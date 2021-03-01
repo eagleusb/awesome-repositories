@@ -662,7 +662,7 @@
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
-- [thola](https://github.com/inexio/thola) - A tool for monitoring and provisioning network devices (mainly using SNMP)
+- [thola](https://github.com/inexio/thola) - tool for monitoring and provisioning network devices (mainly using SNMP) - monitoring check plugin
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
 - [reactr](https://github.com/suborbital/reactr) - A powerful function scheduler for Go & WebAssembly
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
@@ -3135,7 +3135,7 @@
 - [django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
-- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool.
+- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool
 - [marathon-lb](https://github.com/mesosphere/marathon-lb) - Marathon-lb is a service discovery & load balancing tool for DC/OS
 - [coal-mine](https://github.com/quantopian/coal-mine) - Coal Mine - Periodic task execution monitor
 - [addic7ed](https://github.com/adrian-maurin/addic7ed) - Addic7ed scraper written in Python to download subtitles (almost) automatically
