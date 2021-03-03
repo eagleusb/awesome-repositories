@@ -275,7 +275,7 @@
 - [vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [vallumd](https://github.com/stintel/vallumd) - Centralize or distribute IPset blacklists
-- [repmgr](https://github.com/EnterpriseDB/repmgr) - The Most Popular Replication Manager for PostgreSQL (Postgres) - latest version 5.2.1 (2020-12-07)
+- [repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.2.1 (2020-12-07)
 - [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
@@ -334,7 +334,6 @@
 - [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserever using DCC
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [foo-tools](https://github.com/glftpd/foo-tools) - collected foo-tools sources + some fixes
@@ -662,7 +661,7 @@
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
 - [beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
-- [thola](https://github.com/inexio/thola) - tool for monitoring and provisioning network devices (mainly using SNMP) - monitoring check plugin
+- [thola](https://github.com/inexio/thola) - Tool for monitoring and provisioning network devices (mainly using SNMP) - monitoring check plugin
 - [grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
 - [reactr](https://github.com/suborbital/reactr) - A powerful function scheduler for Go & WebAssembly
 - [dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
@@ -1836,7 +1835,6 @@
 - [open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online.
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
-- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [redfish-ansible-module](https://github.com/dell/redfish-ansible-module) - Ansible modules for Out-Of-Band Controllers using Redfish APIs
 - [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
@@ -2385,6 +2383,7 @@
 - [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
 ## Jsonnet 
@@ -2453,6 +2452,7 @@
 - [charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [helm-charts](https://github.com/adfinis-sygroup/helm-charts) - Helm charts from Adfinis
 - [eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
+- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## Nim 
 
@@ -3385,7 +3385,6 @@
 - [click](https://github.com/databricks/click) - The "Command Line Interactive Controller for Kubernetes"
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
-- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -3640,6 +3639,7 @@
 - [sdk-javascript](https://github.com/cloudevents/sdk-javascript) - Javascript SDK for CloudEvents
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+- [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [duffle-coat](https://github.com/deislabs/duffle-coat) - VS Code extension for generating CNAB self-installers
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
