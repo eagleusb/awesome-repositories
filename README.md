@@ -483,6 +483,7 @@
 
 ## CSS 
 
+- [Condensation](https://github.com/CondensationDB/Condensation) - Condensation is a zero-trust distributed database that ensures data ownership and data security
 - [robeaux](https://github.com/hybridgroup/robeaux) - Universal dashboard to robotic devices based on React
 - [hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
 - [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
@@ -1706,7 +1707,7 @@
 - [keytransparency](https://github.com/google/keytransparency) - A transparent and secure way to look up public keys.
 - [build](https://github.com/containers/build) - another build tool for container images (archived, see https://github.com/rkt/rkt/issues/4024)
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -2202,7 +2203,7 @@
 - [kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 - [storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
 - [sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
