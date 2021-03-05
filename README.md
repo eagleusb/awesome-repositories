@@ -230,8 +230,8 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [burp](https://github.com/grke/burp) - burp - backup and restore program
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
-- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
@@ -1029,7 +1029,7 @@
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [build](https://github.com/shipwright-io/build) - Shipwright - a framework for building container images on Kubernetes
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [zfs](https://github.com/containerd/zfs) - ZFS snapshotter plugin for containerd
 - [crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
