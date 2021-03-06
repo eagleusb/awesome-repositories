@@ -606,6 +606,7 @@
 - [dazzle](https://github.com/gitpod-io/dazzle) - dazzle is a rather experimental Docker image builder which builds independent layers
 - [leeway](https://github.com/gitpod-io/leeway) - Leeway is a heavily caching build system for Go, Typescript and Docker projects.
 - [werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
+- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [shaas](https://github.com/heroku/shaas) - Shell as a Service: API to inspect and execute scripts in a server's environment via HTTP and WebSockets
 - [etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
@@ -1566,7 +1567,7 @@
 - [statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected.
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [janus](https://github.com/motiv-labs/janus) - An API Gateway written in Go
-- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [kube2haproxy](https://github.com/adohe-zz/kube2haproxy) - High Availability HAProxy auto configuration and auto service discovery for Kubernetes.
 - [voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure HAProxy Ingress Controller for Kubernetes
 - [event-gateway](https://github.com/serverless/event-gateway) - React to any event with serverless functions across clouds
@@ -3575,7 +3576,6 @@
 - [build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
 - [signoz](https://github.com/SigNoz/signoz) - Open source Observability Platform. 👉 SigNoz helps developers find issues in their deployed applications & solve them quickly
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and versatile web UI for Kubernetes brought to you by Kinvolk.
