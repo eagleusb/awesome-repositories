@@ -2172,7 +2172,7 @@
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [passport-azure-ad-oauth2](https://github.com/auth0/passport-azure-ad-oauth2) - OAuth 2.0 authentication Passport strategies for Windows Azure Active Directory
-- [consola](https://github.com/nuxt-contrib/consola) - Elegant Console Logger for Node.js and Browser 🐨
+- [consola](https://github.com/unjsio/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [node-sec-roadmap](https://github.com/google/node-sec-roadmap) - Some thoughts on how Node.js might respond to a changing security environment
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
