@@ -804,6 +804,7 @@
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
 - [squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
 - [ion-go](https://github.com/amzn/ion-go) - A Go implementation of Amazon Ion.
 - [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
@@ -1190,7 +1191,7 @@
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
@@ -2172,7 +2173,7 @@
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [passport-azure-ad-oauth2](https://github.com/auth0/passport-azure-ad-oauth2) - OAuth 2.0 authentication Passport strategies for Windows Azure Active Directory
-- [consola](https://github.com/unjsio/consola) - Elegant Console Logger for Node.js and Browser 🐨
+- [consola](https://github.com/un-js/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [node-sec-roadmap](https://github.com/google/node-sec-roadmap) - Some thoughts on how Node.js might respond to a changing security environment
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -2478,7 +2479,6 @@
 ## Objective-C 
 
 - [phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
-- [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [routerkeygenPC](https://github.com/routerkeygen/routerkeygenPC) - Qt Port for Linux, Mac OSX and Windows
 
 ## Open Policy Agent 
@@ -2523,7 +2523,7 @@
 - [learn-programming-languages](https://github.com/jeanqasaur/learn-programming-languages) - Resources for the working programmer to learn more about the fundamentals and theory of programming languages.
 - [awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [learn-istio](https://github.com/askmeegs/learn-istio) - ⛵️ Istio resources 🕸
-- [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. For support, see: https://support.perspectiveapi.com/
+- [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. See https://developers.perspectiveapi.com for more information.
 - [Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 - [pantagrule](https://github.com/rarecoil/pantagrule) - large hashcat rulesets generated from real-world compromised passwords
 - [Wheels-Pack](https://github.com/50k-Customs/Wheels-Pack) - ETS2 mod presenting wheels pack by 50keda
