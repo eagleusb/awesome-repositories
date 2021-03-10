@@ -837,7 +837,7 @@
 - [go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [vault-secrets-gen](https://github.com/sethvargo/vault-secrets-gen) - A Vault secrets plugin for generating high entropy passwords and passphrases.
 - [vault-kubernetes-authenticator](https://github.com/sethvargo/vault-kubernetes-authenticator) - An app and container for authenticating services to @HashiCorp Vault's via the Kubernetes auth method
-- [porter](https://github.com/kubesphere/porter) - Bare Metal Load-balancer for Kubernetes Cluster
+- [porterlb](https://github.com/kubesphere/porterlb) - Bare Metal Load-balancer for Kubernetes Cluster
 - [eks-dns-troubleshooter](https://github.com/joshisumit/eks-dns-troubleshooter) - EKS DNS troubleshooter - DNS Diagnostic tool
 - [go-writeas](https://github.com/writeas/go-writeas) - Go client for the Write.as API
 - [pacmod](https://github.com/plexsystems/pacmod) - :package: Package your Go modules
@@ -2173,7 +2173,7 @@
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [passport-azure-ad-oauth2](https://github.com/auth0/passport-azure-ad-oauth2) - OAuth 2.0 authentication Passport strategies for Windows Azure Active Directory
-- [consola](https://github.com/un-js/consola) - Elegant Console Logger for Node.js and Browser 🐨
+- [consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [node-sec-roadmap](https://github.com/google/node-sec-roadmap) - Some thoughts on how Node.js might respond to a changing security environment
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
