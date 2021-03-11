@@ -696,7 +696,7 @@
 - [validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
 - [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
 - [memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -1147,7 +1147,7 @@
 - [helm-x](https://github.com/mumoshu/helm-x) - Treat any Kustomization or K8s manifests directory as a Helm chart
 - [gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Github Repositories and Filesystems. Suitable for CI
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
 - [gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
 - [planet](https://github.com/gravitational/planet) - Installable Kubernetes delivered in containers
 - [kubernetes-ingress](https://github.com/haproxytech/kubernetes-ingress) - HAProxy ingress controller for K8s
@@ -1517,7 +1517,7 @@
 - [certmgr](https://github.com/cloudflare/certmgr) - Automated certificate management using a CFSSL CA.
 - [kubernetes-ldap](https://github.com/apprenda-kismatic/kubernetes-ldap) - 
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [multus-cni](https://github.com/intel/multus-cni) - 
+- [multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - 
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
@@ -3369,7 +3369,7 @@
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
+- [vector](https://github.com/timberio/vector) - Ultra performant, highly reliable observability data pipeline.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
