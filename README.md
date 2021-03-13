@@ -146,7 +146,7 @@
 - [container-bootfs](https://github.com/ktock/container-bootfs) - Container image converter aiming to minimize image size and speed up boot time dramatically with block-level de-dupliction and lazy-pull technology.
 - [lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [tpm2-tools](https://github.com/tpm2-software/tpm2-tools) - The source repository for the Trusted Platform Module (TPM2.0) tools
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
 - [nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) - For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [sierracns](https://github.com/arsv/sierracns) - CnS protocol tool for Sierra modems
