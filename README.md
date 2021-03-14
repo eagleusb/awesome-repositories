@@ -583,6 +583,7 @@
 
 ## Go 
 
+- [cosign](https://github.com/sigstore/cosign) - Container Signing
 - [ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
@@ -1169,7 +1170,7 @@
 - [runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy, manage, and scale machine learning models in production
 - [nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -2185,7 +2186,6 @@
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [xo](https://github.com/xojs/xo) - ❤️ JavaScript linter with great defaults
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [choo](https://github.com/choojs/choo) - :steam_locomotive::train: - sturdy 4kb frontend framework
@@ -3668,6 +3668,7 @@
 - [typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 - [kashti](https://github.com/brigadecore/kashti) - Kashti is a dashboard for your Brigade pipelines.
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [pkgsign](https://github.com/RedpointGames/pkgsign) - A CLI tool for signing and verifying npm and yarn packages.
 - [opencensus-node](https://github.com/census-instrumentation/opencensus-node) - A stats collection and distributed tracing framework
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
