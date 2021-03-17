@@ -552,6 +552,7 @@
 ## Dockerfile 
 
 - [alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
+- [jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
 - [rockchip-bsp](https://github.com/radxa/rockchip-bsp) - Linux BSP for ROCK Pi
 - [cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Docker image with all the components of the Google Cloud SDK
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -804,7 +805,7 @@
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
 - [squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
-- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [ion-go](https://github.com/amzn/ion-go) - A Go implementation of Amazon Ion.
 - [opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
@@ -1299,7 +1300,7 @@
 - [cerebral](https://github.com/containership/cerebral) - Kubernetes cluster autoscaler with pluggable metrics backends and scaling engines
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
-- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [portieris](https://github.com/IBM/portieris) - A Kubernetes Admission Controller for verifying image trust with Notary.
 - [kubewebhook](https://github.com/slok/kubewebhook) - Go framework to create Kubernetes mutating and validating webhooks
@@ -2936,7 +2937,7 @@
 - [i3-gnome-pomodoro](https://github.com/kantord/i3-gnome-pomodoro) - :tomato: Integrate gnome-pomodoro into i3
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
-- [tern](https://github.com/tern-tools/tern) - Open Source compliance for containers
+- [tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 - [ansible-runner-service](https://github.com/ansible/ansible-runner-service) - 
 - [furnace](https://github.com/balabit/furnace) - A lightweight pure-python container implementation.
 - [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
@@ -3444,7 +3445,6 @@
 
 - [buildtagpush](https://github.com/matti/buildtagpush) - 
 - [eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
-- [jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
