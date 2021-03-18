@@ -2030,7 +2030,6 @@
 - [passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
 - [machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 - [terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of Terminator themes.
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [skale](https://github.com/skale-me/skale) - High performance distributed data processing engine
 - [eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 - [taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
@@ -3614,6 +3613,7 @@
 - [pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching.
 - [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [mokka](https://github.com/ega-forever/mokka) - Mokka consensus
