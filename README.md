@@ -116,7 +116,7 @@
 - [xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g)
+- [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn)
 - [jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -620,7 +620,7 @@
 - [porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [go-sh](https://github.com/codeskyblue/go-sh) - like python-sh, for easy call shell with golang.
-- [nerdctl](https://github.com/AkihiroSuda/nerdctl) - Docker-compatible CLI for containerd
+- [nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd
 - [lane](https://github.com/oleiade/lane) - A golang queues, stacks and deques implementation library
 - [influxdb-client-go](https://github.com/influxdata/influxdb-client-go) - InfluxDB 2 Go Client
 - [candid](https://github.com/canonical/candid) - Identity Manager Service
@@ -1072,7 +1072,7 @@
 - [egress-operator](https://github.com/monzo/egress-operator) - A Kubernetes operator to produce egress gateway Envoy pods and control access to them with network policies
 - [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [observer](https://github.com/yaacov/observer) - Golang event emitter and listener with builtin file watcher package.
-- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven network framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [kubectl-fzf](https://github.com/bonnefoa/kubectl-fzf) - A fast kubectl autocompletion with fzf
 - [macaroon](https://github.com/go-macaroon/macaroon) - A native Go implementation of macaroons
 - [macaroon-bakery](https://github.com/go-macaroon-bakery/macaroon-bakery) - We bake 'em sweet, we bake 'em nice
@@ -2333,7 +2333,7 @@
 - [gh-board](https://github.com/philschatz/gh-board) - :octocat: "Serverless" Kanban for GitHub Issues using gh-pages
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
-- [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
+- [Hygieia](https://github.com/hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
@@ -3724,7 +3724,7 @@
 ## Vue 
 
 - [forum](https://github.com/sbkwgh/forum) - Forum software created using Express, Vue, and Sequelize
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
