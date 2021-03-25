@@ -3636,7 +3636,7 @@
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [IBM/kui](https://github.com/IBM/kui) - A hybrid command-line/UI development experience for cloud-native development
+- [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [cloudevents/sdk-javascript](https://github.com/cloudevents/sdk-javascript) - Javascript SDK for CloudEvents
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
