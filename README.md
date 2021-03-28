@@ -666,7 +666,7 @@
 - [hyperjumptech/beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
 - [inexio/thola](https://github.com/inexio/thola) - Tool for monitoring and provisioning network devices (mainly using SNMP) - monitoring check plugin
 - [suborbital/grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
-- [suborbital/reactr](https://github.com/suborbital/reactr) - A powerful function scheduler for Go & WebAssembly
+- [suborbital/reactr](https://github.com/suborbital/reactr) - Function scheduler for Go & WebAssembly
 - [fortio/dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
@@ -1993,6 +1993,7 @@
 - [balenalabs/balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & desktop
 - [thorpelawrence/alexa-spotify-connect](https://github.com/thorpelawrence/alexa-spotify-connect) - Control Spotify Connect devices with Alexa
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
@@ -2824,7 +2825,6 @@
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [ansible-collections/community.aws](https://github.com/ansible-collections/community.aws) - Ansible Collection for Community AWS
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [SimGus/Chatette](https://github.com/SimGus/Chatette) - A powerful dataset generator for Rasa NLU, inspired by Chatito
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
