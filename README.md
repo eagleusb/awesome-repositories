@@ -23,7 +23,6 @@
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
-  - [F#](#f#)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -573,10 +572,6 @@
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [leo-project/leofs](https://github.com/leo-project/leofs) - The LeoFS Storage System
 - [esl/MongooseIM](https://github.com/esl/MongooseIM) - MongooseIM is a mobile messaging platform with focus on performance and scalability
-
-## F# # 
-
-- [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 
 ## Gnuplot 
 
@@ -2974,7 +2969,7 @@
 - [Kirpal/Keyboard-Layout-Editor-for-Blender](https://github.com/Kirpal/Keyboard-Layout-Editor-for-Blender) - Allows you to import keyboard layouts into blender and render them in 3d
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [iodide-project/pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [achael/eht-imaging](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
@@ -3035,6 +3030,7 @@
 - [willthames/kubernetes-validate](https://github.com/willthames/kubernetes-validate) - 
 - [koldinger/Tardis](https://github.com/koldinger/Tardis) - A backup system, similar to TimeMachine.  Supports encrypted, incremental backups, with filesystem based recovery.
 - [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing. It provides build-in orchestration of macOS security components (Santa, Osquery, et-al.), event correlation and event management. It consolidates its features with various data store backends (ElasticStack, Azure Log Analytics, Splunk, et-al.).
+- [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
 - [bitly/data_hacks](https://github.com/bitly/data_hacks) - Command line utilities for data analysis
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
