@@ -633,7 +633,7 @@
 - [kz26/gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [hajimehoshi/oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - Create developer-centric experience on Kubernetes, in a scalable approach.
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - Building developer-centric experience on Kubernetes, in a scalable approach.
 - [hashicorp/vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
 - [grafov/m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 - [ssetin/PenguinCast](https://github.com/ssetin/PenguinCast) - Icecast compatible streaming audio server
@@ -1645,7 +1645,7 @@
 - [box/kube-applier](https://github.com/box/kube-applier) - kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [nginxinc/kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [kelseyhightower/certificate-init-container](https://github.com/kelseyhightower/certificate-init-container) - Bootstrap TLS certificates for Pods using the Kubernetes certificates API.
 - [dtan4/k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily
@@ -3720,7 +3720,7 @@
 ## Vue 
 
 - [sbkwgh/forum](https://github.com/sbkwgh/forum) - Forum software created using Express, Vue, and Sequelize
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
