@@ -333,6 +333,7 @@
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [dinoex/iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserever using DCC
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [glftpd/foo-tools](https://github.com/glftpd/foo-tools) - collected foo-tools sources + some fixes
@@ -406,7 +407,7 @@
 - [thestinger/termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [facebook/hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
+- [facebook/hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [cgarcia2097/8-Pack](https://github.com/cgarcia2097/8-Pack) - Repository for design files, source code and assembly guides regarding this keypad.
 - [di0ib/Misc](https://github.com/di0ib/Misc) - Misc files
@@ -1638,7 +1639,7 @@
 - [influxdata/kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
-- [docker/deploykit](https://github.com/docker/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
+- [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [box/kube-applier](https://github.com/box/kube-applier) - kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -1652,7 +1653,7 @@
 - [kubernetes-sigs/bootkube](https://github.com/kubernetes-sigs/bootkube) - bootkube - Launch a self-hosted Kubernetes cluster
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
-- [siddontang/go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
+- [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
 - [signal18/replication-manager](https://github.com/signal18/replication-manager) - Signal 18 repman - Replication Manager for MySQL / MariaDB / Percona Server
 - [flike/kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 - [github/ccql](https://github.com/github/ccql) - Multi server MySQL client
@@ -2376,7 +2377,6 @@
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [markwalkom/kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
 ## Jsonnet 
@@ -3082,7 +3082,6 @@
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [systemd/mkosi](https://github.com/systemd/mkosi) - Build Legacy-Free OS Images
 - [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [roglew/pappy-proxy](https://github.com/roglew/pappy-proxy) - An intercepting proxy for web application testing
@@ -3681,7 +3680,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [vavrusa/grafana-sqldb-datasource](https://github.com/vavrusa/grafana-sqldb-datasource) - 
 - [GoogleCloudPlatform/nodejs-docker](https://github.com/GoogleCloudPlatform/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [opentracing/opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
