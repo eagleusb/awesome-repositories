@@ -580,6 +580,8 @@
 
 ## Go 
 
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease.
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -2104,7 +2106,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -3312,11 +3314,13 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [kubewarden/policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests
 - [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [TheOnlyMrCat/runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [njaard/sonnerie](https://github.com/njaard/sonnerie) - A simple timeseries database
-- [ogham/dog](https://github.com/ogham/dog) - Command-line DNS client
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [aws/aws-nitro-enclaves-cli](https://github.com/aws/aws-nitro-enclaves-cli) - Tooling for Nitro Enclave Management
