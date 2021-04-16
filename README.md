@@ -409,6 +409,7 @@
 - [thestinger/termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [facebook/hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [cgarcia2097/8-Pack](https://github.com/cgarcia2097/8-Pack) - Repository for design files, source code and assembly guides regarding this keypad.
@@ -584,6 +585,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - A working place for multi-tenancy related proposals and prototypes.
 - [alexballas/Go2TV](https://github.com/alexballas/Go2TV) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg TVs
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean
@@ -629,7 +631,7 @@
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [codeskyblue/go-sh](https://github.com/codeskyblue/go-sh) - like python-sh, for easy call shell with golang.
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd, with support for Compose
 - [oleiade/lane](https://github.com/oleiade/lane) - A golang queues, stacks and deques implementation library
 - [influxdata/influxdb-client-go](https://github.com/influxdata/influxdb-client-go) - InfluxDB 2 Go Client
 - [canonical/candid](https://github.com/canonical/candid) - Identity Manager Service
@@ -794,7 +796,7 @@
 - [superfly/autowire](https://github.com/superfly/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: ShellHub enables teams to easily access any Linux device behind firewall and NAT.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [fishworks/gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
@@ -1904,7 +1906,6 @@
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [eclipse/hono](https://github.com/eclipse/hono) - Eclipse Hono™ Project
 - [eclipse/hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [pinterest/singer](https://github.com/pinterest/singer) - A high-performance, reliable and extensible logging agent for uploading data to Kafka, Pulsar, etc.
 - [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [emichael/dslabs](https://github.com/emichael/dslabs) - Distributed Systems Labs and Framework
@@ -2116,6 +2117,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -3035,7 +3037,6 @@
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [bincyber/pkictl](https://github.com/bincyber/pkictl) - Declaratively provision PKI with HashiCorp Vault
 - [openshift/openshift-ansible](https://github.com/openshift/openshift-ansible) - Install and config an OpenShift 3.x cluster
-- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [taoufik07/responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
 - [tranquilit/WAPT](https://github.com/tranquilit/WAPT) - WAPT is an established method for managing the lifecycle of an installed base of Windows applications. WAPT has many similarities with Debian's APT software manager, thus its name. WAPT is particularly useful to system administrators who are tired of repetitive and low value tasks.
@@ -3100,7 +3101,7 @@
 - [mandatoryprogrammer/TrustTrees](https://github.com/mandatoryprogrammer/TrustTrees) - A Tool for DNS Delegation Trust Graphing
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-- [systemd/mkosi](https://github.com/systemd/mkosi) - Build Legacy-Free OS Images
+- [systemd/mkosi](https://github.com/systemd/mkosi) - Build Bespoke OS Images
 - [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
