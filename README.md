@@ -211,6 +211,7 @@
 - [nsacyber/Hardware-and-Firmware-Security-Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber
 - [benblazak/ergodox-firmware](https://github.com/benblazak/ergodox-firmware) - firmware for the ergoDOX keyboard
 - [bitnine-oss/agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
 - [FRRouting/frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -1178,7 +1179,7 @@
 - [nabla-containers/runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Deploy, manage, and scale machine learning models in production
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing at scale
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -1277,7 +1278,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 - [nareix/joy4](https://github.com/nareix/joy4) - Golang audio/video library and streaming server
-- [radekg/terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.13.x
+- [radekg/terraform-provisioner-ansible](https://github.com/radekg/terraform-provisioner-ansible) - Ansible with Terraform 0.14.x
 - [jonmorehouse/terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [GoogleCloudPlatform/k8s-cluster-bundle](https://github.com/GoogleCloudPlatform/k8s-cluster-bundle) - The Cluster Bundle: Declarative Kubernetes Cluster Management
@@ -3640,7 +3641,6 @@
 - [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-- [opendistro-for-elasticsearch/security-kibana-plugin](https://github.com/opendistro-for-elasticsearch/security-kibana-plugin) - 🔐Open Distro for Elasticsearch Security Kibana Plugin
 - [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in JavaScript.
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
@@ -3652,7 +3652,6 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [cloudevents/sdk-javascript](https://github.com/cloudevents/sdk-javascript) - Javascript SDK for CloudEvents
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
