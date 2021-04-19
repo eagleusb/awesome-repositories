@@ -493,6 +493,7 @@
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
 - [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [thomasa88/pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
@@ -648,7 +649,7 @@
 - [kz26/gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [hajimehoshi/oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Deployment Engine Based on Kubernetes and OAM.
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Deployment Platform Based on Kubernetes and OAM.
 - [hashicorp/vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
 - [grafov/m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 - [ssetin/PenguinCast](https://github.com/ssetin/PenguinCast) - Icecast compatible streaming audio server
@@ -3354,7 +3355,6 @@
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [NerdyPepper/dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
-- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated alternative to reddit in rust
