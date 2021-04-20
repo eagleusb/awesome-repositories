@@ -78,6 +78,7 @@
   - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
   - [YAML](#yaml)
+  - [Zig](#zig)
 
 ## Assembly 
 
@@ -116,7 +117,6 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - This document is meant to help new users start using the Arm-based AWS Graviton and Graviton2 processors which power the 6th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -2715,7 +2715,6 @@
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [amq/firefox-debloat](https://github.com/amq/firefox-debloat) - Stop Firefox leaking data about you
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [twitter-archive/mysos](https://github.com/twitter-archive/mysos) - Cotton (formerly known as Mysos)
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
@@ -3559,6 +3558,7 @@
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [nickjj/rolespec](https://github.com/nickjj/rolespec) - A test library for testing Ansible roles
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [frdmn/tar-multibackup](https://github.com/frdmn/tar-multibackup) - :floppy_disk: Bash script to backup and cycle tar archives
@@ -3588,7 +3588,7 @@
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - Open source Observability Platform. 👉 SigNoz helps developers find issues in their deployed applications & solve them quickly
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - Open source Observability Platform. 👉  SigNoz helps developers find issues in their deployed applications & solve them quickly
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -3759,6 +3759,10 @@
 ## YAML 
 
 - [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
