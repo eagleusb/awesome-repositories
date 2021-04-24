@@ -985,7 +985,7 @@
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - 
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration files
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [falcosecurity/driverkit](https://github.com/falcosecurity/driverkit) - Kit for building Falco drivers: kernel modules or eBPF probes
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language
@@ -1182,7 +1182,7 @@
 - [nabla-containers/runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing at scale
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless computing at scale
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -1809,6 +1809,7 @@
 
 ## HCL 
 
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - A Terraform module for configuring GKE clusters.
 - [hashicorp/boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [mineiros-io/terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
 - [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) - Example usage of HashiCorp Terraform
@@ -1859,7 +1860,6 @@
 - [openstack/openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
-- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [GoogleCloudPlatform/spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - 
 - [w3c/fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) - What is browser fingerprinting and how should specification authors address it.
@@ -2399,6 +2399,7 @@
 
 - [dell/redfish-ansible-module](https://github.com/dell/redfish-ansible-module) - Ansible modules for Out-Of-Band Controllers using Redfish APIs
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Jsonnet 
@@ -3388,7 +3389,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [timberio/vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [iqlusioninc/sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -3582,7 +3583,7 @@
 
 - [datasciencescoop/Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [partiql/partiql-spec](https://github.com/partiql/partiql-spec) - The language specification of PartiQL.
-- [gravitational/careers](https://github.com/gravitational/careers) - Apply at https://jobs.lever.co/gravitational/
+- [gravitational/careers](https://github.com/gravitational/careers) - Apply at https://jobs.lever.co/teleport
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) - Best Current Practices regarding secure online communication and configuration of services using cryptography.
 
