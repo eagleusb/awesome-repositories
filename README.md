@@ -297,7 +297,6 @@
 - [spdk/spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
 - [onotelli/justniffer](https://github.com/onotelli/justniffer) - Justniffer  Just A Network TCP Packet Sniffer .Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic
 - [yonch/fastpass](https://github.com/yonch/fastpass) - A datacenter network framework that aims for high utilization with zero queueing. A logically centralized arbiter controls and orchestrates all network transfers.
-- [flok99/httping](https://github.com/flok99/httping) - Ping with HTTP requests, see http://www.vanheusden.com/httping/
 - [fyu1/linux](https://github.com/fyu1/linux) - PLEASE NOTE: L3CAT/CDP, L2 CAT, CQM, MBM, and MBA are all in upstream kernel already. Please refer to upstream kernel for all future development, test, and usage. This tree will be not maintained for RDT features any more.
 - [intel/intel-cmt-cat](https://github.com/intel/intel-cmt-cat) - User space software for Intel(R) Resource Director Technology
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
@@ -584,6 +583,8 @@
 
 ## Go 
 
+- [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [meowgorithm/babycron](https://github.com/meowgorithm/babycron) - Run a single cron job in the foreground. Works well in Docker.
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [kubernetes-sigs/multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - A working place for multi-tenancy related proposals and prototypes.
@@ -625,6 +626,7 @@
 - [leg100/etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
+- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [cs3org/reva](https://github.com/cs3org/reva) - IOP (Inter Operability Platform)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage & backup system
@@ -677,7 +679,7 @@
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [edgexfoundry/edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
 - [hyperjumptech/beda](https://github.com/hyperjumptech/beda) - Beda is a golang library for detecting how similar a two string
-- [inexio/thola](https://github.com/inexio/thola) - Tool for monitoring and provisioning network devices (mainly using SNMP) - monitoring check plugin
+- [inexio/thola](https://github.com/inexio/thola) - Tool for monitoring network devices (mainly using SNMP) - monitoring check plugin
 - [suborbital/grav](https://github.com/suborbital/grav) - Embedded decentralized message bus
 - [suborbital/reactr](https://github.com/suborbital/reactr) - Function scheduler for Go & WebAssembly
 - [fortio/dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
@@ -862,7 +864,7 @@
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Build a digital writing community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [plexsystems/konstraint](https://github.com/plexsystems/konstraint) - A policy management tool for interacting with Gatekeeper
 - [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
@@ -1532,7 +1534,7 @@
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [tsuru/gandalf](https://github.com/tsuru/gandalf) - Gandalf is an HTTP API for managing Git repositories.
-- [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service (PaaS).
+- [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [matthewmueller/joy](https://github.com/matthewmueller/joy) - A delightful Go to Javascript compiler (ON HOLD)
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [ns1/waitron](https://github.com/ns1/waitron) - Server installations made easy
@@ -1982,7 +1984,6 @@
 - [CondensationDB/Condensation](https://github.com/CondensationDB/Condensation) - Condensation is a zero-trust distributed database that ensures data ownership and data security
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
-- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [rccavalcanti/pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
 - [criticalstack/ui](https://github.com/criticalstack/ui) - Frontend, backend, and Helm chart for CS UI
