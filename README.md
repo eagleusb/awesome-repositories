@@ -404,7 +404,7 @@
 - [jaelpark/chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor.
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [ffwff/qshell](https://github.com/ffwff/qshell) - a simple desktop shell based on Qt5 and KF5
-- [thestinger/termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+- [thestinger/termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -3292,7 +3292,7 @@
 - [trogdoro/xiki](https://github.com/trogdoro/xiki) - A shell console with GUI features
 - [zuazo/dockerspec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [reallyenglish/ansible-role-rabbitmq](https://github.com/reallyenglish/ansible-role-rabbitmq) - Configure rabbitmq server
-- [stevenosloan/slack-notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to slack channels
+- [slack-notifier/slack-notifier](https://github.com/slack-notifier/slack-notifier) - A simple wrapper for posting to slack channels
 - [NREL/api-umbrella](https://github.com/NREL/api-umbrella) - Open source API management platform
 - [jerakia/jerakia](https://github.com/jerakia/jerakia) - A pluggable and extendable data lookup system
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
