@@ -589,7 +589,7 @@
 - [meowgorithm/babycron](https://github.com/meowgorithm/babycron) - Run a single cron job in the foreground. Works well in Docker.
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [kubernetes-sigs/multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - A working place for multi-tenancy related proposals and prototypes.
-- [alexballas/Go2TV](https://github.com/alexballas/Go2TV) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg TVs
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg TVs
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean
 - [google/goexpect](https://github.com/google/goexpect) - Expect for Go
@@ -3721,7 +3721,7 @@
 
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
-- [vlang/veenyl](https://github.com/vlang/veenyl) - 
+- [vlang/vinix](https://github.com/vlang/vinix) - 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vala 
