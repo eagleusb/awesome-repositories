@@ -1686,7 +1686,7 @@
 - [astaxie/bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans
 - [gchaincl/httplab](https://github.com/gchaincl/httplab) - The interactive web server
 - [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
@@ -3710,6 +3710,7 @@
 - [GoogleCloudPlatform/nodejs-docker](https://github.com/GoogleCloudPlatform/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [opentracing/opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -3753,7 +3754,6 @@
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 
 ## WebAssembly 
 
