@@ -847,7 +847,7 @@
 - [pion/rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC, let the server do the pausing and seeking.
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [blackjack/webcam](https://github.com/blackjack/webcam) - Golang webcam library for Linux
-- [gptankit/serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant gateway for HTTP clusters, written in Go. White paper for reference - https://github.com/gptankit/serviceq-paper
+- [gptankit/serviceq](https://github.com/gptankit/serviceq) - Super fault-tolerant load balancer for HTTP clusters, written in Go. White paper for reference - https://github.com/gptankit/serviceq-paper
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
 - [quasilyte/go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [sethvargo/go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware.
@@ -1185,7 +1185,7 @@
 - [nabla-containers/runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Scale compute-intensive serverless workloads
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Build scalable backends faster
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
