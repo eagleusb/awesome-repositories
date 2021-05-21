@@ -1962,7 +1962,6 @@
 - [blox/blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
-- [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
@@ -2215,7 +2214,7 @@
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
-- [typicode/lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
@@ -3388,7 +3387,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - High-performance observability data pipelines.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [iqlusioninc/sear](https://github.com/iqlusioninc/sear) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -3713,6 +3712,7 @@
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
