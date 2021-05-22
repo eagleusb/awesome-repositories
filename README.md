@@ -23,6 +23,7 @@
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
+  - [FreeMarker](#freemarker)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -576,6 +577,10 @@
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [leo-project/leofs](https://github.com/leo-project/leofs) - The LeoFS Storage System
 - [esl/MongooseIM](https://github.com/esl/MongooseIM) - MongooseIM is a mobile messaging platform with focus on performance and scalability
+
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 
 ## Gnuplot 
 
@@ -2079,7 +2084,6 @@
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [outmoded/oz](https://github.com/outmoded/oz) - Web Authorization Protocol
 - [mozilla/hawk](https://github.com/mozilla/hawk) - HTTP Holder-Of-Key Authentication Scheme
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
