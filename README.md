@@ -718,7 +718,7 @@
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [RussellLuo/validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [msfidelis/cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
-- [micro/micro](https://github.com/micro/micro) - Distributed OS built for the Cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
 - [asim/memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
