@@ -628,7 +628,6 @@
 - [gitpod-io/dazzle](https://github.com/gitpod-io/dazzle) - dazzle is a rather experimental Docker image builder which builds independent layers
 - [gitpod-io/leeway](https://github.com/gitpod-io/leeway) - Leeway is a heavily caching build system for Go, Typescript and Docker projects.
 - [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [heroku/shaas](https://github.com/heroku/shaas) - Shell as a Service: API to inspect and execute scripts in a server's environment via HTTP and WebSockets
 - [leg100/etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
@@ -773,7 +772,7 @@
 - [VerizonMedia/kubectl-flame](https://github.com/VerizonMedia/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) - Terraform CLI commands via Go.
-- [oragono/oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
+- [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [spotahome/service-level-operator](https://github.com/spotahome/service-level-operator) - Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster
 - [cirruslabs/echelon](https://github.com/cirruslabs/echelon) - hierarchical progress bars in terminal on steroids
 - [manaelproxy/manael](https://github.com/manaelproxy/manael) - Manael is a simple HTTP proxy for processing images.
@@ -1006,7 +1005,7 @@
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [chanzuckerberg/fogg](https://github.com/chanzuckerberg/fogg) - Manage Infrastructure as Code with less pain.
 - [zsa/wally](https://github.com/zsa/wally) - The Flash(ing tool)
-- [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+- [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
 - [flant/shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [flant/addon-operator](https://github.com/flant/addon-operator) - A system to manage additional components for Kubernetes cluster in a simple, consistent and automated way.
@@ -2796,7 +2795,7 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [EONRaider/Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer) - A pure-Python Network Packet Sniffing tool
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
@@ -3392,7 +3391,6 @@
 - [kamek-pf/polybar-forecast](https://github.com/kamek-pf/polybar-forecast) - A weather forecast module for Polybar
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [timberio/vector](https://github.com/timberio/vector) - High-performance observability data pipelines.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -3596,9 +3594,10 @@
 
 - [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [kinvolk/headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and extensible web UI for Kubernetes brought to you by Kinvolk.
@@ -3637,6 +3636,7 @@
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [nikersify/jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching.
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
