@@ -2230,7 +2230,6 @@
 - [ttezel/twit](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API)
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
 - [CaliDog/certstream-js](https://github.com/CaliDog/certstream-js) - Javascript library for connecting to the CertStream network.
-- [o1lab/xmysql](https://github.com/o1lab/xmysql) - :rocket: One command to generate REST APIs for any MySql Database.
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [CaliOpen/Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
@@ -2442,7 +2441,7 @@
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [haproxytech/haproxy-lua-jwt](https://github.com/haproxytech/haproxy-lua-jwt) - JWT Validation implementation for HAProxy Lua host
+- [haproxytech/haproxy-lua-oauth](https://github.com/haproxytech/haproxy-lua-oauth) - JWT Validation implementation for HAProxy Lua host
 - [haproxytech/haproxy-lua-acme](https://github.com/haproxytech/haproxy-lua-acme) - 
 - [axkibe/lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
@@ -3660,7 +3659,7 @@
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
-- [cloudevents/sdk-javascript](https://github.com/cloudevents/sdk-javascript) - Javascript SDK for CloudEvents
+- [cloudevents/sdk-javascript](https://github.com/cloudevents/sdk-javascript) - JavaScript/TypeScript SDK for CloudEvents
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
@@ -3759,6 +3758,7 @@
 - [jasonrichardsmith/rbac-view](https://github.com/jasonrichardsmith/rbac-view) - Visualize Kubernetes RBAC rules
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
 - [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 
 ## WebAssembly 
