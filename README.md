@@ -1109,7 +1109,7 @@
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
 - [cloudflare/gokeyless](https://github.com/cloudflare/gokeyless) - Go implementation of the keyless protocol
 - [operatify/operatify](https://github.com/operatify/operatify) - Operators made simple for resources with CRUD APIs
-- [deislabs/oras](https://github.com/deislabs/oras) - OCI Registry As Storage
+- [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI
 - [replicatedhq/ship](https://github.com/replicatedhq/ship) - A better way to deploy Kubernetes Helm charts
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
