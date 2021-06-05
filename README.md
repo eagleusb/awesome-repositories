@@ -77,7 +77,6 @@
   - [Vim script](#vim-script)
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
-  - [WebAssembly](#webassembly)
   - [XSLT](#xslt)
   - [YAML](#yaml)
   - [Zig](#zig)
@@ -3111,7 +3110,7 @@
 - [mandatoryprogrammer/TrustTrees](https://github.com/mandatoryprogrammer/TrustTrees) - A Tool for DNS Delegation Trust Graphing
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-- [systemd/mkosi](https://github.com/systemd/mkosi) - Build Bespoke OS Images
+- [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [google/tcp_killer](https://github.com/google/tcp_killer) - Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
@@ -3414,6 +3413,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -3649,7 +3649,7 @@
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [arusanov/avatar-generator](https://github.com/arusanov/avatar-generator) - 8bit avatar generator. Inspired by https://github.com/matveyco/8biticon
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in JavaScript.
@@ -3764,10 +3764,6 @@
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-
-## WebAssembly 
-
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 ## XSLT 
 
