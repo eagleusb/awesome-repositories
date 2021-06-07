@@ -1124,7 +1124,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [containerd/imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package
 - [virtual-kubelet/nomad](https://github.com/virtual-kubelet/nomad) - HashiCorp Nomad Provider for Virtual Kubelet
-- [tetratelabs/getenvoy](https://github.com/tetratelabs/getenvoy) - A collection of tooling focused on building, distributing, deploying and maintaining a fleet of Envoys
+- [tetratelabs/getenvoy](https://github.com/tetratelabs/getenvoy) - GetEnvoy is a CLI which makes running Envoy easy
 - [fluxcd/helm-operator](https://github.com/fluxcd/helm-operator) - The Flux Helm Operator, for declarative Helming
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
