@@ -2805,7 +2805,7 @@
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [mahmoud/apatite](https://github.com/mahmoud/apatite) - Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
-- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test and use models without writing code
+- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [TheYkk/synator](https://github.com/TheYkk/synator) - Synator Kubernetes Secret and ConfigMap synchronizer
 - [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
