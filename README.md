@@ -98,6 +98,7 @@
 
 ## C 
 
+- [eradman/entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [nieluj/nntp-proxy](https://github.com/nieluj/nntp-proxy) - simple NNTP proxy with SSL support
@@ -158,6 +159,7 @@
 - [legatoproject/legato-af](https://github.com/legatoproject/legato-af) - Legato Application Framework
 - [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
 - [nlhans/ets2-sdk-plugin](https://github.com/nlhans/ets2-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
+- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [intel/haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [rauc/rauc](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux
@@ -393,7 +395,6 @@
 - [brunodmt/ets_ros2](https://github.com/brunodmt/ets_ros2) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in to publish telemetry data using ROS2
 - [Funbit/ets2-sdk-plugin](https://github.com/Funbit/ets2-sdk-plugin) - Euro Truck Simulator 2 Telemetry Plug-in. The data is shared via Memory Mapped File.
 - [ogon-project/ogon](https://github.com/ogon-project/ogon) - ogon session manager and RDP server
-- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
 - [thomasa88/pyets2_telemetry](https://github.com/thomasa88/pyets2_telemetry) - Python plug-in support for SCS Telemetry SDK
 - [advancedtelematic/aktualizr](https://github.com/advancedtelematic/aktualizr) - C++ SOTA Client
@@ -586,6 +587,10 @@
 
 ## Go 
 
+- [CodisLabs/redis-port](https://github.com/CodisLabs/redis-port) - 
+- [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
+- [maaslalani/crow](https://github.com/maaslalani/crow) - Run commands when files change.
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [norouter/norouter](https://github.com/norouter/norouter) - NoRouter: IP-over-Stdio. The easiest multi-host & multi-cloud networking ever. No root privilege is required.
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
