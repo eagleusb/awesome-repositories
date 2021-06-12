@@ -587,6 +587,7 @@
 
 ## Go 
 
+- [ethersphere/bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data.
 - [CodisLabs/redis-port](https://github.com/CodisLabs/redis-port) - 
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [maaslalani/crow](https://github.com/maaslalani/crow) - Run commands when files change.
@@ -873,7 +874,7 @@
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - Simple blogging platform made just for writers. Write together, and build a community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, minimalist publishing platform made for writers. Write together, and build a community.
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [plexsystems/konstraint](https://github.com/plexsystems/konstraint) - A policy management tool for interacting with Gatekeeper
 - [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
@@ -995,7 +996,7 @@
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration files
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [falcosecurity/driverkit](https://github.com/falcosecurity/driverkit) - Kit for building Falco drivers: kernel modules or eBPF probes
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language
@@ -3347,6 +3348,7 @@
 
 ## Rust 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [kubewarden/policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests
 - [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
