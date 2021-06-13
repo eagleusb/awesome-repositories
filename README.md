@@ -587,6 +587,8 @@
 
 ## Go 
 
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [Qovery/pleco](https://github.com/Qovery/pleco) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL
 - [ethersphere/bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data.
 - [CodisLabs/redis-port](https://github.com/CodisLabs/redis-port) - 
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
@@ -1630,7 +1632,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [joyent/containerpilot](https://github.com/joyent/containerpilot) - A service for autodiscovery and configuration of applications running in containers
 - [kubernetes/frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
-- [kashav/fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
 - [NebulousLabs/Sia](https://github.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. Project has moved to GitLab: https://gitlab.com/NebulousLabs/Sia
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [cisco/elsy](https://github.com/cisco/elsy) - An opinionated, multi-language, build tool based on Docker and Docker Compose
@@ -3348,6 +3350,7 @@
 
 ## Rust 
 
+- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [kubewarden/policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests
