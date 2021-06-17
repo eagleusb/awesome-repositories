@@ -363,6 +363,7 @@
 
 ## C++ 
 
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [nasa/fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
 - [CarVac/filmulator-gui](https://github.com/CarVac/filmulator-gui) - Filmulator --- Simplified raw editing with the power of film
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
@@ -1381,7 +1382,7 @@
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [XiaoMi/naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
-- [falcosecurity/falco-operator](https://github.com/falcosecurity/falco-operator) - Kubernetes operator for Falco that allows developers to manage rules for detecting intruders and backdoors
+- [falcosecurity-retire/falco-operator](https://github.com/falcosecurity-retire/falco-operator) - Kubernetes operator for Falco that allows developers to manage rules for detecting intruders and backdoors
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
@@ -2077,6 +2078,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
 - [alexfedoseev/sourcebuster-js](https://github.com/alexfedoseev/sourcebuster-js) - Track the sources of your traffic
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
@@ -2523,6 +2525,7 @@
 
 ## Others 
 
+- [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
 - [adfinis-sygroup/vault-raft-backup-agent](https://github.com/adfinis-sygroup/vault-raft-backup-agent) - Vault Raft Integrated Storage Snapshot Automation
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
@@ -2819,7 +2822,7 @@
 - [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [confluence/python-textbok](https://github.com/confluence/python-textbok) - 
-- [falcosecurity/falco-security-workshop](https://github.com/falcosecurity/falco-security-workshop) - Container Security Workshop covering using Falco on Kubernetes.
+- [falcosecurity-retire/falco-security-workshop](https://github.com/falcosecurity-retire/falco-security-workshop) - Container Security Workshop covering using Falco on Kubernetes.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [hhannine/superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
 - [google/pinject](https://github.com/google/pinject) - A pythonic dependency injection library.
@@ -3034,7 +3037,7 @@
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Experiments Automation & Orchestration
 - [nmstate/nmstate](https://github.com/nmstate/nmstate) - Nmstate is a library with an accompanying command line tool that manages host networking settings in a declarative manner.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
 - [pcuzner/ceph-check-role](https://github.com/pcuzner/ceph-check-role) - Custom ansible module to valid a potential host against different ceph roles
 - [pcuzner/ansible-runner-service](https://github.com/pcuzner/ansible-runner-service) - Python project that wraps the ansible_runner 'engine' inside a RESTful API
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
@@ -3743,7 +3746,7 @@
 
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
-- [vlang/vinix](https://github.com/vlang/vinix) - 
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vala 
@@ -3754,7 +3757,6 @@
 ## Vim script 
 
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
