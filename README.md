@@ -412,7 +412,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [facebook/hermes](https://github.com/facebook/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native.
-- [the-gambler-dev/8-Pack](https://github.com/the-gambler-dev/8-Pack) - Repository for design files, source code and assembly guides regarding this keypad.
+- [cgarcia2097/8-Pack](https://github.com/cgarcia2097/8-Pack) - Repository for design files, source code and assembly guides regarding this keypad.
 - [di0ib/Misc](https://github.com/di0ib/Misc) - Misc files
 - [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
 - [johang/vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
