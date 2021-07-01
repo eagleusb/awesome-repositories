@@ -99,7 +99,7 @@
 
 ## C 
 
-- [eradman/entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [nieluj/nntp-proxy](https://github.com/nieluj/nntp-proxy) - simple NNTP proxy with SSL support
@@ -3660,7 +3660,7 @@
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [ega-forever/mokka](https://github.com/ega-forever/mokka) - Mokka consensus
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
