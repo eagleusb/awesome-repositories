@@ -1323,7 +1323,7 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [aylei/kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) - 
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [ceph/cn](https://github.com/ceph/cn) - Ceph Nano - One step S3 in container with Ceph.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [longhorn/longhorn-manager](https://github.com/longhorn/longhorn-manager) - Millions and millions of volumes orchestrated
