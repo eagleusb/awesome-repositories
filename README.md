@@ -1138,7 +1138,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [containerd/imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package
 - [virtual-kubelet/nomad](https://github.com/virtual-kubelet/nomad) - HashiCorp Nomad Provider for Virtual Kubelet
-- [tetratelabs/getenvoy](https://github.com/tetratelabs/getenvoy) - GetEnvoy is a CLI which makes running Envoy easy
+- [tetratelabs/func-e](https://github.com/tetratelabs/func-e) - func-e is a CLI which makes running Envoy easy
 - [fluxcd/helm-operator](https://github.com/fluxcd/helm-operator) - Successor: https://github.com/fluxcd/helm-controller — The Flux Helm Operator, once upon a time a solution for declarative Helming.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
@@ -1185,7 +1185,7 @@
 - [haproxytech/kubernetes-ingress](https://github.com/haproxytech/kubernetes-ingress) - HAProxy ingress controller for K8s
 - [keybase/saltpack](https://github.com/keybase/saltpack) - a modern crypto messaging format
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
+- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
@@ -2365,7 +2365,7 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [riolet/SAM](https://github.com/riolet/SAM) - System Architecture Mapper
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - ApostropheCMS is a full-featured, open-source CMS built with Node.js that seeks to empower organizations by combining in-context editing and headless architecture in a full-stack JS environment.
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [tellform/tellform](https://github.com/tellform/tellform) - ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
 - [relax/relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
 - [EMSL-MSC/NWPerf](https://github.com/EMSL-MSC/NWPerf) - Cluster performance visualization
