@@ -338,7 +338,7 @@
 - [s-u/Rserve](https://github.com/s-u/Rserve) - Fast, flexible and powerful server providing access to R from many languages and systems
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
-- [dinoex/iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserever using DCC
+- [dinoex/iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserver using DCC
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -608,7 +608,7 @@
 - [meowgorithm/babycron](https://github.com/meowgorithm/babycron) - Run a single cron job in the foreground. Works well in Docker.
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [kubernetes-sigs/multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - A working place for multi-tenancy related proposals and prototypes.
-- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg TVs
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg and LG TVs
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean
 - [google/goexpect](https://github.com/google/goexpect) - Expect for Go
@@ -671,7 +671,7 @@
 - [kz26/gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [hajimehoshi/oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
-- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Deployment System Based on OAM.
+- [oam-dev/kubevela](https://github.com/oam-dev/kubevela) - The Modern Application Deployment System Based on OAM.
 - [hashicorp/vault-ssh-helper](https://github.com/hashicorp/vault-ssh-helper) - Vault SSH Agent is used to enable one time keys and passwords
 - [grafov/m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 - [ssetin/PenguinCast](https://github.com/ssetin/PenguinCast) - Icecast compatible streaming audio server
@@ -794,7 +794,7 @@
 - [google/go-attestation](https://github.com/google/go-attestation) - 
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [mole-ids/mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [kinvolk/traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
@@ -871,7 +871,7 @@
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [sethvargo/vault-secrets-gen](https://github.com/sethvargo/vault-secrets-gen) - A Vault secrets plugin for generating high entropy passwords and passphrases.
 - [sethvargo/vault-kubernetes-authenticator](https://github.com/sethvargo/vault-kubernetes-authenticator) - An app and container for authenticating services to @HashiCorp Vault's via the Kubernetes auth method
-- [kubesphere/porterlb](https://github.com/kubesphere/porterlb) - Load Balancer Implementation for Bare Metal Kubernetes Cluster
+- [kubesphere/openelb](https://github.com/kubesphere/openelb) - Load Balancer Implementation for Bare Metal Kubernetes Cluster
 - [joshisumit/eks-dns-troubleshooter](https://github.com/joshisumit/eks-dns-troubleshooter) - EKS DNS troubleshooter - DNS Diagnostic tool
 - [writeas/go-writeas](https://github.com/writeas/go-writeas) - Go client for the Write.as API
 - [plexsystems/pacmod](https://github.com/plexsystems/pacmod) - :package: Package your Go modules
@@ -2107,7 +2107,7 @@
 - [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB) - :nut_and_bolt: A relentless key-value store for the browser.
-- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typing utility on the planet.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [tyroprogrammer/learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!
