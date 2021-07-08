@@ -871,7 +871,7 @@
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [sethvargo/vault-secrets-gen](https://github.com/sethvargo/vault-secrets-gen) - A Vault secrets plugin for generating high entropy passwords and passphrases.
 - [sethvargo/vault-kubernetes-authenticator](https://github.com/sethvargo/vault-kubernetes-authenticator) - An app and container for authenticating services to @HashiCorp Vault's via the Kubernetes auth method
-- [kubesphere/openelb](https://github.com/kubesphere/openelb) - Load Balancer Implementation for Bare Metal Kubernetes Cluster
+- [kubesphere/openelb](https://github.com/kubesphere/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [joshisumit/eks-dns-troubleshooter](https://github.com/joshisumit/eks-dns-troubleshooter) - EKS DNS troubleshooter - DNS Diagnostic tool
 - [writeas/go-writeas](https://github.com/writeas/go-writeas) - Go client for the Write.as API
 - [plexsystems/pacmod](https://github.com/plexsystems/pacmod) - :package: Package your Go modules
@@ -2109,7 +2109,6 @@
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB) - :nut_and_bolt: A relentless key-value store for the browser.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typing utility on the planet.
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [tyroprogrammer/learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
@@ -2985,7 +2984,7 @@
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [Lookyloo/lookyloo](https://github.com/Lookyloo/lookyloo) - Lookyloo is a web interface that allows users to capture a website page and then display a tree of domains that call each other.
 - [indusbox/goss-ansible](https://github.com/indusbox/goss-ansible) - Ansible module for Goss
 - [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
@@ -3680,6 +3679,7 @@
 - [portier/portier-node](https://github.com/portier/portier-node) - Portier client for Node.js
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
