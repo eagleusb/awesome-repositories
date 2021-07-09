@@ -589,6 +589,7 @@
 
 ## Go 
 
+- [mosuka/blast](https://github.com/mosuka/blast) - Blast is a full text search and indexing server, written in Go, built on top of Bleve.
 - [irsl/gcp-dhcp-takeover-code-exec](https://github.com/irsl/gcp-dhcp-takeover-code-exec) - Google Compute Engine (GCE) VM takeover via DHCP flood - gain root access by getting SSH keys added by google_guest_agent
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
@@ -794,7 +795,7 @@
 - [google/go-attestation](https://github.com/google/go-attestation) - 
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [mole-ids/mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [kinvolk/traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
@@ -1138,7 +1139,7 @@
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [containerd/imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package
 - [virtual-kubelet/nomad](https://github.com/virtual-kubelet/nomad) - HashiCorp Nomad Provider for Virtual Kubelet
-- [tetratelabs/func-e](https://github.com/tetratelabs/func-e) - func-e is a CLI which makes running Envoy easy
+- [tetratelabs/func-e](https://github.com/tetratelabs/func-e) - func-e (pronounced funky) makes running Envoy® easy
 - [fluxcd/helm-operator](https://github.com/fluxcd/helm-operator) - Successor: https://github.com/fluxcd/helm-controller — The Flux Helm Operator, once upon a time a solution for declarative Helming.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
@@ -1199,7 +1200,7 @@
 - [antham/gommit](https://github.com/antham/gommit) - Enforce git message commit consistency
 - [giantswarm/aws-operator](https://github.com/giantswarm/aws-operator) - Manages Kubernetes clusters running on AWS
 - [nabla-containers/runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes (project under CNCF)
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing
 - [google/nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager
