@@ -488,7 +488,6 @@
 
 - [hybridgroup/robeaux](https://github.com/hybridgroup/robeaux) - Universal dashboard to robotic devices based on React
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
-- [zerostaticthemes/hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
@@ -3457,6 +3456,7 @@
 
 ## SCSS 
 
+- [zerostaticthemes/hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme) - Whisper is a minimal documentation theme for Hugo.
 - [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 - [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - website
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
@@ -3700,7 +3700,7 @@
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [grafana/kubernetes-app](https://github.com/grafana/kubernetes-app) - A set of dashboards and panels for kubernetes.
-- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [deepsweet/start](https://github.com/deepsweet/start) - :red_circle: Functional task runner for Node.js
