@@ -730,7 +730,7 @@
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [RussellLuo/validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [msfidelis/cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
-- [micro/micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
 - [asim/memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -1225,7 +1225,7 @@
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [nirmata/kube-vault-client](https://github.com/nirmata/kube-vault-client) - A Vault client to manage secrets for Kubernetes pods.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
 - [kubernetes-sigs/aws-encryption-provider](https://github.com/kubernetes-sigs/aws-encryption-provider) - APIServer encryption provider, backed by AWS KMS
 - [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
