@@ -1115,7 +1115,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [AcalephStorage/consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
-- [tfsec/tfsec](https://github.com/tfsec/tfsec) - 🔒🌍 Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - 🔒🌍 Security scanner for your Terraform code
 - [aws/aws-node-termination-handler](https://github.com/aws/aws-node-termination-handler) - Gracefully handle EC2 instance shutdown within Kubernetes
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
@@ -1875,7 +1875,6 @@
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
-- [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jedisct1/libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [openstack/openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
@@ -2408,6 +2407,7 @@
 - [ansible-community/ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Hashicorp Consul clusters
 - [dell/redfish-ansible-module](https://github.com/dell/redfish-ansible-module) - Ansible modules for Out-Of-Band Controllers using Redfish APIs
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -3163,7 +3163,7 @@
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [taigaio/taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [raelgc/scudcloud](https://github.com/raelgc/scudcloud) - ScudCloud - Slack for Linux
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [canonical-ols/conn-check](https://github.com/canonical-ols/conn-check) - git mirror of lp:conn-check, PRs welcome and will be merged into trunk
