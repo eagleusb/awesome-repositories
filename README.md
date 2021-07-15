@@ -1175,7 +1175,7 @@
 - [awsctrl/manager](https://github.com/awsctrl/manager) - Production grade Kubernetes controller for managing AWS Services using CRDs
 - [night-gold/armada](https://github.com/night-gold/armada) - Command line tools to manage kustomize packaged apps deployment
 - [helm/helm-2to3](https://github.com/helm/helm-2to3) - This is a Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
-- [cuelang/cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration
+- [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [vbatts/git-validation](https://github.com/vbatts/git-validation) - utility for validating git commits (in a CI like travis or jenkins)
 - [mumoshu/helm-x](https://github.com/mumoshu/helm-x) - Treat any Kustomization or K8s manifests directory as a Helm chart
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
