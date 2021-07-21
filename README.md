@@ -837,7 +837,7 @@
 - [lunarway/release-manager](https://github.com/lunarway/release-manager) - GitOps release manager for Kubernetes configuration repositories
 - [kubermatic/kubecarrier](https://github.com/kubermatic/kubecarrier) - KubeCarrier - Service Management at Scale
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management. ⎈ 🖥 ☁️
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management ⎈ 🖥 ☁️
 - [squzy/squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [amzn/ion-go](https://github.com/amzn/ion-go) - A Go implementation of Amazon Ion.
@@ -1870,7 +1870,6 @@
 - [vteams/open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
-- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
@@ -3711,6 +3710,7 @@
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [wtgtybhertgeghgtwtg/env-and-files](https://github.com/wtgtybhertgeghgtwtg/env-and-files) - Load configuration from environmental variables and files.
+- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
