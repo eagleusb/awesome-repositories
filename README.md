@@ -274,7 +274,7 @@
 - [intel/cc-oci-runtime](https://github.com/intel/cc-oci-runtime) - OCI (Open Containers Initiative) compatible runtime for Intel® Architecture
 - [zmartzone/mod_auth_openidc](https://github.com/zmartzone/mod_auth_openidc) - OpenID Certified™ OpenID Connect Relying Party implementation for Apache HTTP Server 2.x
 - [eleme/corvus](https://github.com/eleme/corvus) - A fast and lightweight Redis Cluster Proxy for Redis 3.0
-- [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - This repository has moved: https://gitlab.com/FascinatedBox/lily
+- [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - Interpreted language focused on expressiveness and type safety.
 - [reyk/relayd](https://github.com/reyk/relayd) - OpenBSD relayd daemon -experimental
 - [reyk/httpd](https://github.com/reyk/httpd) - OpenBSD httpd
 - [Feh/nocache](https://github.com/Feh/nocache) - minimize caching effects
@@ -837,7 +837,7 @@
 - [lunarway/release-manager](https://github.com/lunarway/release-manager) - GitOps release manager for Kubernetes configuration repositories
 - [kubermatic/kubecarrier](https://github.com/kubermatic/kubecarrier) - KubeCarrier - Service Management at Scale
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management ⎈ 🖥 ☁️
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [squzy/squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [amzn/ion-go](https://github.com/amzn/ion-go) - A Go implementation of Amazon Ion.
@@ -1998,7 +1998,6 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [CondensationDB/Condensation](https://github.com/CondensationDB/Condensation) - Condensation is a zero-trust distributed database that ensures data ownership and data security
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [rccavalcanti/pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
 - [criticalstack/ui](https://github.com/criticalstack/ui) - Frontend, backend, and Helm chart for CS UI
@@ -3620,6 +3619,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
@@ -3786,7 +3786,7 @@
 - [jasonrichardsmith/rbac-view](https://github.com/jasonrichardsmith/rbac-view) - Visualize Kubernetes RBAC rules
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 
 ## XSLT 
