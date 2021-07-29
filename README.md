@@ -115,6 +115,7 @@
 - [haileysome/doslinux](https://github.com/haileysome/doslinux) - Run Linux programs on DOS
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+- [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
@@ -798,7 +799,6 @@
 - [mole-ids/mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
-- [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
 - [kinvolk/traceloop](https://github.com/kinvolk/traceloop) - Tracing system calls in cgroups using BPF and overwritable ring buffers
 - [pinmonl/pinmonl](https://github.com/pinmonl/pinmonl) - Bookmark manager with hierarchical tags
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
@@ -3317,7 +3317,7 @@
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [travis-ci/dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
 - [sinatra/sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
-- [postalhq/postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [ConradIrwin/showterm](https://github.com/ConradIrwin/showterm) - The rubygem to upload to http://showterm.io
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths.
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
