@@ -1361,7 +1361,7 @@
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.
 - [lotusload/lotus](https://github.com/lotusload/lotus) - Kubernetes controller for running load testing
-- [motemen/gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
+- [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [automationbroker/apb](https://github.com/automationbroker/apb) - A CLI tool for listing and deploying Service Bundles
@@ -1685,7 +1685,7 @@
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [kubernetes-sigs/bootkube](https://github.com/kubernetes-sigs/bootkube) - bootkube - Launch a self-hosted Kubernetes cluster
+- [kubernetes-retired/bootkube](https://github.com/kubernetes-retired/bootkube) - This project now lives at https://github.com/kinvolk/bootkube
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
@@ -2933,7 +2933,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [visipedia/inat_comp](https://github.com/visipedia/inat_comp) - iNaturalist competition details
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
@@ -3317,7 +3317,7 @@
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [travis-ci/dpl](https://github.com/travis-ci/dpl) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
 - [sinatra/sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
-- [postalserver/postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [ConradIrwin/showterm](https://github.com/ConradIrwin/showterm) - The rubygem to upload to http://showterm.io
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths.
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
@@ -3555,7 +3555,7 @@
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [dysosmus/ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
 - [brbsix/vagrant-bash-completion](https://github.com/brbsix/vagrant-bash-completion) - Bash autocomplete for Vagrant
-- [voyagermesh/voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure HAProxy Ingress Controller for Kubernetes
+- [voyagermesh/voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure L7/L4 (HAProxy) Ingress Controller for Kubernetes
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
@@ -3706,7 +3706,7 @@
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
-- [deepsweet/start](https://github.com/deepsweet/start) - :red_circle: Functional task runner for Node.js
+- [kir-belevich/start](https://github.com/kir-belevich/start) - :red_circle: Functional task runner for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [Goyoo/node-k8s-client](https://github.com/Goyoo/node-k8s-client) - kubernetes client of node.js
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
