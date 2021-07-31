@@ -1368,7 +1368,7 @@
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [firecracker-microvm/firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk) - An SDK in Go for the Firecracker microVM API
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
-- [liamg/aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
+- [liamg/darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 - [openshift/odo](https://github.com/openshift/odo) - odo - Developer-focused CLI for OpenShift and Kubernetes
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
@@ -2420,7 +2420,7 @@
 ## Jupyter Notebook 
 
 - [etalab/calculette-impots-m-language-parser](https://github.com/etalab/calculette-impots-m-language-parser) - Calculette de l'impôt sur le revenu parsée
-- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁 2,000,000+ Unsplash images made available for research and machine learning
+- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  3,000,000+ Unsplash images made available for research and machine learning
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [fastai/course-nlp](https://github.com/fastai/course-nlp) - A Code-First Introduction to NLP course
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
