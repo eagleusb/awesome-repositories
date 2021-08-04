@@ -2353,6 +2353,7 @@
 - [philschatz/gh-board](https://github.com/philschatz/gh-board) - :octocat: "Serverless" Kanban for GitHub Issues using gh-pages
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [ghostwords/chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
+- [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
@@ -3178,7 +3179,6 @@
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [foxmask/django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [mesosphere/marathon-lb](https://github.com/mesosphere/marathon-lb) - Marathon-lb is a service discovery & load balancing tool for DC/OS
 - [quantopian/coal-mine](https://github.com/quantopian/coal-mine) - Coal Mine - Periodic task execution monitor
