@@ -1939,7 +1939,6 @@
 - [emichael/dslabs](https://github.com/emichael/dslabs) - Distributed Systems Labs and Framework
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [opendistro-for-elasticsearch/deprecated-security-ssl](https://github.com/opendistro-for-elasticsearch/deprecated-security-ssl) - [DO NOT USE - DEPRECATED AS OF v1.0.0] SSL module for Open Distro for Elasticsearch security plugin
 - [opendistro-for-elasticsearch/deprecated-security-advanced-modules](https://github.com/opendistro-for-elasticsearch/deprecated-security-advanced-modules) - [DO NOT USE - DEPRECATED as of v1.4.0] Advanced modules for the Open Distro for Elasticsearch security plugin; Merged into security repo.
@@ -2091,6 +2090,7 @@
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) - Flexible usenet binary posting tool
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [gourmetjs/gourmet-ssr](https://github.com/gourmetjs/gourmet-ssr) - A React Server-Side Rendering Engine for Production
 - [opendistro-for-elasticsearch/alerting-kibana-plugin](https://github.com/opendistro-for-elasticsearch/alerting-kibana-plugin) - 📟 Open Distro for Elasticsearch Kibana Alerting Plugin
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
