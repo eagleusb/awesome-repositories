@@ -595,6 +595,7 @@
 
 ## Go 
 
+- [kanisterio/kanister](https://github.com/kanisterio/kanister) - An extensible framework for  application-level data management on Kubernetes
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
