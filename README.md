@@ -596,6 +596,7 @@
 
 ## Go 
 
+- [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
 - [gruntwork-io/terraform-google-sql](https://github.com/gruntwork-io/terraform-google-sql) - Terraform modules for deploying Google Cloud SQL (e.g. MySQL, PostgreSQL) in GCP
 - [kanisterio/kanister](https://github.com/kanisterio/kanister) - An extensible framework for  application-level data management on Kubernetes
@@ -2548,6 +2549,7 @@
 - [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
+- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [gitcommitshow/awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) - Resources to learn and implement authentication in your application
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -2594,6 +2596,7 @@
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [tls-attacker/TLS-Padding-Oracles](https://github.com/tls-attacker/TLS-Padding-Oracles) - New TLS Padding Oracles
 - [ValveSoftware/steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - 
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [RGBKB/Keyboard-files](https://github.com/RGBKB/Keyboard-files) - Public files for keyboards and more
 - [adilkhash/Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
 - [hallard/Mini-LoRa](https://github.com/hallard/Mini-LoRa) - Arduino Mini Lora Battery/Sensors Board
@@ -3506,7 +3509,6 @@
 - [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [oogali/ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
-- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build tools
@@ -3541,7 +3543,6 @@
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [gusbemacbe/suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [instrumenta/helm-kubeval](https://github.com/instrumenta/helm-kubeval) - A Helm plugin for validating Charts against the Kubernetes schemas
 - [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
