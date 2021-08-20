@@ -112,7 +112,7 @@
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
-- [haileysome/doslinux](https://github.com/haileysome/doslinux) - Run Linux programs on DOS
+- [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
@@ -591,6 +591,8 @@
 
 ## Go 
 
+- [tidwall/uhaha](https://github.com/tidwall/uhaha) - High Availability Framework for Happy Data
+- [gitsrc/IceFireDB](https://github.com/gitsrc/IceFireDB) - Distributed disk storage database based on Raft and Redis protocol.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
 - [gruntwork-io/terraform-google-sql](https://github.com/gruntwork-io/terraform-google-sql) - Terraform modules for deploying Google Cloud SQL (e.g. MySQL, PostgreSQL) in GCP
@@ -676,7 +678,7 @@
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [anacrolix/confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your memories to the cloud! 🌈
 - [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
 - [kz26/gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -3365,6 +3367,7 @@
 
 ## Rust 
 
+- [flatt-security/shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for several programming languages
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
