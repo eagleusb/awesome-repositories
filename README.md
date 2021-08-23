@@ -49,6 +49,7 @@
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
+  - [Odin](#odin)
   - [Open Policy Agent](#open-policy-agent)
   - [OpenSCAD](#openscad)
   - [Others](#others)
@@ -377,7 +378,6 @@
 - [MayaPosch/NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.
 - [dekuNukem/pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
-- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [mmozeiko/aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [AIRLegend/aitrack](https://github.com/AIRLegend/aitrack) - 6DoF Head tracking software
@@ -2521,6 +2521,10 @@
 
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
 - [routerkeygen/routerkeygenPC](https://github.com/routerkeygen/routerkeygenPC) - Qt Port for Linux, Mac OSX and Windows
+
+## Odin 
+
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
 ## Open Policy Agent 
 
