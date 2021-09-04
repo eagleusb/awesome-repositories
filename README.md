@@ -440,7 +440,7 @@
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
-- [puppetlabs/libral](https://github.com/puppetlabs/libral) - A native Resource Abstraction Layer
+- [puppetlabs-toy-chest/libral](https://github.com/puppetlabs-toy-chest/libral) - A native Resource Abstraction Layer
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
@@ -1619,7 +1619,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [aquasecurity/manifesto](https://github.com/aquasecurity/manifesto) - Use Manifesto to store and query metadata for container images.
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
-- [puppetlabs/lumogon](https://github.com/puppetlabs/lumogon) - Get a complete picture of what your applications are made of *without* changing how you currently build and run containers. Just run and report.
+- [puppetlabs-toy-chest/lumogon](https://github.com/puppetlabs-toy-chest/lumogon) - Get a complete picture of what your applications are made of *without* changing how you currently build and run containers. Just run and report.
 - [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Created by @kris-nova Kris Nóva. Simple, cloud native infrastructure for Kubernetes.
 - [oracle/smith](https://github.com/oracle/smith) - Smith: A microcontainer builder
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
@@ -3678,7 +3678,7 @@
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [nikersify/jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytical API Platform
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching.
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
