@@ -592,6 +592,8 @@
 
 ## Go 
 
+- [viaduct-ai/kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources
+- [jptosso/coraza-waf](https://github.com/jptosso/coraza-waf) - Coraza WAF is a golang modsecurity compatible web application firewall library
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Software Delivery Workflow For Kubernetes
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - The External Secrets Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
@@ -1858,6 +1860,7 @@
 
 ## HTML 
 
+- [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [fluxcd/helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
