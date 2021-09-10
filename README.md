@@ -647,7 +647,7 @@
 - [genevieve/leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
 - [paketo-buildpacks/go](https://github.com/paketo-buildpacks/go) - A Cloud Native Buildpack for Go
 - [paketo-buildpacks/nodejs](https://github.com/paketo-buildpacks/nodejs) - A Cloud Native Buildpack for Node.JS
-- [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The Universal Service Mesh. CNCF Sandbox Project.
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
