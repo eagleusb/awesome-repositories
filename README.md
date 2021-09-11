@@ -2138,7 +2138,7 @@
 - [cathive/concourse-chartmuseum-resource](https://github.com/cathive/concourse-chartmuseum-resource) - interacts with a Chart Museum instance or Harbor (Kubernetes Helm Charts storage)
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [techfort/LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database
 - [ceph/cbt](https://github.com/ceph/cbt) - The Ceph Benchmarking Tool
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
