@@ -1655,7 +1655,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [joyent/containerpilot](https://github.com/joyent/containerpilot) - A service for autodiscovery and configuration of applications running in containers
 - [kubernetes/frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
-- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL.
 - [NebulousLabs/Sia](https://github.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. Project has moved to GitLab: https://gitlab.com/NebulousLabs/Sia
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [cisco/elsy](https://github.com/cisco/elsy) - An opinionated, multi-language, build tool based on Docker and Docker Compose
