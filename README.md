@@ -784,7 +784,7 @@
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [prashantgupta24/firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to update firewalld rules on a linux server
 - [diamondburned/lsoc-overlay](https://github.com/diamondburned/lsoc-overlay) - List Open Cameras.
-- [tal-tech/go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [deroproject/graviton](https://github.com/deroproject/graviton) - Graviton Database: ZFS for key-value stores.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
