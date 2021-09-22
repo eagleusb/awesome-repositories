@@ -596,6 +596,7 @@
 
 ## Go 
 
+- [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl)
 - [kubermatic/kubermatic](https://github.com/kubermatic/kubermatic) - Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure
 - [cruise-automation/k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes security tool for policy enforcement
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
@@ -1589,7 +1590,7 @@
 - [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [nsheridan/cashier](https://github.com/nsheridan/cashier) - A self-service CA for OpenSSH
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
-- [fireeye/gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
+- [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2846,7 +2847,7 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [EONRaider/Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer) - A pure-Python Network Packet Sniffing tool
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
@@ -3656,7 +3657,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
