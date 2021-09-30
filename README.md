@@ -101,6 +101,7 @@
 
 ## C 
 
+- [blade-lang/blade](https://github.com/blade-lang/blade) - A simple, fast, clean, and dynamic language that allows you to develop complex applications quickly.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
@@ -597,6 +598,7 @@
 
 ## Go 
 
+- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 - [devtron-labs/silver-surfer](https://github.com/devtron-labs/silver-surfer) - 
@@ -1243,7 +1245,7 @@
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [jtblin/kube2iam](https://github.com/jtblin/kube2iam) - kube2iam  provides different AWS IAM roles for pods running on Kubernetes
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2279,7 +2281,7 @@
 - [mozilla-lockwise/lockbox-extension](https://github.com/mozilla-lockwise/lockbox-extension) - Experimental Firefox extension for login management experiences, not being actively developed
 - [gajus/flow-runtime](https://github.com/gajus/flow-runtime) - A runtime type system for JavaScript with full Flow compatibility.
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
-- [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+- [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [moll/node-mitm](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing. Intercepts and gives you a Net.Socket, Http.IncomingMessage and Http.ServerResponse to test and respond with. Super useful when testing code that hits remote servers.
 - [greim/hoxy](https://github.com/greim/hoxy) - Web-hacking proxy API for node
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
@@ -3624,7 +3626,7 @@
 - [CiscoCloud/haproxy-consul](https://github.com/CiscoCloud/haproxy-consul) - Dynamic haproxy configuration using consul
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS distro
+- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
 - [squashible/squashible](https://github.com/squashible/squashible) - Cross-Platform Linux Live Image Builder
 - [apereo/mod_auth_cas](https://github.com/apereo/mod_auth_cas) - An Apache httpd module for integrating with Apereo CAS Server project.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
