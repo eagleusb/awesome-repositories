@@ -650,7 +650,7 @@
 - [meowgorithm/babycron](https://github.com/meowgorithm/babycron) - Run a single cron job in the foreground. Works well in Docker.
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [kubernetes-sigs/multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - A working place for multi-tenancy related proposals and prototypes.
-- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg and LG TVs
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast your media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Building your endless Kubernetes ocean
 - [google/goexpect](https://github.com/google/goexpect) - Expect for Go
@@ -774,6 +774,7 @@
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [RussellLuo/validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [msfidelis/cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  Validate SSL Certificates around web
+- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
 - [asim/memberlist](https://github.com/asim/memberlist) - An example of how to use hashicorp/memberlist
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
@@ -2042,7 +2043,6 @@
 - [rccavalcanti/pifi-radio](https://github.com/rccavalcanti/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
 - [criticalstack/ui](https://github.com/criticalstack/ui) - Frontend, backend, and Helm chart for CS UI
 - [noble/bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
-- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
