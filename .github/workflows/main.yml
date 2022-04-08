@@ -15,7 +15,9 @@ jobs:
     - name: "repository checkout"
       uses: actions/checkout@v2
     - name: "python setup"
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3.1.1
+      with:
+        cache: pip
     - name: "env requirements"
       run: |
         echo "/home/runner/.local/bin" >> $GITHUB_PATH
