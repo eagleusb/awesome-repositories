@@ -629,6 +629,9 @@
 
 ## Go 
 
+- [kris-nova/kaar](https://github.com/kris-nova/kaar) - Kubernetes Application Archive
+- [nginxinc/nginx-kubernetes-gateway](https://github.com/nginxinc/nginx-kubernetes-gateway) - NGINX Gateway is an open source project managed by NGINX, Inc. It implements a collection of resources that model service networking in Kubernetes.
+- [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner) - Delete untagged image refs in Google Container Registry or Artifact Registry
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - [google/fscrypt](https://github.com/google/fscrypt) - Go tool for managing Linux filesystem encryption
@@ -1224,7 +1227,7 @@
 - [stellarproject/vab](https://github.com/stellarproject/vab) - Container Assembly Builder
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go
-- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire life cycle of CI/CD and related artifacts, gluing commonly used tools (such as Git, Docker, Helm, K8s) and facilitating best practices.
+- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [joncrlsn/dque](https://github.com/joncrlsn/dque) - dque is a fast, embedded, durable queue for Go
 - [similarweb/statusbay](https://github.com/similarweb/statusbay) - Kubernetes deployment visibility like a pro
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -2182,6 +2185,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [hyperboria/peers](https://github.com/hyperboria/peers) - A geographically sorted list of public peering credentials for joining Hyperboria
@@ -2999,6 +3003,7 @@
 
 ## Perl 
 
+- [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [autodl-community/autodl-irssi](https://github.com/autodl-community/autodl-irssi) - A community-driven fork of autodl-irssi
 - [mavstuff/swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) - MC7354 revert USB compositions script
 - [vmprobe/vmprobe](https://github.com/vmprobe/vmprobe) - The control panel for your cloud's memory
@@ -3592,6 +3597,7 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
@@ -3746,6 +3752,7 @@
 
 ## Shell 
 
+- [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
 - [bitnami/bitnami-docker-pgbouncer](https://github.com/bitnami/bitnami-docker-pgbouncer) - Bitnami Docker Image for PgBouncer
 - [chemicL/envoy-timeouts](https://github.com/chemicL/envoy-timeouts) - Demonstrating Envoy timeouts and their impact on service to service communication
 - [docker-android-sdk/android-31](https://github.com/docker-android-sdk/android-31) - Docker for Android SDK 31 with preinstalled build tools and emulator image
