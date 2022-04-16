@@ -626,6 +626,7 @@
 
 ## Go 
 
+- [hiddeco/cronjobber](https://github.com/hiddeco/cronjobber) - Cronjobber is a cronjob controller for Kubernetes with support for time zones
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
