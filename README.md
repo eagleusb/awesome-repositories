@@ -2229,7 +2229,7 @@
 - [balenalabs/balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & steam
+- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & steam.
 - [thorpelawrence/alexa-spotify-connect](https://github.com/thorpelawrence/alexa-spotify-connect) - Control Spotify Connect devices with Alexa
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
