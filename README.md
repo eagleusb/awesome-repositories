@@ -1008,7 +1008,7 @@
 - [pinmonl/pinmonl](https://github.com/pinmonl/pinmonl) - Bookmark manager with hierarchical tags
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [loft-sh/loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
-- [clastix/capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy
+- [clastix/capsule](https://github.com/clastix/capsule) - Multi-tenancy and policy-based framework for Kubernetes.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [practo/k8s-worker-pod-autoscaler](https://github.com/practo/k8s-worker-pod-autoscaler) - Kubernetes autoscaler for the workers. Resource is called WPA. Queues Supported: SQS, Beanstalkd.
