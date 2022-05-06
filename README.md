@@ -377,6 +377,7 @@
 
 ## C++ 
 
+- [logicalclocks/rondb](https://github.com/logicalclocks/rondb) - This is RonDB, a distribution of NDB Cluster developed and used by Logical Clocks AB. It also contains development branches of RonDB.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [Vulcainreo/DVID](https://github.com/Vulcainreo/DVID) - Damn Vulnerable IoT Device
@@ -626,9 +627,16 @@
 
 ## Go 
 
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity.
+- [polarsignals/arcticdb](https://github.com/polarsignals/arcticdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [suborbital/vektor](https://github.com/suborbital/vektor) - Opinionated production-grade HTTP server framework for Go
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated.
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined built for the serverless era
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement
 - [cloudflare/lockbox](https://github.com/cloudflare/lockbox) - Offline encryption of Kubernetes Secrets
 - [WTFox/jsonfind](https://github.com/WTFox/jsonfind) - A fast and lightweight utility to easily find paths to values in large JSON files.
@@ -1215,7 +1223,7 @@
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience and simplifies managing Kubernetes platforms and KRM-driven infrastructure at scale by manipulating declarative Configuration as Data, separated from the code that transforms it.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [falcosecurity/driverkit](https://github.com/falcosecurity/driverkit) - Kit for building Falco drivers: kernel modules or eBPF probes
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language
@@ -2721,6 +2729,7 @@
 
 ## OCaml 
 
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
@@ -2880,7 +2889,7 @@
 - [nodejs/mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [packetrat/packethunting](https://github.com/packetrat/packethunting) - Resources and materials for DEF CON 2018 Packet Hunting Workshop
 - [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
 - [alco/gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers
 - [operator-framework/getting-started](https://github.com/operator-framework/getting-started) - An end-to-end scenario showing how to use the Operator Framework.
@@ -3613,6 +3622,7 @@
 
 ## Rust 
 
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
@@ -3773,6 +3783,7 @@
 
 ## Shell 
 
+- [hypertrace/hypertrace](https://github.com/hypertrace/hypertrace) - An open source distributed tracing & observability platform
 - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
 - [bitnami/bitnami-docker-pgbouncer](https://github.com/bitnami/bitnami-docker-pgbouncer) - Bitnami Docker Image for PgBouncer
 - [chemicL/envoy-timeouts](https://github.com/chemicL/envoy-timeouts) - Demonstrating Envoy timeouts and their impact on service to service communication
