@@ -628,6 +628,7 @@
 
 ## Go 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [cyrilgdn/terraform-provider-postgresql](https://github.com/cyrilgdn/terraform-provider-postgresql) - Terraform PostgreSQL provider
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
@@ -1552,6 +1553,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [longhorn/longhorn-manager](https://github.com/longhorn/longhorn-manager) - Millions and millions of volumes orchestrated
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [IBM/portieris](https://github.com/IBM/portieris) - A Kubernetes Admission Controller for verifying image trust with Notary.
@@ -1986,6 +1988,7 @@
 - [grammarly/rocker](https://github.com/grammarly/rocker) - Rocker breaks the limits of Dockerfile.
 - [iron-io/functions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform by
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -2024,7 +2027,7 @@
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
 - [yahoo/gryffin](https://github.com/yahoo/gryffin) - Gryffin is a large scale web security scanning platform.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [sensu/uchiwa](https://github.com/sensu/uchiwa) - Uchiwa is a simple yet effective open-source dashboard for the Sensu monitoring framework.
@@ -2353,7 +2356,6 @@
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [techfort/LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database
-- [ceph/cbt](https://github.com/ceph/cbt) - The Ceph Benchmarking Tool
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -2579,7 +2581,6 @@
 - [ghostwords/chameleon](https://github.com/ghostwords/chameleon) - Browser fingerprinting protection for everybody.
 - [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
 - [same31/addic7ed-api](https://github.com/same31/addic7ed-api) - API to search and download subtitles files from addic7ed.com
 - [FormidableLabs/nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
@@ -2767,6 +2768,7 @@
 
 ## Others 
 
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -3322,6 +3324,7 @@
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [bloomreach/s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [ceph/cbt](https://github.com/ceph/cbt) - The Ceph Benchmarking Tool
 - [ceph/calamari](https://github.com/ceph/calamari) - Web-based monitoring and management for Ceph
 - [ceph/ceph-deploy](https://github.com/ceph/ceph-deploy) - Deploy Ceph with minimal infrastructure, using just SSH access
 - [ceph/ceph-ansible](https://github.com/ceph/ceph-ansible) - Ansible playbooks to deploy Ceph, the distributed filesystem.
@@ -3364,7 +3367,7 @@
 - [nylas/ansible-test](https://github.com/nylas/ansible-test) - An Ansible Testing Framework for Humans
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [anchore/anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
+- [anchore/anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and scans for vulnerabilities
 - [theupdateframework/specification](https://github.com/theupdateframework/specification) - The Update Framework specification
 - [naftulikay/ansible-role-degoss](https://github.com/naftulikay/ansible-role-degoss) - An Ansible role for installing, running, and removing Goss from a system without leaving any traces.
 - [app-registry/appr](https://github.com/app-registry/appr) - 
@@ -4020,7 +4023,6 @@
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
-- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [cloudevents/sdk-javascript](https://github.com/cloudevents/sdk-javascript) - JavaScript/TypeScript SDK for CloudEvents
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
