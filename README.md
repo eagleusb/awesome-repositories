@@ -582,7 +582,7 @@
 ## Dart 
 
 - [GoogleCloudPlatform/functions-framework-dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions
-- [noojee/dcli](https://github.com/noojee/dcli) - An extensive library and tooling for building console/cli applications and scripts using the Dart programming language.
+- [onepub-dev/dcli](https://github.com/onepub-dev/dcli) - An extensive library and tooling for building console/cli applications and scripts using the Dart programming language.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -2267,7 +2267,7 @@
 - [balenalabs/balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & steam.
+- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [thorpelawrence/alexa-spotify-connect](https://github.com/thorpelawrence/alexa-spotify-connect) - Control Spotify Connect devices with Alexa
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
