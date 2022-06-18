@@ -639,7 +639,7 @@
 
 ## Go 
 
-- [infrahq/infra](https://github.com/infrahq/infra) - Single sign-on for infrastructure
+- [infrahq/infra](https://github.com/infrahq/infra) - Manage infrastructure access
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a command runner for local and remote hosts
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
@@ -798,7 +798,7 @@
 - [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
-- [bnb-chain/bsc](https://github.com/bnb-chain/bsc) - A Binance Smart Chain client based on the go-ethereum fork
+- [bnb-chain/bsc](https://github.com/bnb-chain/bsc) - A BNB Smart Chain client based on the go-ethereum fork
 - [stellar/kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
 - [GoogleCloudPlatform/k8s-node-termination-handler](https://github.com/GoogleCloudPlatform/k8s-node-termination-handler) - A solution to gracefully handle GCE VM terminations in kubernetes clusters
 - [rancher/os2](https://github.com/rancher/os2) - EXPERIMENTAL: A Rancher and Kubernetes optimized immutable Linux distribution based on openSUSE
@@ -996,7 +996,7 @@
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
-- [aws/amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - 
+- [aws/amazon-cloudwatch-agent](https://github.com/aws/amazon-cloudwatch-agent) - CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [sbueringer/grafana-consul-datasource](https://github.com/sbueringer/grafana-consul-datasource) - Consul Datasource for Grafana
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -2650,6 +2650,7 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPagetest
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [markwalkom/kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
@@ -3054,7 +3055,6 @@
 - [pydio/pydio-core](https://github.com/pydio/pydio-core) - Pydio 8 official repository
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [nilsteampassnet/TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPagetest
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
