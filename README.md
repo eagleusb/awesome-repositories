@@ -426,7 +426,7 @@
 - [WAVM/WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS is a cloud native distributed storage platform.
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native distributed storage platform.
 - [brunodmt/ets_ros2](https://github.com/brunodmt/ets_ros2) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in to publish telemetry data using ROS2
 - [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
 - [Funbit/ets2-sdk-plugin](https://github.com/Funbit/ets2-sdk-plugin) - Euro Truck Simulator 2 Telemetry Plug-in. The data is shared via Memory Mapped File.
@@ -651,7 +651,6 @@
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [cyrilgdn/terraform-provider-postgresql](https://github.com/cyrilgdn/terraform-provider-postgresql) - Terraform PostgreSQL provider
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
@@ -913,7 +912,7 @@
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
-- [adfinis-sygroup/helm-charts](https://github.com/adfinis-sygroup/helm-charts) - Helm charts from Adfinis
+- [adfinis-sygroup/helm-charts](https://github.com/adfinis-sygroup/helm-charts) - 📈 Helm charts from Adfinis
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [anacrolix/confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service
@@ -2722,6 +2721,7 @@
 
 ## Makefile 
 
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher) - Makefile to build a Go project
@@ -4125,7 +4125,7 @@
 - [vlang/gitly](https://github.com/vlang/gitly) - Light and fast GitHub/GitLab alternative written in V
 - [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vala 
 
