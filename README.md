@@ -1230,7 +1230,7 @@
 - [profefe/profefe](https://github.com/profefe/profefe) - Continuous profiling for long-term postmortem analysis
 - [tinkerbell/boots](https://github.com/tinkerbell/boots) - The DHCP and iPXE server for Tinkerbell.
 - [tinkerbell/tink](https://github.com/tinkerbell/tink) - A workflow engine for provisioning bare metal.
-- [infracloudio/botkube](https://github.com/infracloudio/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
+- [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [thealetheia/broccoli](https://github.com/thealetheia/broccoli) - Using brotli compression to embed static files in Go.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
@@ -3776,6 +3776,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pepsighan/papito](https://github.com/pepsighan/papito) - A Beginner Friendly Rusty WASM Framework
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [brandur/redis-cell](https://github.com/brandur/redis-cell) - A Redis module that provides rate limiting in Redis as a single command.
@@ -3812,7 +3813,6 @@
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [getnelson/nelson](https://github.com/getnelson/nelson) - Automated, multi-region container deployment
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [PagerDuty/scheduler](https://github.com/PagerDuty/scheduler) - A Scala library for scheduling arbitrary code to run at an arbitrary time.
