@@ -640,7 +640,7 @@
 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra manages access to infrastructure such as Kubernetes, with support for more connectors coming soon
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
@@ -3660,7 +3660,7 @@
 ## Rust 
 
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -3966,7 +3966,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
-- [axentix/axentix](https://github.com/axentix/axentix) - The framework mixing fully customizable components & utility-first classes, leaving the design choice to the developer.
+- [axentix/axentix](https://github.com/axentix/axentix) - The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
