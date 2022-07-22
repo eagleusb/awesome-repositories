@@ -108,6 +108,7 @@
 
 ## C 
 
+- [Snapchat/ModJS](https://github.com/Snapchat/ModJS) - A Javascript Module for KeyDB and Redis
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [powa-team/pg_qualstats](https://github.com/powa-team/pg_qualstats) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
@@ -137,7 +138,7 @@
 - [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Collection of gadgets for debugging and introspecting Kubernetes applications using BPF
+- [kinvolk/inspektor-gadget](https://github.com/kinvolk/inspektor-gadget) - Introspecting and debugging Kubernetes applications using BPF "gadgets"
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
@@ -383,6 +384,8 @@
 
 ## C++ 
 
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [logicalclocks/rondb](https://github.com/logicalclocks/rondb) - This is RonDB, a distribution of NDB Cluster developed and used by Logical Clocks AB. It also contains development branches of RonDB.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -639,6 +642,8 @@
 
 ## Go 
 
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
+- [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -659,7 +664,7 @@
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
 - [replicatedhq/outdated](https://github.com/replicatedhq/outdated) - Kubectl plugin to find and report outdated images running in a Kubernetes cluster
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [m-mizutani/zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to set environment variable by various method
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation.
@@ -727,7 +732,7 @@
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
@@ -1261,7 +1266,7 @@
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience, which simplifies managing Kubernetes platforms and KRM-driven infrastructure at scale b
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - Automate Kubernetes Configuration Editing
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [falcosecurity/driverkit](https://github.com/falcosecurity/driverkit) - Kit for building Falco drivers: kernel modules or eBPF probes
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language
@@ -2269,7 +2274,6 @@
 - [noble/bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-- [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2050 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
@@ -2782,6 +2786,7 @@
 
 ## Open Policy Agent 
 
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [sighupio/opa-notary-connector](https://github.com/sighupio/opa-notary-connector) - 
 - [fugue/regula](https://github.com/fugue/regula) - Regula checks infrastructure as code templates (Terraform, CloudFormation, k8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego
 
@@ -3136,6 +3141,7 @@
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [kislyuk/keymaker](https://github.com/kislyuk/keymaker) - Lightweight SSH key management on AWS EC2
 - [kislyuk/aegea](https://github.com/kislyuk/aegea) - Amazon Web Services Operator Interface
+- [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 - [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher) - 
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them
@@ -3659,6 +3665,7 @@
 
 ## Rust 
 
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -3962,6 +3969,7 @@
 
 ## TypeScript 
 
+- [acapela/clientdb](https://github.com/acapela/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
