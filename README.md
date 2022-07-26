@@ -655,7 +655,6 @@
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [letsencrypt/attache](https://github.com/letsencrypt/attache) - A sidecar that allows for effortless scaling of a Redis Cluster
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -2251,6 +2250,7 @@
 
 ## JavaScript 
 
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -2275,7 +2275,7 @@
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2050 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2150 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [ameerthehacker/kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -2342,7 +2342,7 @@
 - [typpo/quickchart](https://github.com/typpo/quickchart) - Chart image and QR code web API
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
-- [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+- [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
 - [alexfedoseev/sourcebuster-js](https://github.com/alexfedoseev/sourcebuster-js) - Track the sources of your traffic
