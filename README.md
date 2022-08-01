@@ -384,6 +384,8 @@
 
 ## C++ 
 
+- [onexsoft/onecache](https://github.com/onexsoft/onecache) - Another High Perofrmance Redis Proxy, Replacement of Twemproxy
+- [joyieldInc/predixy](https://github.com/joyieldInc/predixy) - A high performance and fully featured proxy for redis, support redis sentinel and redis cluster
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [logicalclocks/rondb](https://github.com/logicalclocks/rondb) - This is RonDB, a distribution of NDB Cluster developed and used by Logical Clocks AB. It also contains development branches of RonDB.
@@ -642,6 +644,8 @@
 
 ## Go 
 
+- [smira/redis-resharding-proxy](https://github.com/smira/redis-resharding-proxy) - Redis Resharding Proxy
+- [panjiang/redisbench](https://github.com/panjiang/redisbench) - Redis cluster benchmark tool
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller
@@ -3206,7 +3210,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [emmett-framework/emmett](https://github.com/emmett-framework/emmett) - The web framework for inventors
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
