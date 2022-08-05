@@ -370,6 +370,7 @@
 
 ## C# # 
 
+- [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom) - An FFmpeg GUI for Windows
@@ -645,6 +646,10 @@
 
 ## Go 
 
+- [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
+- [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
+- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -2196,7 +2201,6 @@
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [julianespinel/terraform-custom-provider](https://github.com/julianespinel/terraform-custom-provider) - Repository to learn how to create a Terraform custom provider.
 - [popcorn-official/popcorn-android](https://github.com/popcorn-official/popcorn-android) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Android / AndroidTV ) A Butter-Project Fork
-- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [eclipse/hono](https://github.com/eclipse/hono) - Eclipse Hono™ Project
 - [eclipse/hawkbit](https://github.com/eclipse/hawkbit) - Eclipse hawkBit™
@@ -2711,6 +2715,7 @@
 
 ## Kotlin 
 
+- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada for Android and iOS.
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [partiql/partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) - An implementation of PartiQL written in Kotlin.
@@ -3682,6 +3687,7 @@
 
 ## Rust 
 
+- [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
@@ -3985,6 +3991,7 @@
 
 ## TypeScript 
 
+- [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [cstickel/node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) - 
 - [actions/runner-container-hooks](https://github.com/actions/runner-container-hooks) - Runner Container Hooks for GitHub Actions
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
