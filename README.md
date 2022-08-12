@@ -718,6 +718,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [maaslalani/typer](https://github.com/maaslalani/typer) - Typing test in your terminal
 - [kris-nova/kaar](https://github.com/kris-nova/kaar) - Kubernetes Application Archive
+- [nginxinc/nginx-kubernetes-gateway](https://github.com/nginxinc/nginx-kubernetes-gateway) - NGINX Gateway is an open source project managed by NGINX, Inc. It implements a collection of resources that model service networking in Kubernetes.
 - [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner) - Delete untagged image refs in Google Container Registry or Artifact Registry
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
@@ -873,7 +874,7 @@
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [kris-nova/naml](https://github.com/kris-nova/naml) - Convert Kubernetes YAML to Golang
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [Qovery/pleco](https://github.com/Qovery/pleco) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL
 - [ethersphere/bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (ap
@@ -3993,7 +3994,7 @@
 - [cstickel/node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) - 
 - [actions/runner-container-hooks](https://github.com/actions/runner-container-hooks) - Runner Container Hooks for GitHub Actions
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
