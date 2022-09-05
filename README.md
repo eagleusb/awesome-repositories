@@ -681,7 +681,6 @@
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [letsencrypt/attache](https://github.com/letsencrypt/attache) - A sidecar that allows for effortless scaling of a Redis Cluster
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -746,7 +745,7 @@
 - [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
-- [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
+- [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [argoproj-labs/argocd-operator](https://github.com/argoproj-labs/argocd-operator) - A Kubernetes operator for managing Argo CD clusters.
 - [fluent/fluent-operator](https://github.com/fluent/fluent-operator) - Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
@@ -940,7 +939,7 @@
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [codeskyblue/go-sh](https://github.com/codeskyblue/go-sh) - like python-sh, for easy call shell with golang.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [oleiade/lane](https://github.com/oleiade/lane) - A golang queues, stacks and deques implementation library
+- [oleiade/lane](https://github.com/oleiade/lane) - Generic PriorityQueues, Queues, Stacks, and Deque data structures for Go
 - [influxdata/influxdb-client-go](https://github.com/influxdata/influxdb-client-go) - InfluxDB 2 Go Client
 - [canonical/candid](https://github.com/canonical/candid) - Identity Manager Service
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -2272,6 +2271,7 @@
 
 ## JavaScript 
 
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
