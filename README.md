@@ -106,6 +106,7 @@
 
 ## C 
 
+- [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [Snapchat/ModJS](https://github.com/Snapchat/ModJS) - A Javascript Module for KeyDB and Redis
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -1400,7 +1401,7 @@
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
 - [cloudflare/gokeyless](https://github.com/cloudflare/gokeyless) - Go implementation of the keyless protocol
 - [operatify/operatify](https://github.com/operatify/operatify) - Operators made simple for resources with CRUD APIs
-- [oras-project/oras](https://github.com/oras-project/oras) - ORAS CLI
+- [oras-project/oras](https://github.com/oras-project/oras) - Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM
 - [replicatedhq/ship](https://github.com/replicatedhq/ship) - A better way to deploy Kubernetes Helm charts
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -1910,7 +1911,7 @@
 - [contiv/netplugin](https://github.com/contiv/netplugin) - Container networking for various use cases
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
-- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been EOL'ed, see Apptainer
+- [apptainer/singularity](https://github.com/apptainer/singularity) - Singularity has been renamed to Apptainer
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -3683,6 +3684,7 @@
 
 ## Rust 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
@@ -4054,7 +4056,7 @@
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor) - Balena Supervisor: balena's agent on devices.
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [rsify/jay](https://github.com/rsify/jay) - 😎 Supercharged JavaScript REPL
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
