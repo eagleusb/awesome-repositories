@@ -572,7 +572,7 @@
 
 ## CodeQL 
 
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
 ## CoffeeScript 
 
@@ -911,7 +911,7 @@
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
-- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes
 - [GoogleCloudPlatform/cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) - Builder images and examples commonly used for Google Cloud Build
 - [direktiv/vorteil](https://github.com/direktiv/vorteil) - turn your applications and containers into micro virtual machines
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
