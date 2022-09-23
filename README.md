@@ -647,6 +647,7 @@
 
 ## Go 
 
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go.
@@ -1209,7 +1210,7 @@
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [loft-sh/kiosk](https://github.com/loft-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
-- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
+- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
 - [coinbase/step](https://github.com/coinbase/step) - step is a framework for building, testing and deploying AWS Step Functions and Lambda
@@ -2099,7 +2100,7 @@
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [lxc/lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [kabukky/journey](https://github.com/kabukky/journey) - A blog engine written in Go, compatible with Ghost themes.
 - [CastawayLabs/cachet-monitor](https://github.com/CastawayLabs/cachet-monitor) - Distributed monitoring plugin for CachetHQ
@@ -2305,7 +2306,7 @@
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [ameerthehacker/kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
@@ -2776,7 +2777,6 @@
 - [DataDog/helm-charts](https://github.com/DataDog/helm-charts) - Helm charts for Datadog products
 - [kiali/helm-charts](https://github.com/kiali/helm-charts) - Helm Charts used to install Kiali resources.
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
-- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
@@ -2823,6 +2823,7 @@
 
 ## Others 
 
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
@@ -3860,7 +3861,6 @@
 
 ## Shell 
 
-- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [sobotklp/kubernetes-redis-cluster](https://github.com/sobotklp/kubernetes-redis-cluster) - Redis Cluster on Kubernetes
 - [hypertrace/hypertrace](https://github.com/hypertrace/hypertrace) - An open source distributed tracing & observability platform
 - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
@@ -3881,6 +3881,7 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [geekofweek/homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [oogali/ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
