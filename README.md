@@ -4030,7 +4030,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-- [kinvolk/headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and extensible web UI for Kubernetes brought to you by Kinvolk.
+- [kinvolk/headlamp](https://github.com/kinvolk/headlamp) - An easy-to-use and extensible web UI for Kubernetes.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [tylergrinn/cronpush](https://github.com/tylergrinn/cronpush) - Schedule custom push notifications through the browser
