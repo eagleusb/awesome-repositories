@@ -647,11 +647,14 @@
 
 ## Go 
 
+- [ferryproxy/ferry](https://github.com/ferryproxy/ferry) - Ferry is a Kubernetes multi-cluster communication component that eliminates communication differences between clusters as if they were in a single cluster, regardless of the network environment those 
+- [G-Research/armada](https://github.com/G-Research/armada) - A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
+- [Clivern/Beetle](https://github.com/Clivern/Beetle) - 🔥  Kubernetes multi-cluster deployment automation service.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go.
-- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [BedrockStreaming/prescaling-exporter](https://github.com/BedrockStreaming/prescaling-exporter) - Prometheus Exporter to scale plateform
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
 - [evryfs/github-actions-runner-operator](https://github.com/evryfs/github-actions-runner-operator) - K8S operator for scheduling github actions runner pods
@@ -701,7 +704,7 @@
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters
 - [replicatedhq/outdated](https://github.com/replicatedhq/outdated) - Kubectl plugin to find and report outdated images running in a Kubernetes cluster
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [m-mizutani/zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to set environment variable by various method
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation.
@@ -855,7 +858,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
-- [suborbital/atmo](https://github.com/suborbital/atmo) - App framework for cloud native WebAssembly
+- [suborbital/e2core](https://github.com/suborbital/e2core) - Server for sandboxed third-party plugins, powered by WebAssembly
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open source fine-grained permissions database inspired by Google Zanzibar
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
@@ -3414,6 +3417,7 @@
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -3861,6 +3865,7 @@
 
 ## Shell 
 
+- [open-cluster-management-io/OCM](https://github.com/open-cluster-management-io/OCM) - Contains useful documentation on the OCM project. Report here if you found any issues in OCM.
 - [sobotklp/kubernetes-redis-cluster](https://github.com/sobotklp/kubernetes-redis-cluster) - Redis Cluster on Kubernetes
 - [hypertrace/hypertrace](https://github.com/hypertrace/hypertrace) - An open source distributed tracing & observability platform
 - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
@@ -3930,7 +3935,6 @@
 - [nabla-containers/nabla-base-build](https://github.com/nabla-containers/nabla-base-build) - Building of Nabla base Docker images
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [SpiderLabs/jboss-autopwn](https://github.com/SpiderLabs/jboss-autopwn) - A JBoss script for obtaining remote shell access
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [linuxkit/kubernetes](https://github.com/linuxkit/kubernetes) - minimal and immutable Kubernetes images built with LinuxKit
 - [GoogleCloudPlatform/continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) - Get up and running with Jenkins on Google Kubernetes Engine
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
