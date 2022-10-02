@@ -386,6 +386,7 @@
 
 ## C++ 
 
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [RedisLabs/memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [projecteru/redis-cerberus](https://github.com/projecteru/redis-cerberus) - Redis Cluster Proxy
@@ -648,6 +649,7 @@
 
 ## Go 
 
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [ferryproxy/ferry](https://github.com/ferryproxy/ferry) - Ferry is a Kubernetes multi-cluster communication component that eliminates communication differences between clusters as if they were in a single cluster, regardless of the network environment those 
 - [G-Research/armada](https://github.com/G-Research/armada) - A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
 - [Clivern/Beetle](https://github.com/Clivern/Beetle) - 🔥  Kubernetes multi-cluster deployment automation service.
@@ -735,7 +737,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [maaslalani/typer](https://github.com/maaslalani/typer) - Typing test in your terminal
-- [kris-nova/kaar](https://github.com/kris-nova/kaar) - Kubernetes Application Archive
+- [krisnova/kaar](https://github.com/krisnova/kaar) - Kubernetes Application Archive
 - [nginxinc/nginx-kubernetes-gateway](https://github.com/nginxinc/nginx-kubernetes-gateway) - NGINX Kubernetes Gateway provides an implementation for the Gateway API using NGINX as the data plane.
 - [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner) - Delete untagged image refs in Google Container Registry or Artifact Registry
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
@@ -891,7 +893,7 @@
 - [irsl/gcp-dhcp-takeover-code-exec](https://github.com/irsl/gcp-dhcp-takeover-code-exec) - Google Compute Engine (GCE) VM takeover via DHCP flood - gain root access by getting SSH keys added by google_guest_agent
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
-- [kris-nova/naml](https://github.com/kris-nova/naml) - Convert Kubernetes YAML to Golang
+- [krisnova/naml](https://github.com/krisnova/naml) - Convert Kubernetes YAML to Golang
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [Qovery/pleco](https://github.com/Qovery/pleco) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL
@@ -2459,7 +2461,7 @@
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [n0ruSh/the-art-of-reading](https://github.com/n0ruSh/the-art-of-reading) - books that i have read and worth sharing
+- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
 - [ylorenzana/node-express-api-auth](https://github.com/ylorenzana/node-express-api-auth) - Boilerplate for API auth following secure standards. Includes user registration/login and authentication using bearer tokens and CSRF protection using CSRF-tokens.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -3783,7 +3785,7 @@
 - [twitter/rezolus](https://github.com/twitter/rezolus) - Systems performance telemetry
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [Kintaro/wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [kamek-pf/polybar-forecast](https://github.com/kamek-pf/polybar-forecast) - A weather forecast module for Polybar
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
