@@ -106,6 +106,7 @@
 
 ## C 
 
+- [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
 - [cybertec-postgresql/pg_squeeze](https://github.com/cybertec-postgresql/pg_squeeze) - A PostgreSQL extension for automatic bloat cleanup
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -609,6 +610,7 @@
 
 ## Dockerfile 
 
+- [cloudnative-pg/pgbouncer-containers](https://github.com/cloudnative-pg/pgbouncer-containers) - Operand images for CloudNativePG containing PgBouncer
 - [aantonw/docker-alpine-wkhtmltopdf-patched-qt](https://github.com/aantonw/docker-alpine-wkhtmltopdf-patched-qt) - Alpine Linux 3.9 wkhtmltopdf 0.12.5 (with patched qt)
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [nats-io/jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
@@ -650,6 +652,10 @@
 
 ## Go 
 
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) - Prometheus exporter for PgBouncer
+- [gocardless/stolon-pgbouncer](https://github.com/gocardless/stolon-pgbouncer) - Add-on to stolon for providing zero-downtime failover and PgBouncer integration
+- [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
+- [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
 - [datarootsio/cheek](https://github.com/datarootsio/cheek) - Crontab-like scHeduler for Effective Execution of tasKs, cheek for short.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -668,7 +674,7 @@
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
 - [evryfs/github-actions-runner-operator](https://github.com/evryfs/github-actions-runner-operator) - K8S operator for scheduling github actions runner pods
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
-- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay utility optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting from China to servers abroad)
+- [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [Ladicle/kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize Kubernetes RBAC roles for the specified subjects.
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [ibuildthecloud/klum](https://github.com/ibuildthecloud/klum) - Kubernetes Lazy User Manager
@@ -2468,7 +2474,6 @@
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
 - [ylorenzana/node-express-api-auth](https://github.com/ylorenzana/node-express-api-auth) - Boilerplate for API auth following secure standards. Includes user registration/login and authentication using bearer tokens and CSRF protection using CSRF-tokens.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -2969,6 +2974,7 @@
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [nodejs/mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [packetrat/packethunting](https://github.com/packetrat/packethunting) - Resources and materials for DEF CON 2018 Packet Hunting Workshop
+- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
 - [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
@@ -3133,6 +3139,7 @@
 
 ## Python 
 
+- [canonical/pgbouncer-operator](https://github.com/canonical/pgbouncer-operator) - A charmed operator for running PgBouncer on virtual machines.
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
@@ -3706,6 +3713,7 @@
 
 ## Rust 
 
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
