@@ -687,7 +687,7 @@
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 - [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes
 - [twitter/scoot](https://github.com/twitter/scoot) - Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 - [olegsu/iris](https://github.com/olegsu/iris) - Watch on Kubernetes events, filter and send them as standard wehbook to any system
@@ -3261,7 +3261,7 @@
 - [evhub/coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [adamchainz/ec2-metadata](https://github.com/adamchainz/ec2-metadata) - An easy interface to query the EC2 metadata API, with caching.
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
-- [hynek/structlog](https://github.com/hynek/structlog) - Structured Logging for Python
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple. Powerful. Fast. Pick three.
 - [getlogbook/logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [thombashi/pathvalidate](https://github.com/thombashi/pathvalidate) - A Python library to sanitize/validate a string such as filenames/file-paths/etc.
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
@@ -4141,7 +4141,7 @@
 - [Goyoo/node-k8s-client](https://github.com/Goyoo/node-k8s-client) - kubernetes client of node.js
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [wtgtybhertgeghgtwtg/env-and-files](https://github.com/wtgtybhertgeghgtwtg/env-and-files) - Load configuration from environmental variables and files.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -4157,7 +4157,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
