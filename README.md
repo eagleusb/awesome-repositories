@@ -111,6 +111,7 @@
 
 ## C 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
 - [cybertec-postgresql/pg_squeeze](https://github.com/cybertec-postgresql/pg_squeeze) - A PostgreSQL extension for automatic bloat cleanup
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
@@ -230,7 +231,7 @@
 - [dhowland/EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
 - [Massdrop/mdloader](https://github.com/Massdrop/mdloader) - Massdrop Firmware Loader - for CTRL / ALT / SHIFT / Rocketeer keyboards
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
-- [karlstav/cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [pimoroni/keybow-firmware](https://github.com/pimoroni/keybow-firmware) - Keybow Firmware for the Raspberry Pi Zero
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
@@ -650,6 +651,11 @@
 
 ## Go 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [eldadru/ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
+- [knight42/kubectl-blame](https://github.com/knight42/kubectl-blame) - Show who edited resource fields.
+- [knight42/krelay](https://github.com/knight42/krelay) - A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
+- [brianpursley/kubectl-confirm](https://github.com/brianpursley/kubectl-confirm) - Kubectl Confirm is a plugin for Kubectl that displays information and asked for confirmation before executing a command.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs/parallel)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1431,7 +1437,7 @@
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodically kills random pods in your Kubernetes cluster.
 - [cloudflare/gokeyless](https://github.com/cloudflare/gokeyless) - Go implementation of the keyless protocol
 - [operatify/operatify](https://github.com/operatify/operatify) - Operators made simple for resources with CRUD APIs
-- [oras-project/oras](https://github.com/oras-project/oras) - Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM
+- [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 - [replicatedhq/ship](https://github.com/replicatedhq/ship) - A better way to deploy Kubernetes Helm charts
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -1668,7 +1674,7 @@
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [lotusload/lotus](https://github.com/lotusload/lotus) - Kubernetes controller for running load testing
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
+- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [automationbroker/apb](https://github.com/automationbroker/apb) - A CLI tool for listing and deploying Service Bundles
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
@@ -2222,7 +2228,7 @@
 ## Java 
 
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration pipelines from APIs, databases & files to warehouses & lakes.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [microg/UnifiedNlp](https://github.com/microg/UnifiedNlp) - Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 - [intuit/maven-build-scanner](https://github.com/intuit/maven-build-scanner) - Know your build - so you can make it faster
@@ -3714,6 +3720,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Simple, efficient & fast log storage and observability platform. Open source alternative to Splunk.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
