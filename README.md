@@ -693,7 +693,7 @@
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [coder/coder](https://github.com/coder/coder) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
@@ -1140,7 +1140,6 @@
 - [superfly/autowire](https://github.com/superfly/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [fishworks/gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
@@ -1888,7 +1887,6 @@
 - [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -2188,6 +2186,7 @@
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [jedisct1/libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
@@ -2331,6 +2330,7 @@
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
