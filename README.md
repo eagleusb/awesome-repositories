@@ -110,6 +110,7 @@
 
 ## C 
 
+- [nigeltao/qoir](https://github.com/nigeltao/qoir) - A fast, simple, lossless image file format.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
 - [cybertec-postgresql/pg_squeeze](https://github.com/cybertec-postgresql/pg_squeeze) - A PostgreSQL extension for automatic bloat cleanup
@@ -553,6 +554,7 @@
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
+- [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [mhausenblas/reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
 - [ElasticBox/elastickube](https://github.com/ElasticBox/elastickube) - ElasticKube is an open source management platform for Kubernetes.
 - [csstyle-org/csstyle](https://github.com/csstyle-org/csstyle) - clean, simple styling for styling the web.
@@ -653,6 +655,7 @@
 
 ## Go 
 
+- [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Logs for humans to read.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [eldadru/ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
 - [knight42/kubectl-blame](https://github.com/knight42/kubectl-blame) - Show who edited resource fields.
@@ -958,7 +961,6 @@
 - [vito/booklit](https://github.com/vito/booklit) - a pretty lit content authoring system
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
 - [nlepage/go-wasm-http-server](https://github.com/nlepage/go-wasm-http-server) - Embed your Go HTTP handlers in a ServiceWorker and emulate an HTTP server!
-- [tailscale/wireguard-go](https://github.com/tailscale/wireguard-go) - Tailscale's temporary fork of https://git.zx2c4.com/wireguard-go
 - [GoogleCloudPlatform/docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - A Docker credential helper for GCR users
 - [hashicorp/go-memdb](https://github.com/hashicorp/go-memdb) - Golang in-memory database built on immutable radix trees
 - [gitpod-io/dazzle](https://github.com/gitpod-io/dazzle) - dazzle is a rather experimental Docker image builder which builds independent layers
@@ -1143,6 +1145,7 @@
 - [superfly/autowire](https://github.com/superfly/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [fishworks/gofish](https://github.com/fishworks/gofish) - Keep your fish fresh! :tropical_fish:
 - [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
@@ -2333,7 +2336,6 @@
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -2462,7 +2464,7 @@
 - [nodeSolidServer/node-solid-server](https://github.com/nodeSolidServer/node-solid-server) - Solid server on top of the file-system in NodeJS
 - [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-- [nodesecurity/eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [GoogleChromeLabs/size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [ziishaned/dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
@@ -3026,7 +3028,6 @@
 - [mark-rushakoff/awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) - A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
-- [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [ansible/ansible-lockdown](https://github.com/ansible/ansible-lockdown) - Archived, new content in https://github.com/ansible-lockdown
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -3328,7 +3329,7 @@
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
@@ -3721,6 +3722,7 @@
 
 ## Rust 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Simple, efficient & fast log storage and observability platform. Open source alternative to Splunk.
@@ -4041,6 +4043,7 @@
 
 ## TypeScript 
 
+- [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
