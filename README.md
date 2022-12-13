@@ -110,6 +110,7 @@
 
 ## C 
 
+- [Matthias-Wandel/imgcomp](https://github.com/Matthias-Wandel/imgcomp) - Motion triggered timelapses for security camera
 - [nigeltao/qoir](https://github.com/nigeltao/qoir) - A fast, simple, lossless image file format.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
@@ -395,6 +396,7 @@
 
 ## C++ 
 
+- [slowmoVideo/slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Official slowmoVideo repository
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [magma/magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -656,6 +658,7 @@
 
 ## Go 
 
+- [DataDog/watermarkpodautoscaler](https://github.com/DataDog/watermarkpodautoscaler) - Custom controller that extends the Horizontal Pod Autoscaler
 - [sethvargo/vault-init](https://github.com/sethvargo/vault-init) - Automate the initialization and unsealing of @HashiCorp Vault on @GoogleCloudPlatform
 - [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Logs for humans to read.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -846,7 +849,7 @@
 - [argoproj-labs/argo-kube-notifier](https://github.com/argoproj-labs/argo-kube-notifier) - Argo Kube Notifier controller monitors Kubernetes resources
 - [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps.
 - [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
-- [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [kubeops/config-syncer](https://github.com/kubeops/config-syncer) - 🛡️ Kubernetes Config Syncer (previously kubed)
 - [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) - Certificate Transparency log monitor
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -2872,6 +2875,7 @@
 - [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
 - [CondensationDS/Condensation](https://github.com/CondensationDS/Condensation) - Condensation is an open-source data system for building cloud applications while keeping the ownership of data.
+- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
@@ -3633,7 +3637,7 @@
 
 ## RobotFramework 
 
-- [balena-io/autohat](https://github.com/balena-io/autohat) - Automated Hardware Testing - WIP
+- [balena-io/autohat](https://github.com/balena-io/autohat) - balenaCloud end-to-end tests (autohat).
 
 ## Roff 
 
@@ -3768,7 +3772,6 @@
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [kubewarden/policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [TheOnlyMrCat/runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
@@ -4238,6 +4241,7 @@
 
 ## Vue 
 
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [sbkwgh/forum](https://github.com/sbkwgh/forum) - Forum software created using Express, Vue, and Sequelize
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
