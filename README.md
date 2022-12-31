@@ -400,6 +400,7 @@
 
 ## C++ 
 
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing
 - [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C++ IRC server (ircd).
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
 - [eiskaltdcpp/eiskaltdcpp](https://github.com/eiskaltdcpp/eiskaltdcpp) - File sharing program using DC and ADC protocols
@@ -557,7 +558,7 @@
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
@@ -717,7 +718,7 @@
 - [Ladicle/kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize Kubernetes RBAC roles for the specified subjects.
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [ibuildthecloud/klum](https://github.com/ibuildthecloud/klum) - Kubernetes Lazy User Manager
-- [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
+- [FairwindsOps/gemini](https://github.com/FairwindsOps/gemini) - [alpha] Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
 - [clusterpedia-io/clusterpedia](https://github.com/clusterpedia-io/clusterpedia) - The Encyclopedia of Kubernetes clusters
@@ -4076,7 +4077,7 @@
 - [cstickel/node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) - 
 - [actions/runner-container-hooks](https://github.com/actions/runner-container-hooks) - Runner Container Hooks for GitHub Actions
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [axentix/axentix](https://github.com/axentix/axentix) - The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
