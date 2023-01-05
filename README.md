@@ -27,6 +27,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [FreeMarker](#freemarker)
+- [G-code](#g-code)
 - [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -110,6 +111,7 @@
 
 ## C 
 
+- [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 - [dfu-programmer/dfu-programmer](https://github.com/dfu-programmer/dfu-programmer) - dfu-programmer is a Device Firmware Update based USB programmer for Atmel chips with a USB bootloader
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [janvidar/uhub](https://github.com/janvidar/uhub) - A high performance ADC peer to peer message hub.
@@ -661,6 +663,10 @@
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+
+## G-code 
+
+- [The-Royal/The_Royal_Open-Source-Projects](https://github.com/The-Royal/The_Royal_Open-Source-Projects) - A Master Repository For All things Royal Made
 
 ## Gnuplot 
 
@@ -1582,7 +1588,7 @@
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [weaveworks/eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
 - [Anondo/crontalk](https://github.com/Anondo/crontalk) - Talk to the cron expressions on your terminal
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [letsencrypt/ct-woodpecker](https://github.com/letsencrypt/ct-woodpecker) - A tool to monitor a certificate transparency log for operational problems
 - [facebookincubator/dhcplb](https://github.com/facebookincubator/dhcplb) - dhcplb is Facebook's implementation of a load balancer for DHCP.
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
@@ -4126,7 +4132,7 @@
 - [schneefux/vscode-winddown](https://github.com/schneefux/vscode-winddown) - VS Code extension that encourages you to take a break.
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [open-policy-agent/vscode-opa](https://github.com/open-policy-agent/vscode-opa) - An extension for VS Code which provides support for OPA
-- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
+- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [houqp/vpcstudio](https://github.com/houqp/vpcstudio) - VPC design made easy
