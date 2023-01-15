@@ -561,6 +561,7 @@
 
 ## CSS 
 
+- [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
 - [hybridgroup/robeaux](https://github.com/hybridgroup/robeaux) - Universal dashboard to robotic devices based on React
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
@@ -2897,6 +2898,9 @@
 
 ## Others 
 
+- [elasticrash/ut47.2_keyboard_cases](https://github.com/elasticrash/ut47.2_keyboard_cases) - 
+- [coarse/st40](https://github.com/coarse/st40) - Open source 40% ortholinear keyboard PCB powered by STM32F072
+- [coarse/UT47.3](https://github.com/coarse/UT47.3) - STM32 40% keyboard based on Gnap
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [davidfriar/tokyo60ispflashing](https://github.com/davidfriar/tokyo60ispflashing) - Getting QMK programming up and running for the Tokyo 60 v3 - a quick guide for the reckless and impatient
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -3196,6 +3200,7 @@
 
 ## Python 
 
+- [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [canonical/pgbouncer-operator](https://github.com/canonical/pgbouncer-operator) - A charmed operator for running PgBouncer on virtual machines.
