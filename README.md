@@ -692,7 +692,7 @@
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [direct-connect/go-dcpp](https://github.com/direct-connect/go-dcpp) - Hybrid Direct Connect hub written in Go.
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client
