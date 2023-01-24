@@ -681,6 +681,7 @@
 
 ## Go 
 
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [pspiagicw/qemantra](https://github.com/pspiagicw/qemantra) - Control QEMU like magic!
 - [alcideio/rbac-tool](https://github.com/alcideio/rbac-tool) - Rapid7 | insightCloudSec | Kubernetes RBAC Power Toys - Visualize, Analyze, Generate & Query
 - [pr8kerl/kubectl-ssm-secret](https://github.com/pr8kerl/kubectl-ssm-secret) - 
@@ -938,7 +939,7 @@
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [suborbital/e2core](https://github.com/suborbital/e2core) - Server for sandboxed third-party plugins, powered by WebAssembly
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Zanzibar-Inspired Fine-Grained Permissions Database
-- [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 - [devtron-labs/silver-surfer](https://github.com/devtron-labs/silver-surfer) - An OpenSource project to check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions.
@@ -3882,7 +3883,7 @@
 - [kamek-pf/polybar-forecast](https://github.com/kamek-pf/polybar-forecast) - A weather forecast module for Polybar
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
