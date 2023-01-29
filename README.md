@@ -802,7 +802,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform that lets you escape cloud complexity by logically declaring infrastructure needs directly in application code.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [suborbital/vektor](https://github.com/suborbital/vektor) - Opinionated production-grade HTTP server framework for Go
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DLE enables 🖖 DB branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Fo
@@ -2917,6 +2917,7 @@
 
 ## Others 
 
+- [radxa-build/rock-pi-4b](https://github.com/radxa-build/rock-pi-4b) - ROCK Pi 4B
 - [elasticrash/ut47.2_keyboard_cases](https://github.com/elasticrash/ut47.2_keyboard_cases) - 
 - [coarse/st40](https://github.com/coarse/st40) - Open source 40% ortholinear keyboard PCB powered by STM32F072
 - [coarse/UT47.3](https://github.com/coarse/UT47.3) - STM32 40% keyboard based on Gnap
@@ -3155,6 +3156,7 @@
 
 ## PHP 
 
+- [BWLR/switches.mx](https://github.com/BWLR/switches.mx) - Open source code for the website https://switches.mx
 - [moode-player/moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
