@@ -9,6 +9,7 @@
 - [Astro](#astro)
 - [Ballerina](#ballerina)
 - [Batchfile](#batchfile)
+- [Bikeshed](#bikeshed)
 - [BitBake](#bitbake)
 - [C](#c)
 - [C#](#c#)
@@ -109,12 +110,17 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [kairyu/tkg-toolkit](https://github.com/kairyu/tkg-toolkit) - A collection of tools used for supporting TKG (TMK Keymap Generator).
 
+## Bikeshed 
+
+- [patcg-individual-drafts/topics](https://github.com/patcg-individual-drafts/topics) - The Topics API
+
 ## BitBake 
 
 - [balena-os/meta-balena](https://github.com/balena-os/meta-balena) - A collection of Yocto layers used to build balenaOS images
 
 ## C 
 
+- [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [ralph-irving/squeezelite](https://github.com/ralph-irving/squeezelite) - Lightweight headless squeezebox player for Logitech Media Server
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
@@ -685,6 +691,8 @@
 
 ## Go 
 
+- [grafana/grafana-kiosk](https://github.com/grafana/grafana-kiosk) - Kiosk Utility for Grafana
+- [fabienjuif/go-linkedlist](https://github.com/fabienjuif/go-linkedlist) - Simple LinkedList in Go
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
@@ -953,7 +961,7 @@
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [suborbital/e2core](https://github.com/suborbital/e2core) - Server for sandboxed third-party plugins, powered by WebAssembly
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-Inspired Fine-Grained Permissions Database
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
@@ -2860,6 +2868,7 @@
 
 ## Makefile 
 
+- [pcaro90/hermit](https://github.com/pcaro90/hermit) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher) - Makefile to build a Go project
@@ -2945,7 +2954,6 @@
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [wako-app/wako](https://github.com/wako-app/wako) - A Movie & TV Show Tracking App powered by trakt.tv and simkl.com. Available on iOS and Android
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-- [patcg-individual-drafts/topics](https://github.com/patcg-individual-drafts/topics) - The Topics API
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [botcrypto-io/awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) - Awesome crypto trading bots
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -3814,6 +3822,7 @@
 
 ## Rust 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS 🦀
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
