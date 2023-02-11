@@ -692,6 +692,8 @@
 
 ## Go 
 
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation sharing platform built on top of OpenZiti.
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [juliangruber/go-intersect](https://github.com/juliangruber/go-intersect) - Find the intersection of two iterable values
 - [rueian/gke-hubble-export](https://github.com/rueian/gke-hubble-export) - Install hubble-ui on GKE Dataplane V2
@@ -796,7 +798,7 @@
 - [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [infrahq/infra](https://github.com/infrahq/infra) - Modern infrastructure access. Infra provides authentication and access management to servers, clusters, and databases.
+- [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
@@ -3827,6 +3829,7 @@
 
 ## Rust 
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
