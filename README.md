@@ -2287,6 +2287,7 @@
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [sonic-net/SONiC](https://github.com/sonic-net/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
+- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [mitro-co/mitro](https://github.com/mitro-co/mitro) - Repository for all Mitro client & server code
@@ -2396,6 +2397,7 @@
 
 ## JavaScript 
 
+- [robrotheram/gogallery](https://github.com/robrotheram/gogallery) - Static Site generator but for images. Its like Hugo but for large photo galleries
 - [bradleyboy/standbot](https://github.com/bradleyboy/standbot) - Scheduled team standups in Slack
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
@@ -3205,7 +3207,6 @@
 - [jasonmunro/cypht](https://github.com/jasonmunro/cypht) - Cypht: Lightweight Open Source webmail written in PHP and JavaScript
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
-- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [Sonerezh/sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
@@ -4167,6 +4168,7 @@
 
 ## TypeScript 
 
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier.
