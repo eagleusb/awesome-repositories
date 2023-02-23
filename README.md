@@ -1103,7 +1103,7 @@
 - [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
 - [moul/gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
 - [louketo/louketo-proxy](https://github.com/louketo/louketo-proxy) - A OpenID / Proxy service
-- [krakendio/krakend-ce](https://github.com/krakendio/krakend-ce) - High-performance, statless, declarative, API Gateway written in Go.
+- [krakendio/krakend-ce](https://github.com/krakendio/krakend-ce) - High-performance, stateless, declarative, API Gateway written in Go.
 - [erikh/duct](https://github.com/erikh/duct) - docker-compose alike functionality directly from golang, for integration testing.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [edgexfoundry/edgex-go](https://github.com/edgexfoundry/edgex-go) - EdgeX Golang Services Monorepo | Owner: Core/Support WG
