@@ -46,6 +46,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M](#m)
+- [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -693,6 +694,9 @@
 
 ## Go 
 
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
+- [tohjustin/kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster.
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for AI/ML
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -2878,6 +2882,10 @@
 
 - [etalab/calculette-impots-m-source-code](https://github.com/etalab/calculette-impots-m-source-code) - Code source du calcul de l'impôt sur les revenus
 
+## MATLAB 
+
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+
 ## Makefile 
 
 - [pcaro90/hermit](https://github.com/pcaro90/hermit) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
@@ -3252,6 +3260,7 @@
 
 ## Python 
 
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [AntonAleksandrov13/python-redis-tool](https://github.com/AntonAleksandrov13/python-redis-tool) - Python CLI for Redis Cluster administration
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
@@ -3568,7 +3577,6 @@
 - [box/ClusterRunner](https://github.com/box/ClusterRunner) - ClusterRunner makes it easy to parallelize test suites across your infrastructure in the fastest and most efficient way possible.
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
-- [imbal/safeyaml](https://github.com/imbal/safeyaml) - SafeYAML: A linter for YAML-favoured JSON (& autoformatting too!)
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
@@ -4238,7 +4246,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [johannesjo/linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
-- [rodrigopivi/Chatito](https://github.com/rodrigopivi/Chatito) - 🎯🗯 Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
+- [rodrigopivi/Chatito](https://github.com/rodrigopivi/Chatito) - 🎯🗯 Dataset generation for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [aletheia/iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
 - [schneefux/vscode-winddown](https://github.com/schneefux/vscode-winddown) - VS Code extension that encourages you to take a break.
@@ -4313,7 +4321,6 @@
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 - [brigadecore/kashti](https://github.com/brigadecore/kashti) - Kashti is a dashboard for your Brigade v1 pipelines.
 - [nativescript-vue/nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
-- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [RedpointGames/pkgsign](https://github.com/RedpointGames/pkgsign) - A CLI tool for signing and verifying npm and yarn packages.
 - [census-instrumentation/opencensus-node](https://github.com/census-instrumentation/opencensus-node) - A stats collection and distributed tracing framework
