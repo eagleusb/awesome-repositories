@@ -3269,6 +3269,7 @@
 
 ## Python 
 
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
