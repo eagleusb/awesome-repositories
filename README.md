@@ -120,6 +120,7 @@
 
 ## C 
 
+- [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
 - [ngircd/ngircd](https://github.com/ngircd/ngircd) - Free, portable and lightweight Internet Relay Chat server
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -321,7 +322,7 @@
 - [rcls/crap](https://github.com/rcls/crap) - Cvs Remote Access Program
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [intel/cc-oci-runtime](https://github.com/intel/cc-oci-runtime) - OCI (Open Containers Initiative) compatible runtime for Intel® Architecture
-- [zmartzone/mod_auth_openidc](https://github.com/zmartzone/mod_auth_openidc) - OpenID Certified™ OpenID Connect Relying Party implementation for Apache HTTP Server 2.x
+- [OpenIDC/mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) - OpenID Certified™ OpenID Connect Relying Party implementation for Apache HTTP Server 2.x
 - [eleme/corvus](https://github.com/eleme/corvus) - A fast and lightweight Redis Cluster Proxy for Redis 3.0
 - [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - Interpreted language focused on expressiveness and type safety.
 - [reyk/relayd](https://github.com/reyk/relayd) - OpenBSD relayd daemon -experimental
@@ -694,6 +695,7 @@
 
 ## Go 
 
+- [flamego/flamego](https://github.com/flamego/flamego) - A fantastic modular Go web framework with a slim core but limitless extensibility
 - [sarweshsuman/redis-cluster-go-coordinator](https://github.com/sarweshsuman/redis-cluster-go-coordinator) - 
 - [contentful-labs/terraform-diff](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
 - [yannh/redis-dump-go](https://github.com/yannh/redis-dump-go) - Backup & Restore your Redis server - FAST
@@ -2266,7 +2268,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [fluxcd/helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -2431,6 +2432,7 @@
 - [disneystreaming/automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) - Automated Cloud Advisor is a extensible tool that aims at facilitating cost optimization in AWS, by collecting data for resources that are under utilized. In addition, this is a great learning tool fo
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [abrahamjuliot/web-fingerprinting](https://github.com/abrahamjuliot/web-fingerprinting) - web fingerprinting research
+- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [rc2dev/pifi-radio](https://github.com/rc2dev/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
@@ -2646,7 +2648,7 @@
 - [smpio/kubernator](https://github.com/smpio/kubernator) - Alternative Kubernetes UI
 - [wonderunit/storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
@@ -3871,7 +3873,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -4194,6 +4196,7 @@
 
 ## TypeScript 
 
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [stoat-dev/stoat-action](https://github.com/stoat-dev/stoat-action) - Turn pull request comments into developer dashboards.
