@@ -696,6 +696,8 @@
 
 ## Go 
 
+- [crossplane-contrib/provider-argocd](https://github.com/crossplane-contrib/provider-argocd) - Crossplane provider to provision and manage Argo CD objects
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [flamego/flamego](https://github.com/flamego/flamego) - A fantastic modular Go web framework with a slim core but limitless extensibility
 - [sarweshsuman/redis-cluster-go-coordinator](https://github.com/sarweshsuman/redis-cluster-go-coordinator) - 
 - [contentful-labs/terraform-diff](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
@@ -2970,6 +2972,7 @@
 
 ## Others 
 
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [0xCB-dev/SL-060-PCB](https://github.com/0xCB-dev/SL-060-PCB) - Synth Labs 060 PCB Hardware Files
 - [PROxZIMA/boo-grub](https://github.com/PROxZIMA/boo-grub) - A dark GRUB bootloader theme based on Dracula grub
 - [radxa-build/rock-pi-4b](https://github.com/radxa-build/rock-pi-4b) - ROCK Pi 4B
