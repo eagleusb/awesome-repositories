@@ -77,6 +77,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -120,6 +121,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [krisnova/nginx-proxy-analysis](https://github.com/krisnova/nginx-proxy-analysis) - A small research project aimed at understanding the behaviour of a simple nginx reverse proxy given various upstream server conditions.
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
@@ -2975,6 +2977,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [0xCB-dev/SL-060-PCB](https://github.com/0xCB-dev/SL-060-PCB) - Synth Labs 060 PCB Hardware Files
 - [PROxZIMA/boo-grub](https://github.com/PROxZIMA/boo-grub) - A dark GRUB bootloader theme based on Dracula grub
 - [radxa-build/rock-pi-4b](https://github.com/radxa-build/rock-pi-4b) - ROCK Pi 4B
@@ -3866,6 +3869,7 @@
 
 ## Rust 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -4196,6 +4200,11 @@
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [GoogleContainerTools/base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) - Base images for Google Docker containers.
 
+## Swift 
+
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
+
 ## TeX 
 
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
@@ -4205,6 +4214,8 @@
 
 ## TypeScript 
 
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
