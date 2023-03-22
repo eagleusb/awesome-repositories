@@ -121,6 +121,7 @@
 
 ## C 
 
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [krisnova/nginx-proxy-analysis](https://github.com/krisnova/nginx-proxy-analysis) - A small research project aimed at understanding the behaviour of a simple nginx reverse proxy given various upstream server conditions.
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
@@ -698,6 +699,8 @@
 
 ## Go 
 
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
+- [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep Docker registries in sync
 - [GoogleCloudPlatform/terraform-validator](https://github.com/GoogleCloudPlatform/terraform-validator) - Terraform Validator is not an officially supported Google product; it is a library for conversion of Terraform plan data to CAI Assets. If you have been using terraform-validator directly in the past,
 - [crossplane-contrib/provider-argocd](https://github.com/crossplane-contrib/provider-argocd) - Crossplane provider to provision and manage Argo CD objects
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -834,7 +837,7 @@
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - Open Source, MongoDB-compatible document database
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [cyrilgdn/terraform-provider-postgresql](https://github.com/cyrilgdn/terraform-provider-postgresql) - Terraform PostgreSQL provider
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
@@ -2979,6 +2982,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [0xCB-dev/SL-060-PCB](https://github.com/0xCB-dev/SL-060-PCB) - Synth Labs 060 PCB Hardware Files
 - [PROxZIMA/boo-grub](https://github.com/PROxZIMA/boo-grub) - A dark GRUB bootloader theme based on Dracula grub
@@ -3870,6 +3874,7 @@
 
 ## Rust 
 
+- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
 - [project-akri/akri](https://github.com/project-akri/akri) - A Kubernetes Resource Interface for the Edge
@@ -4202,6 +4207,7 @@
 
 ## Swift 
 
+- [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 
@@ -4236,7 +4242,7 @@
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [cstickel/node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) - 
 - [actions/runner-container-hooks](https://github.com/actions/runner-container-hooks) - Runner Container Hooks for GitHub Actions
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
