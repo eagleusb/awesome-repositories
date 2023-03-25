@@ -591,7 +591,6 @@
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
-- [FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [mhausenblas/reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
 - [ElasticBox/elastickube](https://github.com/ElasticBox/elastickube) - ElasticKube is an open source management platform for Kubernetes.
@@ -700,6 +699,7 @@
 
 ## Go 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Run Terraform plan / apply in your CI
 - [akuity/grpc-gateway-client](https://github.com/akuity/grpc-gateway-client) - grpc-gateway HTTP client generator
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep Docker registries in sync
@@ -886,7 +886,7 @@
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [corneliusweig/ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [repenno/envoybigbook](https://github.com/repenno/envoybigbook) - Envoy Proxy Big Book of Examples
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
@@ -1017,7 +1017,7 @@
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [tidwall/uhaha](https://github.com/tidwall/uhaha) - High Availability Raft Framework for Go
-- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -&gt; IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more conv
+- [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - @IceFireLabs -&gt; IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
 - [gruntwork-io/terraform-google-sql](https://github.com/gruntwork-io/terraform-google-sql) - Terraform modules for deploying Google Cloud SQL (e.g. MySQL, PostgreSQL) in GCP
@@ -2300,6 +2300,7 @@
 - [vteams/open-source-billing](https://github.com/vteams/open-source-billing) - Open Source Billing a super simple way to create and send invoices and receive payments online.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
+- [FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
