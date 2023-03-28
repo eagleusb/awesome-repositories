@@ -2957,6 +2957,7 @@
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels
 
 ## Objective-C 
@@ -3583,14 +3584,13 @@
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [willthames/kubernetes-validate](https://github.com/willthames/kubernetes-validate) - 
 - [koldinger/Tardis](https://github.com/koldinger/Tardis) - A backup system, similar to TimeMachine.  Supports encrypted, incremental backups, with filesystem based recovery.
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral provides a unified view for endpoint monitoring. Comprehensive features include Santa binary authorization and patch management orchestration on macOS, as well as detailed Qsquery fleet manage
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
 - [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
 - [bitly/data_hacks](https://github.com/bitly/data_hacks) - Command line utilities for data analysis
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [in-toto/in-toto](https://github.com/in-toto/in-toto) - in-toto is a framework to protect supply chain integrity.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [dell/redfish-ansible-module](https://github.com/dell/redfish-ansible-module) - Ansible modules for Out-Of-Band Controllers using Redfish APIs
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
@@ -3688,7 +3688,7 @@
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [mesosphere/marathon-lb](https://github.com/mesosphere/marathon-lb) - Marathon-lb is a service discovery & load balancing tool for DC/OS
 - [quantopian/coal-mine](https://github.com/quantopian/coal-mine) - Coal Mine - Periodic task execution monitor
-- [adrian-maurin/addic7ed](https://github.com/adrian-maurin/addic7ed) - Addic7ed scraper written in Python to download subtitles (almost) automatically
+- [pogman-code/addic7ed](https://github.com/pogman-code/addic7ed) - Addic7ed scraper written in Python to download subtitles (almost) automatically
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
@@ -3876,6 +3876,7 @@
 
 ## Rust 
 
+- [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox) - Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
@@ -4232,7 +4233,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier.
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
