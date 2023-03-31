@@ -419,7 +419,7 @@
 
 ## C++ 
 
-- [firebuild/firebuild](https://github.com/firebuild/firebuild) - automatic build accelerator
+- [firebuild/firebuild](https://github.com/firebuild/firebuild) - Automatic build accelerator for Linux
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -698,8 +698,9 @@
 
 ## Go 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Run Terraform plan / apply in your CI
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source Terraform Cloud alternative. Digger allows you to run Terraform plan / apply in your CI. No need for separate CI tool, comes with all batteries included 🔋⚡
 - [akuity/grpc-gateway-client](https://github.com/akuity/grpc-gateway-client) - grpc-gateway HTTP client generator
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep Docker registries in sync
@@ -2979,6 +2980,7 @@
 
 ## Others 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [0xCB-dev/SL-060-PCB](https://github.com/0xCB-dev/SL-060-PCB) - Synth Labs 060 PCB Hardware Files
