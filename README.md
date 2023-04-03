@@ -120,7 +120,7 @@
 
 ## C 
 
-- [curl/urler](https://github.com/curl/urler) - command line tool for URL parsing and manipulation
+- [curl/urler](https://github.com/curl/urler) - trurl is a command line tool for URL parsing and manipulation.
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [krisnova/nginx-proxy-analysis](https://github.com/krisnova/nginx-proxy-analysis) - A small research project aimed at understanding the behaviour of a simple nginx reverse proxy given various upstream server conditions.
