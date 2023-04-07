@@ -783,7 +783,7 @@
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
 - [datarootsio/cheek](https://github.com/datarootsio/cheek) - Crontab-like scHeduler for Effective Execution of tasKs, cheek for short.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [yohamta/dagu](https://github.com/yohamta/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [yohamta/dagu](https://github.com/yohamta/dagu) - Powerful Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI).
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [ferryproxy/ferry](https://github.com/ferryproxy/ferry) - Ferry is a Kubernetes multi-cluster communication component that eliminates communication differences between clusters as if they were in a single cluster, regardless of the network environment those 
@@ -846,7 +846,7 @@
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #Go
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [m-mizutani/zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to set environment variable by various method
-- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation.
+- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, globals and more to Terraform.
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1325,7 +1325,7 @@
 - [peterbourgon/diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [raphaelreyna/oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
-- [ivan-claire/terraform-controller](https://github.com/ivan-claire/terraform-controller) - Use K8s to Run Terraform
+- [rancher/terraform-controller](https://github.com/rancher/terraform-controller) - Use K8s to Run Terraform
 - [rancher/terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
 - [johandry/terranova](https://github.com/johandry/terranova) - Using Terraform package from Go
 - [ericdaugherty/alexa-skills-kit-golang](https://github.com/ericdaugherty/alexa-skills-kit-golang) - GoLang port of the Amazon Alexa Skills Kit
