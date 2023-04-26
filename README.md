@@ -120,6 +120,7 @@
 
 ## C 
 
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [krisnova/nginx-proxy-analysis](https://github.com/krisnova/nginx-proxy-analysis) - A small research project aimed at understanding the behaviour of a simple nginx reverse proxy given various upstream server conditions.
@@ -658,7 +659,7 @@
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [nats-io/jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
 - [radxa/rockchip-bsp](https://github.com/radxa/rockchip-bsp) - Linux BSP for ROCK Pi
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) - Google Cloud CLI Docker Image - Docker Image containing the gcloud CLI and its bundled components.
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -697,6 +698,8 @@
 
 ## Go 
 
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps OSS
 - [canonical/microceph](https://github.com/canonical/microceph) - Ceph for a one-rack cluster and appliances
@@ -1829,7 +1832,7 @@
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
@@ -3265,7 +3268,6 @@
 
 ## Perl 
 
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [autodl-community/autodl-irssi](https://github.com/autodl-community/autodl-irssi) - A community-driven fork of autodl-irssi
 - [mavstuff/swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) - MC7354 revert USB compositions script
@@ -4230,6 +4232,7 @@
 
 ## TypeScript 
 
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries
