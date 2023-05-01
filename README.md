@@ -2437,6 +2437,7 @@
 - [robrotheram/gogallery](https://github.com/robrotheram/gogallery) - Static Site generator but for images. Its like Hugo but for large photo galleries
 - [bradleyboy/standbot](https://github.com/bradleyboy/standbot) - Scheduled team standups in Slack
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
+- [turnly/turnly](https://github.com/turnly/turnly) - Lead customers to happiness with zero-waiting time. AKA The next modern Open-Source Queue Management System (QMS)
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [grantila/awesome-phonenumber](https://github.com/grantila/awesome-phonenumber) - Google's libphonenumber pre-compiled with the closure compiler
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
@@ -4248,7 +4249,6 @@
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
-- [turnly/turnly](https://github.com/turnly/turnly) - Lead customers to happiness with zero-waiting time. AKA The next modern Open-Source Queue Management System (QMS)
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
