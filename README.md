@@ -2553,7 +2553,7 @@
 - [0rpc/zerorpc-node](https://github.com/0rpc/zerorpc-node) - zerorpc for node.js
 - [hypercore-protocol/hyperdrive](https://github.com/hypercore-protocol/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [dat-ecosystem-archive/dat-node](https://github.com/dat-ecosystem-archive/dat-node) - Node module for creating dat compatible tools on file systems [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
-- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
+- [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB) - :nut_and_bolt: A relentless key-value store for the browser.
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
@@ -2583,7 +2583,7 @@
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [brendandburns/ksql](https://github.com/brendandburns/ksql) - Query Kubernetes API objects using SQL.
 - [nodeSolidServer/node-solid-server](https://github.com/nodeSolidServer/node-solid-server) - Solid server on top of the file-system in NodeJS
@@ -2840,7 +2840,6 @@
 ## Jinja 
 
 - [geerlingguy/ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
-- [nodejs/build](https://github.com/nodejs/build) - Better build and test infra for Node.
 - [ansible-community/ansible-consul](https://github.com/ansible-community/ansible-consul) - :satellite: Ansible role for Hashicorp Consul clusters
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -4125,6 +4124,7 @@
 - [swade1987/gitops-with-kustomize](https://github.com/swade1987/gitops-with-kustomize) - An example repo structure for GitOps with Kustomize
 - [aws/aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit) - The source of the amazon/aws-for-fluent-bit container image
 - [morbitzer/linux-luks-tpm-boot](https://github.com/morbitzer/linux-luks-tpm-boot) - A guide for setting up LUKS boot with a key from TPM in Linux
+- [nodejs/build](https://github.com/nodejs/build) - Better build and test infra for Node.
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) - Hardened Debian GNU/Linux distro auditing
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -4247,7 +4247,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - An automation tool / Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier clone ❤️
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
