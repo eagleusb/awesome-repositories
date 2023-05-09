@@ -698,6 +698,7 @@
 
 ## Go 
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
@@ -793,7 +794,7 @@
 - [datarootsio/cheek](https://github.com/datarootsio/cheek) - Crontab-like scHeduler for Effective Execution of tasKs, cheek for short.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [dagu-labs/dagu](https://github.com/dagu-labs/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
-- [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI).
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI). And soon: NATS and MQTT
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [ferryproxy/ferry](https://github.com/ferryproxy/ferry) - Ferry is a Kubernetes multi-cluster communication component that eliminates communication differences between clusters as if they were in a single cluster, regardless of the network environment those 
 - [armadaproject/armada](https://github.com/armadaproject/armada) - A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
@@ -1066,7 +1067,7 @@
 - [genevieve/leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
 - [paketo-buildpacks/go](https://github.com/paketo-buildpacks/go) - A Cloud Native Buildpack for Go
 - [paketo-buildpacks/nodejs](https://github.com/paketo-buildpacks/nodejs) - A Cloud Native Buildpack for Node.JS
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
@@ -2259,6 +2260,7 @@
 
 ## HCL 
 
+- [particuleio/teks](https://github.com/particuleio/teks) - Full feature EKS cluster with Terragrunt/Terraform
 - [gruntwork-io/terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters
 - [hashicorp/boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) - Example reference architecture for a high availability Boundary deployment on AWS.
@@ -3299,6 +3301,7 @@
 
 ## Python 
 
+- [LLNL/merlin](https://github.com/LLNL/merlin) - Machine Learning for HPC Workflows
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
 - [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - AI-Relational Database System | SQL meets Deep Learning
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
@@ -3887,6 +3890,8 @@
 
 ## Rust 
 
+- [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
+- [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
@@ -4084,6 +4089,7 @@
 
 ## Shell 
 
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
