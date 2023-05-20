@@ -3736,7 +3736,7 @@
 - [softwarefactory-project/DLRN](https://github.com/softwarefactory-project/DLRN) - DO NOT send Pull Requests here, send reviews to
 - [redhat-openstack/rdoinfo](https://github.com/redhat-openstack/rdoinfo) - DO NOT send Pull Requests here, send reviews to https://review.rdoproject.org/r/#/q/project:rdoinfo
 - [openstack/shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic. Mirror of code maintained at opendev.org.
-- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
+- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [opsschool/curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
 - [riton/free_adsl_bill_fetcher](https://github.com/riton/free_adsl_bill_fetcher) - Retrieve Free ADSL bills
 - [openstack/freezer](https://github.com/openstack/freezer) - OpenStack Swift incremental backup and restore automation tool for file system, MongoDB, MySQL. LVM snapshot and encryption support. Mirror of code maintained at opendev.org.
@@ -3897,6 +3897,7 @@
 
 ## Rust 
 
+- [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
