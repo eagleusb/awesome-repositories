@@ -99,7 +99,6 @@
 ## Astro 
 
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Ballerina 
 
@@ -2296,7 +2295,7 @@
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [fluxcd/helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
@@ -4426,6 +4425,7 @@
 - [opentracing/opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser). 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
