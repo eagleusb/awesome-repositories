@@ -699,6 +699,10 @@
 
 ## Go 
 
+- [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms
+- [goretk/redress](https://github.com/goretk/redress) - Redress - A tool for analyzing stripped Go binaries
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Streaming Serverless Framework for Software Edge Infra
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [donuts-are-good/bearclaw](https://github.com/donuts-are-good/bearclaw) - tiny static site generator w/ rss
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -713,7 +717,7 @@
 - [adhocteam/pushup](https://github.com/adhocteam/pushup) - Pushup is for making modern, page-oriented web apps in Go
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source GitOps tool for Terraform. Digger allows you to run Terraform plan / apply in your CI. ⚡️
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source GitOps tool for Terraform. Digger allows you to run Terraform plan/apply in your CI ⚡️
 - [akuity/grpc-gateway-client](https://github.com/akuity/grpc-gateway-client) - grpc-gateway HTTP client generator
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync
@@ -1090,7 +1094,7 @@
 - [gitpod-io/dazzle](https://github.com/gitpod-io/dazzle) - dazzle is a rather experimental Docker image builder which builds independent layers
 - [gitpod-io/leeway](https://github.com/gitpod-io/leeway) - Leeway is a heavily caching build system for Go, Typescript and Docker projects.
 - [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [heroku/shaas](https://github.com/heroku/shaas) - Shell as a Service: API to inspect and execute scripts in a server's environment via HTTP and WebSockets
 - [leg100/etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
@@ -2345,6 +2349,7 @@
 
 ## Haskell 
 
+- [hstreamdb/hstream](https://github.com/hstreamdb/hstream) - HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [kamek-pf/ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
 - [KMahoney/squee](https://github.com/KMahoney/squee) - A Typed, Composable Database Query Language
@@ -3415,6 +3420,7 @@
 - [Kodi-vStream/venom-xbmc-addons](https://github.com/Kodi-vStream/venom-xbmc-addons) - Addon de Streaming français pour Xbmc
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [larsks/ansible-assertive](https://github.com/larsks/ansible-assertive) - 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [Netflix/lemur](https://github.com/Netflix/lemur) - Repository for the Lemur Certificate Manager
@@ -3605,7 +3611,7 @@
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [willthames/kubernetes-validate](https://github.com/willthames/kubernetes-validate) - 
 - [koldinger/Tardis](https://github.com/koldinger/Tardis) - A backup system, similar to TimeMachine.  Supports encrypted, incremental backups, with filesystem based recovery.
-- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral manages endpoint configuration for MDM, Osquery, Munki, Google Santa, and automates it's workflows through GitOps. It unifies events, collects IT asset info, and offers unique KPIs and metrics
+- [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
 - [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
 - [bitly/data_hacks](https://github.com/bitly/data_hacks) - Command line utilities for data analysis
@@ -3896,6 +3902,10 @@
 
 ## Rust 
 
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent event streaming platform
+- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
+- [kaskada-ai/kaskada](https://github.com/kaskada-ai/kaskada) - Modern, open-source event-processing
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [deislabs/wagi](https://github.com/deislabs/wagi) - Write HTTP handlers in WebAssembly with a minimal amount of work
@@ -4249,7 +4259,7 @@
 
 ## TypeScript 
 
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries
