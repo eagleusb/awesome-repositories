@@ -2404,7 +2404,7 @@
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
 - [spotify/heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
-- [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
+- [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [hawkular/hawkular-apm](https://github.com/hawkular/hawkular-apm) - This project is now deprecated, in favor of CNCF's Jaeger (was: Distributed Tracing and Application Performance Management)
@@ -2447,7 +2447,7 @@
 - [robrotheram/gogallery](https://github.com/robrotheram/gogallery) - Static Site generator but for images. Its like Hugo but for large photo galleries
 - [bradleyboy/standbot](https://github.com/bradleyboy/standbot) - Scheduled team standups in Slack
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
-- [turnly/turnly](https://github.com/turnly/turnly) - Lead customers to happiness with zero-waiting time. AKA The next modern Open-Source Queue Management System (QMS)
+- [turnly/turnly](https://github.com/turnly/turnly) - The next modern Queue Management System—QMS.
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [grantila/awesome-phonenumber](https://github.com/grantila/awesome-phonenumber) - Google's libphonenumber pre-compiled with the closure compiler
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
@@ -2966,7 +2966,7 @@
 
 - [tazjin/nixos-config](https://github.com/tazjin/nixos-config) - NixOS configuration for my machines. This repository is deprecated, config now lives at https://cs.tvl.fyi/depot/-/tree/users/tazjin/nixos
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## OCaml 
 
