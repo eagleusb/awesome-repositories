@@ -994,7 +994,7 @@
 - [toolctl/toolctl](https://github.com/toolctl/toolctl) - The tool to control your tools
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
-- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster mode setup on top of the Kubernetes.
+- [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [opstree/dynamic-pv-scaler](https://github.com/opstree/dynamic-pv-scaler) - A golang based Kubernetes application which can scale volume dynamically
 - [ondat/trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
