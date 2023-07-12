@@ -722,9 +722,9 @@
 - [adhocteam/pushup](https://github.com/adhocteam/pushup) - Pushup is for making modern, page-oriented web apps in Go
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI/CD pipeline ⚡️
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI pipeline ⚡️
 - [akuity/grpc-gateway-client](https://github.com/akuity/grpc-gateway-client) - grpc-gateway HTTP client generator
-- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service for defining, querying, and auditing application authorization models and access rules.
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync
 - [GoogleCloudPlatform/terraform-validator](https://github.com/GoogleCloudPlatform/terraform-validator) - Terraform Validator is not an officially supported Google product; it is a library for conversion of Terraform plan data to CAI Assets. If you have been using terraform-validator directly in the past,
 - [crossplane-contrib/provider-argocd](https://github.com/crossplane-contrib/provider-argocd) - Crossplane provider to provision and manage Argo CD objects
@@ -2554,6 +2554,7 @@
 - [alex35mil/sourcebuster-js](https://github.com/alex35mil/sourcebuster-js) - Track the sources of your traffic
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) - Flexible usenet binary posting tool
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [gourmetjs/gourmet-ssr](https://github.com/gourmetjs/gourmet-ssr) - A React Server-Side Rendering Engine for Production
@@ -2649,7 +2650,7 @@
 - [godaddy/kubernetes-client](https://github.com/godaddy/kubernetes-client) - Simplified Kubernetes API client for Node.js.
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
-- [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+- [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
 - [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
@@ -3589,7 +3590,6 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [user-cont/conu](https://github.com/user-cont/conu) - conu - python API for your containers
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
-- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
 - [chaostoolkit-incubator/chaostoolkit-google-cloud](https://github.com/chaostoolkit-incubator/chaostoolkit-google-cloud) - [DEPRECATED] Chaos Extension for the Google Cloud Engine platform
 - [MakotoKurauchi/helix](https://github.com/MakotoKurauchi/helix) - A compact split ortholinear keyboard.
@@ -3776,7 +3776,6 @@
 - [openstack/freezer](https://github.com/openstack/freezer) - OpenStack Swift incremental backup and restore automation tool for file system, MongoDB, MySQL. LVM snapshot and encryption support. Mirror of code maintained at opendev.org.
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
 - [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
-- [hep-gc/cloud-scheduler](https://github.com/hep-gc/cloud-scheduler) - Automatically boot VMs for your HTC jobs
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [wallix/PEPS](https://github.com/wallix/PEPS) - Innovative Open source Email + File sharing
 - [NeCTAR-RC/novanet2neutron](https://github.com/NeCTAR-RC/novanet2neutron) - Scripts to migrate from nova-network to neutron
@@ -4082,7 +4081,7 @@
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -4450,7 +4449,7 @@
 - [census-instrumentation/opencensus-node](https://github.com/census-instrumentation/opencensus-node) - A stats collection and distributed tracing framework
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
