@@ -2295,6 +2295,7 @@
 
 ## HTML 
 
+- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
@@ -2551,7 +2552,7 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 - [alex35mil/sourcebuster-js](https://github.com/alex35mil/sourcebuster-js) - Track the sources of your traffic
-- [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
+- [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) - Flexible usenet binary posting tool
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
@@ -2988,7 +2989,7 @@
 ## OCaml 
 
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Audio and video streaming language
+- [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
@@ -3341,7 +3342,7 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [LLNL/merlin](https://github.com/LLNL/merlin) - Machine Learning for HPC Workflows
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for building simpler and faster AI-powered applications
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
