@@ -755,7 +755,7 @@
 - [grafana/grafana-kiosk](https://github.com/grafana/grafana-kiosk) - Kiosk Utility for Grafana
 - [fabienjuif/go-linkedlist](https://github.com/fabienjuif/go-linkedlist) - Simple LinkedList in Go
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
-- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [nebuly-ai/nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster through real-time dynamic partitioning and elastic quotas - Effortless optimization at its finest!
 - [artie-labs/transfer](https://github.com/artie-labs/transfer) - Real-time data replication from OLTP to OLAP dbs
@@ -838,7 +838,7 @@
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP and MFA
-- [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework for Kubernetes
+- [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework built on Kubernetes
 - [twitter/scoot](https://github.com/twitter/scoot) - Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 - [olegsu/iris](https://github.com/olegsu/iris) - Watch on Kubernetes events, filter and send them as standard wehbook to any system
 - [xing/kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) - Generate a Kubernetes Event when a Pod's container has been OOMKilled
@@ -3338,7 +3338,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models on any computer with 512MB of RAM
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) - Refact: Open-source Copilot alternative with fine-tuning
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - 🤖 Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more!
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
