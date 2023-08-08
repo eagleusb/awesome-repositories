@@ -2313,6 +2313,7 @@
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
+- [discourse/discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
 - [davecheney/the-zen-of-go](https://github.com/davecheney/the-zen-of-go) - https://the-zen-of-go.netlify.com
 - [18F/eng-hiring](https://github.com/18F/eng-hiring) - 18F Engineering's guide to candidate selection, from resume screen to offer.
 - [stefanprodan/openfaas-flux](https://github.com/stefanprodan/openfaas-flux) - OpenFaaS Kubernetes cluster state management with FluxCD
@@ -2496,7 +2497,6 @@
 - [thorpelawrence/alexa-spotify-connect](https://github.com/thorpelawrence/alexa-spotify-connect) - Control Spotify Connect devices with Alexa
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [discourse/discourse-brand-header](https://github.com/discourse/discourse-brand-header) - Brand header theme component for Discourse
 - [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - :inbox_tray: An email client that functions like a kanban board.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
@@ -3771,7 +3771,7 @@
 - [softwarefactory-project/DLRN](https://github.com/softwarefactory-project/DLRN) - DO NOT send Pull Requests here, send reviews to
 - [redhat-openstack/rdoinfo](https://github.com/redhat-openstack/rdoinfo) - DO NOT send Pull Requests here, send reviews to https://review.rdoproject.org/r/#/q/project:rdoinfo
 - [openstack/shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic. Mirror of code maintained at opendev.org.
-- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [opsschool/curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
 - [riton/free_adsl_bill_fetcher](https://github.com/riton/free_adsl_bill_fetcher) - Retrieve Free ADSL bills
 - [openstack/freezer](https://github.com/openstack/freezer) - OpenStack Swift incremental backup and restore automation tool for file system, MongoDB, MySQL. LVM snapshot and encryption support. Mirror of code maintained at opendev.org.
@@ -3932,6 +3932,7 @@
 
 ## Rust 
 
+- [Isawan/terrashine](https://github.com/Isawan/terrashine) - A terraform registry mirror protocol implementation
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
