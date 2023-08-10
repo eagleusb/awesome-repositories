@@ -705,7 +705,7 @@
 - [weaveworks/policy-agent](https://github.com/weaveworks/policy-agent) - Weaveworks Policy Agent
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms
 - [goretk/redress](https://github.com/goretk/redress) - Redress - A tool for analyzing stripped Go binaries
@@ -1649,7 +1649,7 @@
 - [antham/gommit](https://github.com/antham/gommit) - Enforce git message commit consistency
 - [giantswarm/aws-operator](https://github.com/giantswarm/aws-operator) - Manages Kubernetes clusters running on AWS (before Cluster API)
 - [nabla-containers/runnc](https://github.com/nabla-containers/runnc) - OCI-interfacing Container runtime for Nabla Containers
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
+- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -1729,7 +1729,7 @@
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 - [weaveworks/footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines
-- [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
+- [submariner-io/submariner](https://github.com/submariner-io/submariner) - Networking component for interconnecting Pods and Services across Kubernetes clusters.
 - [birdayz/kaf](https://github.com/birdayz/kaf) - Modern CLI for Apache Kafka, written in Go.
 - [madcowfred/GoPostStuff](https://github.com/madcowfred/GoPostStuff) - Multiple connection USENET binary poster written in Go
 - [reconquest/tubekit](https://github.com/reconquest/tubekit) - 🧪 kubectl alternative with quick context switching, kubectl on steroids
@@ -1818,7 +1818,7 @@
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 - [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for fast & iterative container-based application development on Podman and Kubernetes. Implementation of the open Devfile standard.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
 - [openshift/ansible-service-broker](https://github.com/openshift/ansible-service-broker) - Ansible Service Broker
@@ -2974,7 +2974,6 @@
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 - [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA
 - [DataDog/helm-charts](https://github.com/DataDog/helm-charts) - Helm charts for Datadog products
-- [kiali/helm-charts](https://github.com/kiali/helm-charts) - Helm Charts used to install Kiali resources.
 - [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -3410,7 +3409,7 @@
 - [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io) - The On-line Database of Databases
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 - [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher) - 
-- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them
+- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Please switch to pytest-ansible
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -4160,6 +4159,7 @@
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [intermezzio/weffe](https://github.com/intermezzio/weffe) - Add effects to a webcam in Linux for Zoom, Webex, or other calls, or stream a video to a webcam, including blurred background
 - [copyconstruct/library](https://github.com/copyconstruct/library) - A collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering
+- [kiali/helm-charts](https://github.com/kiali/helm-charts) - Helm Charts used to install Kiali resources.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [matti/buildtagpush](https://github.com/matti/buildtagpush) - 
@@ -4290,7 +4290,7 @@
 
 ## TeX 
 
-- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.x kernels)
+- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 - [gravitational/careers](https://github.com/gravitational/careers) - Apply at https://jobs.lever.co/teleport
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) - Best Current Practices regarding secure online communication and configuration of services using cryptography.
