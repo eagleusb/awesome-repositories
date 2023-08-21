@@ -3935,6 +3935,7 @@
 
 ## Rust 
 
+- [haileys/bark](https://github.com/haileys/bark) - live sync audio streaming for local networks
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [Isawan/terrashine](https://github.com/Isawan/terrashine) - A terraform provider network mirror with dynamic provider fetching
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
