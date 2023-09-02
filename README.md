@@ -139,7 +139,7 @@
 - [Matthias-Wandel/imgcomp](https://github.com/Matthias-Wandel/imgcomp) - Motion triggered timelapses for security camera
 - [nigeltao/qoir](https://github.com/nigeltao/qoir) - A fast, simple, lossless image file format.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
-- [awslabs/pgbouncer-rr-patch](https://github.com/awslabs/pgbouncer-rr-patch) - Adds query routing and rewriting extensions to pgbouncer
+- [awslabs/pgbouncer-fast-switchover](https://github.com/awslabs/pgbouncer-fast-switchover) - Adds query routing and rewriting extensions to pgbouncer
 - [cybertec-postgresql/pg_squeeze](https://github.com/cybertec-postgresql/pg_squeeze) - A PostgreSQL extension for automatic bloat cleanup
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -165,7 +165,7 @@
 - [skoobe/riofs](https://github.com/skoobe/riofs) - Userspace S3 filesystem
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [Fitbit/golden-gate](https://github.com/Fitbit/golden-gate) - Framework to connect wearables and other IoT devices to mobile phones, tablets and PCs with an IP-based protocol stack over Bluetooth Low Energy
-- [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo.
+- [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice.
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
@@ -866,7 +866,7 @@
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [letsencrypt/attache](https://github.com/letsencrypt/attache) - A sidecar that allows for effortless scaling of a Redis Cluster
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
@@ -1537,7 +1537,7 @@
 - [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [juju/juju](https://github.com/juju/juju) - Universal Operator Lifecycle Manager (OLM) for Kubernetes operators, and operators for traditional Linux apps, with declarative integration between operators for automated microservice integration.
+- [juju/juju](https://github.com/juju/juju) - Juju is an open source orchestration engine for software operators that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure.
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -3361,7 +3361,7 @@
 - [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [LLNL/merlin](https://github.com/LLNL/merlin) - Machine Learning for HPC Workflows
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Data platform for building AI apps
+- [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Bring AI inside your Database System & build AI-powered apps
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
@@ -4352,7 +4352,7 @@
 - [cstickel/node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) - 
 - [actions/runner-container-hooks](https://github.com/actions/runner-container-hooks) - Runner Container Hooks for GitHub Actions
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
