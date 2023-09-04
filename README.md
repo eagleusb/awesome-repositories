@@ -122,7 +122,6 @@
 
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
-- [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
 - [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - The first open-source DDoS protection system
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -700,6 +699,7 @@
 
 ## Go 
 
+- [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
@@ -946,7 +946,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
@@ -2032,7 +2032,6 @@
 - [nsheridan/cashier](https://github.com/nsheridan/cashier) - A self-service CA for OpenSSH
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
-- [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
@@ -2926,7 +2925,6 @@
 
 ## Lua 
 
-- [ZettaScaleLabs/zenoh-dissector](https://github.com/ZettaScaleLabs/zenoh-dissector) - Wireshark dissector for Zenoh protocol
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
@@ -4173,7 +4171,6 @@
 - [sysdiglabs/kubectl-capture](https://github.com/sysdiglabs/kubectl-capture) - A kubectl plugin which triggers a Sysdig capture
 - [sobotklp/kubernetes-redis-cluster](https://github.com/sobotklp/kubernetes-redis-cluster) - Redis Cluster on Kubernetes
 - [hypertrace/hypertrace](https://github.com/hypertrace/hypertrace) - An open source distributed tracing & observability platform
-- [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
 - [chemicL/envoy-timeouts](https://github.com/chemicL/envoy-timeouts) - Demonstrating Envoy timeouts and their impact on service to service communication
 - [docker-android-sdk/android-31](https://github.com/docker-android-sdk/android-31) - Docker for Android SDK 31 with preinstalled build tools and emulator image
 - [weaveworks/prom-aggregation-gateway](https://github.com/weaveworks/prom-aggregation-gateway) - An aggregating push gateway for Prometheus
