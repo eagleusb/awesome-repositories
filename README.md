@@ -407,6 +407,7 @@
 
 ## C# # 
 
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -705,6 +706,10 @@
 
 ## Go 
 
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
+- [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
+- [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
+- [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [K-Phoen/dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes
@@ -723,7 +728,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [aquasecurity/kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has RBAC permissions to perform actions on different resources in Kubernetes
-- [jilleJr/kubectl-klock](https://github.com/jilleJr/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
+- [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [controlplaneio/netassert](https://github.com/controlplaneio/netassert) - Network security testing for Kubernetes DevSecOps workflows
 - [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources
 - [omrikiei/ktunnel](https://github.com/omrikiei/ktunnel) - A cli that exposes your local resources to kubernetes
@@ -973,7 +978,7 @@
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [corneliusweig/ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [repenno/envoybigbook](https://github.com/repenno/envoybigbook) - Envoy Proxy Big Book of Examples
+- [BenderScript/envoybigbook](https://github.com/BenderScript/envoybigbook) - Envoy Proxy Big Book of Examples
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
@@ -4020,6 +4025,7 @@
 
 ## Rust 
 
+- [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
