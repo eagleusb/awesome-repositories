@@ -415,6 +415,7 @@
 
 ## C# # 
 
+- [Valkirie/HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
@@ -434,6 +435,7 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
@@ -722,6 +724,7 @@
 
 ## Go 
 
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [vdemeester/buildkit-tekton](https://github.com/vdemeester/buildkit-tekton) - Buildkit frontend to run Tekton objects locally as well as a tkn plugins
 - [buildbarn/bb-remote-execution](https://github.com/buildbarn/bb-remote-execution) - Tools for Buildbarn to allow remote execution of build actions
@@ -2557,7 +2560,7 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -2633,9 +2636,6 @@
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [postaljs/postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
-- [DoctorMcKay/node-steam-user](https://github.com/DoctorMcKay/node-steam-user) - Allows interaction with the Steam network via the Steam client protocol
-- [seishun/node-steam](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js
-- [liamcurry/passport-steam](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
 - [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [skale-me/skale](https://github.com/skale-me/skale) - High performance distributed data processing engine
@@ -3229,7 +3229,6 @@
 - [mrlesmithjr/ansible-maas](https://github.com/mrlesmithjr/ansible-maas) - An Ansible role to install/configure MAAS
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [tls-attacker/TLS-Padding-Oracles](https://github.com/tls-attacker/TLS-Padding-Oracles) - New TLS Padding Oracles
-- [ValveSoftware/steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - 
 - [jaor/xmobar](https://github.com/jaor/xmobar) - A minimalistic status bar
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [RGBKB/Keyboard-files](https://github.com/RGBKB/Keyboard-files) - Public files for keyboards and more
@@ -4474,6 +4473,7 @@
 
 ## TypeScript 
 
+- [unknownskl/greenlight](https://github.com/unknownskl/greenlight) - Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.
 - [the-via/keyboards](https://github.com/the-via/keyboards) - 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and archive webpages.
