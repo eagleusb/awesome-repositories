@@ -725,6 +725,7 @@
 
 ## Go 
 
+- [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics
 - [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
@@ -1581,7 +1582,7 @@
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [falcosecurity/driverkit](https://github.com/falcosecurity/driverkit) - Kit for building Falco drivers: kernel modules or eBPF probes
 - [grailbio/bigslice](https://github.com/grailbio/bigslice) - A serverless cluster computing system for the Go programming language
-- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workload and cloud costs
+- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [rancher/k3c](https://github.com/rancher/k3c) - Lightweight local container engine for container development
 - [weaveworks/wksctl](https://github.com/weaveworks/wksctl) - Open Source Weaveworks Kubernetes System
@@ -4112,6 +4113,7 @@
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [haileys/bark](https://github.com/haileys/bark) - live sync audio streaming for local networks
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [Isawan/terrashine](https://github.com/Isawan/terrashine) - A terraform provider network mirror with dynamic provider fetching
@@ -4496,7 +4498,6 @@
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [configu/configu](https://github.com/configu/configu) - a simple, modern, and secure standard for managing and collaborating software configurations ⚙️✨.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [grafana/scenes](https://github.com/grafana/scenes) - Build Grafana dashboards directly in your Grafana app plugins.
