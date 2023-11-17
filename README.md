@@ -123,6 +123,8 @@
 
 ## C 
 
+- [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
+- [open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [michelp/pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium.
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
@@ -521,7 +523,6 @@
 - [thomasa88/pyets2_telemetry](https://github.com/thomasa88/pyets2_telemetry) - Python plug-in support for SCS Telemetry SDK
 - [advancedtelematic/aktualizr](https://github.com/advancedtelematic/aktualizr) - C++ SOTA Client
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [jaelpark/chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor.
@@ -729,6 +730,8 @@
 
 ## Go 
 
+- [open-feature/open-feature-operator](https://github.com/open-feature/open-feature-operator) - A Kubernetes feature flag operator
+- [open-feature/flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -2679,7 +2682,6 @@
 - [alex35mil/sourcebuster-js](https://github.com/alex35mil/sourcebuster-js) - Track the sources of your traffic
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) - Flexible usenet binary posting tool
-- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [gourmetjs/gourmet-ssr](https://github.com/gourmetjs/gourmet-ssr) - A React Server-Side Rendering Engine for Production
@@ -3472,6 +3474,7 @@
 
 ## Python 
 
+- [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [thinknimble/embeddings-search-demo](https://github.com/thinknimble/embeddings-search-demo) - 
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -3634,7 +3637,7 @@
 - [richstokes/cheekymonkey](https://github.com/richstokes/cheekymonkey) - 🐵 Literally a Chaos Monkey for your Kubernetes clusters
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [fugue/credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
-- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
+- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
@@ -3762,6 +3765,7 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [user-cont/conu](https://github.com/user-cont/conu) - conu - python API for your containers
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
 - [chaostoolkit-incubator/chaostoolkit-google-cloud](https://github.com/chaostoolkit-incubator/chaostoolkit-google-cloud) - [DEPRECATED] Chaos Extension for the Google Cloud Engine platform
 - [MakotoKurauchi/helix](https://github.com/MakotoKurauchi/helix) - A compact split ortholinear keyboard.
@@ -4101,8 +4105,11 @@
 
 ## Rust 
 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later.
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -4239,6 +4246,7 @@
 - [oam-dev/rudr](https://github.com/oam-dev/rudr) - A Kubernetes implementation of the Open Application Model specification
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [awslabs/flowgger](https://github.com/awslabs/flowgger) - A fast data collector in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -4486,6 +4494,7 @@
 
 ## TypeScript 
 
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [unknownskl/greenlight](https://github.com/unknownskl/greenlight) - Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.
@@ -4525,7 +4534,7 @@
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
-- [turnly/turnly](https://github.com/turnly/turnly) - The next modern open-source Queuing Solution (QMS)
+- [turnly/turnly](https://github.com/turnly/turnly) - The next modern Queuing Solution (QMS)
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
