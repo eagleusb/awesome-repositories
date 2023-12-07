@@ -671,10 +671,10 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [codekeyz/pharaoh](https://github.com/codekeyz/pharaoh) - Crazy fast, unopinionated, minimalist backend framework for Dart 🏇
+- [Pharaoh-Framework/pharaoh](https://github.com/Pharaoh-Framework/pharaoh) - Crazy fast, unopinionated, minimalist backend framework for Dart 🏇
 - [rknell/alfred](https://github.com/rknell/alfred) - A performant, expressjs like server framework with a few gadgets that make life even easier.
 - [VeryGoodOpenSource/dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) - A fast, minimalistic backend framework for Dart 🎯
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [GoogleCloudPlatform/functions-framework-dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions
 - [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -3261,7 +3261,7 @@
 - [desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) - A curated list of awesome quantum computing learning and developing resources.
 - [afshinea/stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) - VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
 - [evyd13/plain60-c](https://github.com/evyd13/plain60-c) - Universally compatible 60% PCB with minimal layout support and USB-C
-- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [ahtn/keyboard_pcb](https://github.com/ahtn/keyboard_pcb) - 
 - [kiibohd/case](https://github.com/kiibohd/case) - Cad files for cases plates and related mechanicals.
 - [kiibohd/pcb](https://github.com/kiibohd/pcb) - PCB and PCB related bits
@@ -4192,7 +4192,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
