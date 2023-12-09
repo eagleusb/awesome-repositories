@@ -734,6 +734,7 @@
 
 ## Go 
 
+- [grafana/k6-operator](https://github.com/grafana/k6-operator) - An operator for running distributed k6 tests.
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
 - [sqids/sqids-go](https://github.com/sqids/sqids-go) - Official Go port of Sqids. Generate short YouTube-looking IDs from numbers.
@@ -770,7 +771,7 @@
 - [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
-- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
 - [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
@@ -991,7 +992,7 @@
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Kubernetes Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [letsencrypt/attache](https://github.com/letsencrypt/attache) - A sidecar that allows for effortless scaling of a Redis Cluster
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
@@ -1664,7 +1665,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go.
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [liatrio/gitty-up](https://github.com/liatrio/gitty-up) - GitOps tool to update manifest files in remote git repositories
 - [rode/rode-legacy](https://github.com/rode/rode-legacy) - cloud native software supply chain ☁️🔗
@@ -2590,7 +2591,7 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [cloudspannerecosystem/autoscaler](https://github.com/cloudspannerecosystem/autoscaler) - Automatically scale the capacity of your Spanner instances based on their utilization.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
@@ -2796,7 +2797,6 @@
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [restify/node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [microsoft/TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -3162,6 +3162,7 @@
 
 ## Others 
 
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [libp2p/libp2p](https://github.com/libp2p/libp2p) - A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
@@ -4117,6 +4118,7 @@
 
 ## Rust 
 
+- [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
 - [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later.
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
@@ -4508,6 +4510,7 @@
 
 ## TypeScript 
 
+- [pbkit/pbkit](https://github.com/pbkit/pbkit) - Protobuf toolkit for modern web development
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
@@ -4676,6 +4679,7 @@
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [wtgtybhertgeghgtwtg/env-and-files](https://github.com/wtgtybhertgeghgtwtg/env-and-files) - Load configuration from environmental variables and files.
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
