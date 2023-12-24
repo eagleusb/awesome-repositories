@@ -739,6 +739,7 @@
 
 ## Go 
 
+- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - Light-weight highly performant, persistent, secure-by-default, in-memory, distributed document oriented database with an SQL like query language written in pure GO.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 - [Norwik/Goenv](https://github.com/Norwik/Goenv) - 🐺 Manage Your Applications Go Environment.
@@ -3503,6 +3504,7 @@
 
 ## Python 
 
+- [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [kiwidude68/calibre_plugins](https://github.com/kiwidude68/calibre_plugins) - All kiwidude's plugins for calibre
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
