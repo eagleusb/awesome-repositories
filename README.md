@@ -122,6 +122,7 @@
 
 ## C 
 
+- [pgspider/pgspider](https://github.com/pgspider/pgspider) - High-Performance SQL Cluster Engine for Scalable Data Virtualization
 - [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
@@ -708,7 +709,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
@@ -739,6 +740,8 @@
 
 ## Go 
 
+- [leg100/otf](https://github.com/leg100/otf) - An open source alternative to terraform enterprise.
+- [kubewharf/katalyst-core](https://github.com/kubewharf/katalyst-core) - Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agent
 - [facebookarchive/grace](https://github.com/facebookarchive/grace) - Graceful restart & zero downtime deploy for Go servers.
 - [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - Light-weight highly performant, distributed, secure-by-default, in-memory, ACID compliant document oriented database with an SQL like query language written in pure GO.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
@@ -2852,7 +2855,7 @@
 - [wonderunit/storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
