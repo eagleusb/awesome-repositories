@@ -443,6 +443,7 @@
 
 ## C++ 
 
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
@@ -741,13 +742,14 @@
 
 ## Go 
 
+- [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [solutionroute/knockr](https://github.com/solutionroute/knockr) - A port-knocking utility implemented in Go.
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [leg100/otf](https://github.com/leg100/otf) - An open source alternative to terraform enterprise.
 - [kubewharf/katalyst-core](https://github.com/kubewharf/katalyst-core) - Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agent
 - [facebookarchive/grace](https://github.com/facebookarchive/grace) - Graceful restart & zero downtime deploy for Go servers.
-- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source persisted in-memory document oriented database with real time capabilities.
+- [cursusdb/cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database with real time capabilities.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 - [Norwik/Goenv](https://github.com/Norwik/Goenv) - 🐺 Manage Your Applications Go Environment.
@@ -859,7 +861,7 @@
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [keikoproj/aws-auth](https://github.com/keikoproj/aws-auth) - Manage the aws-auth config map for EKS Kubernetes clusters
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GRPC powered, GitOps enabled, Cloud Native feature management solution
 - [kubewharf/kelemetry](https://github.com/kubewharf/kelemetry) - Global control plane tracing for Kubernetes
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -1184,7 +1186,7 @@
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [DiscoRiver/massh](https://github.com/DiscoRiver/massh) - Go package for running Linux distributed shell commands via SSH.
 - [suborbital/e2core](https://github.com/suborbital/e2core) - Server for sandboxed third-party plugins, powered by WebAssembly
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
@@ -2465,7 +2467,6 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [fluxcd/helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -2611,7 +2612,7 @@
 
 ## JavaScript 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. 👉 Deskt
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [nearform/fast-jwt](https://github.com/nearform/fast-jwt) - Fast JSON Web Token implementation
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -3527,7 +3528,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -4210,7 +4211,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -4326,7 +4327,7 @@
 - [mit-pdos/noria](https://github.com/mit-pdos/noria) - Fast web applications through dynamic, partially-stateful dataflow
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -4417,6 +4418,7 @@
 - [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [oogali/ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
 - [wimpysworld/rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
@@ -4543,11 +4545,12 @@
 
 ## TypeScript 
 
+- [cloudflare/pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
 - [pbkit/pbkit](https://github.com/pbkit/pbkit) - Protobuf toolkit for modern web development
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
