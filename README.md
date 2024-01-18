@@ -742,6 +742,8 @@
 
 ## Go 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- [grafana/synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent) - Synthetic Monitoring Agent
 - [grafana/dskit](https://github.com/grafana/dskit) - Distributed systems kit
 - [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
 - [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option.
@@ -917,7 +919,6 @@
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 - [juliangruber/go-intersect](https://github.com/juliangruber/go-intersect) - Find the intersection of two iterable values
 - [rueian/gke-hubble-export](https://github.com/rueian/gke-hubble-export) - Install hubble-ui on GKE Dataplane V2
@@ -1246,7 +1247,7 @@
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [genevieve/leftovers](https://github.com/genevieve/leftovers) - Go cli & library for cleaning up orphaned IAAS resources.
@@ -3336,7 +3337,7 @@
 - [kubernetes-sigs/krew-index](https://github.com/kubernetes-sigs/krew-index) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [transatomic/reactor](https://github.com/transatomic/reactor) - Transatomic reactor design documentation
-- [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
@@ -3518,6 +3519,7 @@
 
 ## Python 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [kiwidude68/calibre_plugins](https://github.com/kiwidude68/calibre_plugins) - All kiwidude's plugins for calibre
@@ -3577,6 +3579,7 @@
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [AntonAleksandrov13/python-redis-tool](https://github.com/AntonAleksandrov13/python-redis-tool) - Python CLI for Redis Cluster administration
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
@@ -4156,6 +4159,8 @@
 
 ## Rust 
 
+- [aws/glide-for-redis](https://github.com/aws/glide-for-redis) - 
+- [8xFF/atm0s-media-server](https://github.com/8xFF/atm0s-media-server) - Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later.
