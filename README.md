@@ -122,6 +122,7 @@
 
 ## C 
 
+- [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [agroal/pgagroal](https://github.com/agroal/pgagroal) - High-performance connection pool for PostgreSQL
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
@@ -744,6 +745,7 @@
 
 ## Go 
 
+- [awslabs/goformation](https://github.com/awslabs/goformation) - GoFormation is a Go library for working with CloudFormation templates.
 - [pganalyze/collector](https://github.com/pganalyze/collector) - pganalyze statistics collector for gathering PostgreSQL metrics and log data
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
 - [tair-opensource/RedisFullCheck](https://github.com/tair-opensource/RedisFullCheck) - redis-full-check is used to compare whether two redis have the same data. Support redis version from 2.x to 7.x (Don't support Redis Modules).
@@ -3558,7 +3560,7 @@
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build LLM Agents, workflows and applications with your data
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
@@ -4181,7 +4183,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [8xFF/atm0s-media-server](https://github.com/8xFF/atm0s-media-server) - Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later.
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
