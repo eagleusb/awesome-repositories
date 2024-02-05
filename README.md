@@ -1738,7 +1738,7 @@
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler
 - [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud native unstructured data store
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native file store
 - [monzo/egress-operator](https://github.com/monzo/egress-operator) - A Kubernetes operator to produce egress gateway Envoy pods and control access to them with network policies
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [yaacov/observer](https://github.com/yaacov/observer) - Golang event emitter and listener with builtin file watcher package.
@@ -3542,7 +3542,6 @@
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [scylladb/scylla-cqlsh](https://github.com/scylladb/scylla-cqlsh) - A fork of the cqlsh code
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
-- [aws/glide-for-redis](https://github.com/aws/glide-for-redis) - 
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [kiwidude68/calibre_plugins](https://github.com/kiwidude68/calibre_plugins) - All kiwidude's plugins for calibre
@@ -4181,6 +4180,7 @@
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [aws/glide-for-redis](https://github.com/aws/glide-for-redis) - 
 - [8xFF/atm0s-media-server](https://github.com/8xFF/atm0s-media-server) - Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
