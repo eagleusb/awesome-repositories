@@ -746,6 +746,7 @@
 
 ## Go 
 
+- [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
 - [Excoriate/go-terradagger](https://github.com/Excoriate/go-terradagger) - TerraDagger is a Go package for managing your infrastructure-as-code through containers.
 - [synadia-io/nex](https://github.com/synadia-io/nex) - The NATS execution engine
@@ -826,7 +827,7 @@
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
@@ -1194,7 +1195,7 @@
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
@@ -2483,6 +2484,7 @@
 
 ## HTML 
 
+- [gvwilson/sdxjs](https://github.com/gvwilson/sdxjs) - Software Design by Example with JavaScript
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [gethyas/doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
@@ -2640,6 +2642,7 @@
 
 ## JavaScript 
 
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [mlcraft-io/mlcraft](https://github.com/mlcraft-io/mlcraft) - Synmetrix – open source semantic layer / Boost your LLM precision
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -3273,7 +3276,7 @@
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [gitcommitshow/awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) - Resources to learn and implement authentication in your application
@@ -3549,6 +3552,8 @@
 
 ## Python 
 
+- [gvwilson/sdxpy](https://github.com/gvwilson/sdxpy) - Software Design by Example: a tool-based introduction with Python
+- [gvwilson/sql-tutorial](https://github.com/gvwilson/sql-tutorial) - SQL in 100 Queries
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [GoogleCloudPlatform/localllm](https://github.com/GoogleCloudPlatform/localllm) - 
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
@@ -3598,7 +3603,7 @@
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models on any computer with 512MB of RAM
+- [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models in 512MB of RAM
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -4190,6 +4195,7 @@
 
 ## Rust 
 
+- [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) - Combine internet connections, increase your download speed
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python or Go applications.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -4287,7 +4293,7 @@
 - [aws/clock-bound](https://github.com/aws/clock-bound) - Used to generate and compare bounded timestamps.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actor components and capability providers.
 - [flatt-security/shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for several programming languages
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -4622,7 +4628,7 @@
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [configu/configu](https://github.com/configu/configu) - a simple, modern, and secure standard for managing and collaborating software configurations ⚙️✨.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [grafana/scenes](https://github.com/grafana/scenes) - Build Grafana dashboards directly in your Grafana app plugins.
