@@ -2642,6 +2642,7 @@
 
 ## JavaScript 
 
+- [timoa/app-stores-prometheus-exporter](https://github.com/timoa/app-stores-prometheus-exporter) - Prometheus exporter that exports metrics (score, ratings, reviews, app version, etc.) from the Apple App Store and Google Play Store
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [mlcraft-io/mlcraft](https://github.com/mlcraft-io/mlcraft) - Synmetrix – open source semantic layer / Boost your LLM precision
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
@@ -3131,7 +3132,7 @@
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 
 ## M 
@@ -4195,6 +4196,7 @@
 
 ## Rust 
 
+- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) - Combine internet connections, increase your download speed
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python or Go applications.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
@@ -4599,6 +4601,7 @@
 
 ## TypeScript 
 
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [VictoriaMetrics/grafana-datasource](https://github.com/VictoriaMetrics/grafana-datasource) - Grafana Plugin for VictoriaMetrics
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
