@@ -746,6 +746,7 @@
 
 ## Go 
 
+- [gdt-dev/kube](https://github.com/gdt-dev/kube) - Go Declarative Testing - Kubernetes
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log
@@ -754,7 +755,7 @@
 - [synadia-io/nex](https://github.com/synadia-io/nex) - The NATS execution engine
 - [kubernetes-sigs/ip-masq-agent](https://github.com/kubernetes-sigs/ip-masq-agent) - Manage IP masquerade on nodes
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [awslabs/node-latency-for-k8s](https://github.com/awslabs/node-latency-for-k8s) - The node-latency-for-k8s tool provides process-level telemetry via prometheus metrics, cloudwatch metrics, and markdown timing charts to optimized K8s node launch times.
 - [awslabs/goformation](https://github.com/awslabs/goformation) - GoFormation is a Go library for working with CloudFormation templates.
 - [pganalyze/collector](https://github.com/pganalyze/collector) - pganalyze statistics collector for gathering PostgreSQL metrics and log data
@@ -1605,7 +1606,7 @@
 - [boreq/plum](https://github.com/boreq/plum) - Plum is a real-time web server access log analyser.
 - [sdomino/scribble](https://github.com/sdomino/scribble) - A tiny Golang JSON database
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [ledisdb/ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
@@ -2563,6 +2564,7 @@
 ## Java 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+- [aws/glide-for-redis](https://github.com/aws/glide-for-redis) - 
 - [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -2647,7 +2649,7 @@
 - [timoa/app-stores-prometheus-exporter](https://github.com/timoa/app-stores-prometheus-exporter) - Prometheus exporter that exports metrics (score, ratings, reviews, app version, etc.) from the Apple App Store and Google Play Store
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [mlcraft-io/mlcraft](https://github.com/mlcraft-io/mlcraft) - Synmetrix – open source semantic layer / Boost your LLM precision
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [nearform/fast-jwt](https://github.com/nearform/fast-jwt) - Fast JSON Web Token implementation
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -3089,7 +3091,7 @@
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [burstable-ai/burst](https://github.com/burstable-ai/burst) - Command-line tool to remotely execute code in the cloud
 - [etalab/calculette-impots-m-language-parser](https://github.com/etalab/calculette-impots-m-language-parser) - Calculette de l'impôt sur le revenu parsée
-- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  4,800,000+ Unsplash images made available for research and machine learning
+- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [fastai/course-nlp](https://github.com/fastai/course-nlp) - A Code-First Introduction to NLP course
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
@@ -3564,7 +3566,6 @@
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [scylladb/scylla-cqlsh](https://github.com/scylladb/scylla-cqlsh) - A fork of the cqlsh code
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
-- [aws/glide-for-redis](https://github.com/aws/glide-for-redis) - 
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [kiwidude68/calibre_plugins](https://github.com/kiwidude68/calibre_plugins) - All kiwidude's plugins for calibre
@@ -4766,7 +4767,7 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [plasma-umass/BLeak](https://github.com/plasma-umass/BLeak) - BLeak: Automatically Debugging Memory Leaks in Web Applications
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+- [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [grafana/kubernetes-app](https://github.com/grafana/kubernetes-app) - A set of dashboards and panels for kubernetes.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
