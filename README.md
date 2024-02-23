@@ -746,6 +746,7 @@
 
 ## Go 
 
+- [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [gdt-dev/kube](https://github.com/gdt-dev/kube) - Go Declarative Testing - Kubernetes
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
@@ -1397,7 +1398,7 @@
 - [tcfw/vpc](https://github.com/tcfw/vpc) - Create simple VPCs written in (mostly) Go using Linux bridges/netlinks, iptables & network namespaces
 - [timescale/promscale](https://github.com/timescale/promscale) - [DEPRECATED] Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
 - [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [doitintl/ClusterCloner](https://github.com/doitintl/ClusterCloner) - Clone Kubernetes clusters (VM infrastructure, not K8s objects) to/from AWS EKS, GCP GKE, and Azure EKS.
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
@@ -4061,7 +4062,7 @@
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [Datera/targetcli](https://github.com/Datera/targetcli) - CLI and shell for the Linux SCSI Target
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [gojhonny/CredCrack](https://github.com/gojhonny/CredCrack) - A fast and stealthy credential harvester
 - [bookieio/Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement
 - [smartbgp/yabgp](https://github.com/smartbgp/yabgp) - :bowtie:Yet Another BGP Python Implementation
@@ -4666,7 +4667,7 @@
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [cstickel/node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) - 
 - [actions/runner-container-hooks](https://github.com/actions/runner-container-hooks) - Runner Container Hooks for GitHub Actions
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
