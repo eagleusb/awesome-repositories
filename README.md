@@ -456,7 +456,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
@@ -746,10 +746,11 @@
 
 ## Go 
 
+- [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [gdt-dev/kube](https://github.com/gdt-dev/kube) - Go Declarative Testing - Kubernetes
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Develop LLM Apps in Natural Language
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
@@ -832,7 +833,7 @@
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
@@ -3084,6 +3085,7 @@
 
 ## Jupyter Notebook 
 
+- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models
@@ -3597,7 +3599,7 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [jtyr/kubeconform-helm](https://github.com/jtyr/kubeconform-helm) - Tools to test Helm chats with `kubeconform`.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
 - [soyersoyer/fmp4streamer](https://github.com/soyersoyer/fmp4streamer) - Fmp4streamer streams your V4L2 camera directly to any browser and media player as MP4 (H264).
@@ -4203,6 +4205,10 @@
 
 ## Rust 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
+- [LlamaEdge/LlamaEdge](https://github.com/LlamaEdge/LlamaEdge) - The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) - Combine internet connections, increase your download speed
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python or Go applications.
