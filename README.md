@@ -234,7 +234,6 @@
 - [weibocom/nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) - For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [arsv/sierracns](https://github.com/arsv/sierracns) - CnS protocol tool for Sierra modems
-- [parsec-cloud/parsec-sdk](https://github.com/parsec-cloud/parsec-sdk) - Low latency, peer-to-peer, interactive streaming.
 - [Rohde-Schwarz/TrustedGRUB2](https://github.com/Rohde-Schwarz/TrustedGRUB2) - DEPRECATED TPM enabled GRUB2 Bootloader
 - [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss) - OSS implementation of the TCG TPM2 Software Stack (TSS2)
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
@@ -704,7 +703,6 @@
 - [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 - [cloudnative-pg/pgbouncer-containers](https://github.com/cloudnative-pg/pgbouncer-containers) - Operand images for CloudNativePG containing PgBouncer
 - [aantonw/docker-alpine-wkhtmltopdf-patched-qt](https://github.com/aantonw/docker-alpine-wkhtmltopdf-patched-qt) - Alpine Linux 3.9 wkhtmltopdf 0.12.5 (with patched qt)
-- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [nats-io/jetstream](https://github.com/nats-io/jetstream) - JetStream Utilities
 - [radxa/rockchip-bsp](https://github.com/radxa/rockchip-bsp) - Linux BSP for ROCK Pi
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
@@ -958,7 +956,6 @@
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [nebuly-ai/nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster through real-time dynamic partitioning and elastic quotas - Effortless optimization at its finest!
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [artie-labs/transfer](https://github.com/artie-labs/transfer) - Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse (Snowflake, BigQuery, Redshift) in real-time.
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [owenrumney/gtail](https://github.com/owenrumney/gtail) - Simple Tail app for GCP Cloud Build, Cloud Run and PubSub
@@ -1173,7 +1170,7 @@
 - [beego/bee](https://github.com/beego/bee) - Bee is a tool for helping develop with beego app framework.
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
-- [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller) - A GitOps Terraform controller for Kubernetes
+- [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux
 - [argoproj/applicationset](https://github.com/argoproj/applicationset) - The ApplicationSet controller manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling s
 - [argoproj-labs/argo-kube-notifier](https://github.com/argoproj-labs/argo-kube-notifier) - Argo Kube Notifier controller monitors Kubernetes resources
 - [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps.
@@ -2501,7 +2498,6 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [fluxcd/helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) - Managing Helm releases with Flux Helm Operator
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [martignoni/hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - A Hugo theme component to cloak email adresses
 - [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
@@ -2689,6 +2685,7 @@
 - [disneystreaming/automated-cloud-advisor](https://github.com/disneystreaming/automated-cloud-advisor) - Automated Cloud Advisor is a extensible tool that aims at facilitating cost optimization in AWS, by collecting data for resources that are under utilized. In addition, this is a great learning tool fo
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [abrahamjuliot/web-fingerprinting](https://github.com/abrahamjuliot/web-fingerprinting) - web fingerprinting research
+- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [rc2dev/pifi-radio](https://github.com/rc2dev/pifi-radio) - MPD web client to listen to radio, written in React and Sinatra.
@@ -2696,6 +2693,7 @@
 - [noble/bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -2788,7 +2786,6 @@
 - [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [dat-ecosystem-archive/dat-node](https://github.com/dat-ecosystem-archive/dat-node) - Node module for creating dat compatible tools on file systems [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB) - :nut_and_bolt: A relentless key-value store for the browser.
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [tyroprogrammer/learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the
@@ -3561,6 +3558,8 @@
 
 ## Python 
 
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.
 - [gvwilson/sdxpy](https://github.com/gvwilson/sdxpy) - Software Design by Example: a tool-based introduction with Python
@@ -3599,7 +3598,7 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [jtyr/kubeconform-helm](https://github.com/jtyr/kubeconform-helm) - Tools to test Helm chats with `kubeconform`.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
 - [soyersoyer/fmp4streamer](https://github.com/soyersoyer/fmp4streamer) - Fmp4streamer streams your V4L2 camera directly to any browser and media player as MP4 (H264).
@@ -4107,7 +4106,7 @@
 
 ## RPM Spec 
 
-- [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
+- [microsoft/azurelinux](https://github.com/microsoft/azurelinux) - Linux OS for Azure 1P services and edge appliances
 
 ## Reason 
 
@@ -4205,6 +4204,8 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [matter-labs/zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
@@ -4596,6 +4597,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 
 ## Swift 
@@ -4614,6 +4616,7 @@
 
 ## TypeScript 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [VictoriaMetrics/grafana-datasource](https://github.com/VictoriaMetrics/grafana-datasource) - Grafana Plugin for VictoriaMetrics
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -4659,6 +4662,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications.
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
@@ -4757,6 +4761,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [portier/portier-node](https://github.com/portier/portier-node) - Portier client for Node.js
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
