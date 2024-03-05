@@ -160,7 +160,7 @@
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 - [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 - [dfu-programmer/dfu-programmer](https://github.com/dfu-programmer/dfu-programmer) - dfu-programmer is a Device Firmware Update based USB programmer for Atmel chips with a USB bootloader
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [janvidar/uhub](https://github.com/janvidar/uhub) - A high performance ADC peer to peer message hub.
 - [Matthias-Wandel/imgcomp](https://github.com/Matthias-Wandel/imgcomp) - Motion triggered timelapses for security camera
 - [nigeltao/qoir](https://github.com/nigeltao/qoir) - A fast, simple, lossless image file format.
@@ -744,6 +744,7 @@
 
 ## Go 
 
+- [jannfis/argocd-agent](https://github.com/jannfis/argocd-agent) - 
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
