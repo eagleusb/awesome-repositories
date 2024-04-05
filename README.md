@@ -756,6 +756,7 @@
 
 ## Go 
 
+- [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router.
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
 - [noqcks/gucci](https://github.com/noqcks/gucci) - Templating on the command line with sprig.
@@ -784,7 +785,7 @@
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public TCP LoadBalancers for local Kubernetes clusters
 - [alexellis/run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it's done 🏃‍♂️
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) - Distributed in-memory data store with an emphasis on speed and reliability.
+- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store with an emphasis on speed and reliability.
 - [jannfis/argocd-agent](https://github.com/jannfis/argocd-agent) - 
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
@@ -4261,6 +4262,8 @@
 
 ## Rust 
 
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids ⚡ |  kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar - built with rust 🦀 and ts using tauri
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query data tables sourced from any database, data warehouse, or data lake.
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
