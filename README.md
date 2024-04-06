@@ -756,6 +756,7 @@
 
 ## Go 
 
+- [devilcove/plexus](https://github.com/devilcove/plexus) - Yet another wireguard management tool
 - [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router.
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
@@ -4704,7 +4705,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [winglang/wing](https://github.com/winglang/wing) - A TypeScript dialect for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [unknownskl/greenlight](https://github.com/unknownskl/greenlight) - Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.
 - [the-via/keyboards](https://github.com/the-via/keyboards) - 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
