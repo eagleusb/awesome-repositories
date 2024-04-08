@@ -756,6 +756,9 @@
 
 ## Go 
 
+- [hashicorp/mdns](https://github.com/hashicorp/mdns) - Simple mDNS client/server library in Golang
+- [hashicorp/go-set](https://github.com/hashicorp/go-set) - The go-set package provides generic Set implementations for Go, including HashSet for types with a Hash() function and TreeSet for orderable data
+- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 - [devilcove/plexus](https://github.com/devilcove/plexus) - Yet another wireguard management tool
 - [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router.
 - [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks
