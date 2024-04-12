@@ -4711,7 +4711,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [winglang/wing](https://github.com/winglang/wing) - A TypeScript dialect for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [unknownskl/greenlight](https://github.com/unknownskl/greenlight) - Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.
 - [the-via/keyboards](https://github.com/the-via/keyboards) - 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -4742,7 +4742,7 @@
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [stoat-dev/stoat-action](https://github.com/stoat-dev/stoat-action) - Turn pull request comments into developer dashboards.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications.
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
