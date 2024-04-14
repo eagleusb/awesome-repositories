@@ -757,6 +757,8 @@
 
 ## Go 
 
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 - [hashicorp/mdns](https://github.com/hashicorp/mdns) - Simple mDNS client/server library in Golang
 - [hashicorp/go-set](https://github.com/hashicorp/go-set) - The go-set package provides generic Set implementations for Go, including HashSet for types with a Hash() function and TreeSet for orderable data
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
@@ -4269,6 +4271,7 @@
 
 ## Rust 
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - ⚡ kubectl port-forward on steroids ⚡  manage and share multiple k8s port forwards from the menu bar | written in ts and rust 🦀 built with tauri
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake.
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
