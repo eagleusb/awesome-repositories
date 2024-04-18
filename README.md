@@ -625,7 +625,7 @@
 - [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) - Apache module for rewriting web pages to reduce latency and bandwidth.
 - [jethrogb/ssltrace](https://github.com/jethrogb/ssltrace) - ssltrace hooks an application's SSL libraries to record keying data of all SSL connections
 - [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [bioboy/prebw](https://github.com/bioboy/prebw) - glFTPd PreBW
 - [bioboy/slowkicker](https://github.com/bioboy/slowkicker) - glFTPd Slowkicker
 - [glftpd/pftp](https://github.com/glftpd/pftp) - pftp repository
@@ -728,7 +728,7 @@
 ## Elixir 
 
 - [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
@@ -759,6 +759,8 @@
 
 ## Go 
 
+- [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads
+- [FairwindsOps/rbac-lookup](https://github.com/FairwindsOps/rbac-lookup) - Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
 - [hashicorp/terraform-plugin-framework](https://github.com/hashicorp/terraform-plugin-framework) - A next-generation framework for building Terraform providers.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool
@@ -1868,7 +1870,7 @@
 - [mhausenblas/rbIAM](https://github.com/mhausenblas/rbIAM) - A unified IAM+Kubernetes RBAC access control exploration tool
 - [aws/amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook) - Amazon EKS Pod Identity Webhook
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
 - [Azure/aks-periscope](https://github.com/Azure/aks-periscope) - aks-periscope aims to detect various kubernetes cluster problems
 - [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
 - [awsctrl/manager](https://github.com/awsctrl/manager) - Production grade Kubernetes controller for managing AWS Services using CRDs
@@ -2596,6 +2598,7 @@
 ## Hack 
 
 - [facebookarchive/fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## Handlebars 
 
@@ -3118,7 +3121,6 @@
 ## Jinja 
 
 - [geerlingguy/ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
-- [nodejs/build](https://github.com/nodejs/build) - Better build and test infra for Node.
 - [ansible-collections/ansible-consul](https://github.com/ansible-collections/ansible-consul) - :satellite: Ansible role for Hashicorp Consul clusters
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -3194,7 +3196,6 @@
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
-- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 
 ## M 
 
@@ -3619,6 +3620,7 @@
 
 ## Python 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [ronibandini/reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
@@ -4582,6 +4584,7 @@
 - [swade1987/gitops-with-kustomize](https://github.com/swade1987/gitops-with-kustomize) - An example repo structure for GitOps with Kustomize
 - [aws/aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit) - The source of the amazon/aws-for-fluent-bit container image
 - [morbitzer/linux-luks-tpm-boot](https://github.com/morbitzer/linux-luks-tpm-boot) - A guide for setting up LUKS boot with a key from TPM in Linux
+- [nodejs/build](https://github.com/nodejs/build) - Better build and test infra for Node.
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) - Hardened Debian GNU/Linux distro auditing
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -4701,7 +4704,7 @@
 
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 - [wormhole-foundation/wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [streamr-dev/network](https://github.com/streamr-dev/network) - Monorepo containing all the main components of Streamr Network.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
