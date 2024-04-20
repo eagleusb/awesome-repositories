@@ -759,6 +759,7 @@
 
 ## Go 
 
+- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [ledisdb/xcodis](https://github.com/ledisdb/xcodis) - Yet another redis proxy based on codis(https://github.com/wandoulabs/codis)
 - [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads
@@ -4339,7 +4340,7 @@
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
-- [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache Arrow Ballista Distributed Query Engine
 - [kaskada-ai/kaskada](https://github.com/kaskada-ai/kaskada) - Modern, open-source event-processing
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
@@ -4524,6 +4525,7 @@
 
 ## Scala 
 
+- [airbnb/chronon](https://github.com/airbnb/chronon) - Chronon is a data platform for serving for AI/ML applications.
 - [tumblr/collins](https://github.com/tumblr/collins) - groovy kind of love
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
