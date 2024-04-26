@@ -1507,7 +1507,6 @@
 - [yahoo/kubectl-flame](https://github.com/yahoo/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes
 - [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) - Terraform CLI commands via Go.
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
-- [spotahome/service-level-operator](https://github.com/spotahome/service-level-operator) - Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster
 - [cirruslabs/echelon](https://github.com/cirruslabs/echelon) - hierarchical progress bars in terminal on steroids
 - [manaelproxy/manael](https://github.com/manaelproxy/manael) - Manael is a simple HTTP proxy for processing images.
 - [meloalright/guora](https://github.com/meloalright/guora) - 🖖🏻 A self-hosted Quora like web application written in Go  基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能
@@ -2407,7 +2406,7 @@
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) - manages elasticsearch clusters
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -2939,7 +2938,6 @@
 - [auth0/passport-azure-ad-oauth2](https://github.com/auth0/passport-azure-ad-oauth2) - OAuth 2.0 authentication Passport strategies for Windows Azure Active Directory
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [google/node-sec-roadmap](https://github.com/google/node-sec-roadmap) - Some thoughts on how Node.js might respond to a changing security environment
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [airtap/airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
@@ -3240,6 +3238,7 @@
 
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mojo 
@@ -4801,7 +4800,7 @@
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
