@@ -763,6 +763,7 @@
 
 ## Go 
 
+- [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) - 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
 - [talostrading/sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
@@ -1122,7 +1123,7 @@
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [letsencrypt/attache](https://github.com/letsencrypt/attache) - A sidecar that allows for effortless scaling of a Redis Cluster
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
@@ -2270,7 +2271,6 @@
 - [rexray/rexray](https://github.com/rexray/rexray) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
 - [sandglass/sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
 - [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
-- [cloudflare/cloudflare-ingress-controller](https://github.com/cloudflare/cloudflare-ingress-controller) - A Kubernetes ingress controller for Cloudflare's Argo Tunnels
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [tj/node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
@@ -2555,6 +2555,7 @@
 ## HTML 
 
 - [gvwilson/sdxjs](https://github.com/gvwilson/sdxjs) - Software Design by Example with JavaScript
+- [gvwilson/sql-tutorial](https://github.com/gvwilson/sql-tutorial) - The Querynomicon: An Introduction to SQL for Wary Data Scientists
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -3634,6 +3635,7 @@
 
 ## Python 
 
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -3657,7 +3659,6 @@
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.
 - [gvwilson/sdxpy](https://github.com/gvwilson/sdxpy) - Software Design by Example: a tool-based introduction with Python
-- [gvwilson/sql-tutorial](https://github.com/gvwilson/sql-tutorial) - The Querynomicon: An Introduction to SQL for Wary Data Scientists
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [GoogleCloudPlatform/localllm](https://github.com/GoogleCloudPlatform/localllm) - 
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
