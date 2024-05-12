@@ -781,7 +781,7 @@
 - [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
 - [jaegertracing/jaeger-clickhouse](https://github.com/jaegertracing/jaeger-clickhouse) - Jaeger ClickHouse storage plugin implementation
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) - Extending go with advanced debugging, tracing and mocking functionalities out of box.
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) - Extending go with advanced debugging, tracing and mocking functionalities.
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [ledisdb/xcodis](https://github.com/ledisdb/xcodis) - Yet another redis proxy based on codis(https://github.com/wandoulabs/codis)
 - [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
@@ -1733,7 +1733,7 @@
 - [hashicorp/logutils](https://github.com/hashicorp/logutils) - Utilities for slightly better logging in Go (Golang).
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [goulinkh/podcast-cli](https://github.com/goulinkh/podcast-cli) - Podcast CLI player
 - [ahmetb/kcat](https://github.com/ahmetb/kcat) - Syntax highlighting for Kubernetes manifests [WIP]
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) - IP Address/UNIX Socket convenience functions for Go
@@ -3332,7 +3332,6 @@
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design.
 - [a16z-infra/llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
-- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - 😎 📜 Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [candiddev/etcha](https://github.com/candiddev/etcha) - Configuration Management That Evolves With Your Infrastructure
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
@@ -4328,6 +4327,7 @@
 
 ## Rust 
 
+- [penberg/limbo](https://github.com/penberg/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [wasmerio/wasmer-postgres](https://github.com/wasmerio/wasmer-postgres) - 💽🕸 Postgres library to run WebAssembly binaries.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
