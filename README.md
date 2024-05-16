@@ -19,6 +19,7 @@
 - [CodeQL](#codeql)
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
+- [Cuda](#cuda)
 - [D](#d)
 - [Dart](#dart)
 - [Dhall](#dhall)
@@ -556,7 +557,7 @@
 - [thomasa88/pyets2_telemetry](https://github.com/thomasa88/pyets2_telemetry) - Python plug-in support for SCS Telemetry SDK
 - [advancedtelematic/aktualizr](https://github.com/advancedtelematic/aktualizr) - C++ SOTA Client
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [jaelpark/chamferwm](https://github.com/jaelpark/chamferwm) - A tiling X11 window manager with Vulkan compositor.
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
@@ -695,6 +696,10 @@
 - [Nitro/envoy-ui](https://github.com/Nitro/envoy-ui) - Dead simple server-side UI for Envoy proxy (like HAproxy stats)
 - [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web
 
+## Cuda 
+
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+
 ## D 
 
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
@@ -744,7 +749,7 @@
 
 ## Elm 
 
-- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: Design, Explore, Document and Analyze your database
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore and optimize any database
 
 ## Emacs Lisp 
 
@@ -766,6 +771,8 @@
 
 ## Go 
 
+- [VictoriaMetrics/easyproto](https://github.com/VictoriaMetrics/easyproto) - Simple building blocks for protobuf marshaling and unmarshaling
+- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
@@ -3329,7 +3336,7 @@
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
 - [a16z-infra/llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
@@ -4384,7 +4391,6 @@
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache Arrow Ballista Distributed Query Engine
@@ -4815,7 +4821,7 @@
 - [stoat-dev/stoat-action](https://github.com/stoat-dev/stoat-action) - Turn pull request comments into developer dashboards.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
-- [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications.
+- [jamsocket/driftdb](https://github.com/jamsocket/driftdb) - A real-time data backend for browser-based applications.
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -4877,7 +4883,7 @@
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [johannesjo/linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [rodrigopivi/Chatito](https://github.com/rodrigopivi/Chatito) - 🎯🗯 Dataset generation for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
