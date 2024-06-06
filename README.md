@@ -1018,7 +1018,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [akuity/grpc-gateway-client](https://github.com/akuity/grpc-gateway-client) - grpc-gateway HTTP client generator
-- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar. Use it to define, enforce, query, and audit application authorization and access control.
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync
 - [GoogleCloudPlatform/terraform-validator](https://github.com/GoogleCloudPlatform/terraform-validator) - Terraform Validator is not an officially supported Google product; it is a library for conversion of Terraform plan data to CAI Assets. If you have been using terraform-validator directly in the past,
 - [crossplane-contrib/provider-argocd](https://github.com/crossplane-contrib/provider-argocd) - Crossplane provider to provision and manage Argo CD objects
@@ -1199,7 +1199,7 @@
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 - [wrouesnel/p2cli](https://github.com/wrouesnel/p2cli) - pongo2 cli - like the j2cli package in python, but compiles to self-contained go executables
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [corneliusweig/ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [BenderScript/envoybigbook](https://github.com/BenderScript/envoybigbook) - Envoy Proxy Big Book of Examples
@@ -1230,7 +1230,7 @@
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
@@ -2150,7 +2150,7 @@
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [garethr/kubetest](https://github.com/garethr/kubetest) - Write unit tests for your Kubernetes configurations
 - [google/skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
-- [elastic/apm-server](https://github.com/elastic/apm-server) - APM Server
+- [elastic/apm-server](https://github.com/elastic/apm-server) - 
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
@@ -2207,7 +2207,7 @@
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [ksync/ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
-- [giantswarm/chart-operator](https://github.com/giantswarm/chart-operator) - Deploys Helm charts in Kubernetes workload clusters
+- [giantswarm/chart-operator](https://github.com/giantswarm/chart-operator) - Deploys Helm charts in Kubernetes workload clusters (deprecated)
 - [cloudflare/pal](https://github.com/cloudflare/pal) - PAL: A secret bootstrapping tool for Docker
 - [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
