@@ -463,6 +463,7 @@
 
 ## C++ 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [efficient/cuckoofilter](https://github.com/efficient/cuckoofilter) - 
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [envoyproxy/nighthawk](https://github.com/envoyproxy/nighthawk) - L7 (HTTP/HTTPS/HTTP2/HTTP3) performance characterization tool
@@ -846,7 +847,7 @@
 - [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [gdt-dev/kube](https://github.com/gdt-dev/kube) - Go Declarative Testing - Kubernetes
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
@@ -1230,7 +1231,7 @@
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
-- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
@@ -3337,7 +3338,6 @@
 ## Others 
 
 - [gofrp/plugin](https://github.com/gofrp/plugin) - Plugins for frp.
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -5005,7 +5005,6 @@
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
-- [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
