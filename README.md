@@ -3176,6 +3176,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
