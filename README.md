@@ -129,6 +129,7 @@
 
 ## C 
 
+- [pgpool/pgpool2](https://github.com/pgpool/pgpool2) - This is the official mirror of git://git.postgresql.org/git/pgpool2.git. Note that this is just a *mirror* - we don't work with pull requests on github. Please subscribe to pgpool-hackers mailing list
 - [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
 - [wasix-org/wasix-libc](https://github.com/wasix-org/wasix-libc) - wasix libc implementation for WebAssembly
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -778,6 +779,7 @@
 
 ## Go 
 
+- [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator) - A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources
 - [plutov/practice-go](https://github.com/plutov/practice-go) - Practice Go: a collection of Go programming challenges
 - [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - A tool for adding instrumentation to Go code
 - [Azure/placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins) - 
@@ -1157,7 +1159,7 @@
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
-- [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+- [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
 - [letsencrypt/attache](https://github.com/letsencrypt/attache) - A sidecar that allows for effortless scaling of a Redis Cluster
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
@@ -1218,7 +1220,7 @@
 - [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
@@ -3684,6 +3686,7 @@
 
 ## Python 
 
+- [google/mesop](https://github.com/google/mesop) - 
 - [nimish-ks/zippy](https://github.com/nimish-ks/zippy) - Open source CLI for Bionifying eBooks for the Kindle
 - [janbjorge/PgQueuer](https://github.com/janbjorge/PgQueuer) - PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
@@ -4092,7 +4095,7 @@
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -4794,7 +4797,7 @@
 
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [wormhole-foundation/wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [streamr-dev/network](https://github.com/streamr-dev/network) - Monorepo containing all the main components of Streamr Network.
