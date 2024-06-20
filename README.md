@@ -435,7 +435,6 @@
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 - [dinoex/iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) - An IRC fileserver using DCC
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [glftpd/foo-tools](https://github.com/glftpd/foo-tools) - collected foo-tools sources + some fixes
@@ -779,6 +778,8 @@
 
 ## Go 
 
+- [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
+- [otterize/network-mapper](https://github.com/otterize/network-mapper) - Map Kubernetes traffic: in-cluster, to the Internet, and to AWS IAM and export as text, intents, or an image
 - [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator) - A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources
 - [plutov/practice-go](https://github.com/plutov/practice-go) - Practice Go: a collection of Go programming challenges
 - [DataDog/orchestrion](https://github.com/DataDog/orchestrion) - A tool for adding instrumentation to Go code
@@ -848,7 +849,7 @@
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public TCP LoadBalancers for local Kubernetes clusters
 - [alexellis/run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it's done 🏃‍♂️
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store with an emphasis on speed and reliability.
+- [EchoVault/EchoVault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory alternative to Redis.
 - [jannfis/argocd-agent](https://github.com/jannfis/argocd-agent) - 
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
@@ -1356,7 +1357,7 @@
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [krisnova/naml](https://github.com/krisnova/naml) - Convert Kubernetes YAML to Golang
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [Qovery/pleco](https://github.com/Qovery/pleco) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL
 - [ethersphere/bee](https://github.com/ethersphere/bee) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (ap
 - [CodisLabs/redis-port](https://github.com/CodisLabs/redis-port) - 
@@ -2678,7 +2679,6 @@
 - [intuit/maven-build-scanner](https://github.com/intuit/maven-build-scanner) - Know your build - so you can make it faster
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [julianespinel/terraform-custom-provider](https://github.com/julianespinel/terraform-custom-provider) - Repository to learn how to create a Terraform custom provider.
@@ -3162,6 +3162,7 @@
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [markwalkom/kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community
 
 ## Jinja 
@@ -3383,7 +3384,7 @@
 - [elasticrash/ut47.2_keyboard_cases](https://github.com/elasticrash/ut47.2_keyboard_cases) - 
 - [coarse/st40](https://github.com/coarse/st40) - Open source 40% ortholinear keyboard PCB powered by STM32F072
 - [coarse/UT47.3](https://github.com/coarse/UT47.3) - STM32 40% keyboard based on Gnap
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [davidfriar/tokyo60ispflashing](https://github.com/davidfriar/tokyo60ispflashing) - Getting QMK programming up and running for the Tokyo 60 v3 - a quick guide for the reckless and impatient
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -3686,7 +3687,7 @@
 
 ## Python 
 
-- [google/mesop](https://github.com/google/mesop) - 
+- [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [nimish-ks/zippy](https://github.com/nimish-ks/zippy) - Open source CLI for Bionifying eBooks for the Kindle
 - [janbjorge/PgQueuer](https://github.com/janbjorge/PgQueuer) - PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
@@ -4216,7 +4217,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [Datera/targetcli](https://github.com/Datera/targetcli) - CLI and shell for the Linux SCSI Target
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [gojhonny/CredCrack](https://github.com/gojhonny/CredCrack) - A fast and stealthy credential harvester
+- [jobroche/CredCrack](https://github.com/jobroche/CredCrack) - A fast and stealthy credential harvester
 - [bookieio/Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement
 - [smartbgp/yabgp](https://github.com/smartbgp/yabgp) - :bowtie:Yet Another BGP Python Implementation
 - [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10
@@ -4356,6 +4357,7 @@
 
 ## Rust 
 
+- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) - 
 - [ChrisBellew/pg-ferret](https://github.com/ChrisBellew/pg-ferret) - 🔍️ All-in-one tracing toolkit for Postgres
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads.
 - [clowdhaus/eksup](https://github.com/clowdhaus/eksup) - EKS cluster upgrade guidance
@@ -4858,7 +4860,7 @@
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is an experimental language for describing data relationships and transformations.
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
@@ -4876,7 +4878,7 @@
 - [axentix/axentix](https://github.com/axentix/axentix) - The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer.
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -4890,6 +4892,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for installing and configuring the gcloud CLI.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
