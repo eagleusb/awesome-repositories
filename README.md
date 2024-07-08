@@ -1498,7 +1498,7 @@
 - [RussellLuo/validating](https://github.com/RussellLuo/validating) - A Go library for validating structs, maps and slices.
 - [msfidelis/cassler](https://github.com/msfidelis/cassler) - :spider: :spider: :spider:  - Validate SSL Certificates around web
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [micro/micro](https://github.com/micro/micro) - A Go service development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [asim/kayvee](https://github.com/asim/kayvee) - A distributed in-memory key-value store built using hashicorp/memberlist with HTTP API
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -3372,7 +3372,7 @@
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
 - [a16z-infra/llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
