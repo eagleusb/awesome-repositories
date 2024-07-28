@@ -495,7 +495,7 @@
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [firebuild/firebuild](https://github.com/firebuild/firebuild) - Automatic build accelerator cache for Linux
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -783,6 +783,8 @@
 
 ## Go 
 
+- [rapidloop/pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [ratify-project/ratify](https://github.com/ratify-project/ratify) - Artifact Ratification Framework
 - [notaryproject/notation](https://github.com/notaryproject/notation) - A CLI tool to sign and verify artifacts
 - [scylladb/terraform-provider-scylladbcloud](https://github.com/scylladb/terraform-provider-scylladbcloud) - Terraform provider for ScyllaDB Cloud.
@@ -898,7 +900,7 @@
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [mwyvr/knockr](https://github.com/mwyvr/knockr) - A port-knocking utility implemented in Go.
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing and profiling, observability via eBPF :rocket:
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :sparkles: Zero-code distributed tracing, observability via eBPF :rocket:
 - [leg100/otf](https://github.com/leg100/otf) - An open source alternative to terraform enterprise.
 - [kubewharf/katalyst-core](https://github.com/kubewharf/katalyst-core) - Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agent
 - [facebookarchive/grace](https://github.com/facebookarchive/grace) - Graceful restart & zero downtime deploy for Go servers.
@@ -1024,7 +1026,7 @@
 - [philandstuff/dhall-golang](https://github.com/philandstuff/dhall-golang) - Dhall bindings for go
 - [gazette/core](https://github.com/gazette/core) - Build platforms that flexibly mix SQL, batch, and stream processing paradigms
 - [goretk/redress](https://github.com/goretk/redress) - Redress - A tool for analyzing stripped Go binaries
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [donuts-are-good/bearclaw](https://github.com/donuts-are-good/bearclaw) - tiny static site generator w/ rss
@@ -4385,6 +4387,7 @@
 
 ## Rust 
 
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster buil
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) - 
 - [ChrisBellew/pg-ferret](https://github.com/ChrisBellew/pg-ferret) - 🔍️ All-in-one tracing toolkit for Postgres
@@ -4511,7 +4514,7 @@
 - [aws/clock-bound](https://github.com/aws/clock-bound) - Used to generate and compare bounded timestamps.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly components and capability providers.
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - An extendible wasm host enabling wasm-native orchestration; run components on any cloud, any k8s, or any edge - including your own.
 - [flatt-security/shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for several programming languages
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -4892,7 +4895,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
