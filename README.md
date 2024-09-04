@@ -130,6 +130,7 @@
 
 ## C 
 
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [owntracks/recorder](https://github.com/owntracks/recorder) - Store and access data published by OwnTracks apps
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
@@ -445,6 +446,7 @@
 
 ## C# # 
 
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [Valkirie/HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
@@ -784,9 +786,11 @@
 
 ## Go 
 
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
+- [cert-manager/istio-csr](https://github.com/cert-manager/istio-csr) - istio-csr is an agent that allows for Istio workload and control plane components to be secured using cert-manager.
 - [livekit/livekit-cli](https://github.com/livekit/livekit-cli) - Command line interface to LiveKit
 - [datastax/zdm-proxy](https://github.com/datastax/zdm-proxy) - An open-source component designed to seamlessly handle the real-time client application activity while a migration is in progress.
-- [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via wireguard
+- [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [marcelloh/fastdb](https://github.com/marcelloh/fastdb) - FastDB is an (persistent) in-memory key/value store in Go.
 - [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Notion, Airtable, etc.) with SQL
@@ -2695,7 +2699,6 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [hstreamdb/hstream](https://github.com/hstreamdb/hstream) - HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
-- [kamek-pf/ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
 - [KMahoney/squee](https://github.com/KMahoney/squee) - A Typed, Composable Database Query Language
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [taffybar/taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
@@ -3331,6 +3334,7 @@
 ## Markdown 
 
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -3561,7 +3565,6 @@
 - [nodejs/mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [packetrat/packethunting](https://github.com/packetrat/packethunting) - Resources and materials for DEF CON 2018 Packet Hunting Workshop
 - [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
 - [alco/gostart](https://github.com/alco/gostart) - A getting started guide for Go newcomers
 - [operator-framework/getting-started](https://github.com/operator-framework/getting-started) - An end-to-end scenario showing how to use the Operator Framework.
@@ -3736,6 +3739,8 @@
 
 ## Python 
 
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Stock Analysis for Data Freaks ❤️
 - [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
@@ -4876,7 +4881,9 @@
 
 ## TypeScript 
 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
@@ -5083,7 +5090,7 @@
 - [census-instrumentation/opencensus-node](https://github.com/census-instrumentation/opencensus-node) - A stats collection and distributed tracing framework
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
