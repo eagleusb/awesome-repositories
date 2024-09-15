@@ -176,7 +176,7 @@
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - The first open-source DDoS protection system
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [krisnova/nginx-proxy-analysis](https://github.com/krisnova/nginx-proxy-analysis) - A small research project aimed at understanding the behaviour of a simple nginx reverse proxy given various upstream server conditions.
@@ -224,7 +224,7 @@
 - [haileys/doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -790,6 +790,8 @@
 
 ## Go 
 
+- [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+- [Tochemey/goakt](https://github.com/Tochemey/goakt) - [Go] Fast and Distributed Actor framework using protocol buffers as message for Golang
 - [topolvm/pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer) - Auto-resize PersistentVolumeClaim objects based on Prometheus metrics
 - [go-kod/kod](https://github.com/go-kod/kod) - A generics based dependency injection application framework for Go, support OpenTelemetry trace/metric/log natively 🚀🚀🚀
 - [anacrolix/dms](https://github.com/anacrolix/dms) - A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.
@@ -2817,7 +2819,7 @@
 - [timoa/app-stores-prometheus-exporter](https://github.com/timoa/app-stores-prometheus-exporter) - Prometheus exporter that exports metrics (score, ratings, reviews, app version, etc.) from the Apple App Store and Google Play Store
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [synmetrix/synmetrix](https://github.com/synmetrix/synmetrix) - Synmetrix – production-ready open source semantic layer on Cube
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [nearform/fast-jwt](https://github.com/nearform/fast-jwt) - Fast JSON Web Token implementation
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -3226,7 +3228,7 @@
 
 ## Jinja 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free & Better RDS Alternative —— Pigsty
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty
 - [geerlingguy/ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
 - [ansible-collections/ansible-consul](https://github.com/ansible-collections/ansible-consul) - :satellite: Ansible role for Hashicorp Consul clusters
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -3765,7 +3767,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings by using the Grafana API
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy production-ready Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [nimish-ks/zippy](https://github.com/nimish-ks/zippy) - Open source CLI for Bionifying eBooks for the Kindle
@@ -4894,6 +4896,8 @@
 
 ## TypeScript 
 
+- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
@@ -5127,7 +5131,7 @@
 - [GoogleCloudPlatform/nodejs-docker](https://github.com/GoogleCloudPlatform/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [opentracing/opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser). 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
