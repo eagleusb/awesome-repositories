@@ -31,6 +31,7 @@
 - [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [G-code](#g-code)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -130,6 +131,7 @@
 
 ## C 
 
+- [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [okbob/plpgsql_check](https://github.com/okbob/plpgsql_check) - plpgsql_check is a linter tool (does source code static analyze) for the PostgreSQL language plpgsql (the native language for PostgreSQL store procedures).
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [ossc-db/pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Extension adding support for optimizer hints in PostgreSQL
@@ -313,7 +315,7 @@
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [NetworkBlockDevice/nbd](https://github.com/NetworkBlockDevice/nbd) - Network Block Device
-- [moosefs/moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)
+- [moosefs/moosefs](https://github.com/moosefs/moosefs) - MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage
 - [sheepdog/sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures.
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
@@ -790,8 +792,14 @@
 
 - [The-Royal/The_Royal_Open-Source-Projects](https://github.com/The-Royal/The_Royal_Open-Source-Projects) - A Master Repository For All things Royal Made
 
+## GDScript 
+
+- [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Open source gamepad-native game launcher and overlay
+
 ## Go 
 
+- [scylladb/scylla-bench](https://github.com/scylladb/scylla-bench) - 
+- [scylladb/gocqlx](https://github.com/scylladb/gocqlx) - All-In-One: CQL query builder, ORM and migration tool
 - [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement fo
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
@@ -1562,7 +1570,7 @@
 - [tcfw/vpc](https://github.com/tcfw/vpc) - Create simple VPCs written in (mostly) Go using Linux bridges/netlinks, iptables & network namespaces
 - [timescale/promscale](https://github.com/timescale/promscale) - [DEPRECATED] Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
 - [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
+- [ory/kratos](https://github.com/ory/kratos) - The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor A
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [doitintl/ClusterCloner](https://github.com/doitintl/ClusterCloner) - Clone Kubernetes clusters (VM infrastructure, not K8s objects) to/from AWS EKS, GCP GKE, and Azure EKS.
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
@@ -2347,7 +2355,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [opencontainers/umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
+- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
 - [Roman2K/scat](https://github.com/Roman2K/scat) - Decentralized, trustless backup tool
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [google/periph](https://github.com/google/periph) - Older version of periph, see new version at https://github.com/periph
@@ -2646,6 +2654,7 @@
 
 ## HLSL 
 
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
 - [BlueSkyDefender/Depth3D](https://github.com/BlueSkyDefender/Depth3D) - Depth Based 3D & Other post-process shaders
 - [martymcmodding/qUINT](https://github.com/martymcmodding/qUINT) - Collection of general-purpose effects for the ReShade shader injector.
 
@@ -2817,6 +2826,7 @@
 
 ## JavaScript 
 
+- [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -3417,6 +3427,7 @@
 
 ## Others 
 
+- [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [SecOps-Institute/Akamai-ASN-and-IPs-List](https://github.com/SecOps-Institute/Akamai-ASN-and-IPs-List) - Hourly checked and updated IP Lists of Akamai Servers using the ASN Numbers from RADB Lookups
@@ -3757,6 +3768,8 @@
 
 ## Python 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [trailofbits/publications](https://github.com/trailofbits/publications) - Publications from Trail of Bits
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
@@ -3832,9 +3845,9 @@
 - [broamski/aws-mfa](https://github.com/broamski/aws-mfa) - Manage AWS MFA Security Credentials
 - [FMInference/FlexiGen](https://github.com/FMInference/FlexiGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [jtyr/kubeconform-helm](https://github.com/jtyr/kubeconform-helm) - Tools to test Helm chats with "kubeconform".
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
@@ -4444,6 +4457,7 @@
 
 ## Rust 
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [buffdb/buffdb](https://github.com/buffdb/buffdb) - Embedded storage built for multiplexing. Smart machines don't need to read JSON, they only need protocol buffers. The world's first MODMS (Machine-Oriented Database Management System), built to suppor
 - [beac0n/ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only 
@@ -4903,13 +4917,14 @@
 
 ## TypeScript 
 
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, event-driven durable execution platform.  Run stateful step functions functions deployed to serverless, servers, or the edge.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
