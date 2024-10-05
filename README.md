@@ -11,6 +11,7 @@
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [BitBake](#bitbake)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -101,6 +102,7 @@
 
 ## Assembly 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [videolan/x265](https://github.com/videolan/x265) - https://bitbucket.org/multicoreware/x265/ git mirror
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function
@@ -128,6 +130,10 @@
 ## BitBake 
 
 - [balena-os/meta-balena](https://github.com/balena-os/meta-balena) - A collection of Yocto layers used to build balenaOS images
+
+## Blade 
+
+- [blade-lang/blade](https://github.com/blade-lang/blade) - A modern general-purpose programming language focused on enterprise Web, IoT, and secure application development.
 
 ## C 
 
@@ -210,7 +216,6 @@
 - [Vulcainreo/DVID](https://github.com/Vulcainreo/DVID) - Damn Vulnerable IoT Device
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [jgarzik/cpuminer](https://github.com/jgarzik/cpuminer) - CPU miner for bitcoin
-- [blade-lang/blade](https://github.com/blade-lang/blade) - A modern general-purpose programming language focused on enterprise Web, IoT, and secure application development.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
@@ -380,7 +385,6 @@
 - [eleme/corvus](https://github.com/eleme/corvus) - A fast and lightweight Redis Cluster Proxy for Redis 3.0
 - [FascinatedBox/lily](https://github.com/FascinatedBox/lily) - Interpreted language focused on expressiveness and type safety.
 - [reyk/relayd](https://github.com/reyk/relayd) - OpenBSD relayd daemon -experimental
-- [reyk/httpd](https://github.com/reyk/httpd) - OpenBSD httpd
 - [Feh/nocache](https://github.com/Feh/nocache) - minimize caching effects
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
@@ -801,6 +805,9 @@
 
 ## Go 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [interTwin-eu/interLink](https://github.com/interTwin-eu/interLink) - InterLink aims to provide an abstraction for the execution of a Kubernetes pod on any remote resource capable of managing a Container execution lifecycle
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
@@ -2000,7 +2007,6 @@
 - [awsctrl/manager](https://github.com/awsctrl/manager) - Production grade Kubernetes controller for managing AWS Services using CRDs
 - [night-gold/armada](https://github.com/night-gold/armada) - Command line tools to manage kustomize packaged apps deployment
 - [helm/helm-2to3](https://github.com/helm/helm-2to3) - ⚠️(OBSOLETE) This is a Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
-- [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [vbatts/git-validation](https://github.com/vbatts/git-validation) - utility for validating git commits (in a CI like GH actions, CircleCI, Jenkins, etc.)
 - [mumoshu/helm-x](https://github.com/mumoshu/helm-x) - Treat any Kustomization or K8s manifests directory as a Helm chart
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
@@ -2148,7 +2154,6 @@
 - [bank-vaults/bank-vaults](https://github.com/bank-vaults/bank-vaults) - A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines).
 - [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [aylei/kubectl-debug](https://github.com/aylei/kubectl-debug) - This repository is no longer maintained, please checkout https://github.com/JamesTGrant/kubectl-debug.
 - [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) - 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [ceph/cn](https://github.com/ceph/cn) - Ceph Nano - One step S3 in container with Ceph.
@@ -2179,7 +2184,6 @@
 - [cnbm/container-orchestration](https://github.com/cnbm/container-orchestration) - A Benchmark for Container Orchestration Systems
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
@@ -2300,7 +2304,6 @@
 - [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
-- [containerd/cri](https://github.com/containerd/cri) - Moved to https://github.com/containerd/containerd/tree/master/pkg/cri . If you wish to submit issues/PRs, please submit to https://github.com/containerd/containerd
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [kubernetes-retired/external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
 - [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container
@@ -2374,7 +2377,6 @@
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [tsuru/gandalf](https://github.com/tsuru/gandalf) - Gandalf is an HTTP API for managing Git repositories.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [matthewmueller/joy](https://github.com/matthewmueller/joy) - A delightful Go to Javascript compiler (ON HOLD)
@@ -2389,7 +2391,6 @@
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
-- [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [cashier-go/cashier](https://github.com/cashier-go/cashier) - A self-service CA for OpenSSH
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
@@ -2966,7 +2967,6 @@
 - [opendistro-for-elasticsearch/alerting-kibana-plugin](https://github.com/opendistro-for-elasticsearch/alerting-kibana-plugin) - 📟 Open Distro Kibana Alerting Plugin
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
-- [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [outmoded/oz](https://github.com/outmoded/oz) - Web Authorization Protocol
@@ -3080,7 +3080,6 @@
 - [TritonDataCenter/node-docker-registry-client](https://github.com/TritonDataCenter/node-docker-registry-client) - node.js client for the docker registry
 - [neutrinojs/neutrino](https://github.com/neutrinojs/neutrino) - Create and build modern JavaScript projects with zero initial configuration.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 - [vmware-archive/cabin](https://github.com/vmware-archive/cabin) - The Mobile Dashboard for Kubernetes
 - [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
@@ -3276,7 +3275,7 @@
 - [bellingcat/smart-image-sorter](https://github.com/bellingcat/smart-image-sorter) - User friendly zero-shot image classification using open-source models from the Hugging Face library
 - [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -3313,7 +3312,6 @@
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [partiql/partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) - PartiQL libraries and tools in Kotlin.
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
-- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 
 ## Lua 
 
@@ -3782,6 +3780,7 @@
 
 ## Python 
 
+- [Exodus-Privacy/exodus](https://github.com/Exodus-Privacy/exodus) - Platform to audit trackers used by Android application
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
@@ -5132,7 +5131,6 @@
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
-- [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) - Deduplication tool for yarn.lock files
 - [deepsweet/start](https://github.com/deepsweet/start) - :red_circle: Functional task runner for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
