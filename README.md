@@ -481,7 +481,6 @@
 
 - [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [google/perf_data_converter](https://github.com/google/perf_data_converter) - Tool to convert Linux perf files to the profile.proto format used by pprof
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
@@ -810,6 +809,14 @@
 
 ## Go 
 
+- [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s) - Cluster API k3s
+- [siderolabs/cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) - A cluster-api bootstrap provider for deploying Talos clusters.
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [ionos-cloud/cluster-api-provider-proxmox](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - Cluster API Provider for Proxmox VE (CAPMOX)
+- [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier & Faster Kubernetes Policies using JavaScript or TypeScript
+- [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) - 
+- [syself/cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) - Cluster API Provider Hetzner :rocket: The best way to manage Kubernetes clusters on Hetzner, fully declarative, Kubernetes-native and with self-healing capabilities
+- [RoseSecurity/Kuzco](https://github.com/RoseSecurity/Kuzco) - Kuzco reviews your Terraform and OpenTofu resources, compares them to the provider schema to detect unused parameters, and uses AI to suggest improvements
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [loafoe/terraform-provider-ssh](https://github.com/loafoe/terraform-provider-ssh) - Copy files and run commands remotely via SSH, with bastion and proxy support
 - [isometry/terraform-provider-deepmerge](https://github.com/isometry/terraform-provider-deepmerge) - Deepmerge functions for Terraform 1.8+
@@ -1511,7 +1518,6 @@
 - [gitpod-io/dazzle](https://github.com/gitpod-io/dazzle) - dazzle is a rather experimental Docker image builder which builds independent layers
 - [gitpod-io/leeway](https://github.com/gitpod-io/leeway) - Leeway is a heavily caching build system for Go, Typescript and Docker projects.
 - [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI
-- [heroku/shaas](https://github.com/heroku/shaas) - Shell as a Service: API to inspect and execute scripts in a server's environment via HTTP and WebSockets
 - [leg100/etok](https://github.com/leg100/etok) - Execute Terraform on Kubernetes
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics
@@ -2171,7 +2177,7 @@
 - [cloudflare/roughtime](https://github.com/cloudflare/roughtime) - A secure clock-synchronization protocol for when rough is enough.
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [gotoz/runq](https://github.com/gotoz/runq) - run regular Docker images in KVM/Qemu
-- [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
+- [minio/mc](https://github.com/minio/mc) - Unix like tools for MinIO Object Store.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [metaparticle-io/package](https://github.com/metaparticle-io/package) - Metaparticle/Package: Language Fluent Containerization and Deployment in Java, .NET and Javascript (and more coming soon)
 - [bank-vaults/bank-vaults](https://github.com/bank-vaults/bank-vaults) - A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines).
@@ -3809,6 +3815,12 @@
 
 ## Python 
 
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+- [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+- [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [homebrewltd/ichigo](https://github.com/homebrewltd/ichigo) - Llama3.1 learns to Listen
 - [timescale/pgspot](https://github.com/timescale/pgspot) - Spot vulnerabilities in postgres SQL scripts
 - [tahoe-lafs/zfec](https://github.com/tahoe-lafs/zfec) - zfec -- an efficient, portable erasure coding tool
@@ -5069,7 +5081,7 @@
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [cstickel/node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) - 
 - [actions/runner-container-hooks](https://github.com/actions/runner-container-hooks) - Runner Container Hooks for GitHub Actions
 - [clientdb/clientdb](https://github.com/clientdb/clientdb) - ClientDB is an open source in-memory database for enabling real-time web apps.
@@ -5275,7 +5287,7 @@
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
-- [sbkwgh/forum](https://github.com/sbkwgh/forum) - Forum software created using Express, Vue, and Sequelize
+- [sebbkw/forum](https://github.com/sebbkw/forum) - Forum software created using Express, Vue, and Sequelize
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
