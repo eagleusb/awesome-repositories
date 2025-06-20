@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: "repository checkout"
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: "python setup"
-      uses: actions/setup-python@v3.1.1
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.7
+        python-version: 3.13
     - name: "env requirements"
       run: |
         echo "/home/runner/.local/bin" >> $GITHUB_PATH
