@@ -504,6 +504,7 @@
 
 ## C++ 
 
+- [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 - [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -863,6 +864,8 @@
 
 ## Go 
 
+- [kubernetes-sigs/gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [dbos-inc/dbos-transact-go](https://github.com/dbos-inc/dbos-transact-go) - 
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -873,6 +876,7 @@
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [PlakarKorp/go-cdc-chunkers](https://github.com/PlakarKorp/go-cdc-chunkers) - A Golang package that implements CDC chunkers with a generic interface
 - [google-gemini/proxy-to-gemini](https://github.com/google-gemini/proxy-to-gemini) - A proxy sidecar to access Gemini models via OpenAI and Ollama APIs
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [mihaip/retrogit](https://github.com/mihaip/retrogit) - Your GitHub time machine.
 - [LEGO/kube-tf-reconciler](https://github.com/LEGO/kube-tf-reconciler) - Kubernetes Operator for reconciling terraform resources
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A a
@@ -4154,6 +4158,9 @@
 
 ## Python 
 
+- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: An open-source large language model designed for intelligent agents by Z.ai
+- [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
+- [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
@@ -4214,7 +4221,7 @@
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [sachin-sankar/swiftshadow](https://github.com/sachin-sankar/swiftshadow) - Free IP Proxy rotator library for python
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
+- [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieva
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
@@ -5001,7 +5008,7 @@
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to LLM
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -5546,7 +5553,6 @@
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [agentcommunity/agent-interface-discovery](https://github.com/agentcommunity/agent-interface-discovery) - Agent Interface Discovery
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
