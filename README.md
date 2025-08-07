@@ -141,6 +141,8 @@
 
 ## C 
 
+- [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine
@@ -194,7 +196,7 @@
 - [open-telemetry/opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
 - [michelp/pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium.
-- [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Business Operating System
+- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [hydradatabase/columnar](https://github.com/hydradatabase/columnar) - Postgres-native columnar storage extension
@@ -866,12 +868,14 @@
 
 ## Go 
 
+- [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to ListenBrainz
+- [ivpn/mailx](https://github.com/ivpn/mailx) - Audited, Open-Source Email Aliasing Service
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [zhulik/pal](https://github.com/zhulik/pal) - An (opinionated) dependency injection framework for Go.
 - [kubernetes-sigs/gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [dbos-inc/dbos-transact-go](https://github.com/dbos-inc/dbos-transact-go) - 
+- [dbos-inc/dbos-transact-go](https://github.com/dbos-inc/dbos-transact-go) - Durable Workflow Orchestration with Golang and Postgres
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [google/oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
@@ -1005,7 +1009,7 @@
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-- [pgsty/pig](https://github.com/pgsty/pig) - PostgreSQL Extension Manager
+- [pgsty/pig](https://github.com/pgsty/pig) - PostgreSQL Extension Package Manager
 - [jsonnet-bundler/jsonnet-bundler](https://github.com/jsonnet-bundler/jsonnet-bundler) - A jsonnet package manager.
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) - Ikto is a NATS based Wireguard mesh network builder.
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
@@ -1322,7 +1326,7 @@
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
@@ -1447,7 +1451,7 @@
 - [fabienjuif/go-linkedlist](https://github.com/fabienjuif/go-linkedlist) - Simple LinkedList in Go
 - [benchkram/bob](https://github.com/benchkram/bob) - Bob is a high-level build tool for multi-language projects.
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [nebuly-ai/nos](https://github.com/nebuly-ai/nos) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster through real-time dynamic partitioning and elastic quotas - Effortless optimization at its finest!
 - [artie-labs/transfer](https://github.com/artie-labs/transfer) - Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse (Snowflake, BigQuery, Redshift, Databricks) in real-time.
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
@@ -1489,6 +1493,7 @@
 - [brianpursley/kubectl-confirm](https://github.com/brianpursley/kubectl-confirm) - Kubectl Confirm is a plugin for Kubectl that displays information and asked for confirmation before executing a command.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [groundcover-com/murre](https://github.com/groundcover-com/murre) - Murre is an on-demand, scaleable source of container resource metrics for K8s.
 - [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) - Prometheus exporter for PgBouncer
@@ -3203,7 +3208,6 @@
 - [bradleyboy/standbot](https://github.com/bradleyboy/standbot) - Scheduled team standups in Slack
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [grantila/awesome-phonenumber](https://github.com/grantila/awesome-phonenumber) - Google's libphonenumber pre-compiled with the closure compiler
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
@@ -3794,6 +3798,7 @@
 
 ## Others 
 
+- [OpenIPC/coupler](https://github.com/OpenIPC/coupler) - Seamless transition between video cameras firmware
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 - [leehanchung/awesome-full-stack-machine-learning-courses](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses) - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford.
@@ -4164,6 +4169,8 @@
 
 ## Python 
 
+- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -4336,10 +4343,9 @@
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [ronibandini/reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -4995,6 +5001,7 @@
 
 ## Rust 
 
+- [dacort/s3grep](https://github.com/dacort/s3grep) - CLI tool for searching logs and unstructured content in Amazon S3 buckets
 - [Drop-OSS/drop-app](https://github.com/Drop-OSS/drop-app) - The desktop companion app for Drop. It acts a download client, game launcher and game distribution endpoint for Drop.
 - [PrimeIntellect-ai/protocol](https://github.com/PrimeIntellect-ai/protocol) - peer-to-peer compute and intelligence network that enables decentralized AI development at scale
 - [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC
@@ -5142,7 +5149,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [8xFF/atm0s-media-server](https://github.com/8xFF/atm0s-media-server) - Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing and management platform.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
 - [ChuckHend/pg_later](https://github.com/ChuckHend/pg_later) - Execute SQL now and get the results later.
 - [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -5564,6 +5571,9 @@
 
 ## TypeScript 
 
+- [cardog-ai/corgi](https://github.com/cardog-ai/corgi) - A TypeScript library for decoding and validating Vehicle Identification Numbers (VINs) using a customized VPIC database.
+- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [agentcommunity/agent-interface-discovery](https://github.com/agentcommunity/agent-interface-discovery) - Agent Interface Discovery
@@ -5695,6 +5705,7 @@
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [wormhole-foundation/wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
