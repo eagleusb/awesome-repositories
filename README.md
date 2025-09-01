@@ -872,6 +872,7 @@
 
 ## Go 
 
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [iryndin/limitron](https://github.com/iryndin/limitron) - Nonblocking lock-free lean rate limiter in Go
 - [meehow/privtracker](https://github.com/meehow/privtracker) - Private BitTorrent tracker generator
@@ -900,10 +901,11 @@
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [PlakarKorp/go-cdc-chunkers](https://github.com/PlakarKorp/go-cdc-chunkers) - A Golang package that implements CDC chunkers with a generic interface
 - [google-gemini/proxy-to-gemini](https://github.com/google-gemini/proxy-to-gemini) - A proxy sidecar to access Gemini models via OpenAI and Ollama APIs
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [mihaip/retrogit](https://github.com/mihaip/retrogit) - Your GitHub time machine.
 - [LEGO/kube-tf-reconciler](https://github.com/LEGO/kube-tf-reconciler) - Kubernetes Operator for reconciling terraform resources
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A a
-- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
+- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAI API compatible server)
 - [zserge/pennybase](https://github.com/zserge/pennybase) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
 - [storacha/piri](https://github.com/storacha/piri) - 🐔 Storacha Storage Node
 - [mingrammer/gosearch](https://github.com/mingrammer/gosearch) - :mag: Search the Go packages via command-line
@@ -1517,7 +1519,7 @@
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
 - [bart6114/cheek](https://github.com/bart6114/cheek) - cheek: a pico-sized declarative job scheduler
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine packaged in a single binary, with a modern Web UI. Workflows are defined in a simple, declarative YAML format and can be executed on schedule. It supports shell commands,
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, powerful workflow engine with Web UI.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [ferryproxy/ferry](https://github.com/ferryproxy/ferry) - Ferry is a Kubernetes multi-cluster communication component that eliminates communication differences between clusters as if they were in a single cluster, regardless of the network environment those 
@@ -1639,7 +1641,7 @@
 - [bergerx/kubectl-status](https://github.com/bergerx/kubectl-status) - A kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
 - [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Redis data processing and migration tool.
 - [guessi/kubectl-grep](https://github.com/guessi/kubectl-grep) - Filter Kubernetes resources by matching their names
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
@@ -2309,7 +2311,6 @@
 - [kubernetes/api](https://github.com/kubernetes/api) - The canonical location of the Kubernetes API definition.
 - [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess) - Review Access - kubectl plugin to show an access matrix for k8s server resources
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
-- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [zalando-incubator/kube-aws-iam-controller](https://github.com/zalando-incubator/kube-aws-iam-controller) - Distribute different AWS IAM credentials to different pods in Kubernetes via secrets.
 - [uswitch/kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [mhausenblas/rbIAM](https://github.com/mhausenblas/rbIAM) - A unified IAM+Kubernetes RBAC access control exploration tool
@@ -3282,7 +3283,6 @@
 - [bytenode/bytenode](https://github.com/bytenode/bytenode) - A minimalist bytecode compiler for Node.js
 - [kube-HPC/hkube](https://github.com/kube-HPC/hkube) - 🐟 High Performance Computing over Kubernetes - Core Repo 🎣
 - [GoogleChromeLabs/psi](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights Reporting for Node
-- [felipernb/algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
 - [mweagle/Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
@@ -3814,6 +3814,7 @@
 
 ## Others 
 
+- [n0-computer/awesome-iroh](https://github.com/n0-computer/awesome-iroh) - Curated list of awesome stuff built on & with iroh
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [OpenIPC/coupler](https://github.com/OpenIPC/coupler) - Seamless transition between video cameras firmware
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
@@ -4218,7 +4219,7 @@
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
@@ -5040,6 +5041,9 @@
 
 ## Rust 
 
+- [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
+- [rustonbsd/iroh-ssh](https://github.com/rustonbsd/iroh-ssh) - SSH to any machine without ip
+- [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
 - [just-every/code](https://github.com/just-every/code) - Fast, effective, mind-blowing, coding CLI. Browser integration, multi-agents, theming, and reasoning control. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
@@ -5579,6 +5583,7 @@
 
 ## Svelte 
 
+- [anhostfr/nah.pet](https://github.com/anhostfr/nah.pet) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
 - [muni-town/roomy](https://github.com/muni-town/roomy) - Gardenable group chat made with AT Protocol and Leaf.
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [agnosticeng/agx](https://github.com/agnosticeng/agx) - AI Powered Analytics
@@ -5633,7 +5638,6 @@
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [agentcommunity/agent-interface-discovery](https://github.com/agentcommunity/agent-interface-discovery) - Agent Interface Discovery
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
@@ -5763,7 +5767,7 @@
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [wormhole-foundation/wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
