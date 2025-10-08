@@ -143,6 +143,7 @@
 
 ## C 
 
+- [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -3051,7 +3052,6 @@
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [jedisct1/libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [jstherightway/js-the-right-way](https://github.com/jstherightway/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
-- [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [GoogleCloudPlatform/spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) - 
 - [w3c/fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) - What is browser fingerprinting and how should specification authors address it.
@@ -3163,7 +3163,6 @@
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [embulk/embulk](https://github.com/embulk/embulk) - Embulk: Pluggable Bulk Data Loader.
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
-- [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [ChronixDB/chronix.server](https://github.com/ChronixDB/chronix.server) - The Chronix Server implementation that is based on Apache Solr.
 - [Teradata/kylo](https://github.com/Teradata/kylo) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is license
 - [mposolda/keycloak-mariadb](https://github.com/mposolda/keycloak-mariadb) - How to easily set MariaDB cluster and configure with Keycloak
@@ -3659,7 +3658,6 @@
 - [google-gemini/gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
@@ -4208,7 +4206,11 @@
 
 ## Python 
 
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
+- [django/daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server
+- [pgjones/hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text server.
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [murtaza-nasir/maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
@@ -4238,7 +4240,7 @@
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [ebiose-ai/ebiose](https://github.com/ebiose-ai/ebiose) - 
+- [ebiose-ai/ebiose](https://github.com/ebiose-ai/ebiose) - Ebiose is a distributed, Darwin-style playground where AI architect agents design, test, and improve other agents.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
@@ -4450,6 +4452,7 @@
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
@@ -4556,7 +4559,6 @@
 - [unode/polypomo](https://github.com/unode/polypomo) - Pomodoro widget for use with polybar (or standalone if you are so inclined)
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [aws/aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) - Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, 
-- [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -4565,7 +4567,6 @@
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [ansible-collections/community.aws](https://github.com/ansible-collections/community.aws) - Ansible Collection for Community AWS
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [SimGus/Chatette](https://github.com/SimGus/Chatette) - A powerful dataset generator for Rasa NLU, inspired by Chatito
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
@@ -4622,7 +4623,6 @@
 - [weldr/lorax](https://github.com/weldr/lorax) - Tools for creating images, including the Anaconda boot.iso, live disk images, iso's, and filesystem images.
 - [osbuild/osbuild](https://github.com/osbuild/osbuild) - Build-Pipelines for Operating System Artifacts
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [poppyred/python-consul2](https://github.com/poppyred/python-consul2) - Python client for the Consul HTTP API ,Continue develop on  cablehead/python-consul
 - [securisec/chepy](https://github.com/securisec/chepy) - Chepy is a python lib/cli equivalent of the awesome CyberChef tool.
 - [paulc/pymodem](https://github.com/paulc/pymodem) - Simple Python interface to generic tty and (specifically) GSM modem devices. Includes general serial connection/chat, AT command, SMS (including GSM.03.38) support.
 - [babca/python-gsmmodem](https://github.com/babca/python-gsmmodem) - Maintained fork of a Python module to control GSM modems attached to the system: send/receive SMS messages in your scripts, handle calls, and more.
@@ -4651,7 +4651,6 @@
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
-- [linklayer/pyvit](https://github.com/linklayer/pyvit) - pyvit: Python Vehicle Interface Toolkit
 - [FullMetalUpdate/fullmetalupdate](https://github.com/FullMetalUpdate/fullmetalupdate) - FullMetalUpdate Python client application.
 - [bigdatacesga/service-discovery](https://github.com/bigdatacesga/service-discovery) - Python client for Consul Service Discovery API
 - [lyft/discovery](https://github.com/lyft/discovery) - This service provides a REST interface for querying for the list of hosts that belong to all microservices.
@@ -4660,7 +4659,6 @@
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [jicowan/group-operator](https://github.com/jicowan/group-operator) - An operator that modifies the aws-auth ConfigMap with the members of an IAM group
-- [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [bpython/bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
 - [pyeve/cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [snorkel-team/snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
@@ -4676,11 +4674,9 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-
 - [ansible/ansible-runner-service](https://github.com/ansible/ansible-runner-service) - 
-- [balabit/furnace](https://github.com/balabit/furnace) - A lightweight pure-python container implementation.
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [peterlevi/variety-slideshow](https://github.com/peterlevi/variety-slideshow) - A pan-and-zoom image slideshow in Python, using Clutter. Integrates nicely with Variety.
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
-- [ultrabug/py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
@@ -4692,8 +4688,6 @@
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [facebookincubator/ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
-- [gopythongo/aptly-api-client](https://github.com/gopythongo/aptly-api-client) - A Python 3 API client for aptly
-- [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 - [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
@@ -4722,7 +4716,6 @@
 - [user-cont/conu](https://github.com/user-cont/conu) - conu - python API for your containers
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
-- [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
 - [chaostoolkit-incubator/chaostoolkit-google-cloud](https://github.com/chaostoolkit-incubator/chaostoolkit-google-cloud) - [DEPRECATED] Chaos Extension for the Google Cloud Engine platform
 - [MakotoKurauchi/helix](https://github.com/MakotoKurauchi/helix) - A compact split ortholinear keyboard.
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
@@ -4741,7 +4734,6 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [pcuzner/ceph-check-role](https://github.com/pcuzner/ceph-check-role) - Custom ansible module to valid a potential host against different ceph roles
-- [pcuzner/ansible-runner-service](https://github.com/pcuzner/ansible-runner-service) - Python project that wraps the ansible_runner 'engine' inside a RESTful API
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [ottogroup/clash](https://github.com/ottogroup/clash) - Clash is a tool for running jobs on the Google Compute Engine  :rocket:
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
@@ -4759,13 +4751,11 @@
 - [juergh/dwarf](https://github.com/juergh/dwarf) - OpenStack API on top of libvirt/kvm
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [bincyber/pkictl](https://github.com/bincyber/pkictl) - Declaratively provision PKI with HashiCorp Vault
 - [openshift/openshift-ansible](https://github.com/openshift/openshift-ansible) - Install and config an OpenShift 3.x cluster
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [kennethreitz/responder](https://github.com/kennethreitz/responder) - A familiar HTTP Service Framework for Python.
 - [tranquilit/WAPT](https://github.com/tranquilit/WAPT) - WAPT is an established method for managing the lifecycle of an installed base of Windows applications. WAPT has many similarities with Debian's APT software manager, thus its name. WAPT is particularl
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [facebookarchive/python-nubia](https://github.com/facebookarchive/python-nubia) - A command-line and interactive shell framework.
 - [facebookincubator/Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
 - [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python modul
 - [ansible/ansible-runner-http](https://github.com/ansible/ansible-runner-http) - 
@@ -4842,7 +4832,6 @@
 - [influxdata/influxdb-relay](https://github.com/influxdata/influxdb-relay) - Service to replicate InfluxDB data for high availability
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [os/slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -4862,7 +4851,7 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [raelgc/scudcloud](https://github.com/raelgc/scudcloud) - ScudCloud - Slack for Linux
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [canonical-ols/conn-check](https://github.com/canonical-ols/conn-check) - git mirror of lp:conn-check, PRs welcome and will be merged into trunk
@@ -4875,7 +4864,6 @@
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [d2iq-archive/marathon-lb](https://github.com/d2iq-archive/marathon-lb) - Marathon-lb is a service discovery & load balancing tool for DC/OS
 - [quantopian/coal-mine](https://github.com/quantopian/coal-mine) - Coal Mine - Periodic task execution monitor
-- [pogman-code/addic7ed](https://github.com/pogman-code/addic7ed) - Addic7ed scraper written in Python to download subtitles (almost) automatically
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Legacy Galaxy still available as read-only on  https://old-galaxy.ansible.com - looking for the new galaxy -&gt; https://github.com/ansible/galaxy_ng
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
@@ -4883,7 +4871,6 @@
 - [iluxonchik/blackhat-python-book](https://github.com/iluxonchik/blackhat-python-book) - Code from Blackhat Python book
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [google/grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
-- [mozilla/MozDef](https://github.com/mozilla/MozDef) - DEPRECATED - MozDef: Mozilla Enterprise Defense Platform
 - [onotelli/justniffer](https://github.com/onotelli/justniffer) - Justniffer  Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate web server log files, track re
 - [openstack/watcher](https://github.com/openstack/watcher) - Resource optimization service for OpenStack. Mirror of code maintained at opendev.org.
 - [mozilla/cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
@@ -4921,7 +4908,6 @@
 - [Datera/targetcli](https://github.com/Datera/targetcli) - CLI and shell for the Linux SCSI Target
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [jobroche/CredCrack](https://github.com/jobroche/CredCrack) - A fast and stealthy credential harvester
-- [bookieio/Bookie](https://github.com/bookieio/Bookie) - Python based delicious.com replacement
 - [smartbgp/yabgp](https://github.com/smartbgp/yabgp) - :bowtie:Yet Another BGP Python Implementation
 - [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10
 - [RookLabs/milano](https://github.com/RookLabs/milano) - Hacking Team Malware Detection Utility
@@ -5064,6 +5050,8 @@
 
 ## Rust 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
@@ -5119,7 +5107,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [Arcadia-Solutions/arcadia](https://github.com/Arcadia-Solutions/arcadia) - Content-agnostic torrent site & tracker framework
 - [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance
-- [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
+- [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2.0 and PAM
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
@@ -5132,7 +5120,7 @@
 - [mozilla-services/autopush-rs](https://github.com/mozilla-services/autopush-rs) - Push Server in Rust
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavi
 - [numaproj/numaflow](https://github.com/numaproj/numaflow) - Kubernetes-native platform to run massively parallel data/streaming jobs
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -5533,7 +5521,6 @@
 - [rimusz/helm-tiller](https://github.com/rimusz/helm-tiller) - Helm v2 Tiller plugin aka Tillerless Helm
 - [jsumners/gh-action-hugo-deploy](https://github.com/jsumners/gh-action-hugo-deploy) - An action to deploy Hugo based sites to GitHub organization repos
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [gusbemacbe/suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
@@ -5832,7 +5819,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
