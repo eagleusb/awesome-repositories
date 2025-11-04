@@ -882,6 +882,7 @@
 
 ## Go 
 
+- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A Streaming, Replicated, Reactive Multi-Modal Database for the Edge. (WIP)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms
 - [temporalio/temporal-worker-controller](https://github.com/temporalio/temporal-worker-controller) - 
 - [dhth/mult](https://github.com/dhth/mult) - Run a command multiple times and glance at the outputs via a TUI
@@ -1673,7 +1674,7 @@
 - [Labbs/github-actions-exporter](https://github.com/Labbs/github-actions-exporter) - github-actions-exporter for prometheus
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [bergerx/kubectl-status](https://github.com/bergerx/kubectl-status) - A kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
-- [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Redis data processing and migration tool.
+- [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Valkey/Redis data processing and migration tool.
 - [guessi/kubectl-grep](https://github.com/guessi/kubectl-grep) - Filter Kubernetes resources by matching their names
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
@@ -4226,6 +4227,8 @@
 
 ## Python 
 
+- [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
+- [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [timescale/tiger-slack](https://github.com/timescale/tiger-slack) - Real-time Slack ingest and MCP server to power your agentic Slack bots
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
@@ -5089,6 +5092,7 @@
 
 ## Rust 
 
+- [n0-computer/sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 - [tensorchord/VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
@@ -5887,8 +5891,8 @@
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [configu/configu](https://github.com/configu/configu) - Open-source ConfigOps infrastructure ⚙️
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
