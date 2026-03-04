@@ -1,0 +1,14 @@
+## PLpgSQL (13 repositories) 
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3015 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [pg_background](https://github.com/vibhorkum/pg_background) (230 stars) - pg_background
+- [pg_partman](https://github.com/pgpartman/pg_partman) (2616 stars) - Partition management extension for PostgreSQL
+- [pg_qualstats](https://github.com/powa-team/pg_qualstats) (329 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
+- [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (414 stars) - Simple and focused time-series tables for PostgreSQL
+- [pgai](https://github.com/timescale/pgai) (5763 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+- [pgmanage](https://github.com/commandprompt/pgmanage) (987 stars) - Web tool for database management
+- [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (92 stars) - Unknown
+- [pgmq](https://github.com/pgmq/pgmq) (4591 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgsql-openai](https://github.com/pramsey/pgsql-openai) (53 stars) - Helper functions for working with the OpenAI API
+- [postgis](https://github.com/postgis/postgis) (2044 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
+- [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (256 stars) - SQLite Foreign Data Wrapper for PostgreSQL
+- [zombodb](https://github.com/zombodb/zombodb) (4738 stars) - Making Postgres and Elasticsearch work together like it's 2023

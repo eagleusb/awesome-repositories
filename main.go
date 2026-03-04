@@ -25,8 +25,7 @@ func main() {
 		return
 	}
 
-	fmt.Printf("Connecting to gh as: %s\n", *username)
-
+	fmt.Printf("Connecting to github as %s\n", *username)
 	githubClient, err := github.NewGitHubClient()
 	if err != nil {
 		fmt.Printf("Error creating gh client: %v\n", err)
@@ -38,8 +37,9 @@ func main() {
 		fmt.Printf("Error fetching starred repositories with %v\n", err)
 	}
 
-	repos.ClassifyRepos()
-	for language, repo := range githubClient.Repos.ByLanguage {
-		fmt.Printf("%s: %d\n", language, len(repo))
+	err = repos.ClassifyRepos().WriteRepos()
+	if err != nil {
+		fmt.Printf("Error writing repositories: %v\n", err)
+		return
 	}
 }

@@ -1,0 +1,13 @@
+## Svelte (12 repositories) 
+- [agx](https://github.com/agnosticeng/agx) (248 stars) - AI Powered Analytics
+- [bananas](https://github.com/mistweaverco/bananas) (6122 stars) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
+- [cobalt](https://github.com/imputnet/cobalt) (38988 stars) - best way to save what you love
+- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1028 stars) - Admin Web Interface for juanfont/headscale
+- [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2531 stars) - A web frontend for the headscale Tailscale-compatible coordination server
+- [mathesar](https://github.com/mathesar-foundation/mathesar) (4865 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.
+- [nah.pet](https://github.com/anhostfr/nah.pet) (150 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
+- [networking-toolbox](https://github.com/Lissy93/networking-toolbox) (2355 stars) - 🛜 100+ offline-first networking tools and utilities
+- [photon](https://github.com/Xyphyn/photon) (511 stars) - A faster, prettier, and nicer fediverse client
+- [tidal-ui](https://github.com/binimum/tidal-ui) (1157 stars) - Simple Tidal frontend. Also on tidal.qqdl.site
+- [UpSnap](https://github.com/seriousm4x/UpSnap) (5193 stars) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+- [VERT](https://github.com/VERT-sh/VERT) (14145 stars) - The next-generation file converter. Open source, fully local* and free forever.

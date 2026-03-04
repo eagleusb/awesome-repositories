@@ -1,0 +1,11 @@
+## Jinja (10 repositories) 
+- [ansible-apt](https://github.com/weareinteractive/ansible-apt) (31 stars) - Ansible role that configures apt & installs/updates packages.
+- [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) (5240 stars) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [ansible-consul](https://github.com/ansible-collections/ansible-consul) (474 stars) - :satellite: Ansible role for Hashicorp Consul clusters
+- [ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) (35 stars) - Ansible role - Fluentd (td-agent)
+- [ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx) (654 stars) - Ansible role to install and manage nginx configuration
+- [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) (271 stars) - [DEPRECATED] Setup unattended-upgrades on Debian-based systems
+- [build](https://github.com/nodejs/build) (531 stars) - Better build and test infra for Node.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) (18311 stars) - Deploy a Production Ready Kubernetes Cluster
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (11446 stars) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) (74 stars) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
