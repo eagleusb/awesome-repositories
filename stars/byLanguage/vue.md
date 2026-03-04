@@ -1,0 +1,16 @@
+## Vue (15 repositories) 
+- [automa](https://github.com/AutomaApp/automa) (21091 stars) - A browser extension for automating your browser by connecting blocks
+- [drop](https://github.com/Drop-OSS/drop) (605 stars) - Drop is an open-source game distribution platform.
+- [ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) (1024 stars) - A web-based GUI for quickly generating common FFmpeg command-line operations.
+- [forum](https://github.com/sebbkw/forum) (254 stars) - Forum software created using Express, Vue, and Sequelize
+- [gitstalk](https://github.com/thelittlewonder/gitstalk) (685 stars) - Discover who's upto what on Github
+- [goldfish](https://github.com/Caiyeon/goldfish) (2132 stars) - A HashiCorp Vault UI written with VueJS and Vault native Go API
+- [nuxt-shadcn-prisma-auth](https://github.com/drobertson-dev/nuxt-shadcn-prisma-auth) (2 stars) - A production-ready Nuxt 4 starter template with authentication, database, and modern UI — designed for both human developers and AI coding agents.
+- [Piped](https://github.com/TeamPiped/Piped) (9805 stars) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [rbac-view](https://github.com/jasonrichardsmith/rbac-view) (160 stars) - Visualize Kubernetes RBAC rules
+- [Sink](https://github.com/miantiao-me/Sink) (6386 stars) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [statping](https://github.com/statping/statping) (7283 stars) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) (12572 stars) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+- [victor-mono](https://github.com/rubjo/victor-mono) (3705 stars) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) (90288 stars) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+- [xray](https://github.com/chaitin/xray) (11447 stars) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档

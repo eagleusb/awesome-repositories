@@ -1,0 +1,12 @@
+## Zig (11 repositories) 
+- [browser](https://github.com/lightpanda-io/browser) (11966 stars) - Lightpanda: the headless browser designed for AI and automation
+- [bun](https://github.com/oven-sh/bun) (87857 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [cyber](https://github.com/fubark/cyber) (1417 stars) - Fast and concurrent scripting.
+- [ghostty](https://github.com/ghostty-org/ghostty) (45404 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [hys](https://github.com/superstarryeyes/hys) (253 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
+- [ly](https://github.com/fairyglade/ly) (7067 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [zig](https://github.com/ziglang/zig) (42827 stars) - Moved to Codeberg
+- [zml](https://github.com/zml/zml) (3214 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+- [zmx](https://github.com/neurosnap/zmx) (925 stars) - Session persistence for terminal processes
+- [zpdf](https://github.com/Lulzx/zpdf) (876 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
+- [zs3](https://github.com/Lulzx/zs3) (164 stars) - S3-compatible storage in Zig. Zero dependencies.
