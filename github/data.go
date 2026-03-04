@@ -57,42 +57,32 @@ func (c *GitHubClient) GetStarredRepos(username string, limit, page int) (*GitHu
 
 func (c *GitHubClient) ClassifyRepos() {
 	for _, r := range c.StarredRepos {
-		func() {
-			var language string
-			var name string
-			var description string
-			var category []string
+		if r == nil {
+			fmt.Printf("Skipping nil repository\n")
+			continue
+		}
 
-			name = r.GetName()
+		name := r.GetName()
+		language := r.GetLanguage()
+		description := r.GetDescription()
+		category := r.Topics
 
-			defer func() {
-				if rec := recover(); rec != nil {
-					fmt.Printf("Panic recovered for repo '%s': %v\n", name, rec)
-				}
-			}()
+		if language == "" {
+			language = "Unknown"
+		}
+		if description == "" {
+			description = "Unknown"
+		}
+		if len(category) == 0 {
+			category = []string{"Unknown"}
+		}
 
-			language = r.GetLanguage()
-			description = r.GetDescription()
-
-			if language == "" {
-				language = "Unknown"
-			}
-			if description == "" {
-				description = "Unknown"
-			}
-			if len(r.Topics) == 0 {
-				category = []string{"Unknown"}
-			} else {
-				category = r.Topics
-			}
-
-			repo := &githubRepo{
-				Name:        name,
-				Description: description,
-				Language:    language,
-				Category:    category,
-			}
-			c.Repos.ByLanguage[language] = append(c.Repos.ByLanguage[language], repo)
-		}()
+		repo := &githubRepo{
+			Name:        name,
+			Description: description,
+			Language:    language,
+			Category:    category,
+		}
+		c.Repos.ByLanguage[language] = append(c.Repos.ByLanguage[language], repo)
 	}
 }
