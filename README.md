@@ -1339,7 +1339,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 - [teilomillet/gollm](https://github.com/teilomillet/gollm) - Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [SigNoz/zap_otlp](https://github.com/SigNoz/zap_otlp) - Zap Logger with OpenTelemetry support
 - [valyentdev/ravel](https://github.com/valyentdev/ravel) - An open-source containers-as-microVMs orchestrator.
 - [cozystack/talm](https://github.com/cozystack/talm) - Manage Talos Linux the GitOps Way!
@@ -1698,7 +1698,7 @@
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
 - [bart6114/cheek](https://github.com/bart6114/cheek) - cheek: a pico-sized declarative job scheduler
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - DAG orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [ferryproxy/ferry](https://github.com/ferryproxy/ferry) - Ferry is a Kubernetes multi-cluster communication component that eliminates communication differences between clusters as if they were in a single cluster, regardless of the network environment those 
@@ -2132,6 +2132,7 @@
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 - [mole-ids/mole](https://github.com/mole-ids/mole) - Yara powered  NIDS with high speed packet capture powered by PF_RING
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [kinvolk/traceloop](https://github.com/kinvolk/traceloop) - Now moved into `github.com/inspektor-gadget/inspektor-gadget/pkg/gadget-collection/gadgets/traceloop`. Tracing system calls in cgroups using BPF and overwritable ring buffers
 - [pinmonl/pinmonl](https://github.com/pinmonl/pinmonl) - Bookmark manager with hierarchical tags
@@ -3146,7 +3147,6 @@
 
 ## HTML 
 
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [jxnl/systematically-improving-rag](https://github.com/jxnl/systematically-improving-rag) - 
 - [simonw/llm-prices](https://github.com/simonw/llm-prices) - Prices of various LLMs
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
@@ -3473,7 +3473,6 @@
 - [sidorares/node-i3](https://github.com/sidorares/node-i3) - i3-ipc node.js client
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [postaljs/postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [skale-me/skale](https://github.com/skale-me/skale) - High performance distributed data processing engine
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -3856,6 +3855,7 @@
 
 ## Kotlin 
 
+- [vitorpamplona/amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
@@ -4347,6 +4347,7 @@
 
 ## PLpgSQL 
 
+- [pgEdge/pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) - 
 - [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background) - pg_background
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 - [pgspider/sqlite_fdw](https://github.com/pgspider/sqlite_fdw) - SQLite Foreign Data Wrapper for PostgreSQL
@@ -4406,7 +4407,7 @@
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
 - [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) - 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [aspectrr/fluid.sh](https://github.com/aspectrr/fluid.sh) - Claude Code for Debugging VMs
+- [aspectrr/fluid.sh](https://github.com/aspectrr/fluid.sh) - Claude Code for Working on Linux Servers
 - [noetic-sys/corpus](https://github.com/noetic-sys/corpus) - 
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [huggingface/skills](https://github.com/huggingface/skills) - 
@@ -4443,7 +4444,7 @@
 - [allenai/bolmo-core](https://github.com/allenai/bolmo-core) - Code for Bolmo: Byteifying the Next Generation of Language Models
 - [cuga-project/cuga-agent](https://github.com/cuga-project/cuga-agent) - CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware feat
 - [iconben/z-image-studio](https://github.com/iconben/z-image-studio) - A Cli, a webUI, and a MCP server for the Z-Image-Turbo text-to-image generation model (Tongyi-MAI/Z-Image-Turbo base model as well as quantized models)
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [iainonline/Tiny-Llamma-Chatbot-Implementation](https://github.com/iainonline/Tiny-Llamma-Chatbot-Implementation) - Tiny Local LLM Chatbot Implementation
 - [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - The most accurate document search and store for building AI apps
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
@@ -5267,6 +5268,7 @@
 
 ## Ruby 
 
+- [eurosky-social/eu-haul](https://github.com/eurosky-social/eu-haul) - ATProto account migration tool with a simple web interface. Built with Rails 7. Includes progress tracking, encrypted credentials, and background job processing via Sidekiq.
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
@@ -5361,6 +5363,7 @@
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [dollspace-gay/chainlink](https://github.com/dollspace-gay/chainlink) - A CLI issue tracker for AI Agents
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
@@ -5443,7 +5446,7 @@
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [aws/network-flow-monitor-agent](https://github.com/aws/network-flow-monitor-agent) - Amazon CloudWatch Network Monitoring - Network Flow Monitor agent repository
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [pubky/pkdns](https://github.com/pubky/pkdns) - DNS server resolving pkarr self-sovereign domains
 - [pubky/pkarr](https://github.com/pubky/pkarr) - Public Key Addressable Resource Records (sovereign TLDs)
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
@@ -5563,7 +5566,7 @@
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) - Combine internet connections, increase your download speed
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
-- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
+- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -5852,7 +5855,6 @@
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) - Helm chart to install Vault and other associated components.
 - [oogali/ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
-- [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [armbian/build](https://github.com/armbian/build) - The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configur
@@ -5999,6 +6001,7 @@
 
 ## TypeScript 
 
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
 - [reproducible-containers/buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance) - Save `RUN --mount=type=cache` caches on GitHub Actions ( Forked from https://github.com/overmindtech/buildkit-cache-dance )
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -6348,6 +6351,7 @@
 - [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor) - Balena Supervisor: balena's agent on devices.
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [postaljs/postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - ts ex machina - finite state machines in TypeScript
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
