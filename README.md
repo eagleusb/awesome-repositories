@@ -941,7 +941,7 @@
 - [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) - Grab your DNS logs, detect anomalies, and finally understand what's happening on your network. The missing piece between DNS servers and your data stack.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [Use-Tusk/fence](https://github.com/Use-Tusk/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
-- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe ⚡️🔐
+- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe.
 - [Owloops/tfjournal](https://github.com/Owloops/tfjournal) - Record Terraform runs with git context, timing, and resource events
 - [volcano-sh/kthena](https://github.com/volcano-sh/kthena) - Kubernetes-native AI serving platform for scalable model serving.
 - [aperturerobotics/bifrost](https://github.com/aperturerobotics/bifrost) - Modular networking for Go with pluggable transports, RPC, WebRTC, WebAssembly support.
@@ -3818,7 +3818,7 @@
 - [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.
 - [adrida/tarmac](https://github.com/adrida/tarmac) - Explainable git diff for your ML models
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks on Google Colab and Kaggle.
+- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [huggingface/optimum-intel](https://github.com/huggingface/optimum-intel) - 🤗 Optimum Intel: Accelerate inference with Intel optimization tools
@@ -4354,7 +4354,7 @@
 ## PLpgSQL 
 
 - [pgEdge/pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) - 
-- [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background) - pg_background
+- [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reportin
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 - [pgspider/sqlite_fdw](https://github.com/pgspider/sqlite_fdw) - SQLite Foreign Data Wrapper for PostgreSQL
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
@@ -4407,6 +4407,7 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [keras-team/keras-rs](https://github.com/keras-team/keras-rs) - Multi-backend recommender systems with Keras 3
 - [roostorg/osprey](https://github.com/roostorg/osprey) - Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale.
@@ -4601,7 +4602,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [Topdu/OpenOCR](https://github.com/Topdu/OpenOCR) - OpenOCR: An Open-Source Toolkit for General-OCR Research and Applications, integrates a unified training and evaluation benchmark, commercial-grade OCR and Document Parsing systems, and faithful repro
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [thunderbird/pulumi](https://github.com/thunderbird/pulumi) - Common Pulumi elements for use in Thunderbird infrastructure development
 - [koreo-dev/koreo-core](https://github.com/koreo-dev/koreo-core) - Koreo orchestrates complex, multi-step processes that react to events and manage the lifecycle of Kubernetes resources
@@ -4621,6 +4622,7 @@
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub and (a bit of) ATProto.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
+- [aarron-lee/SimpleDeckyTDP](https://github.com/aarron-lee/SimpleDeckyTDP) - Decky TDP plugin for PC handhelds + Linux
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [sachin-sankar/swiftshadow](https://github.com/sachin-sankar/swiftshadow) - Free IP Proxy rotator library for python
@@ -4843,7 +4845,7 @@
 - [mahmoud/apatite](https://github.com/mahmoud/apatite) - Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [TheYkk/synator](https://github.com/TheYkk/synator) - Synator Kubernetes Secret and ConfigMap synchronizer
-- [casbin/pycasbin](https://github.com/casbin/pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
+- [apache/casbin-pycasbin](https://github.com/apache/casbin-pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [confluence/python-textbok](https://github.com/confluence/python-textbok) - 
 - [falcosecurity-retire/falco-security-workshop](https://github.com/falcosecurity-retire/falco-security-workshop) - Container Security Workshop covering using Falco on Kubernetes.
@@ -6151,7 +6153,6 @@
 - [VictoriaMetrics/victorialogs-datasource](https://github.com/VictoriaMetrics/victorialogs-datasource) - Grafana datasource for VictoriaLogs
 - [grafana/grafana-llm-app](https://github.com/grafana/grafana-llm-app) - Plugin to easily allow LLM based extensions to grafana
 - [dash0hq/otelbin](https://github.com/dash0hq/otelbin) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
-- [aarron-lee/SimpleDeckyTDP](https://github.com/aarron-lee/SimpleDeckyTDP) - Decky TDP plugin for PC handhelds + Linux
 - [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher) - Company Researcher tool helps you instantly understand any company inside out.
 - [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) - A simple open-source chat app that uses Exa's API for web search and Deepseek R1 for reasoning
 - [agama-project/agama](https://github.com/agama-project/agama) - A service-based Linux installer
@@ -6388,7 +6389,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
-- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue 3), and
+- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder library that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
