@@ -2,7 +2,7 @@
 - [airsonic](https://github.com/airsonic/airsonic) (2042 stars) -  :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [allure2](https://github.com/allure-framework/allure2) (5315 stars) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 - [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) (2520 stars) - Android backup extractor
-- [bazel](https://github.com/bazelbuild/bazel) (25242 stars) - a fast, scalable, multi-language and extensible build system
+- [bazel](https://github.com/bazelbuild/bazel) (25241 stars) - a fast, scalable, multi-language and extensible build system
 - [blox](https://github.com/blox/blox) (938 stars) - Open source tools for building custom schedulers on Amazon ECS
 - [briar](https://github.com/briar/briar) (598 stars) - Mirror of https://code.briarproject.org/briar/briar
 - [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) (1768 stars) - Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
@@ -30,7 +30,7 @@
 - [enso](https://github.com/enso-org/enso) (7437 stars) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [eureka](https://github.com/Netflix/eureka) (12694 stars) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [GCViewer](https://github.com/chewiebug/GCViewer) (4633 stars) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (65967 stars) - Ghidra is a software reverse engineering (SRE) framework
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (65968 stars) - Ghidra is a software reverse engineering (SRE) framework
 - [gocd](https://github.com/gocd/gocd) (7382 stars) - GoCD - Continuous Delivery server main repository
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) (7988 stars) - Free and open log management
 - [haven](https://github.com/guardianproject/haven) (6796 stars) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
@@ -64,7 +64,7 @@
 - [opensearchserver](https://github.com/jaeksoft/opensearchserver) (513 stars) - Open-source Enterprise Grade Search Engine Software
 - [orientdb](https://github.com/orientechnologies/orientdb) (4940 stars) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.
 - [pacbot](https://github.com/tmobile/pacbot) (1306 stars) - PacBot (Policy as Code Bot)
-- [pkl](https://github.com/apple/pkl) (11100 stars) - A configuration as code language with rich validation and tooling.
+- [pkl](https://github.com/apple/pkl) (11099 stars) - A configuration as code language with rich validation and tooling.
 - [presto](https://github.com/prestodb/presto) (16665 stars) - The official home of the Presto distributed SQL query engine for big data
 - [raspicast](https://github.com/HaarigerHarald/raspicast) (51 stars) - Raspicast android app
 - [riot](https://github.com/redis/riot) (331 stars) - ⚠️ UNMAINTAINED - See RIOT-X for the actively maintained version

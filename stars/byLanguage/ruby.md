@@ -70,7 +70,7 @@
 - [solidus](https://github.com/solidusio/solidus) (5273 stars) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
 - [spree](https://github.com/spree/spree) (15280 stars) - Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively — from B2B wholesale to multi-vendor marketplace to global multi-region or multi-tenant distributor platforms. Use each model independently or combine them as your business evolves.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) (788 stars) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
-- [sure](https://github.com/we-promise/sure) (7425 stars) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [sure](https://github.com/we-promise/sure) (7424 stars) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [synapse](https://github.com/airbnb/synapse) (2064 stars) - A transparent service discovery framework for connecting an SOA
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) (1627 stars) - Improve Terraform's plan output to be easier to read and understand
 - [terraforming](https://github.com/dtan4/terraforming) (4262 stars) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained

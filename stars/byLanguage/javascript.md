@@ -35,7 +35,7 @@
 - [backpack](https://github.com/jaredpalmer/backpack) (4412 stars) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [balena-cam](https://github.com/balena-labs-projects/balena-cam) (181 stars) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [beaker](https://github.com/beakerbrowser/beaker) (6752 stars) - An experimental peer-to-peer Web browser
-- [bentopdf](https://github.com/alam00000/bentopdf) (12200 stars) - A Privacy First PDF Toolkit
+- [bentopdf](https://github.com/alam00000/bentopdf) (12201 stars) - A Privacy First PDF Toolkit
 - [blast-radius](https://github.com/28mm/blast-radius) (2183 stars) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [bleno](https://github.com/noble/bleno) (2142 stars) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
 - [blessed](https://github.com/chjj/blessed) (11788 stars) - A high-level terminal interface library for node.js.
@@ -67,8 +67,8 @@
 - [cliparse-node](https://github.com/CleverCloud/cliparse-node) (84 stars) - Declarative CLI parsing for node
 - [cloudboost](https://github.com/CloudBoost/cloudboost) (1450 stars) - Realtime JavaScript Backend. 
 - [cloudmapper](https://github.com/duo-labs/cloudmapper) (6273 stars) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [cockpit](https://github.com/cockpit-project/cockpit) (13707 stars) - Cockpit is a web-based graphical interface for servers.
 - [cockpit](https://github.com/agentejo/cockpit) (5403 stars) - Add content management functionality to any site - plug & play / headless / api-first CMS
+- [cockpit](https://github.com/cockpit-project/cockpit) (13707 stars) - Cockpit is a web-based graphical interface for servers.
 - [codemirror5](https://github.com/codemirror/codemirror5) (27237 stars) - In-browser code editor (version 5, legacy)
 - [commit-mono](https://github.com/eigilnikolajsen/commit-mono) (1976 stars) - Commit Mono is an anonymous and neutral programming typeface.
 - [community-edition](https://github.com/ramboxapp/community-edition) (6385 stars) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -108,7 +108,7 @@
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) (13346 stars) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
 - [eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) (2335 stars) - ESLint rules for Node Security
 - [ets2-local-radio](https://github.com/Koenvh1/ets2-local-radio) (280 stars) - Radio from wherever you are in ETS2/ATS
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) (90617 stars) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) (90641 stars) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [execa](https://github.com/sindresorhus/execa) (7466 stars) - Process execution for humans
 - [exocortex](https://github.com/SpencerCDixon/exocortex) (236 stars) - Open source, language independent, modern personal wiki
 - [exui](https://github.com/turboderp-org/exui) (510 stars) - Web UI for ExLlamaV2
@@ -167,10 +167,10 @@
 - [import-http](https://github.com/egoist/import-http) (1237 stars) - Import modules from URL instead of local node_modules
 - [iodide](https://github.com/iodide-project/iodide) (1500 stars) - Literate scientific computing and communication for the web
 - [Iosevka](https://github.com/be5invis/Iosevka) (21889 stars) - Versatile typeface for code, from code.
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) (8120 stars) - A pure JavaScript implementation of git for node and browsers!
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) (8119 stars) - A pure JavaScript implementation of git for node and browsers!
 - [james](https://github.com/james-proxy/james) (1438 stars) - Web Debugging Proxy Application
 - [jasmine](https://github.com/jasmine/jasmine) (15844 stars) - Simple JavaScript testing framework for browsers and node.js
-- [javascript](https://github.com/airbnb/javascript) (148121 stars) - JavaScript Style Guide
+- [javascript](https://github.com/airbnb/javascript) (148122 stars) - JavaScript Style Guide
 - [JavaScript](https://github.com/TheAlgorithms/JavaScript) (34090 stars) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) (195772 stars) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Jellystat](https://github.com/CyferShepard/Jellystat) (2189 stars) - Jellystat is a free and open source Statistics App for Jellyfin
@@ -326,7 +326,7 @@
 - [random-useragent](https://github.com/skratchdot/random-useragent) (259 stars) - Get a random user agent (with an optional filter to select from a specific set of user agents).
 - [rapid.js](https://github.com/rapidjs/rapid.js) (704 stars) - An ORM-like Interface and a Router For Your API Requests
 - [rapidfireai](https://github.com/RapidFireAI/rapidfireai) (142 stars) - RapidFire AI: Rapid AI Customization from RAG to Fine-Tuning
-- [react](https://github.com/facebook/react) (244092 stars) - The library for web and native user interfaces.
+- [react](https://github.com/facebook/react) (244091 stars) - The library for web and native user interfaces.
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) (13607 stars) - A free book that talks about design patterns/techniques used while developing with React.
 - [reaction](https://github.com/reactioncommerce/reaction) (12423 stars) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 
 - [relax](https://github.com/relax/relax) (8117 stars) - New generation CMS on top of React, Redux and GraphQL
@@ -343,8 +343,8 @@
 - [secretin-app](https://github.com/secretin/secretin-app) (32 stars) - Open source secret manager with sharing capability
 - [semantic-release](https://github.com/semantic-release/semantic-release) (23451 stars) - :package::rocket: Fully automated version management and package publishing
 - [send](https://github.com/timvisee/send) (5691 stars) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-- [server](https://github.com/franciscop/server) (3558 stars) - :desktop_computer: Simple and powerful server for Node.js
 - [server](https://github.com/localtunnel/server) (3308 stars) - server for localtunnel.me
+- [server](https://github.com/franciscop/server) (3558 stars) - :desktop_computer: Simple and powerful server for Node.js
 - [serverless](https://github.com/serverless/serverless) (46946 stars) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [serverless-dns](https://github.com/serverless-dns/serverless-dns) (3423 stars) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [serviceradar](https://github.com/carverauto/serviceradar) (844 stars) - Zero-trust Opensource Network Management and Observability Platform
@@ -409,8 +409,8 @@
 - [unirest-nodejs](https://github.com/Kong/unirest-nodejs) (957 stars) - Unirest in Node.js: Simplified, lightweight HTTP client library.
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) (84293 stars) - A fancy self-hosted monitoring tool
 - [UptimeKit-CLI](https://github.com/abhixdd/UptimeKit-CLI) (268 stars) - A modern, cross‑platform CLI to monitor websites and APIs. 
-- [user.js](https://github.com/arkenfox/user.js) (12308 stars) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [user.js](https://github.com/pyllyukko/user.js) (2871 stars) - user.js -- Firefox configuration hardening
+- [user.js](https://github.com/arkenfox/user.js) (12308 stars) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [v8n](https://github.com/imbrn/v8n) (4149 stars) - ☑️ JavaScript fluent validation library
 - [validate.js](https://github.com/ansman/validate.js) (2610 stars) - A declarative validation library written javascript
 - [validator.js](https://github.com/validatorjs/validator.js) (23763 stars) - String validation

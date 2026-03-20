@@ -1,6 +1,6 @@
 ## HTML (68 repositories) 
 - [agenda](https://github.com/agenda/agenda) (9646 stars) - Lightweight job scheduling for Node.js
-- [alpine](https://github.com/alpinejs/alpine) (31346 stars) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
+- [alpine](https://github.com/alpinejs/alpine) (31347 stars) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
 - [awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) (1230 stars) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) (25426 stars) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) (1070 stars) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.

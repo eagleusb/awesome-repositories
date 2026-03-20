@@ -211,9 +211,15 @@ func (c *GitHubClient) WriteIndex() error {
 		return strings.Compare(strings.ToLower(a), strings.ToLower(b))
 	})
 
+	totalRepos := 0
+	for _, language := range sortedLanguages {
+		totalRepos += len(c.Repos.ByLanguage[language])
+	}
+
 	for _, language := range sortedLanguages {
 		repos := c.Repos.ByLanguage[language]
-		_, err = fmt.Fprintf(writer, "- [%s](stars/byLanguage/%s.md) (%d repositories)\n", language, u.SanitizeLanguage(language), len(repos))
+		percentage := float64(len(repos)) / float64(totalRepos) * 100
+		_, err = fmt.Fprintf(writer, "- [%s](stars/byLanguage/%s.md) (%d repositories, %.2f%%)\n", language, u.SanitizeLanguage(language), len(repos), percentage)
 		if err != nil {
 			return fmt.Errorf("failed to write language %s to %s: %w", language, filename, err)
 		}

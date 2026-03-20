@@ -4,6 +4,6 @@
 - [logseq](https://github.com/logseq/logseq) (41645 stars) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
 - [metabase](https://github.com/metabase/metabase) (46484 stars) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [metabase-clickhouse-driver](https://github.com/ClickHouse/metabase-clickhouse-driver) (511 stars) - ClickHouse database driver for the Metabase business intelligence front-end
-- [penpot](https://github.com/penpot/penpot) (44944 stars) - Penpot: The open-source design tool for design and code collaboration
+- [penpot](https://github.com/penpot/penpot) (44943 stars) - Penpot: The open-source design tool for design and code collaboration
 - [riemann](https://github.com/riemann/riemann) (4262 stars) - A network event stream processing system, in Clojure.
 - [samplerr](https://github.com/ccin2p3/samplerr) (15 stars) - Round robin timeseries middleware based on riemann and elasticsearch

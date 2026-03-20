@@ -5,7 +5,7 @@
 - [audiocraft](https://github.com/facebookresearch/audiocraft) (23102 stars) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [burst](https://github.com/burstable-ai/burst) (134 stars) - Command-line tool to remotely execute code in the cloud
 - [calculette-impots-m-language-parser](https://github.com/etalab/calculette-impots-m-language-parser) (15 stars) - Calculette de l'impôt sur le revenu parsée
-- [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) (35488 stars) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) (35489 stars) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [community](https://github.com/kubernetes/community) (12789 stars) - Kubernetes community content
 - [cookbook](https://github.com/google-gemini/cookbook) (16789 stars) - Examples and guides for using the Gemini API
 - [course-nlp](https://github.com/fastai/course-nlp) (3478 stars) - A Code-First Introduction to NLP course
@@ -27,7 +27,7 @@
 - [mistral-inference](https://github.com/mistralai/mistral-inference) (10726 stars) - Official inference library for Mistral models
 - [ml-retreat](https://github.com/hesamsheikh/ml-retreat) (2294 stars) - Machine Learning Journal for Intermediate to Advanced Topics. 
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) (14875 stars) - Natural Language Processing Tutorial for Deep Learning Researchers
-- [notebooks](https://github.com/unslothai/notebooks) (4933 stars) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
+- [notebooks](https://github.com/unslothai/notebooks) (4934 stars) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
 - [notes](https://github.com/CME211/notes) (258 stars) - CME211 Notes
 - [OLMoE](https://github.com/allenai/OLMoE) (990 stars) - OLMoE: Open Mixture-of-Experts Language Models
 - [optimum-intel](https://github.com/huggingface/optimum-intel) (551 stars) - 🤗 Optimum Intel: Accelerate inference with Intel optimization tools

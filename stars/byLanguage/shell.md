@@ -23,7 +23,7 @@
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) (5275 stars) - A short tutorial about building Linux based operating systems.
 - [buildtagpush](https://github.com/matti/buildtagpush) (6 stars) - Unknown
 - [chimeraos](https://github.com/ChimeraOS/chimeraos) (1966 stars) - A Steam Big Picture based couch gaming OS
-- [claude-code](https://github.com/anthropics/claude-code) (80564 stars) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [claude-code](https://github.com/anthropics/claude-code) (80566 stars) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) (2563 stars) - Claude Desktop for Debian-based Linux distributions
 - [Clear-NDR-ISO](https://github.com/StamusNetworks/Clear-NDR-ISO) (1589 stars) - A Suricata based NDR distribution
 - [cnab-spec](https://github.com/cnabio/cnab-spec) (970 stars) - Cloud Native Application Bundle Specification
@@ -130,7 +130,7 @@
 - [squashible](https://github.com/antonym/squashible) (21 stars) - Cross-Platform Linux Live Image Builder
 - [steam-runtime](https://github.com/ValveSoftware/steam-runtime) (1382 stars) - A runtime environment for Steam applications
 - [super-linter](https://github.com/super-linter/super-linter) (10366 stars) - Combination of multiple linters to run as a GitHub Action or standalone
-- [superpowers](https://github.com/obra/superpowers) (101442 stars) - An agentic skills framework & software development methodology that works.
+- [superpowers](https://github.com/obra/superpowers) (101455 stars) - An agentic skills framework & software development methodology that works.
 - [suru-plus](https://github.com/gusbemacbe/suru-plus) (390 stars) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [sysbox](https://github.com/nestybox/sysbox) (3523 stars) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [TALA](https://github.com/terrastruct/TALA) (279 stars) - A diagram layout engine designed specifically for software architecture diagrams

@@ -4,7 +4,7 @@
 - [klfc](https://github.com/39aldo39/klfc) (235 stars) - Keyboard Layout Files Creator
 - [linux_notification_center](https://github.com/phuhl/linux_notification_center) (1049 stars) - A notification daemon/center for linux
 - [postgrest](https://github.com/PostgREST/postgrest) (26678 stars) - REST API for any Postgres database
-- [purescript](https://github.com/purescript/purescript) (8840 stars) - A strongly-typed language that compiles to JavaScript
+- [purescript](https://github.com/purescript/purescript) (8839 stars) - A strongly-typed language that compiles to JavaScript
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) (912 stars) - A peer-to-peer stack for code collaboration
 - [shellcheck](https://github.com/koalaman/shellcheck) (39146 stars) - ShellCheck, a static analysis tool for shell scripts
 - [simplex-chat](https://github.com/simplex-chat/simplex-chat) (10718 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!

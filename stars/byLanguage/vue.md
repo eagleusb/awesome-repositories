@@ -10,7 +10,7 @@
 - [rbac-view](https://github.com/jasonrichardsmith/rbac-view) (160 stars) - Visualize Kubernetes RBAC rules
 - [Sink](https://github.com/miantiao-me/Sink) (6455 stars) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [statping](https://github.com/statping/statping) (7280 stars) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) (12634 stars) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) (12635 stars) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [victor-mono](https://github.com/rubjo/victor-mono) (3727 stars) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) (90297 stars) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [xray](https://github.com/chaitin/xray) (11471 stars) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
