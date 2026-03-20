@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"context"
 	"fmt"
+	"maps"
 	"os"
 	"path/filepath"
 	"slices"
@@ -100,6 +101,41 @@ func (c *GitHubClient) ClassifyRepos() *GitHubClient {
 	return c
 }
 
+func (c *GitHubClient) WriteIndex() error {
+	filename := "README.md"
+	file, err := os.Create(filename)
+	if err != nil {
+		return fmt.Errorf("failed to create file %s: %w", filename, err)
+	}
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+
+	_, err = fmt.Fprintf(writer, "# awesome-repositories\n")
+	if err != nil {
+		return fmt.Errorf("failed to write header to %s: %w", filename, err)
+	}
+
+	sortedLanguages := slices.Collect(maps.Keys(c.Repos.ByLanguage))
+	slices.SortFunc(sortedLanguages, func(a, b string) int {
+		return strings.Compare(strings.ToLower(a), strings.ToLower(b))
+	})
+
+	for _, language := range sortedLanguages {
+		repos := c.Repos.ByLanguage[language]
+		_, err = fmt.Fprintf(writer, "- [%s](stars/byLanguage/%s.md) (%d repositories)\n", language, u.SanitizeLanguage(language), len(repos))
+		if err != nil {
+			return fmt.Errorf("failed to write language %s to %s: %w", language, filename, err)
+		}
+	}
+
+	if err := writer.Flush(); err != nil {
+		return fmt.Errorf("failed to flush %s: %w", filename, err)
+	}
+
+	return nil
+}
+
 func (c *GitHubClient) WriteRepos() error {
 	dir := "stars/byLanguage"
 	if err := u.EnsureDirectory(dir); err != nil {
@@ -117,7 +153,6 @@ func (c *GitHubClient) WriteRepos() error {
 		defer file.Close()
 
 		writer := bufio.NewWriter(file)
-		defer writer.Flush()
 
 		sortedRepos := make([]*githubRepo, len(repos))
 		copy(sortedRepos, repos)

@@ -37,7 +37,13 @@ func main() {
 		fmt.Printf("Error fetching starred repositories with %v\n", err)
 	}
 
-	err = repos.ClassifyRepos().WriteRepos()
+	err = repos.ClassifyRepos().WriteIndex()
+	if err != nil {
+		fmt.Printf("Error writing index: %v\n", err)
+		return
+	}
+
+	err = repos.WriteRepos()
 	if err != nil {
 		fmt.Printf("Error writing repositories: %v\n", err)
 		return
