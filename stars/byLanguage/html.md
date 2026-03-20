@@ -2,7 +2,7 @@
 - [agenda](https://github.com/agenda/agenda) (9646 stars) - Lightweight job scheduling for Node.js
 - [alpine](https://github.com/alpinejs/alpine) (31347 stars) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
 - [awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) (1230 stars) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
-- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) (25426 stars) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) (25427 stars) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) (1070 stars) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) (496 stars) - Curated list of Polybar 
 - [b612](https://github.com/polarsys/b612) (1498 stars) - Eclipse B612
@@ -11,20 +11,20 @@
 - [contour](https://github.com/projectcontour/contour) (3923 stars) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [cosr-back](https://github.com/commonsearch/cosr-back) (122 stars) - Backend of Common Search. Analyses webpages and sends them to the index.
 - [deciduous](https://github.com/notactuallytreyanastasio/deciduous) (131 stars) - Decision graph tooling for AI-assisted development - track every choice, query your reasoning
-- [defuddle](https://github.com/kepano/defuddle) (5568 stars) - Get the main content of any page as Markdown.
+- [defuddle](https://github.com/kepano/defuddle) (5569 stars) - Get the main content of any page as Markdown.
 - [docs](https://github.com/knative/docs) (5014 stars) - User documentation for Knative components.
 - [doks](https://github.com/thuliteio/doks) (2339 stars) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [easyeffects](https://github.com/wwmm/easyeffects) (9017 stars) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [eng-hiring](https://github.com/18F/eng-hiring) (45 stars) - 18F Engineering's guide to candidate selection, from resume screen to offer.
 - [fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) (67 stars) - What is browser fingerprinting and how should specification authors address it.
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) (120183 stars) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) (120184 stars) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) (1907 stars) - The resources and tools for learning about the practice of front-end development. 
 - [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) (3789 stars) - 2017 edition of our front-end development guide
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) (4262 stars) - 2018 edition of our front-end development handbook
 - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) (2515 stars) - A cheatsheet on the usage of git flow
 - [git-stats](https://github.com/IonicaBizau/git-stats) (6595 stars) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [go101](https://github.com/go101/go101) (6014 stars) - An up-to-date (unofficial) knowledge base for Go programming self learning
-- [hacker-laws](https://github.com/dwmkerr/hacker-laws) (27020 stars) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) (27021 stars) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) (450 stars) - Managing Helm releases with Flux Helm Operator
 - [hermit](https://github.com/Track3/hermit) (1153 stars) - A minimal & fast Hugo theme for bloggers
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) (137 stars) - A Hugo theme component to cloak email adresses
@@ -65,5 +65,5 @@
 - [wanderer](https://github.com/open-wanderer/wanderer) (3434 stars) - wanderer is a self-hosted trail database. Save your adventures!
 - [web-starter-kit](https://github.com/google/web-starter-kit) (18340 stars) - Web Starter Kit - a workflow for multi-device websites
 - [website](https://github.com/kubernetes/website) (5188 stars) - Kubernetes website and documentation repo: 
-- [windmill](https://github.com/windmill-labs/windmill) (16041 stars) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+- [windmill](https://github.com/windmill-labs/windmill) (16040 stars) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [zoraxy](https://github.com/tobychui/zoraxy) (5049 stars) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!

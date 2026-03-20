@@ -1,8 +1,8 @@
 ## Zig (11 repositories) 
-- [browser](https://github.com/lightpanda-io/browser) (22626 stars) - Lightpanda: the headless browser designed for AI and automation
-- [bun](https://github.com/oven-sh/bun) (88292 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [browser](https://github.com/lightpanda-io/browser) (22636 stars) - Lightpanda: the headless browser designed for AI and automation
+- [bun](https://github.com/oven-sh/bun) (88295 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [cyber](https://github.com/fubark/cyber) (1422 stars) - Fast and concurrent scripting.
-- [ghostty](https://github.com/ghostty-org/ghostty) (47849 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [ghostty](https://github.com/ghostty-org/ghostty) (47851 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hys](https://github.com/superstarryeyes/hys) (256 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
 - [ly](https://github.com/fairyglade/ly) (7114 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [zig](https://github.com/ziglang/zig) (42829 stars) - Moved to Codeberg

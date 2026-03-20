@@ -39,6 +39,6 @@
 - [TeamPass](https://github.com/nilsteampassnet/TeamPass) (1778 stars) - Collaborative Passwords Manager
 - [thelia](https://github.com/thelia/thelia) (871 stars) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) (2352 stars) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
-- [wallabag](https://github.com/wallabag/wallabag) (12580 stars) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [wallabag](https://github.com/wallabag/wallabag) (12581 stars) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [WebPageTest](https://github.com/catchpoint/WebPageTest) (3234 stars) - Official repository for WebPageTest
 - [wp-sentry](https://github.com/stayallive/wp-sentry) (378 stars) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.

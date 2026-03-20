@@ -1,12 +1,12 @@
 ## Svelte (11 repositories) 
 - [agx](https://github.com/agnosticeng/agx) (250 stars) - AI Powered Analytics
 - [bananas](https://github.com/mistweaverco/bananas) (6181 stars) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
-- [cobalt](https://github.com/imputnet/cobalt) (39196 stars) - best way to save what you love
+- [cobalt](https://github.com/imputnet/cobalt) (39197 stars) - best way to save what you love
 - [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1040 stars) - Admin Web Interface for juanfont/headscale
 - [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2546 stars) - A web frontend for the headscale Tailscale-compatible coordination server
 - [mathesar](https://github.com/mathesar-foundation/mathesar) (4887 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.
 - [nah.pet](https://github.com/anhostfr/nah.pet) (152 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
-- [networking-toolbox](https://github.com/Lissy93/networking-toolbox) (2402 stars) - 🛜 100+ offline-first networking tools and utilities
+- [networking-toolbox](https://github.com/Lissy93/networking-toolbox) (2403 stars) - 🛜 100+ offline-first networking tools and utilities
 - [photon](https://github.com/Xyphyn/photon) (515 stars) - A faster, prettier, and nicer fediverse client
 - [tidal-ui](https://github.com/binimum/tidal-ui) (1246 stars) - Simple Tidal frontend. Also on tidal.qqdl.site
-- [VERT](https://github.com/VERT-sh/VERT) (14346 stars) - The next-generation file converter. Open source, fully local* and free forever.
+- [VERT](https://github.com/VERT-sh/VERT) (14347 stars) - The next-generation file converter. Open source, fully local* and free forever.

@@ -1,5 +1,5 @@
 ## C# (29 repositories) 
-- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) (13171 stars) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) (13172 stars) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Axiom](https://github.com/MattMcManis/Axiom) (1684 stars) - An FFmpeg GUI for Windows
 - [dev-tunnels-ssh](https://github.com/microsoft/dev-tunnels-ssh) (138 stars) - SSH library for dev-tunnels
 - [docker-lambda](https://github.com/lambci/docker-lambda) (5792 stars) - Docker images and test runners that replicate the live AWS Lambda environment
@@ -13,7 +13,7 @@
 - [GraphEngine](https://github.com/microsoft/GraphEngine) (2250 stars) - Microsoft Graph Engine
 - [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) (1599 stars) - ControllerService
 - [ilSFV](https://github.com/judwhite/ilSFV) (38 stars) - SFV, MD5 and SHA-1 file verification utility for Windows.
-- [Jackett](https://github.com/Jackett/Jackett) (15075 stars) - API Support for your favorite torrent trackers
+- [Jackett](https://github.com/Jackett/Jackett) (15076 stars) - API Support for your favorite torrent trackers
 - [jellyfin](https://github.com/jellyfin/jellyfin) (49485 stars) - The Free Software Media System - Server Backend & API
 - [jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) (216 stars) - Automatically delete played media files after specified amount of time.
 - [Kavita](https://github.com/Kareadita/Kavita) (10145 stars) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
@@ -25,6 +25,6 @@
 - [Prowlarr](https://github.com/Prowlarr/Prowlarr) (6246 stars) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [qmk_toolbox](https://github.com/qmk/qmk_toolbox) (3006 stars) - A Toolbox companion for QMK Firmware
 - [scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) (254 stars) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
-- [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) (7976 stars) - A manager for game achievements in Steam.
+- [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) (7977 stars) - A manager for game achievements in Steam.
 - [tricycle](https://github.com/kmcclive/tricycle) (94 stars) - Video transcoding... easier than riding a bike.
 - [ts-map](https://github.com/dariowouters/ts-map) (103 stars) - ATS/ETS2 map renderer

@@ -6,7 +6,7 @@
 - [haproxy-lua-acme](https://github.com/haproxytech/haproxy-lua-acme) (104 stars) - Unknown
 - [haproxy-lua-oauth](https://github.com/haproxytech/haproxy-lua-oauth) (117 stars) - JWT Validation implementation for HAProxy Lua host
 - [kong](https://github.com/Kong/kong) (43003 stars) - 🦍 The API and AI Gateway
-- [LazyVim](https://github.com/LazyVim/LazyVim) (25494 stars) - Neovim config for the lazy
+- [LazyVim](https://github.com/LazyVim/LazyVim) (25495 stars) - Neovim config for the lazy
 - [lite](https://github.com/rxi/lite) (8127 stars) - A lightweight text editor written in Lua
 - [lsyncd](https://github.com/lsyncd/lsyncd) (6018 stars) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) (1058 stars) - OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
