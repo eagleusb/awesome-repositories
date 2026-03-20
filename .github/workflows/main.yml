@@ -1,4 +1,5 @@
 name: build-readme
+
 on:
   push:
     branches: [master]
@@ -6,26 +7,37 @@ on:
     branches: [master]
   schedule:
     - cron: '00 01 * * *'
-  workflow_dispatch: {}   
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
 jobs:
   build-starred:
     runs-on: ubuntu-latest
     steps:
-    - name: "repository checkout"
+    - name: Checkout repository
       uses: actions/checkout@v4
-    - name: "python setup"
-      uses: actions/setup-python@v5
       with:
-        python-version: 3.13
-    - name: "env requirements"
-      run: |
-        echo "/home/runner/.local/bin" >> $GITHUB_PATH
-    - name: "run starred"
-      run: |
-        pip3 install --no-cache starred
-        starred \
-          --username eagleusb \
-          --token ${{ secrets.GITHUB_TOKEN }} \
-          --repository awesome-repositories \
-          --sort \
-          --message 'chore(ci) automated update'
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.25'
+
+    - name: Fetch starred repositories
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: go run . --username eagleusb --limit 8000
+
+    - name: Commit changes
+      uses: planetscale/ghcommit-action@v0.2.20
+      with:
+        commit_message: "chore(ci): update starred repositories"
+        repo: ${{ github.repository }}
+        branch: ${{ github.ref_name }}
+        empty: false
+        file_pattern: 'README.md stars/'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
