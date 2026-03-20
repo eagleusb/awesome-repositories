@@ -1,2 +1,3 @@
-## Go Template (1 repositories) 
-- [magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (933 stars) - Add Google Cloud Platform support to Terraform
+## Go Template (2 repositories) 
+- [magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (939 stars) - Add Google Cloud Platform support to Terraform
+- [testkube](https://github.com/kubeshop/testkube) (1574 stars) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications

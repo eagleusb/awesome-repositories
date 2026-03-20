@@ -1,6 +1,6 @@
 ## Swift (5 repositories) 
-- [Amethyst](https://github.com/ianyh/Amethyst) (16023 stars) - Automatic tiling window manager for macOS à la xmonad.
-- [Cilicon](https://github.com/traderepublic/Cilicon) (1140 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
+- [Amethyst](https://github.com/ianyh/Amethyst) (16035 stars) - Automatic tiling window manager for macOS à la xmonad.
+- [Cilicon](https://github.com/traderepublic/Cilicon) (1145 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [iGlance](https://github.com/iglance/iGlance) (2474 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
-- [PairPods](https://github.com/wozniakpawel/PairPods) (339 stars) - Free and open source app to share audio on macOS
-- [stats](https://github.com/exelban/stats) (36786 stars) - macOS system monitor in your menu bar
+- [PairPods](https://github.com/wozniakpawel/PairPods) (347 stars) - Free and open source app to share audio on macOS
+- [stats](https://github.com/exelban/stats) (37206 stars) - macOS system monitor in your menu bar
