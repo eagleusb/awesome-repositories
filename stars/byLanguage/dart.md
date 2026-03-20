@@ -5,9 +5,9 @@
 - [Cashew](https://github.com/jameskokoska/Cashew) (4189 stars) - 💸 An app created to help users manage a budget and purchases
 - [dart_frog](https://github.com/dart-frog-dev/dart_frog) (2232 stars) - A fast, minimalistic backend framework for Dart 🎯
 - [dcli](https://github.com/onepub-dev/dcli) (265 stars) - An extensive library and tooling for building console/cli applications and scripts using the Dart programming language.
-- [ente](https://github.com/ente-io/ente) (25306 stars) - 💚 End-to-end encrypted cloud for everything.
-- [Fladder](https://github.com/DonutWare/Fladder) (1924 stars) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
-- [flutter](https://github.com/flutter/flutter) (175626 stars) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [ente](https://github.com/ente-io/ente) (25305 stars) - 💚 End-to-end encrypted cloud for everything.
+- [Fladder](https://github.com/DonutWare/Fladder) (1923 stars) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
+- [flutter](https://github.com/flutter/flutter) (175625 stars) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [functions-framework-dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) (547 stars) - FaaS (Function as a service) framework for writing portable Dart functions
 - [kubenav](https://github.com/kubenav/kubenav) (2252 stars) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [localsend](https://github.com/localsend/localsend) (76785 stars) - An open-source cross-platform alternative to AirDrop

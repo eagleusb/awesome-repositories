@@ -13,6 +13,7 @@ var (
 	username = flag.String("username", "", "GitHub username")
 	page     = flag.Int("page-size", 100, "number of repositories to fetch per page")
 	limit    = flag.Int("limit", 1000, "maximum number of repositories to fetch")
+	workers  = flag.Int("workers", 15, "number of concurrent workers for fetching repositories")
 )
 
 func init() {}
@@ -32,7 +33,7 @@ func main() {
 		return
 	}
 
-	repos, err := githubClient.GetStarredRepos(*username, *limit, *page)
+	repos, err := githubClient.GetStarredRepos(*username, *limit, *page, *workers)
 	if err != nil {
 		fmt.Printf("Error fetching starred repositories with %v\n", err)
 	}

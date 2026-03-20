@@ -27,6 +27,7 @@ type githubConfig struct {
 	page         int
 	itemsPerPage int
 	maxItems     int
+	workers      int
 }
 
 func NewGitHubClient() (*GitHubClient, error) {
@@ -65,11 +66,12 @@ func NewGitHubClient() (*GitHubClient, error) {
 	}, nil
 }
 
-func (c *GitHubClient) setConfig(username string, itemsPerPage, maxItems int) {
+func (c *GitHubClient) setConfig(username string, itemsPerPage, maxItems, workers int) {
 	c.config = &githubConfig{
 		username:     username,
 		itemsPerPage: itemsPerPage,
 		maxItems:     maxItems,
+		workers:      workers,
 	}
 
 	if c.config.itemsPerPage <= 0 || c.config.itemsPerPage > 100 {
@@ -77,5 +79,8 @@ func (c *GitHubClient) setConfig(username string, itemsPerPage, maxItems int) {
 	}
 	if c.config.maxItems <= 0 {
 		c.config.maxItems = 999999
+	}
+	if c.config.workers <= 0 {
+		c.config.workers = 15
 	}
 }

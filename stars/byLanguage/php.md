@@ -31,7 +31,7 @@
 - [racktables](https://github.com/RackTables/racktables) (794 stars) - RackTables current development repository
 - [rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) (4136 stars) - Simple, modern & fast web-based email client
 - [roundcubemail](https://github.com/roundcube/roundcubemail) (6859 stars) - The Roundcube Webmail suite
-- [SecLists](https://github.com/danielmiessler/SecLists) (69616 stars) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [SecLists](https://github.com/danielmiessler/SecLists) (69617 stars) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [server](https://github.com/hashtopolis/server) (1725 stars) - Hashtopolis - distributed password cracking with Hashcat
 - [sonerezh](https://github.com/Sonerezh/sonerezh) (776 stars) - A self-hosted, web-based application to stream your music, everywhere.
 - [spotweb](https://github.com/spotweb/spotweb) (650 stars) - Decentralized community

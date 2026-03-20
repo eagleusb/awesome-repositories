@@ -1,7 +1,7 @@
 ## Shell (151 repositories) 
 - [A2A](https://github.com/a2aproject/A2A) (22696 stars) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [alexa-remote-control](https://github.com/thorsten-gehrig/alexa-remote-control) (451 stars) - control Amazon Alexa from command Line (set volume, select station from tunein or pandora) 
-- [amplifier](https://github.com/microsoft/amplifier) (3017 stars) - Unknown
+- [amplifier](https://github.com/microsoft/amplifier) (3018 stars) - Unknown
 - [android-31](https://github.com/docker-android-sdk/android-31) (29 stars) - Docker for Android SDK 31 with preinstalled build tools and emulator image
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) (156 stars) - Basic bash completion for Ansible
 - [architecture-center](https://github.com/MicrosoftDocs/architecture-center) (1976 stars) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
@@ -23,8 +23,8 @@
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) (5275 stars) - A short tutorial about building Linux based operating systems.
 - [buildtagpush](https://github.com/matti/buildtagpush) (6 stars) - Unknown
 - [chimeraos](https://github.com/ChimeraOS/chimeraos) (1966 stars) - A Steam Big Picture based couch gaming OS
-- [claude-code](https://github.com/anthropics/claude-code) (80555 stars) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) (2562 stars) - Claude Desktop for Debian-based Linux distributions
+- [claude-code](https://github.com/anthropics/claude-code) (80564 stars) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) (2563 stars) - Claude Desktop for Debian-based Linux distributions
 - [Clear-NDR-ISO](https://github.com/StamusNetworks/Clear-NDR-ISO) (1589 stars) - A Suricata based NDR distribution
 - [cnab-spec](https://github.com/cnabio/cnab-spec) (970 stars) - Cloud Native Application Bundle Specification
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) (10181 stars) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -35,7 +35,7 @@
 - [desk](https://github.com/jamesob/desk) (2570 stars) - A lightweight workspace manager for the shell
 - [DietPi](https://github.com/MichaIng/DietPi) (5927 stars) - Lightweight justice for your single-board computer!
 - [diskimage-builder](https://github.com/openstack/diskimage-builder) (362 stars) - Image building tools for OpenStack. Mirror of code maintained at opendev.org.
-- [distrobox](https://github.com/89luca89/distrobox) (12191 stars) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
+- [distrobox](https://github.com/89luca89/distrobox) (12192 stars) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) (5719 stars) - Alpine Linux Docker image. Win at minimalism!
 - [docker-bench-security](https://github.com/docker/docker-bench-security) (9606 stars) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (2243 stars) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -62,7 +62,7 @@
 - [glftpd-scripts](https://github.com/glftpd-scripts/glftpd-scripts) (16 stars) - Unknown
 - [Gogh](https://github.com/Gogh-Co/Gogh) (10143 stars) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [gogo-release](https://github.com/arp242/gogo-release) (32 stars) - Build cross-platform binaries for Go
-- [Hack](https://github.com/source-foundry/Hack) (17174 stars) - A typeface designed for source code
+- [Hack](https://github.com/source-foundry/Hack) (17175 stars) - A typeface designed for source code
 - [haproxy-aws](https://github.com/jvehent/haproxy-aws) (279 stars) - Documentation on building a HTTPS stack in AWS with HAProxy
 - [haproxy-consul](https://github.com/CiscoCloud/haproxy-consul) (167 stars) - Dynamic haproxy configuration using consul
 - [harbian-audit](https://github.com/hardenedlinux/harbian-audit) (460 stars) - Hardened Debian GNU/Linux distro auditing
@@ -71,7 +71,7 @@
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) (1973 stars) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [helm-secrets](https://github.com/zendesk/helm-secrets) (1151 stars) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [helm-tiller](https://github.com/rimusz/helm-tiller) (252 stars) - Helm v2 Tiller plugin aka Tillerless Helm
-- [hf-agents](https://github.com/huggingface/hf-agents) (298 stars) - HF CLI extension to run local coding agent powered by llmfit and llama.cpp
+- [hf-agents](https://github.com/huggingface/hf-agents) (299 stars) - HF CLI extension to run local coding agent powered by llmfit and llama.cpp
 - [historian](https://github.com/jcsalterego/historian) (552 stars) - Command-line utility for managing shell history in a SQLite database.
 - [hypertrace](https://github.com/hypertrace/hypertrace) (519 stars) - An open source distributed tracing & observability platform
 - [imapsync](https://github.com/imapsync/imapsync) (3974 stars) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
@@ -87,7 +87,7 @@
 - [kubetail](https://github.com/johanhaleby/kubetail) (3488 stars) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [lambci](https://github.com/lambci/lambci) (3974 stars) - A continuous integration system built on AWS Lambda
 - [library](https://github.com/copyconstruct/library) (567 stars) - A collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering
-- [linux-cachyos](https://github.com/CachyOS/linux-cachyos) (3038 stars) - Archlinux Kernel based on different schedulers and some other performance improvements.
+- [linux-cachyos](https://github.com/CachyOS/linux-cachyos) (3039 stars) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [linux-luks-tpm-boot](https://github.com/morbitzer/linux-luks-tpm-boot) (159 stars) - A guide for setting up LUKS boot with a key from TPM in Linux
 - [llm-d](https://github.com/llm-d/llm-d) (2652 stars) - Achieve state of the art inference performance with modern accelerators on Kubernetes
 - [longhorn](https://github.com/longhorn/longhorn) (7574 stars) - Cloud-Native distributed storage built on and for Kubernetes
@@ -103,7 +103,7 @@
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) (11227 stars) - The Fish Shell Framework
 - [open-balena](https://github.com/balena-io/open-balena) (1225 stars) - Open source software to manage connected IoT devices at scale
 - [openshift-on-openstack](https://github.com/redhat-openstack/openshift-on-openstack) (136 stars) - A place to write templates, docs etc. for deploying OpenShift on OpenStack.
-- [orbstack](https://github.com/orbstack/orbstack) (8270 stars) - Fast, light, simple Docker containers & Linux machines
+- [orbstack](https://github.com/orbstack/orbstack) (8269 stars) - Fast, light, simple Docker containers & Linux machines
 - [os](https://github.com/wolfi-dev/os) (1180 stars) - Main package repository for production Wolfi images
 - [oss-fuzz](https://github.com/google/oss-fuzz) (11980 stars) - OSS-Fuzz - continuous fuzzing for open source software.
 - [pagerduty-monit](https://github.com/pinterest/pagerduty-monit) (60 stars) - Wrapper scripts to integrate monit and PagerDuty.
@@ -130,7 +130,7 @@
 - [squashible](https://github.com/antonym/squashible) (21 stars) - Cross-Platform Linux Live Image Builder
 - [steam-runtime](https://github.com/ValveSoftware/steam-runtime) (1382 stars) - A runtime environment for Steam applications
 - [super-linter](https://github.com/super-linter/super-linter) (10366 stars) - Combination of multiple linters to run as a GitHub Action or standalone
-- [superpowers](https://github.com/obra/superpowers) (101402 stars) - An agentic skills framework & software development methodology that works.
+- [superpowers](https://github.com/obra/superpowers) (101442 stars) - An agentic skills framework & software development methodology that works.
 - [suru-plus](https://github.com/gusbemacbe/suru-plus) (390 stars) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [sysbox](https://github.com/nestybox/sysbox) (3523 stars) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [TALA](https://github.com/terrastruct/TALA) (279 stars) - A diagram layout engine designed specifically for software architecture diagrams

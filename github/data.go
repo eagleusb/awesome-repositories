@@ -9,10 +9,12 @@ import (
 	"path/filepath"
 	"slices"
 	"strings"
+	"sync"
 	"time"
 
 	u "github.com/eagleusb/awesome-repositories/utils"
 	"github.com/google/go-github/v83/github"
+	"golang.org/x/time/rate"
 )
 
 type githubRepo struct {
@@ -29,39 +31,127 @@ type githubRepos struct {
 	ByCategory map[string][]*githubRepo
 }
 
-func (c *GitHubClient) GetStarredRepos(username string, limit, page int) (*GitHubClient, error) {
+func (c *GitHubClient) GetStarredRepos(username string, limit, page, workers int) (*GitHubClient, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 300*time.Second)
 	defer cancel()
 
-	c.setConfig(username, page, limit)
+	c.setConfig(username, page, limit, workers)
+
+	limiter := rate.NewLimiter(rate.Every(200*time.Millisecond), 1)
 
 	opts := &github.ActivityListStarredOptions{
 		ListOptions: github.ListOptions{PerPage: c.config.itemsPerPage},
 	}
 
-	iter := c.client.Activity.ListStarredIter(ctx, c.config.username, opts)
-	count := 0
-
-	for starredRepo, err := range iter {
-		if err != nil {
-			return nil, fmt.Errorf("failed to fetch starred repos: %w", err)
-		}
-
-		if count >= c.config.maxItems {
-			fmt.Printf("Reached maximum limit of %d starred repositories.\n", count)
-			break
-		}
-
-		c.StarredRepos = append(c.StarredRepos, starredRepo.Repository)
-
-		count++
-		if count%c.config.itemsPerPage == 0 {
-			fmt.Printf("Processed %d repositories...\n", count)
-		}
+	firstPage, resp, err := c.client.Activity.ListStarred(ctx, c.config.username, opts)
+	if err != nil {
+		return nil, fmt.Errorf("failed to fetch first page: %w", err)
 	}
 
-	fmt.Printf("Total repositories fetched: %d\n", count)
+	totalPages := resp.LastPage
+	fmt.Printf("Total pages to fetch: %d\n", totalPages)
+
+	c.StarredRepos = make([]*github.Repository, 0, c.config.maxItems)
+	for _, starredRepo := range firstPage {
+		c.StarredRepos = append(c.StarredRepos, starredRepo.Repository)
+	}
+
+	if totalPages <= 1 {
+		fmt.Printf("Total repositories fetched: %d\n", len(c.StarredRepos))
+		return c, nil
+	}
+
+	pageChan := make(chan int, 10)
+	errorsChan := make(chan error, c.config.workers*totalPages)
+	var wg sync.WaitGroup
+	var mu sync.Mutex
+
+	for i := 0; i < c.config.workers; i++ {
+		wg.Add(1)
+		go c.fetchPageWorker(ctx, &wg, &mu, limiter, pageChan, errorsChan, username, opts)
+	}
+
+	go func() {
+		for p := 2; p <= totalPages; p++ {
+			pageChan <- p
+		}
+		close(pageChan)
+	}()
+
+	wg.Wait()
+	close(errorsChan)
+
+	var errors []error
+	for err := range errorsChan {
+		errors = append(errors, err)
+	}
+
+	if len(errors) > 0 {
+		return nil, fmt.Errorf("failed to fetch %d pages: %v", len(errors), errors)
+	}
+
+	if len(c.StarredRepos) > c.config.maxItems {
+		c.StarredRepos = c.StarredRepos[:c.config.maxItems]
+	}
+
+	fmt.Printf("Total repositories fetched: %d\n", len(c.StarredRepos))
 	return c, nil
+}
+
+func (c *GitHubClient) fetchPageWorker(
+	ctx context.Context,
+	wg *sync.WaitGroup,
+	mu *sync.Mutex,
+	limiter *rate.Limiter,
+	pageChan <-chan int,
+	errorsChan chan<- error,
+	username string,
+	opts *github.ActivityListStarredOptions,
+) {
+	defer wg.Done()
+
+	maxRetries := 3
+
+	for page := range pageChan {
+		var lastErr error
+
+		for attempt := 1; attempt <= maxRetries; attempt++ {
+			if err := limiter.Wait(ctx); err != nil {
+				errorsChan <- fmt.Errorf("rate limiter wait failed on page %d (attempt %d): %w", page, attempt, err)
+				break
+			}
+
+			pageOpts := &github.ActivityListStarredOptions{
+				ListOptions: github.ListOptions{
+					Page:    page,
+					PerPage: c.config.itemsPerPage,
+				},
+			}
+
+			starredPage, _, err := c.client.Activity.ListStarred(ctx, username, pageOpts)
+			if err != nil {
+				lastErr = err
+				if attempt < maxRetries {
+					backoffDuration := time.Duration(attempt) * time.Second
+					fmt.Printf("Failed to fetch page %d (attempt %d/%d): %v - retrying in %v...\n",
+						page, attempt, maxRetries, err, backoffDuration)
+					time.Sleep(backoffDuration)
+					continue
+				}
+				errorsChan <- fmt.Errorf("failed to fetch page %d after %d attempts: %w", page, maxRetries, lastErr)
+				break
+			}
+
+			mu.Lock()
+			for _, starredRepo := range starredPage {
+				c.StarredRepos = append(c.StarredRepos, starredRepo.Repository)
+			}
+			mu.Unlock()
+
+			fmt.Printf("Fetched page %d with %d repositories\n", page, len(starredPage))
+			break
+		}
+	}
 }
 
 func (c *GitHubClient) ClassifyRepos() *GitHubClient {

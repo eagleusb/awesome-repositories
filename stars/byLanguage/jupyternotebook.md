@@ -15,8 +15,8 @@
 - [fastai](https://github.com/fastai/fastai) (27923 stars) - The fastai deep learning library
 - [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (18008 stars) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) (2748 stars) - A collection of guides and examples for the Gemma open models from Google.
-- [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) (16382 stars) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (108293 stars) - 21 Lessons, Get Started Building with Generative AI 
+- [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) (16384 stars) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (108292 stars) - 21 Lessons, Get Started Building with Generative AI 
 - [GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) (1901 stars) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) (24364 stars) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) (5245 stars) - Book about interpretable machine learning

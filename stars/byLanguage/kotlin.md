@@ -2,15 +2,15 @@
 - [amethyst](https://github.com/vitorpamplona/amethyst) (1490 stars) - Nostr client for Android
 - [android](https://github.com/owntracks/android) (1661 stars) - OwnTracks Android App
 - [android-app](https://github.com/ProtonVPN/android-app) (3412 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (15420 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [gallery](https://github.com/google-ai-edge/gallery) (15421 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [KernelSU](https://github.com/tiann/KernelSU) (15570 stars) - A Kernel based root solution for Android
 - [librepods](https://github.com/kavishdevar/librepods) (25971 stars) - AirPods liberated from Apple's ecosystem.
 - [LibreTube](https://github.com/libre-tube/LibreTube) (11598 stars) - An alternative frontend for YouTube, for Android.
 - [nexa-sdk](https://github.com/NexaAI/nexa-sdk) (7849 stars) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (547 stars) - PartiQL libraries and tools in Kotlin.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (26817 stars) - 💊 Application to use ReVanced on Android 
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (26819 stars) - 💊 Application to use ReVanced on Android 
 - [tasks](https://github.com/tasks/tasks) (5038 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13248 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13249 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2552 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2727 stars) - Unknown
 - [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4158 stars) - Main UserLAnd Repository

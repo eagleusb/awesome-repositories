@@ -14,10 +14,10 @@
 - [defuddle](https://github.com/kepano/defuddle) (5568 stars) - Get the main content of any page as Markdown.
 - [docs](https://github.com/knative/docs) (5014 stars) - User documentation for Knative components.
 - [doks](https://github.com/thuliteio/doks) (2339 stars) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
-- [easyeffects](https://github.com/wwmm/easyeffects) (9016 stars) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+- [easyeffects](https://github.com/wwmm/easyeffects) (9017 stars) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [eng-hiring](https://github.com/18F/eng-hiring) (45 stars) - 18F Engineering's guide to candidate selection, from resume screen to offer.
 - [fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) (67 stars) - What is browser fingerprinting and how should specification authors address it.
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) (120184 stars) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) (120183 stars) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) (1907 stars) - The resources and tools for learning about the practice of front-end development. 
 - [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) (3789 stars) - 2017 edition of our front-end development guide
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) (4262 stars) - 2018 edition of our front-end development handbook
@@ -64,6 +64,6 @@
 - [tools](https://github.com/standardebooks/tools) (1625 stars) - The Standard Ebooks toolset for producing our ebook files.
 - [wanderer](https://github.com/open-wanderer/wanderer) (3434 stars) - wanderer is a self-hosted trail database. Save your adventures!
 - [web-starter-kit](https://github.com/google/web-starter-kit) (18340 stars) - Web Starter Kit - a workflow for multi-device websites
-- [website](https://github.com/kubernetes/website) (5187 stars) - Kubernetes website and documentation repo: 
+- [website](https://github.com/kubernetes/website) (5188 stars) - Kubernetes website and documentation repo: 
 - [windmill](https://github.com/windmill-labs/windmill) (16041 stars) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [zoraxy](https://github.com/tobychui/zoraxy) (5049 stars) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!

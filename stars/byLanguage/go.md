@@ -14,8 +14,8 @@
 - [admiral](https://github.com/istio-ecosystem/admiral) (635 stars) - Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh
 - [aero](https://github.com/aerogo/aero) (570 stars) - :bullettrain_side: High-performance web server for Go (2016). New alpha (2024) with even better performance is currently in development at https://git.urbach.dev/go/web
 - [age](https://github.com/FiloSottile/age) (21700 stars) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [agent](https://github.com/buildkite/agent) (949 stars) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [agent](https://github.com/grafana/agent) (1675 stars) - Vendor-neutral programmable observability pipelines.
+- [agent](https://github.com/buildkite/agent) (949 stars) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [agones](https://github.com/agones-dev/agones) (6732 stars) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [aiac](https://github.com/gofireflyio/aiac) (3794 stars) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [aikit](https://github.com/kaito-project/aikit) (512 stars) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -37,7 +37,7 @@
 - [ansible_puller](https://github.com/teslamotors/ansible_puller) (144 stars) - Ansible daemon for massively-scaleable Ansible
 - [answer](https://github.com/apache/answer) (15427 stars) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [anteon](https://github.com/getanteon/anteon) (8540 stars) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
-- [anubis](https://github.com/TecharoHQ/anubis) (17862 stars) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [anubis](https://github.com/TecharoHQ/anubis) (17865 stars) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [anyquery](https://github.com/julien040/anyquery) (1645 stars) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [apb](https://github.com/automationbroker/apb) (62 stars) - A CLI tool for listing and deploying Service Bundles
 - [api](https://github.com/kubernetes/api) (745 stars) - The canonical location of the Kubernetes API definition.
@@ -61,8 +61,8 @@
 - [argp](https://github.com/tdewolff/argp) (323 stars) - GNU command line argument parser
 - [ariasql](https://github.com/ariasql/ariasql) (226 stars) - The AriaSQL relational database management system.
 - [arkade](https://github.com/alexellis/arkade) (4559 stars) - Open Source Marketplace For Developer Tools
-- [armada](https://github.com/night-gold/armada) (15 stars) - Command line tools to manage kustomize packaged apps deployment
 - [armada](https://github.com/armadaproject/armada) (582 stars) - A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
+- [armada](https://github.com/night-gold/armada) (15 stars) - Command line tools to manage kustomize packaged apps deployment
 - [artifact-mirror](https://github.com/rancher/artifact-mirror) (38 stars) - Unknown
 - [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) (3216 stars) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [asdf](https://github.com/asdf-vm/asdf) (25177 stars) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -88,7 +88,7 @@
 - [autoscaler](https://github.com/kubernetes/autoscaler) (8794 stars) - Autoscaling components for Kubernetes
 - [AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) (2362 stars) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [autowire](https://github.com/superfly/autowire) (12 stars) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
-- [awesome-go](https://github.com/avelino/awesome-go) (167832 stars) - A curated list of awesome Go frameworks, libraries and software
+- [awesome-go](https://github.com/avelino/awesome-go) (167833 stars) - A curated list of awesome Go frameworks, libraries and software
 - [awesomo](https://github.com/lk-geimfari/awesomo) (9838 stars) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [awless](https://github.com/wallix/awless) (4983 stars) - A Mighty CLI for AWS
 - [aws-api-tools](https://github.com/jaypipes/aws-api-tools) (15 stars) - Toolkit for working with AWS APIs
@@ -126,19 +126,19 @@
 - [beats](https://github.com/elastic/beats) (12602 stars) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [Beaver](https://github.com/Clivern/Beaver) (1583 stars) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [beda](https://github.com/hyperjumptech/beda) (57 stars) - Beda is a golang library for detecting how similar a two string
-- [bee](https://github.com/beego/bee) (1464 stars) - Bee is a tool for helping develop with beego app framework.
 - [bee](https://github.com/ethersphere/bee) (1485 stars) - Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.
+- [bee](https://github.com/beego/bee) (1464 stars) - Bee is a tool for helping develop with beego app framework.
 - [beego](https://github.com/beego/beego) (32420 stars) - beego is an open-source, high-performance web framework for the Go programming language.
 - [beehive](https://github.com/muesli/beehive) (6483 stars) - A flexible event/agent & automation system with lots of bees 🐝
 - [beeping](https://github.com/yanc0/beeping) (260 stars) - HTTP Monitoring via API - Measure the performance of your servers
 - [Beetle](https://github.com/Clivern/Beetle) (167 stars) - 🔥  Kubernetes multi-cluster deployment automation service.
 - [benchi](https://github.com/ConduitIO/benchi) (161 stars) - Benchmark any tool from the CLI
-- [bento](https://github.com/warpstreamlabs/bento) (1908 stars) - Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.
+- [bento](https://github.com/warpstreamlabs/bento) (1909 stars) - Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.
 - [berglas](https://github.com/GoogleCloudPlatform/berglas) (1295 stars) - A tool for managing secrets on Google Cloud
-- [beszel](https://github.com/henrygd/beszel) (20140 stars) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [beszel](https://github.com/henrygd/beszel) (20141 stars) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [bettercap](https://github.com/bettercap/bettercap) (18971 stars) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [beyla](https://github.com/grafana/beyla) (1949 stars) - eBPF-based autoinstrumentation of web applications and network metrics
-- [bifrost](https://github.com/maximhq/bifrost) (3061 stars) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
+- [bifrost](https://github.com/maximhq/bifrost) (3060 stars) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 - [bifrost](https://github.com/aperturerobotics/bifrost) (569 stars) - Modular networking for Go with pluggable transports, RPC, WebRTC, WebAssembly support.
 - [bigcache](https://github.com/allegro/bigcache) (8110 stars) - Efficient cache for gigabytes of data written in Go.
 - [bigmachine](https://github.com/grailbio/bigmachine) (204 stars) - Bigmachine is a library for self-managing serverless computing in Go
@@ -153,10 +153,10 @@
 - [bloom](https://github.com/bits-and-blooms/bloom) (2763 stars) - Go package implementing Bloom filters, used by Milvus and Beego.
 - [bloom](https://github.com/phrozen/bloom) (34 stars) - An ultra fast, lightweight, concurrent-safe Bloom filter for Go
 - [bluetuith](https://github.com/bluetuith-org/bluetuith) (1326 stars) - A cross-platform TUI bluetooth manager.
-- [bob](https://github.com/benchkram/bob) (494 stars) - Bob is a high-level build tool for multi-language projects.
 - [bob](https://github.com/stephenafamo/bob) (1672 stars) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
+- [bob](https://github.com/benchkram/bob) (494 stars) - Bob is a high-level build tool for multi-language projects.
 - [boilr](https://github.com/tmrts/boilr) (1759 stars) - :zap: boilerplate template manager that generates files or directories from template repositories
-- [bolt](https://github.com/boltdb/bolt) (14619 stars) - An embedded key/value database for Go.
+- [bolt](https://github.com/boltdb/bolt) (14620 stars) - An embedded key/value database for Go.
 - [bombardier](https://github.com/codesenberg/bombardier) (6752 stars) - Fast cross-platform HTTP benchmarking tool written in Go
 - [booklit](https://github.com/vito/booklit) (189 stars) - a pretty lit content authoring system
 - [bootkube](https://github.com/kubernetes-retired/bootkube) (1144 stars) - This project now lives at https://github.com/kinvolk/bootkube
@@ -194,7 +194,7 @@
 - [bytebase](https://github.com/bytebase/bytebase) (13836 stars) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [cabourotte](https://github.com/appclacks/cabourotte) (101 stars) - A monitoring tool to execute healthchecks on your infrastructure
 - [cachet-monitor](https://github.com/CastawayLabs/cachet-monitor) (437 stars) - Distributed monitoring plugin for CachetHQ
-- [caddy](https://github.com/caddyserver/caddy) (70981 stars) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) (70982 stars) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [caddy-l4](https://github.com/mholt/caddy-l4) (1583 stars) - Layer 4 (TCP/UDP) app for Caddy
 - [caddy-security](https://github.com/greenpau/caddy-security) (2095 stars) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
 - [caddy-waf](https://github.com/fabriziosalmi/caddy-waf) (746 stars) - Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)
@@ -206,7 +206,7 @@
 - [capsule](https://github.com/bots-garden/capsule) (291 stars) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and MQTT
 - [capsule](https://github.com/projectcapsule/capsule) (2046 stars) - Multi-tenancy and policy-based framework for Kubernetes.
 - [caretta](https://github.com/groundcover-com/caretta) (1998 stars) - Instant K8s service dependency map, right to your Grafana.
-- [CasaOS](https://github.com/IceWhaleTech/CasaOS) (33440 stars) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) (33441 stars) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [casbin](https://github.com/apache/casbin) (19934 stars) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 - [casdoor](https://github.com/casdoor/casdoor) (13202 stars) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 - [cashier](https://github.com/cashier-go/cashier) (728 stars) - A self-service CA for OpenSSH
@@ -216,7 +216,7 @@
 - [ccql](https://github.com/github/ccql) (323 stars) - **No longer maintained, archived Feb 2023** Multi server MySQL client
 - [CDK](https://github.com/cdk-team/CDK) (4584 stars) - 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [cds](https://github.com/ovh/cds) (4804 stars) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-- [cedar-access-control-for-k8s](https://github.com/cedar-policy/cedar-access-control-for-k8s) (139 stars) - Cedar for Kubernetes brings the power of Cedar to Kubernetes authorization and admission validation, showing how cluster administrators can enable a unified access control language for principals making API calls and giving policy authors a single language to write and reason about
+- [cedar-access-control-for-k8s](https://github.com/cedar-policy/cedar-access-control-for-k8s) (140 stars) - Cedar for Kubernetes brings the power of Cedar to Kubernetes authorization and admission validation, showing how cluster administrators can enable a unified access control language for principals making API calls and giving policy authors a single language to write and reason about
 - [cello](https://github.com/cello-proj/cello) (291 stars) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps.
 - [centrifugo](https://github.com/centrifugal/centrifugo) (10083 stars) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.
 - [ceph-csi](https://github.com/ceph/ceph-csi) (1514 stars) - CSI driver for Ceph
@@ -243,7 +243,7 @@
 - [checkup](https://github.com/sourcegraph/checkup) (3459 stars) - Distributed, lock-free, self-hosted health checks and status pages
 - [cheek](https://github.com/bart6114/cheek) (195 stars) - cheek: a pico-sized declarative job scheduler
 - [cherami-server](https://github.com/uber-archive/cherami-server) (1409 stars) - Distributed, scalable, durable, and highly available message queue system. This project is deprecated and not maintained.
-- [chezmoi](https://github.com/twpayne/chezmoi) (18581 stars) - Manage your dotfiles across multiple diverse machines, securely.
+- [chezmoi](https://github.com/twpayne/chezmoi) (18582 stars) - Manage your dotfiles across multiple diverse machines, securely.
 - [chi](https://github.com/go-chi/chi) (21856 stars) - lightweight, idiomatic and composable router for building Go HTTP services
 - [chihaya](https://github.com/chihaya/chihaya) (1493 stars) - A customizable, multi-protocol BitTorrent Tracker
 - [chisel](https://github.com/jpillora/chisel) (15775 stars) - A fast TCP/UDP tunnel over HTTP
@@ -255,12 +255,12 @@
 - [clair](https://github.com/quay/clair) (10946 stars) - Vulnerability Static Analysis for Containers
 - [clarity](https://github.com/xchapter7x/clarity) (138 stars) - A declaritive test framework for Terraform
 - [claudie](https://github.com/berops/claudie) (762 stars) - Cloud-agnostic managed Kubernetes
-- [cli](https://github.com/entireio/cli) (3697 stars) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
-- [cli](https://github.com/urfave/cli) (23944 stars) - A declarative, simple, fast, and fun package for building command line tools in Go
+- [cli](https://github.com/entireio/cli) (3696 stars) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
+- [cli](https://github.com/overmindtech/cli) (183 stars) - Identify the blast radius and risks for Terraform changes in real time
 - [cli](https://github.com/cli/cli) (43260 stars) - GitHub’s official command line tool
 - [cli](https://github.com/create-go-app/cli) (2753 stars) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command.
-- [cli](https://github.com/overmindtech/cli) (183 stars) - Identify the blast radius and risks for Terraform changes in real time
 - [cli](https://github.com/smallstep/cli) (4160 stars) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
+- [cli](https://github.com/urfave/cli) (23944 stars) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [clickhouse-operator](https://github.com/Altinity/clickhouse-operator) (2455 stars) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 - [client](https://github.com/keybase/client) (9177 stars) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [Cloak](https://github.com/cbeuw/Cloak) (3902 stars) - A censorship circumvention tool to evade detection by authoritarian state adversaries
@@ -268,12 +268,12 @@
 - [cloud-builders](https://github.com/GoogleCloudPlatform/cloud-builders) (1448 stars) - Builder images and examples commonly used for Google Cloud Build
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) (1306 stars) - Community-contributed images for Google Cloud Build
 - [cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) (701 stars) - Unknown
-- [Cloudflare-DDNS](https://github.com/Aureum-Cloud/Cloudflare-DDNS) (83 stars) - Cloudflare DDNS is a Go-based DNS updater designed to keep your Cloudflare-managed DNS records in sync with your current public IPv4 and/or IPv6 addresses.
 - [cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) (2410 stars) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
+- [Cloudflare-DDNS](https://github.com/Aureum-Cloud/Cloudflare-DDNS) (83 stars) - Cloudflare DDNS is a Go-based DNS updater designed to keep your Cloudflare-managed DNS records in sync with your current public IPv4 and/or IPv6 addresses.
 - [cloudflare-go](https://github.com/cloudflare/cloudflare-go) (1944 stars) - The official Go library for the Cloudflare API
 - [cloudflare-operator](https://github.com/adyanth/cloudflare-operator) (662 stars) - A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources 
 - [cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) (1115 stars) - 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
-- [cloudflared](https://github.com/cloudflare/cloudflared) (13541 stars) - Cloudflare Tunnel client
+- [cloudflared](https://github.com/cloudflare/cloudflared) (13542 stars) - Cloudflare Tunnel client
 - [cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) (8257 stars) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
 - [cloudprober](https://github.com/google/cloudprober) (1397 stars) - [Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.
 - [cloudquery](https://github.com/cloudquery/cloudquery) (6344 stars) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
@@ -296,7 +296,7 @@
 - [cnab-go](https://github.com/cnabio/cnab-go) (69 stars) - A Go implementation of CNAB Core 1.0
 - [cni](https://github.com/containernetworking/cni) (6035 stars) - Container Network Interface - networking for Linux containers
 - [cni-benchmarks](https://github.com/jessfraz/cni-benchmarks) (84 stars) - A simple program to benchmark various container networking (CNI) plugins.
-- [cobra](https://github.com/spf13/cobra) (43509 stars) - A Commander for modern Go CLI interactions
+- [cobra](https://github.com/spf13/cobra) (43508 stars) - A Commander for modern Go CLI interactions
 - [cockroach](https://github.com/cockroachdb/cockroach) (32008 stars) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [cocoon](https://github.com/haileyok/cocoon) (87 stars) - An ATProtocol PDS (Personal Data Server) written in Go with  a SQLite block and blob store
 - [codapi](https://github.com/nalgeon/codapi) (2064 stars) - Interactive code examples
@@ -336,7 +336,7 @@
 - [container-engine-accelerators](https://github.com/GoogleCloudPlatform/container-engine-accelerators) (250 stars) - Collection of tools and examples for managing Accelerated workloads in Kubernetes Engine
 - [container-orchestration](https://github.com/cnbm/container-orchestration) (18 stars) - A Benchmark for Container Orchestration Systems
 - [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) (2466 stars) - validate the structure of your container images
-- [container-use](https://github.com/dagger/container-use) (3650 stars) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+- [container-use](https://github.com/dagger/container-use) (3651 stars) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [container2wasm](https://github.com/container2wasm/container2wasm) (2619 stars) - Container to WASM converter
 - [containerd](https://github.com/containerd/containerd) (20515 stars) - An open and reliable container runtime
 - [containerd-wasm](https://github.com/dmcgowan/containerd-wasm) (94 stars) - Implementation of containerd shim using wasm
@@ -354,8 +354,8 @@
 - [CoreDNS-GSLB](https://github.com/dmachard/CoreDNS-GSLB) (35 stars) - GSLB support in CoreDNS, targeting non-Kubernetes infrastructures such as virtual machines, bare-metal servers, and hybrid cloud setups.
 - [coredns-plugins](https://github.com/segmentio/coredns-plugins) (24 stars) - Segment CoreDNS plugins
 - [coroot](https://github.com/coroot/coroot) (7495 stars) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.
-- [cortex](https://github.com/cortexlabs/cortex) (8026 stars) - Production infrastructure for machine learning at scale
 - [cortex](https://github.com/cortexproject/cortex) (5763 stars) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+- [cortex](https://github.com/cortexlabs/cortex) (8026 stars) - Production infrastructure for machine learning at scale
 - [cosign](https://github.com/sigstore/cosign) (5737 stars) - Code signing and transparency for containers and binaries
 - [couchtube](https://github.com/ozencb/couchtube) (250 stars) - 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [cow](https://github.com/cyfdecyf/cow) (8447 stars) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
@@ -396,7 +396,7 @@
 - [dark](https://github.com/K-Phoen/dark) (434 stars) - (grafana) Dashboards As Resources in Kubernetes
 - [dasel](https://github.com/TomWright/dasel) (7883 stars) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [dash0-operator](https://github.com/dash0hq/dash0-operator) (49 stars) - Dash0 Operator for Kubernetes
-- [dashboard](https://github.com/kubernetes-retired/dashboard) (15439 stars) - General-purpose web UI for Kubernetes clusters
+- [dashboard](https://github.com/kubernetes-retired/dashboard) (15438 stars) - General-purpose web UI for Kubernetes clusters
 - [dashboard-linter](https://github.com/grafana/dashboard-linter) (315 stars) - A tool to lint Grafana dashboards
 - [data-services](https://github.com/amrdb/data-services) (77 stars) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions. 
 - [database-lab-engine](https://github.com/postgres-ai/database-lab-engine) (2432 stars) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated.
@@ -415,7 +415,7 @@
 - [debos](https://github.com/go-debos/debos) (685 stars) - Debian OS builder
 - [deepflow](https://github.com/deepflowio/deepflow) (3800 stars) - eBPF Observability - Distributed Tracing and Profiling
 - [deeploy](https://github.com/deeploy-sh/deeploy) (116 stars) - Modern Deployment. Terminal First. Open Source.
-- [delve](https://github.com/go-delve/delve) (24662 stars) - Delve is a debugger for the Go programming language.
+- [delve](https://github.com/go-delve/delve) (24661 stars) - Delve is a debugger for the Go programming language.
 - [dendrite](https://github.com/matrix-org/dendrite) (5641 stars) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [dendy](https://github.com/maxpoletaev/dendy) (431 stars) - NES/Famicom emulator with P2P network multiplayer and WASM support
 - [dep](https://github.com/golang/dep) (12755 stars) - Go dependency management tool experiment (deprecated)
@@ -459,7 +459,7 @@
 - [dnsping](https://github.com/fortio/dnsping) (119 stars) - DNS Ping: to check packet loss and latency issues with DNS servers
 - [dnssearch](https://github.com/evilsocket/dnssearch) (895 stars) - A subdomain enumeration tool.
 - [do](https://github.com/samber/do) (2683 stars) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
-- [docker-agent](https://github.com/docker/docker-agent) (2566 stars) - AI Agent Builder and Runtime by Docker Engineering
+- [docker-agent](https://github.com/docker/docker-agent) (2567 stars) - AI Agent Builder and Runtime by Docker Engineering
 - [docker-bigtable](https://github.com/spotify/docker-bigtable) (72 stars) - A docker container with an in memory implementation of Google Cloud Bigtable
 - [docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) (314 stars) - A Docker credential helper for GCR users
 - [docker-credential-helpers](https://github.com/docker/docker-credential-helpers) (1272 stars) - Programs to keep Docker login credentials safe by storing in platform keystores
@@ -532,8 +532,8 @@
 - [envoybigbook](https://github.com/BenderScript/envoybigbook) (180 stars) - Envoy Proxy Big Book of Examples
 - [envsubst](https://github.com/a8m/envsubst) (872 stars) - Environment variables substitution for Go
 - [eonza](https://github.com/gentee/eonza) (171 stars) - Eonza is an automation tool. It allows you to create scripts without programming.
-- [ergo](https://github.com/ergo-services/ergo) (4466 stars) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. 
 - [ergo](https://github.com/ergochat/ergo) (3141 stars) - A modern IRC server (daemon/ircd) written in Go.
+- [ergo](https://github.com/ergo-services/ergo) (4466 stars) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. 
 - [eris](https://github.com/rotisserie/eris) (1776 stars) - Error handling library with readable stack traces and flexible formatting support 🎆
 - [esc](https://github.com/pulumi/esc) (284 stars) - Pulumi ESC is a centralized, secure service for environments, secrets, and configuration management, optimized for multi-cloud infrastructures and applications.
 - [escalator](https://github.com/atlassian/escalator) (684 stars) - Escalator is a batch or job optimized horizontal autoscaler for Kubernetes
@@ -552,7 +552,7 @@
 - [exposure-notifications-server](https://github.com/google/exposure-notifications-server) (2575 stars) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [expr](https://github.com/expr-lang/expr) (7740 stars) - Expression language and expression evaluation for Go
 - [external-dns](https://github.com/kubernetes-sigs/external-dns) (8851 stars) - Configure external DNS servers dynamically from Kubernetes resources
-- [external-secrets](https://github.com/external-secrets/external-secrets) (6483 stars) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [external-secrets](https://github.com/external-secrets/external-secrets) (6484 stars) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) (616 stars) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.
 - [external-storage](https://github.com/kubernetes-retired/external-storage) (2702 stars) - [EOL] External storage plugins, provisioners, and helper libraries
 - [externalsecret-operator](https://github.com/ContainerSolutions/externalsecret-operator) (192 stars) - An operator to fetch secrets from cloud services and inject them in Kubernetes
@@ -596,9 +596,9 @@
 - [flamingo](https://github.com/flux-subsystem-argo/flamingo) (726 stars) - Flux Subsystem for Argo
 - [flannel](https://github.com/flannel-io/flannel) (9414 stars) - flannel is a network fabric for containers, designed for Kubernetes
 - [fleek](https://github.com/ublue-os/fleek) (817 stars) - [deprecated] Own your $HOME
-- [fleet](https://github.com/fleetdm/fleet) (6157 stars) - Open device management
-- [fleet](https://github.com/coreos/fleet) (2416 stars) - fleet ties together systemd and etcd into a distributed init system
 - [fleet](https://github.com/rancher/fleet) (1690 stars) - Deploy workloads from Git to large fleets of Kubernetes clusters
+- [fleet](https://github.com/fleetdm/fleet) (6158 stars) - Open device management
+- [fleet](https://github.com/coreos/fleet) (2416 stars) - fleet ties together systemd and etcd into a distributed init system
 - [flintlock](https://github.com/liquidmetal-dev/flintlock) (1334 stars) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [flipt](https://github.com/flipt-io/flipt) (4750 stars) - Enterprise-ready, Git native feature management solution
 - [fluent-logger-golang](https://github.com/fluent/fluent-logger-golang) (393 stars) - A structured logger for Fluentd (Golang)
@@ -625,7 +625,7 @@
 - [fx](https://github.com/antonmedv/fx) (20344 stars) - Terminal JSON viewer & processor
 - [fx](https://github.com/uber-go/fx) (7404 stars) - A dependency injection based application framework for Go.
 - [fyne](https://github.com/fyne-io/fyne) (28041 stars) - Cross platform GUI toolkit in Go inspired by Material Design
-- [fzf](https://github.com/junegunn/fzf) (78802 stars) - :cherry_blossom: A command-line fuzzy finder
+- [fzf](https://github.com/junegunn/fzf) (78803 stars) - :cherry_blossom: A command-line fuzzy finder
 - [gabs](https://github.com/Jeffail/gabs) (3530 stars) - For parsing, creating and editing unknown or dynamic JSON in Go
 - [gaia](https://github.com/gaia-pipeline/gaia) (5223 stars) - Build powerful pipelines in any programming language.
 - [gameboy.live](https://github.com/HFO4/gameboy.live) (4862 stars) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
@@ -635,12 +635,12 @@
 - [garble](https://github.com/burrowers/garble) (5359 stars) - Obfuscate Go builds
 - [gardener](https://github.com/gardener/gardener) (3348 stars) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [garm](https://github.com/go-dockly/garm) (77 stars) - Advanced ARM64 Compiler for High-Performance on the GO
-- [gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4170 stars) - 🐊 Policy Controller for Kubernetes
+- [gatekeeper](https://github.com/open-policy-agent/gatekeeper) (4171 stars) - 🐊 Policy Controller for Kubernetes
 - [gateway](https://github.com/envoyproxy/gateway) (2580 stars) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [gateway-api](https://github.com/kubernetes-sigs/gateway-api) (2725 stars) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) (616 stars) - Gateway API Inference Extension
 - [gatewayd](https://github.com/gatewayd-io/gatewayd) (279 stars) - database gateway for building data-driven applications
-- [gatus](https://github.com/TwiN/gatus) (10453 stars) - Automated developer-oriented status page with alerting and incident support
+- [gatus](https://github.com/TwiN/gatus) (10454 stars) - Automated developer-oriented status page with alerting and incident support
 - [gcp-dhcp-takeover-code-exec](https://github.com/irsl/gcp-dhcp-takeover-code-exec) (533 stars) - Google Compute Engine (GCE) VM takeover via DHCP flood - gain root access by getting SSH keys added by google_guest_agent
 - [gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner) (816 stars) - Delete untagged image refs in Google Container Registry or Artifact Registry
 - [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) (2217 stars) - A user-space file system for interacting with Google Cloud Storage
@@ -652,7 +652,7 @@
 - [gentee](https://github.com/gentee/gentee) (146 stars) - Gentee - script programming language for automation. It uses VM and compiler written in Go (Golang).
 - [gf](https://github.com/gogf/gf) (13086 stars) - A powerful framework for faster, easier, and more efficient project development.
 - [gfile](https://github.com/Antonito/gfile) (757 stars) - Direct file transfer over WebRTC
-- [gh-aw](https://github.com/github/gh-aw) (4147 stars) - GitHub Agentic Workflows
+- [gh-aw](https://github.com/github/gh-aw) (4148 stars) - GitHub Agentic Workflows
 - [gh-stars](https://github.com/gkze/gh-stars) (138 stars) - :star: Keep your Github Stars fresh!
 - [ghostunnel](https://github.com/ghostunnel/ghostunnel) (2138 stars) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [ghz](https://github.com/bojand/ghz) (3302 stars) - Simple gRPC benchmarking and load testing tool
@@ -675,7 +675,7 @@
 - [github-actions-runner-operator](https://github.com/evryfs/github-actions-runner-operator) (447 stars) - K8S operator for scheduling github actions runner pods
 - [github-conditional-http-transport](https://github.com/bored-engineer/github-conditional-http-transport) (14 stars) - A Golang http.RoundTripper optimized for caching responses from GitHub's REST API via conditional requests (ETag)
 - [github-datasource](https://github.com/grafana/github-datasource) (298 stars) - The GitHub data source lets you visualize GitHub data in Grafana dashboards.
-- [github-mcp-server](https://github.com/github/github-mcp-server) (28096 stars) - GitHub's official MCP Server
+- [github-mcp-server](https://github.com/github/github-mcp-server) (28097 stars) - GitHub's official MCP Server
 - [gitkube](https://github.com/hasura/gitkube) (3851 stars) - Build and deploy docker images to Kubernetes using git push
 - [gitleaks](https://github.com/gitleaks/gitleaks) (25499 stars) - Find secrets with Gitleaks 🔑
 - [gitmal](https://github.com/antonmedv/gitmal) (1292 stars) - A static page generator for repos
@@ -687,15 +687,15 @@
 - [gjson](https://github.com/tidwall/gjson) (15464 stars) - Get JSON values quickly - JSON parser for Go
 - [gke-autoneg-controller](https://github.com/GoogleCloudPlatform/gke-autoneg-controller) (178 stars) - This GKE controller provides simple custom integration between GKE and GCLB.
 - [gke-hubble-export](https://github.com/rueian/gke-hubble-export) (41 stars) - Install hubble-ui on GKE Dataplane V2
-- [glance](https://github.com/glanceapp/glance) (32670 stars) - A self-hosted dashboard that puts all your feeds in one place
+- [glance](https://github.com/glanceapp/glance) (32672 stars) - A self-hosted dashboard that puts all your feeds in one place
 - [gleam](https://github.com/chrislusf/gleam) (3555 stars) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
 - [glider](https://github.com/nadoo/glider) (3635 stars) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-- [glow](https://github.com/charmbracelet/glow) (23845 stars) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [glow](https://github.com/charmbracelet/glow) (23846 stars) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [gmailctl](https://github.com/mbrt/gmailctl) (2144 stars) - Declarative configuration for Gmail filters
 - [gnet](https://github.com/panjf2000/gnet) (11112 stars) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [gnostic](https://github.com/google/gnostic) (2273 stars) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
-- [go](https://github.com/golang/go) (133111 stars) - The Go programming language
 - [Go](https://github.com/TheAlgorithms/Go) (17888 stars) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
+- [go](https://github.com/golang/go) (133111 stars) - The Go programming language
 - [go](https://github.com/paketo-buildpacks/go) (93 stars) - A Cloud Native Buildpack for Go
 - [go-attestation](https://github.com/google/go-attestation) (417 stars) - Libraries to abstract aspects of working with TPMs for the purposes of attestation
 - [go-audit](https://github.com/slackhq/go-audit) (1660 stars) - go-audit is an alternative to the auditd daemon that ships with many distros
@@ -783,8 +783,8 @@
 - [gochromecast](https://github.com/vjerci/gochromecast) (239 stars) - A simple tool to stream your media to android TV or chromecast device
 - [gocqlx](https://github.com/scylladb/gocqlx) (1020 stars) - All-In-One: CQL query builder, ORM and migration tool
 - [gocrack](https://github.com/mandiant/gocrack) (1273 stars) - GoCrack is a management frontend for password cracking tools written in Go
-- [gocron](https://github.com/go-co-op/gocron) (6970 stars) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [gocron](https://github.com/jasonlvhit/gocron) (3500 stars) - A Golang Job Scheduling Package.
+- [gocron](https://github.com/go-co-op/gocron) (6969 stars) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [gocryptfs](https://github.com/rfjakob/gocryptfs) (4369 stars) - Encrypted overlay filesystem written in Go
 - [gocv](https://github.com/hybridgroup/gocv) (7403 stars) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
 - [godel-scheduler](https://github.com/kubewharf/godel-scheduler) (649 stars) - a unified scheduler for online and offline tasks
@@ -850,7 +850,7 @@
 - [goth](https://github.com/markbates/goth) (6485 stars) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [gotop](https://github.com/xxxserxxx/gotop) (3049 stars) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [gotp](https://github.com/itsmewes/gotp) (14 stars) - Handling Google Authenitcator codes.
-- [gotty](https://github.com/yudai/gotty) (19430 stars) - Share your terminal as a web application
+- [gotty](https://github.com/yudai/gotty) (19431 stars) - Share your terminal as a web application
 - [gotty-client](https://github.com/moul/gotty-client) (324 stars) - :wrench: terminal client for GoTTY
 - [gowall](https://github.com/Achno/gowall) (2041 stars) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features.
 - [goxash3d-fwgs](https://github.com/yohimik/goxash3d-fwgs) (9 stars) - Xash3D-FWGS CGO Wrapper
@@ -910,8 +910,8 @@
 - [helm](https://github.com/helm/helm) (29598 stars) - The Kubernetes Package Manager
 - [helm-2to3](https://github.com/helm/helm-2to3) (491 stars) - ⚠️(OBSOLETE) This is a Helm v3 plugin which migrates and cleans up Helm v2 configuration and releases in-place to Helm v3
 - [helm-cel](https://github.com/idsulik/helm-cel) (122 stars) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml.
-- [helm-charts](https://github.com/adfinis/helm-charts) (82 stars) - 📈 Helm charts from Adfinis
 - [helm-charts](https://github.com/DataDog/helm-charts) (414 stars) - Helm charts for Datadog products
+- [helm-charts](https://github.com/adfinis/helm-charts) (82 stars) - 📈 Helm charts from Adfinis
 - [helm-controller](https://github.com/fluxcd/helm-controller) (510 stars) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [helm-controller](https://github.com/k3s-io/helm-controller) (488 stars) - Unknown
 - [helm-convert](https://github.com/ContainerSolutions/helm-convert) (220 stars) - Convert Helm charts into Kustomize compatible package
@@ -930,7 +930,7 @@
 - [hetty](https://github.com/dstotijn/hetty) (9356 stars) - An HTTP toolkit for security research.
 - [hetzner-kube](https://github.com/xetys/hetzner-kube) (752 stars) - A CLI tool for provisioning kubernetes clusters on Hetzner Cloud
 - [hey](https://github.com/rakyll/hey) (19845 stars) - HTTP load generator, ApacheBench (ab) replacement
-- [higress](https://github.com/alibaba/higress) (7849 stars) - 🤖 AI Gateway | AI Native API Gateway
+- [higress](https://github.com/alibaba/higress) (7850 stars) - 🤖 AI Gateway | AI Native API Gateway
 - [hnrss](https://github.com/hnrss/hnrss) (596 stars) - Custom, realtime RSS feeds for Hacker News
 - [hoop](https://github.com/hoophq/hoop) (618 stars) - Automated Access and Data Protection
 - [hot](https://github.com/samber/hot) (246 stars) - 🌶️ In-memory caching library for read-intensive Go applications
@@ -943,7 +943,7 @@
 - [httptap](https://github.com/monasticacademy/httptap) (4151 stars) - View HTTP/HTTPS requests made by any Linux program
 - [httpx](https://github.com/projectdiscovery/httpx) (9716 stars) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [hub](https://github.com/mislav/hub) (22949 stars) - A command-line tool that makes git easier to use with GitHub.
-- [hugo](https://github.com/gohugoio/hugo) (87177 stars) - The world’s fastest framework for building websites.
+- [hugo](https://github.com/gohugoio/hugo) (87178 stars) - The world’s fastest framework for building websites.
 - [hugot](https://github.com/knights-analytics/hugot) (580 stars) - Onnx transformer pipelines in Golang
 - [huh](https://github.com/charmbracelet/huh) (6687 stars) - Build terminal forms and prompts 🤷🏻‍♀️
 - [humanlog](https://github.com/humanlogio/humanlog) (937 stars) - Observability on your laptop
@@ -983,8 +983,8 @@
 - [ip-masq-agent](https://github.com/kubernetes-sigs/ip-masq-agent) (243 stars) - Manage IP masquerade on nodes
 - [iprepd](https://github.com/mozilla-services/iprepd) (60 stars) - Centralized IP reputation daemon
 - [ipsetd](https://github.com/42wim/ipsetd) (11 stars) - ipset daemon (for fast remote ipset manipulation, runs ipset in interactive mode)
-- [iris](https://github.com/kataras/iris) (25616 stars) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [iris](https://github.com/olegsu/iris) (66 stars) - Watch on Kubernetes events, filter and send them as standard wehbook to any system
+- [iris](https://github.com/kataras/iris) (25616 stars) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [is](https://github.com/matryer/is) (1951 stars) - Professional lightweight testing mini-framework for Go.
 - [ishell](https://github.com/abiosoft/ishell) (1762 stars) - Library for creating interactive cli applications.
 - [istio](https://github.com/istio/istio) (38104 stars) - Connect, secure, control, and observe services.
@@ -1041,8 +1041,8 @@
 - [kalm](https://github.com/kalmhq/kalm) (432 stars) - Kalm | Kubernetes AppLication Manager
 - [kamaji](https://github.com/clastix/kamaji) (1881 stars) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [kan](https://github.com/amterp/kan) (1 stars) - Kanban boards that lives in your repository.
-- [kaniko](https://github.com/GoogleContainerTools/kaniko) (15759 stars) - Build Container Images In Kubernetes
 - [kaniko](https://github.com/chainguard-forks/kaniko) (853 stars) - Build Container Images In Kubernetes
+- [kaniko](https://github.com/GoogleContainerTools/kaniko) (15759 stars) - Build Container Images In Kubernetes
 - [kanister](https://github.com/kanisterio/kanister) (867 stars) - An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
 - [kapacitor](https://github.com/influxdata/kapacitor) (2369 stars) - Open source framework for processing, monitoring, and alerting on time series data
 - [kapi](https://github.com/comradequinn/kapi) (26 stars) - kapi provides a simplified interface to the controller-runtime library.
@@ -1099,7 +1099,7 @@
 - [kong](https://github.com/alecthomas/kong) (3005 stars) - Kong is a command-line parser for Go
 - [konstraint](https://github.com/plexsystems/konstraint) (391 stars) - A policy management tool for interacting with Gatekeeper
 - [kooper](https://github.com/spotahome/kooper) (539 stars) - Kooper is a simple Go library to create Kubernetes operators and controllers.
-- [kopia](https://github.com/kopia/kopia) (12848 stars) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [kopia](https://github.com/kopia/kopia) (12850 stars) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [kops](https://github.com/kubernetes/kops) (16574 stars) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kpack](https://github.com/buildpacks-community/kpack) (1063 stars) - Kubernetes Native Container Build Service
 - [kpexec](https://github.com/ssup2/kpexec) (270 stars) -  kpexec is a kubernetes cli that runs commands in a container with high privileges.
@@ -1110,8 +1110,8 @@
 - [kraken](https://github.com/uber/kraken) (6669 stars) - P2P Docker registry capable of distributing TBs of data in seconds
 - [krakend-ce](https://github.com/krakend/krakend-ce) (2576 stars) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [kratix](https://github.com/syntasso/kratix) (732 stars) - Kratix is an open-source framework for building platforms
-- [kratos](https://github.com/go-kratos/kratos) (25539 stars) - Your ultimate Go microservices framework for the cloud-native era.
 - [kratos](https://github.com/ory/kratos) (13537 stars) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. 
+- [kratos](https://github.com/go-kratos/kratos) (25539 stars) - Your ultimate Go microservices framework for the cloud-native era.
 - [krelay](https://github.com/knight42/krelay) (334 stars) - A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
 - [krew](https://github.com/kubernetes-sigs/krew) (6920 stars) - 📦 Find and install kubectl plugins
 - [KrillinAI](https://github.com/krillinai/KrillinAI) (9732 stars) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
@@ -1130,7 +1130,7 @@
 - [kube](https://github.com/gdt-dev/kube) (7 stars) - Go Declarative Testing - Kubernetes
 - [kube-applier](https://github.com/box/kube-applier) (639 stars) - kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.
 - [kube-aws-iam-controller](https://github.com/zalando-incubator/kube-aws-iam-controller) (161 stars) - Distribute different AWS IAM credentials to different pods in Kubernetes via secrets.
-- [kube-bench](https://github.com/aquasecurity/kube-bench) (7981 stars) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+- [kube-bench](https://github.com/aquasecurity/kube-bench) (7982 stars) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [kube-eagle](https://github.com/cloudworkz/kube-eagle) (712 stars) - A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
 - [kube-httpcache](https://github.com/mittwald/kube-httpcache) (312 stars) - Varnish Reverse Proxy on Kubernetes
 - [kube-image-keeper](https://github.com/enix/kube-image-keeper) (695 stars) - kuik is a container image caching system for Kubernetes
@@ -1195,12 +1195,12 @@
 - [kubepug](https://github.com/kubepug/kubepug) (1801 stars) - Kubernetes PreUpGrade (Checker)
 - [kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) (2225 stars) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
 - [kubermatic](https://github.com/kubermatic/kubermatic) (1262 stars) - Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure 
-- [kubernetes](https://github.com/kubernetes/kubernetes) (121258 stars) - Production-Grade Container Scheduling and Management
+- [kubernetes](https://github.com/kubernetes/kubernetes) (121259 stars) - Production-Grade Container Scheduling and Management
 - [kubernetes-cloudflare-sync](https://github.com/calebdoxsey/kubernetes-cloudflare-sync) (116 stars) - Unknown
 - [kubernetes-deployment-restart-controller](https://github.com/xing/kubernetes-deployment-restart-controller) (99 stars) - Kubernetes controller that restarts Deployments when referenced ConfigMaps or Secrets change.
 - [kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (1015 stars) - Export Kubernetes events to multiple destinations with routing and filtering
-- [kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) (4986 stars) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [kubernetes-ingress](https://github.com/haproxytech/kubernetes-ingress) (853 stars) - HAProxy Ingress Controller for Kubernetes https://www.haproxy.com/blog/announcing-haproxy-kubernetes-ingress-controller-3-2
+- [kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) (4986 stars) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 - [kubernetes-ldap](https://github.com/apprenda-kismatic/kubernetes-ldap) (55 stars) - Unknown
 - [kubernetes-mcp](https://github.com/kkb0318/kubernetes-mcp) (46 stars) - Unknown
 - [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) (170 stars) - Generate a Kubernetes Event when a Pod's container has been OOMKilled
@@ -1221,8 +1221,8 @@
 - [kubevela](https://github.com/kubevela/kubevela) (7708 stars) - The Modern Application Platform.
 - [kubevirt](https://github.com/kubevirt/kubevirt) (6748 stars) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [kubevpn](https://github.com/kubenetworks/kubevpn) (1306 stars) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network. 
-- [kubewatch](https://github.com/vmware-archive/kubewatch) (2427 stars) - Watch k8s events and trigger Handlers
 - [kubewatch](https://github.com/robusta-dev/kubewatch) (787 stars) - Watch k8s events and trigger Handlers
+- [kubewatch](https://github.com/vmware-archive/kubewatch) (2427 stars) - Watch k8s events and trigger Handlers
 - [kubewebhook](https://github.com/slok/kubewebhook) (627 stars) - Go framework to create Kubernetes mutating and validating webhooks
 - [kubewire](https://github.com/postfinance/kubewire) (10 stars) - Kubernetes integrity checker
 - [kubezoo](https://github.com/kubewharf/kubezoo) (718 stars) - a lightweight kubernetes multi-tenancy gateway
@@ -1249,7 +1249,7 @@
 - [lakeFS](https://github.com/treeverse/lakeFS) (5208 stars) - lakeFS - Data version control for your data lake | Git for data
 - [lane](https://github.com/oleiade/lane) (899 stars) - Generic PriorityQueues, Queues, Stacks, and Deque data structures for Go
 - [langchaingo](https://github.com/tmc/langchaingo) (8901 stars) - LangChain for Go, the easiest way to write LLM-based programs in Go
-- [lazygit](https://github.com/jesseduffield/lazygit) (74750 stars) - simple terminal UI for git commands
+- [lazygit](https://github.com/jesseduffield/lazygit) (74752 stars) - simple terminal UI for git commands
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) (319 stars) - Vulnerability scanning just got lazier
 - [ldhcpd](https://github.com/erikh/ldhcpd) (59 stars) - Light DHCPd -- a DHCP server with a small feature set and a remotely programmable control plane
 - [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) (23545 stars) - Learn Go with test-driven development
@@ -1272,7 +1272,7 @@
 - [liqo](https://github.com/liqotech/liqo) (1413 stars) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 - [listmonk](https://github.com/knadh/listmonk) (19307 stars) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [litefs](https://github.com/superfly/litefs) (4711 stars) - FUSE-based file system for replicating SQLite databases across a cluster of machines
-- [litestream](https://github.com/benbjohnson/litestream) (13363 stars) - Streaming replication for SQLite.
+- [litestream](https://github.com/benbjohnson/litestream) (13364 stars) - Streaming replication for SQLite.
 - [litesync](https://github.com/mikaelhg/litesync) (23 stars) - Self-hosted Brave sync server
 - [litmus](https://github.com/litmuschaos/litmus) (5272 stars) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 - [livego](https://github.com/gwuhaolin/livego) (10179 stars) - live video streaming server in golang
@@ -1352,7 +1352,7 @@
 - [metrics-server](https://github.com/kubernetes-sigs/metrics-server) (6577 stars) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [metrictank](https://github.com/grafana/metrictank) (618 stars) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [mgmt](https://github.com/purpleidea/mgmt) (4204 stars) - Next generation distributed, event-driven, parallel config management!
-- [micro](https://github.com/micro-editor/micro) (28224 stars) - A modern and intuitive terminal-based text editor
+- [micro](https://github.com/micro-editor/micro) (28225 stars) - A modern and intuitive terminal-based text editor
 - [microceph](https://github.com/canonical/microceph) (374 stars) - MicroCeph is snap-deployed Ceph with built-in clustering
 - [microcloud](https://github.com/canonical/microcloud) (462 stars) - Automated private cloud based on LXD, Ceph and OVN
 - [mig](https://github.com/mozilla/mig) (1202 stars) - Distributed & real time digital forensics at the speed of the cloud
@@ -1401,7 +1401,7 @@
 - [nats-streaming-server](https://github.com/nats-io/nats-streaming-server) (2537 stars) - NATS Streaming System Server
 - [nats-surveyor](https://github.com/nats-io/nats-surveyor) (309 stars) - NATS Monitoring, Simplified.
 - [nats-top](https://github.com/nats-io/nats-top) (396 stars) - A top-like tool for monitoring NATS servers.
-- [navidrome](https://github.com/navidrome/navidrome) (19961 stars) - 🎧 Your Personal Streaming Service 
+- [navidrome](https://github.com/navidrome/navidrome) (19962 stars) - 🎧 Your Personal Streaming Service 
 - [navigator](https://github.com/jetstack/navigator) (267 stars) - Managed Database-as-a-Service (DBaaS) on Kubernetes
 - [nebula](https://github.com/slackhq/nebula) (17145 stars) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [neko](https://github.com/m1k1o/neko) (20140 stars) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1435,8 +1435,8 @@
 - [node_exporter](https://github.com/prometheus/node_exporter) (13254 stars) - Exporter for machine metrics
 - [nodejs](https://github.com/paketo-buildpacks/nodejs) (65 stars) - A Cloud Native Buildpack for Node.JS
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) (10162 stars) - Real-time microphone noise suppression on Linux.
-- [nomad](https://github.com/virtual-kubelet/nomad) (30 stars) - HashiCorp Nomad Provider for Virtual Kubelet
 - [nomad](https://github.com/hashicorp/nomad) (16305 stars) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- [nomad](https://github.com/virtual-kubelet/nomad) (30 stars) - HashiCorp Nomad Provider for Virtual Kubelet
 - [noms](https://github.com/attic-labs/noms) (7428 stars) - The versioned, forkable, syncable database
 - [norouter](https://github.com/norouter/norouter) (366 stars) - NoRouter: IP-over-Stdio. The easiest multi-host & multi-cloud networking ever. No root privilege is required. 
 - [nos](https://github.com/nebuly-ai/nos) (685 stars) - Module to Automatically maximize the utilization of GPU resources in a Kubernetes cluster through real-time dynamic partitioning and elastic quotas - Effortless optimization at its finest!
@@ -1447,7 +1447,7 @@
 - [notionapi](https://github.com/kjk/notionapi) (1842 stars) - Unofficial Go API for Notion.so
 - [nova](https://github.com/FairwindsOps/nova) (847 stars) - Find outdated or deprecated Helm charts running in your cluster.
 - [nsq](https://github.com/nsqio/nsq) (25889 stars) - A realtime distributed messaging platform
-- [ntfy](https://github.com/binwiederhier/ntfy) (29321 stars) - Send push notifications to your phone or desktop using PUT/POST
+- [ntfy](https://github.com/binwiederhier/ntfy) (29322 stars) - Send push notifications to your phone or desktop using PUT/POST
 - [nuclei](https://github.com/projectdiscovery/nuclei) (27555 stars) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 - [nuclio](https://github.com/nuclio/nuclio) (5686 stars) - High-Performance Serverless event and data processing platform
 - [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) (8175 stars) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -1470,14 +1470,14 @@
 - [ofelia](https://github.com/mcuadros/ofelia) (3766 stars) - A docker job scheduler (aka. crontab for docker)
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) (21883 stars) - The most customisable and low-latency cross platform/shell prompt renderer
 - [okteto](https://github.com/okteto/okteto) (3497 stars) - Develop your applications directly in your Kubernetes Cluster
-- [ollama](https://github.com/ollama/ollama) (165697 stars) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama](https://github.com/ollama/ollama) (165698 stars) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) (858 stars) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [omm](https://github.com/dhth/omm) (325 stars) - on-my-mind: a keyboard-driven task manager for the command line
 - [omni](https://github.com/siderolabs/omni) (1091 stars) - SaaS-simple deployment of Kubernetes - on your own hardware.
 - [omnom](https://github.com/asciimoo/omnom) (626 stars) - A web content preservation service
 - [oneshot](https://github.com/forestnode-io/oneshot) (336 stars) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [onionpipe](https://github.com/cmars/onionpipe) (606 stars) - Onion addresses for anything.
-- [opa](https://github.com/open-policy-agent/opa) (11352 stars) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+- [opa](https://github.com/open-policy-agent/opa) (11353 stars) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [open-feature-operator](https://github.com/open-feature/open-feature-operator) (284 stars) - A Kubernetes feature flag operator
 - [open-match](https://github.com/googleforgames/open-match) (3385 stars) - Flexible, extensible, and scalable video game matchmaking.
 - [openbao](https://github.com/openbao/openbao) (5640 stars) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -1508,8 +1508,8 @@
 - [optimus](https://github.com/raystack/optimus) (760 stars) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [oras](https://github.com/oras-project/oras) (2178 stars) - OCI registry client - managing content like artifacts, images, packages
 - [orches](https://github.com/orches-team/orches) (90 stars) - Simple git-ops for Podman and systemd
-- [orchestrator](https://github.com/openark/orchestrator) (5758 stars) - MySQL replication topology management and HA
 - [orchestrator](https://github.com/outbrain-inc/orchestrator) (830 stars) - MySQL replication topology manager/visualizer
+- [orchestrator](https://github.com/openark/orchestrator) (5758 stars) - MySQL replication topology management and HA
 - [orchestrion](https://github.com/DataDog/orchestrion) (579 stars) - Automatic compile-time instrumentation of Go code
 - [org](https://github.com/kubernetes/org) (287 stars) - Meta configuration for Kubernetes Github Org
 - [orgalorg](https://github.com/reconquest/orgalorg) (893 stars) - Parallel SSH commands runner and file synchronization tool
@@ -1554,7 +1554,7 @@
 - [peerdb](https://github.com/PeerDB-io/peerdb) (3027 stars) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [peirates](https://github.com/inguardians/peirates) (1428 stars) - Peirates - Kubernetes Penetration Testing tool
 - [PenguinCast](https://github.com/ssetin/PenguinCast) (6 stars) - Icecast compatible streaming audio server
-- [pennybase](https://github.com/zserge/pennybase) (823 stars) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
+- [pennybase](https://github.com/zserge/pennybase) (824 stars) - Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase
 - [perf-tests](https://github.com/kubernetes/perf-tests) (970 stars) - Performance tests and benchmarks
 - [periph](https://github.com/google/periph) (1736 stars) - Older version of periph, see new version at https://github.com/periph
 - [perkeep](https://github.com/perkeep/perkeep) (7112 stars) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
@@ -1578,7 +1578,7 @@
 - [phoneinfoga](https://github.com/sundowndev/phoneinfoga) (16065 stars) - Information gathering framework for phone numbers
 - [photoprism](https://github.com/photoprism/photoprism) (39476 stars) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [pico](https://github.com/picosh/pico) (1264 stars) - The ultimate ssh powered services for developers
-- [picoclaw](https://github.com/sipeed/picoclaw) (25620 stars) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+- [picoclaw](https://github.com/sipeed/picoclaw) (25623 stars) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [picoshare](https://github.com/mtlynch/picoshare) (2854 stars) - A minimalist, easy-to-host service for sharing images and other files
 - [pig](https://github.com/pgsty/pig) (187 stars) - PostgreSQL Extension Package Manager
 - [pike](https://github.com/sashabaranov/pike) (314 stars) - Generate CRUD gRPC backends from single YAML description.
@@ -1591,7 +1591,7 @@
 - [piri](https://github.com/storacha/piri) (28 stars) - 🌶️ Storacha Storage Node
 - [pkger](https://github.com/markbates/pkger) (1186 stars) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins) (55 stars) - Unknown
-- [plakar](https://github.com/PlakarKorp/plakar) (1693 stars) - plakar is a backup solution powered by Kloset and ptar
+- [plakar](https://github.com/PlakarKorp/plakar) (1694 stars) - plakar is a backup solution powered by Kloset and ptar
 - [planet](https://github.com/gravitational/planet) (48 stars) - Installable Kubernetes delivered in containers
 - [please](https://github.com/thought-machine/please) (2589 stars) - High-performance extensible build system for reproducible multi-language builds.
 - [pleco](https://github.com/Qovery/pleco) (227 stars) - Automatically removes Cloud managed services and Kubernetes resources based on tags with TTL
@@ -1601,8 +1601,8 @@
 - [plumber](https://github.com/streamdal/plumber) (2158 stars) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [pluto](https://github.com/FairwindsOps/pluto) (2477 stars) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [pobj](https://github.com/picosh/pobj) (20 stars) - rsync, scp, sftp, and sshfs for your object store
-- [pocket-id](https://github.com/pocket-id/pocket-id) (7175 stars) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
-- [pocketbase](https://github.com/pocketbase/pocketbase) (56919 stars) - Open Source realtime backend in 1 file
+- [pocket-id](https://github.com/pocket-id/pocket-id) (7176 stars) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocketbase](https://github.com/pocketbase/pocketbase) (56921 stars) - Open Source realtime backend in 1 file
 - [podcast-cli](https://github.com/goulinkh/podcast-cli) (259 stars) - Podcast CLI player
 - [podinfo](https://github.com/stefanprodan/podinfo) (5858 stars) - Go microservice template for Kubernetes
 - [podman](https://github.com/containers/podman) (31077 stars) - Podman: A tool for managing OCI containers and pods.
@@ -1643,7 +1643,7 @@
 - [pufferpanel](https://github.com/pufferpanel/pufferpanel) (1662 stars) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [pug](https://github.com/leg100/pug) (666 stars) - Drive terraform at terminal velocity.
 - [Pulse](https://github.com/rcourtman/Pulse) (5078 stars) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
-- [pulumi](https://github.com/pulumi/pulumi) (24928 stars) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [pulumi](https://github.com/pulumi/pulumi) (24929 stars) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) (284 stars) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [pumba](https://github.com/alexei-led/pumba) (3000 stars) - Chaos testing, network emulation, and stress testing tool for containers
 - [pushgateway](https://github.com/prometheus/pushgateway) (3301 stars) - Push acceptor for ephemeral and batch jobs.
@@ -1656,7 +1656,7 @@
 - [qrcp](https://github.com/claudiodangelis/qrcp) (10425 stars) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [quake-kube](https://github.com/criticalstack/quake-kube) (329 stars) - Quake 3 on Kubernetes
 - [quality-news](https://github.com/social-protocols/quality-news) (85 stars) - Quality News - Towards a fairer ranking formula for Hacker News
-- [qui](https://github.com/autobrr/qui) (3509 stars) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+- [qui](https://github.com/autobrr/qui) (3510 stars) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [quicssh](https://github.com/moul/quicssh) (849 stars) - SSH over QUIC
 - [raccoon](https://github.com/raystack/raccoon) (212 stars) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [rad](https://github.com/amterp/rad) (298 stars) - Modern CLI scripts made easy.
@@ -1681,8 +1681,8 @@
 - [redis-cluster-go-coordinator](https://github.com/sarweshsuman/redis-cluster-go-coordinator) (12 stars) - Unknown
 - [redis-cluster-operator](https://github.com/ucloud/redis-cluster-operator) (398 stars) - Redis Cluster Operator creates and manages Redis Clusters atop Kubernetes.
 - [redis-dump-go](https://github.com/yannh/redis-dump-go) (345 stars) - Backup & Restore your Redis server - FAST
-- [redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) (1309 stars) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [redis-operator](https://github.com/spotahome/redis-operator) (1665 stars) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
+- [redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) (1309 stars) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [redis-port](https://github.com/CodisLabs/redis-port) (639 stars) - Unknown
 - [redis-resharding-proxy](https://github.com/smira/redis-resharding-proxy) (180 stars) - Redis Resharding Proxy
 - [redisbench](https://github.com/panjiang/redisbench) (39 stars) - Redis cluster benchmark tool
@@ -1713,7 +1713,7 @@
 - [resumectl](https://github.com/juhnny5/resumectl) (64 stars) - resumectl - Your Resume as Code
 - [retina](https://github.com/microsoft/retina) (3109 stars) - eBPF distributed networking observability tool for Kubernetes
 - [retrogit](https://github.com/mihaip/retrogit) (34 stars) - Your GitHub time machine.
-- [retry-go](https://github.com/avast/retry-go) (2901 stars) - Simple golang library for retry mechanism
+- [retry-go](https://github.com/avast/retry-go) (2902 stars) - Simple golang library for retry mechanism
 - [reva](https://github.com/cs3org/reva) (211 stars) - WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends
 - [reviewdog](https://github.com/reviewdog/reviewdog) (9155 stars) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rexray](https://github.com/rexray/rexray) (2219 stars) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
@@ -1722,12 +1722,12 @@
 - [riot](https://github.com/go-ego/riot) (6069 stars) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
 - [risor](https://github.com/deepnoodle-ai/risor) (893 stars) - Risor is a fast, embeddable scripting language for Go applications.  Add dynamic expressions, filters, and user-defined logic to your Go programs without embedding a heavy runtime like V8 or Python. Expressions compile to bytecode and run on a lightweight VM. Pure Go, minimal dependencies.
 - [ristretto](https://github.com/dgraph-io/ristretto) (6815 stars) - A high performance memory-bound Go cache
-- [river](https://github.com/riverqueue/river) (4888 stars) - Fast and reliable background jobs in Go
+- [river](https://github.com/riverqueue/river) (4889 stars) - Fast and reliable background jobs in Go
 - [rke](https://github.com/rancher/rke) (3300 stars) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 - [rke2](https://github.com/rancher/rke2) (2141 stars) - Unknown
 - [robin](https://github.com/jiansoft/robin) (33 stars) - robin provides a high performance golang goroutine library and job scheduling for humans. 
 - [rocker](https://github.com/grammarly/rocker) (1332 stars) - Rocker breaks the limits of Dockerfile.
-- [rod](https://github.com/go-rod/rod) (6810 stars) - A Chrome DevTools Protocol driver for web automation and scraping.
+- [rod](https://github.com/go-rod/rod) (6812 stars) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [rode-legacy](https://github.com/rode/rode-legacy) (65 stars) - cloud native software supply chain ☁️🔗
 - [rollout-operator](https://github.com/grafana/rollout-operator) (179 stars) - Kubernetes Rollout Operator
 - [rook](https://github.com/rook/rook) (13418 stars) - Storage Orchestration for Kubernetes
@@ -1747,8 +1747,8 @@
 - [runme](https://github.com/runmedev/runme) (2007 stars) - DevOps Notebooks Built with Markdown
 - [runnc](https://github.com/nabla-containers/runnc) (259 stars) -  OCI-interfacing Container runtime for Nabla Containers 
 - [runq](https://github.com/gotoz/runq) (846 stars) - run regular Docker images in KVM/Qemu
-- [runtime](https://github.com/clearcontainers/runtime) (589 stars) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines
 - [runtime](https://github.com/acorn-io/runtime) (1127 stars) - A simple application deployment framework built on Kubernetes
+- [runtime](https://github.com/clearcontainers/runtime) (589 stars) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines
 - [runv](https://github.com/hyperhq/runv) (830 stars) - Hypervisor-based Runtime for OCI
 - [s3-controller](https://github.com/aws-controllers-k8s/s3-controller) (70 stars) - ACK service controller for Amazon Simple Storage Service (S3)
 - [s5cmd](https://github.com/peak/s5cmd) (3969 stars) - Parallel S3 and local filesystem execution tool.
@@ -1789,8 +1789,8 @@
 - [sensu-go](https://github.com/sensu/sensu-go) (1097 stars) - Simple. Scalable. Multi-cloud monitoring.
 - [serf](https://github.com/hashicorp/serf) (6051 stars) - Service orchestration and management tool.
 - [server](https://github.com/gotify/server) (14767 stars) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [server](https://github.com/screego/server) (10315 stars) - screen sharing for developers https://screego.net/
 - [server](https://github.com/traggo/server) (1553 stars) - self-hosted tag-based time tracking
+- [server](https://github.com/screego/server) (10315 stars) - screen sharing for developers https://screego.net/
 - [serverless-registry-proxy](https://github.com/ahmetb/serverless-registry-proxy) (269 stars) - Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains.
 - [service-catalog](https://github.com/kubernetes-retired/service-catalog) (1039 stars) - Consume services in Kubernetes using the Open Service Broker API
 - [serviceq](https://github.com/gptankit/serviceq) (77 stars) - Super fault-tolerant HTTP load balancer & queue. White paper for reference - https://github.com/gptankit/serviceq-paper
@@ -1815,7 +1815,7 @@
 - [sift](https://github.com/svent/sift) (1642 stars) - A fast and powerful alternative to grep
 - [sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) (1186 stars) - Static provisioner of local volumes
 - [silver-surfer](https://github.com/devtron-labs/silver-surfer) (438 stars) - Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades
-- [sing-box](https://github.com/SagerNet/sing-box) (31635 stars) - The universal proxy platform
+- [sing-box](https://github.com/SagerNet/sing-box) (31636 stars) - The universal proxy platform
 - [sinker](https://github.com/plexsystems/sinker) (626 stars) - A tool to sync images from one container registry to another
 - [sio](https://github.com/minio/sio) (386 stars) - Go implementation of the Data At Rest Encryption (DARE) format.
 - [skaffold](https://github.com/GoogleContainerTools/skaffold) (15778 stars) - Easy and Repeatable Kubernetes Development
@@ -1838,8 +1838,8 @@
 - [sloth](https://github.com/slok/sloth) (2427 stars) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [Smap](https://github.com/s0md3v/Smap) (3203 stars) - a drop-in replacement for Nmap powered by shodan.io
 - [smee](https://github.com/tinkerbell/smee) (345 stars) - DHCP and iPXE Server
-- [smith](https://github.com/atlassian/smith) (281 stars) - Smith is a Kubernetes workflow engine / resource manager
 - [smith](https://github.com/oracle/smith) (601 stars) - Smith: A microcontainer builder
+- [smith](https://github.com/atlassian/smith) (281 stars) - Smith is a Kubernetes workflow engine / resource manager
 - [smokeping_prober](https://github.com/SuperQ/smokeping_prober) (704 stars) - Prometheus style smokeping
 - [smoothmq](https://github.com/poundifdef/smoothmq) (2283 stars) - An improved drop-in replacement for SQS
 - [snitch](https://github.com/karol-broda/snitch) (3321 stars) - a prettier way to inspect network connections
@@ -1890,7 +1890,7 @@
 - [storage](https://github.com/containers/storage) (625 stars) - Container Storage Library
 - [storm](https://github.com/asdine/storm) (2101 stars) - Simple and powerful toolkit for BoltDB
 - [streamhut](https://github.com/miguelmota/streamhut) (924 stars) - Stream your terminal to web without installing anything 🌐 by @miguelmota
-- [subfinder](https://github.com/projectdiscovery/subfinder) (13273 stars) - Fast passive subdomain enumeration tool.
+- [subfinder](https://github.com/projectdiscovery/subfinder) (13274 stars) - Fast passive subdomain enumeration tool.
 - [submariner](https://github.com/submariner-io/submariner) (2627 stars) - Networking component for interconnecting Pods and Services across Kubernetes clusters.
 - [subtrace](https://github.com/subtrace/subtrace) (2793 stars) - Network inspector for your backend
 - [SugarDB](https://github.com/EchoVault/SugarDB) (530 stars) - Embeddable and distributed in-memory alternative to Redis.
@@ -1902,13 +1902,13 @@
 - [sx](https://github.com/v-byte-cpu/sx) (1513 stars) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [syft](https://github.com/anchore/syft) (8532 stars) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [sympozium](https://github.com/sympozium-ai/sympozium) (311 stars) - Run a fleet of AI agents on Kubernetes. Administer your cluster agentically
-- [syncthing](https://github.com/syncthing/syncthing) (80974 stars) - Open Source Continuous File Synchronization
+- [syncthing](https://github.com/syncthing/syncthing) (80975 stars) - Open Source Continuous File Synchronization
 - [synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent) (212 stars) - Synthetic Monitoring agent
 - [system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) (931 stars) - In your Kubernetes, upgrading your nodes
 - [systray](https://github.com/getlantern/systray) (3676 stars) - a cross platfrom Go library to place an icon and menu in the notification area
 - [syzkaller](https://github.com/google/syzkaller) (6102 stars) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 - [tailpipe](https://github.com/turbot/tailpipe) (543 stars) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB. Analyze millions of events in seconds, right from your terminal.
-- [tailscale](https://github.com/tailscale/tailscale) (29603 stars) - The easiest, most secure way to use WireGuard and 2FA.
+- [tailscale](https://github.com/tailscale/tailscale) (29604 stars) - The easiest, most secure way to use WireGuard and 2FA.
 - [talm](https://github.com/cozystack/talm) (431 stars) - Manage Talos Linux the GitOps Way!
 - [talos](https://github.com/siderolabs/talos) (10093 stars) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [tamago](https://github.com/usbarmory/tamago) (1850 stars) - TamaGo - bare metal Go
@@ -1922,14 +1922,14 @@
 - [tcpproxy](https://github.com/inetaf/tcpproxy) (1295 stars) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
 - [telegraf](https://github.com/influxdata/telegraf) (16769 stars) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [telemetry-harbor-oss](https://github.com/HarborScale/telemetry-harbor-oss) (121 stars) - Telemetry Harbor OSS is the open-source ingestion and visualization stack behind Harbor Scale
-- [teleport](https://github.com/gravitational/teleport) (20049 stars) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [telepresence](https://github.com/telepresenceio/telepresence) (7150 stars) - Local development against a remote Kubernetes or OpenShift cluster
-- [templ](https://github.com/a-h/templ) (10162 stars) - A language for writing HTML user interfaces in Go.
+- [teleport](https://github.com/gravitational/teleport) (20050 stars) - The easiest, and most secure way to access and protect all of your infrastructure.
+- [telepresence](https://github.com/telepresenceio/telepresence) (7151 stars) - Local development against a remote Kubernetes or OpenShift cluster
+- [templ](https://github.com/a-h/templ) (10163 stars) - A language for writing HTML user interfaces in Go.
 - [tempo](https://github.com/grafana/tempo) (5131 stars) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [temporal](https://github.com/temporalio/temporal) (19036 stars) - Temporal service
 - [temporal-worker-controller](https://github.com/temporalio/temporal-worker-controller) (139 stars) - Unknown
 - [tendermint](https://github.com/tendermint/tendermint) (5861 stars) - ⟁ Tendermint Core (BFT Consensus) in Go
-- [tengo](https://github.com/d5/tengo) (3789 stars) - A fast script language for Go
+- [tengo](https://github.com/d5/tengo) (3790 stars) - A fast script language for Go
 - [tenta-dns](https://github.com/tenta-browser/tenta-dns) (1611 stars) - Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS
 - [tenv](https://github.com/tofuutils/tenv) (1329 stars) - OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager
 - [termenv](https://github.com/muesli/termenv) (1976 stars) - Advanced ANSI style & color support for your terminal applications
@@ -2014,13 +2014,13 @@
 - [tpmk](https://github.com/folbricht/tpmk) (46 stars) - Toolkit to manage keys and certificates in TPM2 chips
 - [tproxy](https://github.com/kevwan/tproxy) (3659 stars) - A cli tool to proxy and analyze TCP connections.
 - [traceloop](https://github.com/kinvolk/traceloop) (199 stars) -  Now moved into `github.com/inspektor-gadget/inspektor-gadget/pkg/gadget-collection/gadgets/traceloop`. Tracing system calls in cgroups using BPF and overwritable ring buffers
-- [traefik](https://github.com/traefik/traefik) (62288 stars) - The Cloud Native Application Proxy
+- [traefik](https://github.com/traefik/traefik) (62290 stars) - The Cloud Native Application Proxy
 - [transfer](https://github.com/artie-labs/transfer) (833 stars) - Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse (Snowflake, BigQuery, Redshift, Databricks) in real-time. 
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) (15810 stars) - Easy and fast file sharing from the command-line.
 - [trdl](https://github.com/werf/trdl) (300 stars) - The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository.
 - [trickster](https://github.com/trickstercache/trickster) (2070 stars) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [trillian](https://github.com/google/trillian) (3710 stars) - A transparent, highly scalable and cryptographically verifiable data store.
-- [trivy](https://github.com/aquasecurity/trivy) (33229 stars) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [trivy](https://github.com/aquasecurity/trivy) (33231 stars) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trousseau](https://github.com/oleiade/trousseau) (958 stars) - File based encrypted key-value store
 - [trousseau](https://github.com/ondat/trousseau) (180 stars) - Store and access your secrets the Kubernetes native way with any external KMS.
 - [trufflehog](https://github.com/trufflesecurity/trufflehog) (25129 stars) - Find, verify, and analyze leaked credentials
@@ -2040,7 +2040,7 @@
 - [tyger](https://github.com/microsoft/tyger) (66 stars) - Remote signal processing.
 - [tyk](https://github.com/TykTechnologies/tyk) (10670 stars) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [typer](https://github.com/maaslalani/typer) (491 stars) - Typing test in your terminal
-- [typescript-go](https://github.com/microsoft/typescript-go) (24511 stars) - Staging repo for development of native port of TypeScript
+- [typescript-go](https://github.com/microsoft/typescript-go) (24513 stars) - Staging repo for development of native port of TypeScript
 - [tz](https://github.com/oz/tz) (883 stars) - 🌐 A time zone helper
 - [ubiquity-k8s](https://github.com/IBM/ubiquity-k8s) (37 stars) - Ubiquity Kubernetes
 - [uchiwa](https://github.com/sensu/uchiwa) (908 stars) - Uchiwa is a simple yet effective open-source dashboard for the Sensu monitoring framework.
@@ -2058,20 +2058,20 @@
 - [updatecli](https://github.com/updatecli/updatecli) (879 stars) - A Declarative Update Policy Engine
 - [updo](https://github.com/Owloops/updo) (915 stars) - Uptime monitoring CLI tool with alerting and advanced settings
 - [upduck](https://github.com/xarantolus/upduck) (100 stars) - simple web server that integrates with DuckDNS & Let's Encrypt
-- [UpSnap](https://github.com/seriousm4x/UpSnap) (5394 stars) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+- [UpSnap](https://github.com/seriousm4x/UpSnap) (5395 stars) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [upspin](https://github.com/upspin/upspin) (6404 stars) - Upspin: A framework for naming everyone's everything.
 - [upterm](https://github.com/owenthereal/upterm) (1184 stars) - Instant Terminal Sharing
 - [usage-metrics-collector](https://github.com/kubernetes-sigs/usage-metrics-collector) (132 stars) - High fidelity and scalable capacity and usage metrics for Kubernetes clusters
-- [usql](https://github.com/xo/usql) (9875 stars) - Universal command-line interface for SQL databases
+- [usql](https://github.com/xo/usql) (9876 stars) - Universal command-line interface for SQL databases
 - [utahfs](https://github.com/cloudflare/utahfs) (819 stars) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [utask](https://github.com/ovh/utask) (1366 stars) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [uvbox](https://github.com/AmadeusITGroup/uvbox) (46 stars) - Fast, simple and cross-platform Python application packaging
 - [v2](https://github.com/miniflux/v2) (8930 stars) - Minimalist and opinionated feed reader
-- [v2ray-core](https://github.com/v2fly/v2ray-core) (33445 stars) - A platform for building proxies to bypass network restrictions.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) (46967 stars) - A platform for building proxies to bypass network restrictions.
+- [v2ray-core](https://github.com/v2fly/v2ray-core) (33445 stars) - A platform for building proxies to bypass network restrictions.
 - [v8go](https://github.com/rogchap/v8go) (3473 stars) - Execute JavaScript from Go
 - [vab](https://github.com/stellarproject/vab) (15 stars) - Container Assembly Builder
-- [vale](https://github.com/vale-cli/vale) (5301 stars) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [vale](https://github.com/vale-cli/vale) (5302 stars) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [validating](https://github.com/RussellLuo/validating) (230 stars) - A Go library for validating structs, maps and slices.
 - [validator](https://github.com/go-playground/validator) (19819 stars) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [vals](https://github.com/helmfile/vals) (747 stars) - Helm-like configuration values loader with support for various sources
@@ -2090,7 +2090,7 @@
 - [venom](https://github.com/ovh/venom) (1183 stars) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [version-checker](https://github.com/jetstack/version-checker) (765 stars) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [vHive](https://github.com/vhive-serverless/vHive) (328 stars) - vHive: Open-source framework for serverless experimentation
-- [vhs](https://github.com/charmbracelet/vhs) (19058 stars) - Your CLI home video recorder 📼
+- [vhs](https://github.com/charmbracelet/vhs) (19059 stars) - Your CLI home video recorder 📼
 - [vibium](https://github.com/VibiumDev/vibium) (2717 stars) - Browser automation for AI agents and humans
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) (16570 stars) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [viper](https://github.com/spf13/viper) (30173 stars) - Go configuration with fangs
@@ -2104,14 +2104,14 @@
 - [vssh](https://github.com/yahoo/vssh) (993 stars) - Go Library to Execute Commands Over SSH at Scale
 - [vulcand](https://github.com/vulcand/vulcand) (3097 stars) -  Programmatic load balancer backed by Etcd
 - [vuls](https://github.com/future-architect/vuls) (12071 stars) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [wails](https://github.com/wailsapp/wails) (33343 stars) - Create beautiful applications using Go
+- [wails](https://github.com/wailsapp/wails) (33342 stars) - Create beautiful applications using Go
 - [waitron](https://github.com/ns1/waitron) (123 stars) - Server installations made easy
 - [wakeci](https://github.com/jsnjack/wakeci) (115 stars) - Task automation
 - [wal-g](https://github.com/wal-g/wal-g) (3971 stars) - Archival and Restoration for databases in the Cloud
 - [walk](https://github.com/antonmedv/walk) (3590 stars) - Terminal file manager
 - [wally](https://github.com/zsa/wally) (690 stars) - The Flash(ing tool)
 - [warrant](https://github.com/warrant-dev/warrant) (1327 stars) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar. Use it to define, enforce, query, and audit application authorization and access control.
-- [watchtower](https://github.com/containrrr/watchtower) (24563 stars) - A process for automating Docker container base image updates. 
+- [watchtower](https://github.com/containrrr/watchtower) (24564 stars) - A process for automating Docker container base image updates. 
 - [watermarkpodautoscaler](https://github.com/DataDog/watermarkpodautoscaler) (240 stars) - Custom controller that extends the Horizontal Pod Autoscaler
 - [watermill](https://github.com/ThreeDotsLabs/watermill) (9600 stars) - Building event-driven applications the easy way in Go.
 - [wave](https://github.com/wave-k8s/wave) (767 stars) - Kubernetes configuration tracking controller
@@ -2125,7 +2125,7 @@
 - [webhook](https://github.com/adnanh/webhook) (11684 stars) - webhook is a lightweight incoming webhook server to run shell commands
 - [webify](https://github.com/beefsack/webify) (964 stars) - Turn shell commands into web services
 - [webmesh](https://github.com/webmeshproj/webmesh) (471 stars) - A simple, distributed, zero-configuration WireGuard mesh solution
-- [webrtc](https://github.com/pion/webrtc) (16139 stars) - Pure Go implementation of the WebRTC API
+- [webrtc](https://github.com/pion/webrtc) (16140 stars) - Pure Go implementation of the WebRTC API
 - [webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen) (507 stars) - Stream a remote desktop screen directly to your browser
 - [websocketd](https://github.com/joewalnes/websocketd) (17651 stars) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. 
 - [webtty](https://github.com/maxmcd/webtty) (2810 stars) - Share a terminal session over WebRTC
@@ -2144,8 +2144,8 @@
 - [whodb](https://github.com/clidey/whodb) (4679 stars) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [whosthere](https://github.com/ramonvermeulen/whosthere) (2079 stars) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wicketkeeper](https://github.com/a-ve/wicketkeeper) (204 stars) - A privacy-friendly, self-hostable Proof-of-Work (PoW) CAPTCHA
-- [wire](https://github.com/goforj/wire) (227 stars) - Compile-time Dependency Injection for Go
 - [wire](https://github.com/google/wire) (14361 stars) - Compile-time Dependency Injection for Go
+- [wire](https://github.com/goforj/wire) (227 stars) - Compile-time Dependency Injection for Go
 - [wiregate](https://github.com/sirMackk/wiregate) (15 stars) - Simple WireGuard setup for LANs for humans
 - [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) (5050 stars) - Wireguard web interface
 - [wireproxy](https://github.com/windtf/wireproxy) (5464 stars) - Wireguard client that exposes itself as a socks5 proxy
@@ -2165,8 +2165,8 @@
 - [xc](https://github.com/joerdav/xc) (1373 stars) - Markdown defined task runner.
 - [xcodis](https://github.com/ledisdb/xcodis) (187 stars) - Yet another redis proxy based on codis(https://github.com/wandoulabs/codis)
 - [xdatabase-proxy](https://github.com/hasirciogluhq/xdatabase-proxy) (36 stars) - A high-performance database proxy service built with Go, designed for Kubernetes environments. Provides secure and scalable database connection management with support for multiple database types.
-- [xgo](https://github.com/goplus/xgo) (9407 stars) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 - [xgo](https://github.com/xhd2015/xgo) (431 stars) - All-in-one go testing library
+- [xgo](https://github.com/goplus/xgo) (9407 stars) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 - [xid](https://github.com/rs/xid) (4265 stars) - xid is a globally unique id generator thought for the web
 - [xmtp-node-go](https://github.com/xmtp/xmtp-node-go) (15 stars) - Software for the nodes that currently form the XMTP network
 - [yaegi](https://github.com/traefik/yaegi) (8105 stars) - Yaegi is Another Elegant Go Interpreter

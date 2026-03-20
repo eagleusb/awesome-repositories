@@ -11,7 +11,7 @@
 - [bluedoc](https://github.com/huacnlee/bluedoc) (632 stars) - An open-source document management tool for enterprise self host.
 - [brimir](https://github.com/ivaldi/brimir) (1373 stars) - Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [canine](https://github.com/CanineHQ/canine) (2796 stars) - A developer friendly PaaS for your Kubernetes
-- [chatwoot](https://github.com/chatwoot/chatwoot) (27935 stars) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) (27936 stars) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [chef](https://github.com/chef/chef) (8367 stars) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [ciao](https://github.com/brotandgames/ciao) (1932 stars) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [cuber-gem](https://github.com/cuber-cloud/cuber-gem) (703 stars) - An automation tool that simplify the deployment of your apps on Kubernetes.

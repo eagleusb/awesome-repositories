@@ -11,7 +11,7 @@
 - [cloudstack](https://github.com/apache/cloudstack) (2843 stars) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 - [cloudsync](https://github.com/HolgerHees/cloudsync) (176 stars) - Sync a local filesystem on linux, windows and osx incremental and encrypted with google drive simliar to rsync. You can also restore the encrypted data back to a local filesystem. It works as a complete backup solution for your private data.
 - [commafeed](https://github.com/Athou/commafeed) (3479 stars) - Google Reader inspired self-hosted personal RSS reader.
-- [conductor](https://github.com/conductor-oss/conductor) (31546 stars) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+- [conductor](https://github.com/conductor-oss/conductor) (31547 stars) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
 - [crate](https://github.com/crate/crate) (4368 stars) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [cryptomator](https://github.com/cryptomator/cryptomator) (14811 stars) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [data-transfer-project](https://github.com/dtinit/data-transfer-project) (3609 stars) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
@@ -25,7 +25,7 @@
 - [druid](https://github.com/apache/druid) (13964 stars) - Apache Druid: a high performance real-time analytics database.
 - [dsbulk-migrator](https://github.com/datastax-archive/dsbulk-migrator) (9 stars) - Unknown
 - [dslabs](https://github.com/emichael/dslabs) (1635 stars) - Distributed Systems Labs and Framework
-- [elasticsearch](https://github.com/elastic/elasticsearch) (76368 stars) - Free and Open Source, Distributed, RESTful Search Engine
+- [elasticsearch](https://github.com/elastic/elasticsearch) (76370 stars) - Free and Open Source, Distributed, RESTful Search Engine
 - [embulk](https://github.com/embulk/embulk) (1782 stars) - Embulk: Pluggable Bulk Data Loader.
 - [enso](https://github.com/enso-org/enso) (7437 stars) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [eureka](https://github.com/Netflix/eureka) (12694 stars) - AWS Service registry for resilient mid-tier load balancing and failover.
@@ -43,7 +43,7 @@
 - [jib](https://github.com/GoogleContainerTools/jib) (14357 stars) - 🏗 Build container images for your Java applications.
 - [jvm-profiler](https://github.com/uber-common/jvm-profiler) (1804 stars) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
 - [kestra](https://github.com/kestra-io/kestra) (26572 stars) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [keycloak](https://github.com/keycloak/keycloak) (33455 stars) - Open Source Identity and Access Management For Modern Applications and Services
+- [keycloak](https://github.com/keycloak/keycloak) (33456 stars) - Open Source Identity and Access Management For Modern Applications and Services
 - [keycloak-mariadb](https://github.com/mposolda/keycloak-mariadb) (10 stars) - How to easily set MariaDB cluster and configure with Keycloak
 - [keywhiz](https://github.com/square/keywhiz) (2623 stars) - A system for distributing and managing secrets
 - [kronotop](https://github.com/kronotop/kronotop) (280 stars) - Kronotop is a distributed document database that combines ACID transactions with simplicity at any scale.
@@ -64,7 +64,7 @@
 - [opensearchserver](https://github.com/jaeksoft/opensearchserver) (513 stars) - Open-source Enterprise Grade Search Engine Software
 - [orientdb](https://github.com/orientechnologies/orientdb) (4940 stars) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.
 - [pacbot](https://github.com/tmobile/pacbot) (1306 stars) - PacBot (Policy as Code Bot)
-- [pkl](https://github.com/apple/pkl) (11099 stars) - A configuration as code language with rich validation and tooling.
+- [pkl](https://github.com/apple/pkl) (11100 stars) - A configuration as code language with rich validation and tooling.
 - [presto](https://github.com/prestodb/presto) (16665 stars) - The official home of the Presto distributed SQL query engine for big data
 - [raspicast](https://github.com/HaarigerHarald/raspicast) (51 stars) - Raspicast android app
 - [riot](https://github.com/redis/riot) (331 stars) - ⚠️ UNMAINTAINED - See RIOT-X for the actively maintained version

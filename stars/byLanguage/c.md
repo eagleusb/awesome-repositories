@@ -14,9 +14,9 @@
 - [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) (1599 stars) - ControllerService
 - [ilSFV](https://github.com/judwhite/ilSFV) (38 stars) - SFV, MD5 and SHA-1 file verification utility for Windows.
 - [Jackett](https://github.com/Jackett/Jackett) (15075 stars) - API Support for your favorite torrent trackers
-- [jellyfin](https://github.com/jellyfin/jellyfin) (49484 stars) - The Free Software Media System - Server Backend & API
+- [jellyfin](https://github.com/jellyfin/jellyfin) (49485 stars) - The Free Software Media System - Server Backend & API
 - [jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) (216 stars) - Automatically delete played media files after specified amount of time.
-- [Kavita](https://github.com/Kareadita/Kavita) (10144 stars) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+- [Kavita](https://github.com/Kareadita/Kavita) (10145 stars) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 - [kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) (1545 stars) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [Lidarr](https://github.com/Lidarr/Lidarr) (5146 stars) - Looks and smells like Sonarr but made for music.
 - [lingarr](https://github.com/lingarr-translate/lingarr) (722 stars) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.
