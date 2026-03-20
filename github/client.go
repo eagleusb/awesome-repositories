@@ -2,18 +2,24 @@ package github
 
 import (
 	"fmt"
+	"net/http"
 	"os"
+	"path/filepath"
+	"time"
 
+	ghtransport "github.com/bored-engineer/github-conditional-http-transport"
+	bboltstorage "github.com/bored-engineer/github-conditional-http-transport/bbolt"
 	"github.com/google/go-github/v83/github"
+	"go.etcd.io/bbolt"
 )
 
 var GITHUB_TOKEN = os.Getenv("GITHUB_TOKEN")
 
 type GitHubClient struct {
-	client *github.Client
-	config *githubConfig
+	client       *github.Client
+	config       *githubConfig
 	StarredRepos []*github.Repository
-	Repos *githubRepos
+	Repos        *githubRepos
 }
 
 type githubConfig struct {
@@ -28,8 +34,29 @@ func NewGitHubClient() (*GitHubClient, error) {
 		return nil, fmt.Errorf("GITHUB_TOKEN environment variable is not set")
 	}
 
+	cacheDir, err := os.UserCacheDir()
+	if err != nil {
+		return nil, fmt.Errorf("failed to get cache directory: %w", err)
+	}
+	cachePath := filepath.Join(cacheDir, "awesome-repositories", "cache.db")
+	if err := os.MkdirAll(filepath.Dir(cachePath), 0755); err != nil {
+		return nil, fmt.Errorf("failed to create cache directory: %w", err)
+	}
+
+	httpClient := &http.Client{
+		Transport: ghtransport.NewTransport(
+			bboltstorage.MustOpen(
+				cachePath,
+				0644,
+				&bbolt.Options{Timeout: 15 * time.Second},
+				nil),
+			http.DefaultTransport,
+		),
+		Timeout: 15 * time.Second,
+	}
+
 	return &GitHubClient{
-		client: github.NewClient(nil).WithAuthToken(GITHUB_TOKEN),
+		client: github.NewClient(httpClient).WithAuthToken(GITHUB_TOKEN),
 		config: &githubConfig{},
 		Repos: &githubRepos{
 			ByLanguage: make(map[string][]*githubRepo),

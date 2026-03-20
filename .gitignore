@@ -33,8 +33,9 @@ Thumbs.db
 .env.local
 
 # Build artifacts
-bin/
+bin/*
 dist/
+!/bin/.gitkeep
 
 # Coverage files
 coverage.txt
