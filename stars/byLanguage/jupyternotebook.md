@@ -5,7 +5,7 @@
 - [audiocraft](https://github.com/facebookresearch/audiocraft) (23106 stars) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [burst](https://github.com/burstable-ai/burst) (134 stars) - Command-line tool to remotely execute code in the cloud
 - [calculette-impots-m-language-parser](https://github.com/etalab/calculette-impots-m-language-parser) (15 stars) - Calculette de l'impôt sur le revenu parsée
-- [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) (35538 stars) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) (35540 stars) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [community](https://github.com/kubernetes/community) (12789 stars) - Kubernetes community content
 - [cookbook](https://github.com/google-gemini/cookbook) (16793 stars) - Examples and guides for using the Gemini API
 - [course-nlp](https://github.com/fastai/course-nlp) (3478 stars) - A Code-First Introduction to NLP course

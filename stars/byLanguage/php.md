@@ -4,7 +4,7 @@
 - [Baikal](https://github.com/sabre-io/Baikal) (3104 stars) - Baïkal is a Calendar+Contacts server
 - [cachet](https://github.com/cachethq/cachet) (14988 stars) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [cacti](https://github.com/Cacti/cacti) (1811 stars) - Cacti ™
-- [crater](https://github.com/crater-invoice-inc/crater) (8267 stars) - Open Source Invoicing Solution for Individuals & Businesses
+- [crater](https://github.com/crater-invoice-inc/crater) (8268 stars) - Open Source Invoicing Solution for Individuals & Businesses
 - [cypht](https://github.com/cypht-org/cypht) (1451 stars) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services)
 - [Erugo](https://github.com/ErugoOSS/Erugo) (990 stars) - A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you complete control over your data while providing a seamless experience for both senders and recipients.
 - [framework](https://github.com/flarum/framework) (6694 stars) - Simple forum software for building great communities.
@@ -36,7 +36,7 @@
 - [sonerezh](https://github.com/Sonerezh/sonerezh) (776 stars) - A self-hosted, web-based application to stream your music, everywhere.
 - [spotweb](https://github.com/spotweb/spotweb) (650 stars) - Decentralized community
 - [switches.mx](https://github.com/BWLR/switches.mx) (89 stars) - Open source code for the website https://switches.mx (currently lives on http://45.33.1.82/ until I get a new domain)
-- [TeamPass](https://github.com/nilsteampassnet/TeamPass) (1778 stars) - Collaborative Passwords Manager
+- [TeamPass](https://github.com/nilsteampassnet/TeamPass) (1779 stars) - Collaborative Passwords Manager
 - [thelia](https://github.com/thelia/thelia) (871 stars) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
 - [UNIT3D](https://github.com/HDInnovations/UNIT3D) (2352 stars) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
 - [wallabag](https://github.com/wallabag/wallabag) (12583 stars) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.

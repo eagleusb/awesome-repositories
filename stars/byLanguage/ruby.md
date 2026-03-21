@@ -24,7 +24,7 @@
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) (37562 stars) - A curated list of engineering blogs
 - [eu-haul](https://github.com/eurosky-social/eu-haul) (30 stars) - ATProto account migration tool with a simple web interface. Built with Rails 7. Includes progress tracking, encrypted credentials, and background job processing via Sidekiq.
 - [fasterer](https://github.com/DamirSvrtan/fasterer) (1822 stars) - :zap: Don't make your Rubies go fast. Make them go fasterer ™. :zap: 
-- [fastlane](https://github.com/fastlane/fastlane) (41215 stars) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [fastlane](https://github.com/fastlane/fastlane) (41214 stars) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [fluentd](https://github.com/fluent/fluentd) (13512 stars) - Fluentd: Unified Logging Layer (project under CNCF)
 - [foreman](https://github.com/theforeman/foreman) (2831 stars) - an application that automates the lifecycle of servers 
 - [fpm](https://github.com/jordansissel/fpm) (11454 stars) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
@@ -70,7 +70,7 @@
 - [solidus](https://github.com/solidusio/solidus) (5273 stars) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
 - [spree](https://github.com/spree/spree) (15282 stars) - Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively — from B2B wholesale to multi-vendor marketplace to global multi-region or multi-tenant distributor platforms. Use each model independently or combine them as your business evolves.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) (788 stars) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
-- [sure](https://github.com/we-promise/sure) (7440 stars) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [sure](https://github.com/we-promise/sure) (7441 stars) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [synapse](https://github.com/airbnb/synapse) (2064 stars) - A transparent service discovery framework for connecting an SOA
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) (1627 stars) - Improve Terraform's plan output to be easier to read and understand
 - [terraforming](https://github.com/dtan4/terraforming) (4262 stars) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained

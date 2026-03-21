@@ -65,5 +65,5 @@
 - [wanderer](https://github.com/open-wanderer/wanderer) (3434 stars) - wanderer is a self-hosted trail database. Save your adventures!
 - [web-starter-kit](https://github.com/google/web-starter-kit) (18341 stars) - Web Starter Kit - a workflow for multi-device websites
 - [website](https://github.com/kubernetes/website) (5189 stars) - Kubernetes website and documentation repo: 
-- [windmill](https://github.com/windmill-labs/windmill) (16041 stars) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+- [windmill](https://github.com/windmill-labs/windmill) (16042 stars) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [zoraxy](https://github.com/tobychui/zoraxy) (5050 stars) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!

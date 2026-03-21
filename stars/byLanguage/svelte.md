@@ -9,4 +9,4 @@
 - [networking-toolbox](https://github.com/Lissy93/networking-toolbox) (2403 stars) - 🛜 100+ offline-first networking tools and utilities
 - [photon](https://github.com/Xyphyn/photon) (515 stars) - A faster, prettier, and nicer fediverse client
 - [tidal-ui](https://github.com/binimum/tidal-ui) (1245 stars) - Simple Tidal frontend. Also on tidal.qqdl.site
-- [VERT](https://github.com/VERT-sh/VERT) (14355 stars) - The next-generation file converter. Open source, fully local* and free forever.
+- [VERT](https://github.com/VERT-sh/VERT) (14356 stars) - The next-generation file converter. Open source, fully local* and free forever.

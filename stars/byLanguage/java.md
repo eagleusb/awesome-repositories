@@ -30,7 +30,7 @@
 - [enso](https://github.com/enso-org/enso) (7437 stars) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [eureka](https://github.com/Netflix/eureka) (12694 stars) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [GCViewer](https://github.com/chewiebug/GCViewer) (4633 stars) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (65987 stars) - Ghidra is a software reverse engineering (SRE) framework
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (65989 stars) - Ghidra is a software reverse engineering (SRE) framework
 - [gocd](https://github.com/gocd/gocd) (7382 stars) - GoCD - Continuous Delivery server main repository
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) (7988 stars) - Free and open log management
 - [haven](https://github.com/guardianproject/haven) (6795 stars) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors

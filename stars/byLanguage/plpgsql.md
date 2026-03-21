@@ -8,7 +8,7 @@
 - [pgai](https://github.com/timescale/pgai) (5770 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgmanage](https://github.com/commandprompt/pgmanage) (993 stars) - Web tool for database management
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (92 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (4648 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq](https://github.com/pgmq/pgmq) (4649 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (54 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2062 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (257 stars) - SQLite Foreign Data Wrapper for PostgreSQL

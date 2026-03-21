@@ -1,12 +1,12 @@
 ## JavaScript (442 repositories) 
-- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) (127167 stars) - Coding articles to level up your development skills
+- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) (127168 stars) - Coding articles to level up your development skills
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) (66290 stars) - 📜 33 JavaScript concepts every developer should know.
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) (7325 stars) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [ace](https://github.com/ajaxorg/ace) (27123 stars) - Ace (Ajax.org Cloud9 Editor)
 - [actual-server](https://github.com/actualbudget/actual-server) (3385 stars) - Actual's server
 - [addic7ed-api](https://github.com/same31/addic7ed-api) (24 stars) - API to search and download subtitles files from addic7ed.com
 - [aedes](https://github.com/moscajs/aedes) (1930 stars) - Barebone MQTT broker that can run on any stream server, the node way
-- [agent-skills](https://github.com/vercel-labs/agent-skills) (23515 stars) - Vercel's official collection of agent skills
+- [agent-skills](https://github.com/vercel-labs/agent-skills) (23516 stars) - Vercel's official collection of agent skills
 - [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (3312 stars) - Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) (30847 stars) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [airtap](https://github.com/airtap/airtap) (1376 stars) - Run TAP unit tests in 1789+ browsers.
@@ -28,7 +28,7 @@
 - [autoscaler](https://github.com/cloudspannerecosystem/autoscaler) (96 stars) - Automatically scale the capacity of your Spanner instances based on their utilization.
 - [ava](https://github.com/avajs/ava) (20855 stars) - Node.js test runner that lets you develop with confidence 🚀
 - [awaiting](https://github.com/hunterloftis/awaiting) (672 stars) - The async/await utility for browsers and Node.js.
-- [awesome-ctf](https://github.com/apsdehal/awesome-ctf) (11367 stars) - A curated list of CTF frameworks, libraries, resources and softwares
+- [awesome-ctf](https://github.com/apsdehal/awesome-ctf) (11368 stars) - A curated list of CTF frameworks, libraries, resources and softwares
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) (39329 stars) - The best design tools and plugins for everything 👉
 - [awesome-phonenumber](https://github.com/grantila/awesome-phonenumber) (705 stars) - Google's libphonenumber pre-compiled with the closure compiler
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) (28630 stars) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -63,7 +63,7 @@
 - [chameleon](https://github.com/ghostwords/chameleon) (545 stars) - Browser fingerprinting protection for everybody.
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) (7769 stars) - xkcd styled chart lib
 - [chdb-node](https://github.com/chdb-io/chdb-node) (47 stars) - Native NodeJS bindings for chDB, an in-process SQL OLAP Engine powered by ClickHouse
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) (94329 stars) - Clean Code concepts adapted for JavaScript
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) (94330 stars) - Clean Code concepts adapted for JavaScript
 - [cliparse-node](https://github.com/CleverCloud/cliparse-node) (84 stars) - Declarative CLI parsing for node
 - [cloudboost](https://github.com/CloudBoost/cloudboost) (1450 stars) - Realtime JavaScript Backend. 
 - [cloudmapper](https://github.com/duo-labs/cloudmapper) (6273 stars) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
@@ -98,7 +98,7 @@
 - [draxt](https://github.com/ramhejazi/draxt) (186 stars) - draxt.js – NodeList/jQuery-like package for File System (node.js) 
 - [dstatuspage](https://github.com/paulogr/dstatuspage) (631 stars) - Decentralized Status Page
 - [dumper.js](https://github.com/ziishaned/dumper.js) (2754 stars) - A better and pretty variable inspector for your Node.js applications
-- [edgejs](https://github.com/wasmerio/edgejs) (387 stars) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
+- [edgejs](https://github.com/wasmerio/edgejs) (388 stars) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
 - [elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) (7911 stars) - Import and export tools for elasticsearch & opensearch
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) (9495 stars) - A web front end for an elastic search cluster
 - [eleventy](https://github.com/11ty/eleventy) (19517 stars) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -108,8 +108,8 @@
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) (13346 stars) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
 - [eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) (2335 stars) - ESLint rules for Node Security
 - [ets2-local-radio](https://github.com/Koenvh1/ets2-local-radio) (280 stars) - Radio from wherever you are in ETS2/ATS
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) (92299 stars) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [execa](https://github.com/sindresorhus/execa) (7466 stars) - Process execution for humans
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) (92349 stars) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [execa](https://github.com/sindresorhus/execa) (7467 stars) - Process execution for humans
 - [exocortex](https://github.com/SpencerCDixon/exocortex) (236 stars) - Open source, language independent, modern personal wiki
 - [exui](https://github.com/turboderp-org/exui) (510 stars) - Web UI for ExLlamaV2
 - [fast-jwt](https://github.com/nearform/fast-jwt) (417 stars) - Fast JSON Web Token implementation
@@ -170,8 +170,8 @@
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) (8118 stars) - A pure JavaScript implementation of git for node and browsers!
 - [james](https://github.com/james-proxy/james) (1438 stars) - Web Debugging Proxy Application
 - [jasmine](https://github.com/jasmine/jasmine) (15845 stars) - Simple JavaScript testing framework for browsers and node.js
-- [JavaScript](https://github.com/TheAlgorithms/JavaScript) (34090 stars) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [javascript](https://github.com/airbnb/javascript) (148122 stars) - JavaScript Style Guide
+- [JavaScript](https://github.com/TheAlgorithms/JavaScript) (34090 stars) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) (195787 stars) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [Jellystat](https://github.com/CyferShepard/Jellystat) (2190 stars) - Jellystat is a free and open source Statistics App for Jellyfin
 - [jesse](https://github.com/jesse-ai/jesse) (7564 stars) - An advanced crypto trading bot written in Python
@@ -235,7 +235,7 @@
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) (4296 stars) - Command line tool for the Mermaid library
 - [metalnx-web](https://github.com/irods-contrib/metalnx-web) (39 stars) - Metalnx Web GUI for iRODS
 - [metalsmith](https://github.com/metalsmith/metalsmith) (7830 stars) - An extremely simple, pluggable static site generator for Node.js
-- [meteor](https://github.com/meteor/meteor) (44775 stars) - Meteor, the JavaScript App Platform
+- [meteor](https://github.com/meteor/meteor) (44776 stars) - Meteor, the JavaScript App Platform
 - [min](https://github.com/minbrowser/min) (8896 stars) - A fast, minimal browser that protects your privacy
 - [mocha](https://github.com/mochajs/mocha) (22881 stars) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [monaco-editor](https://github.com/microsoft/monaco-editor) (45791 stars) - A browser based code editor
@@ -250,12 +250,12 @@
 - [nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) (253 stars) - Simple web interface for running Ansible playbooks
 - [ndb](https://github.com/GoogleChromeLabs/ndb) (10893 stars) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [neutrino](https://github.com/neutrinojs/neutrino) (3924 stars) - Create and build modern JavaScript projects with zero initial configuration.
-- [next.js](https://github.com/vercel/next.js) (138421 stars) - The React Framework
+- [next.js](https://github.com/vercel/next.js) (138423 stars) - The React Framework
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) (28340 stars) - ⚙️ NGINX config generator on steroids 💉
 - [nightmare](https://github.com/segment-boneyard/nightmare) (19963 stars) - A high-level browser automation library.
 - [nightwatch](https://github.com/nightwatchjs/nightwatch) (11953 stars) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [nlp.js](https://github.com/axa-group/nlp.js) (6558 stars) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-- [node](https://github.com/nodejs/node) (116366 stars) - Node.js JavaScript runtime ✨🐢🚀✨
+- [node](https://github.com/nodejs/node) (116367 stars) - Node.js JavaScript runtime ✨🐢🚀✨
 - [node-castv2](https://github.com/thibauts/node-castv2) (793 stars) - An implementation of the Chromecast CASTV2 protocol
 - [node-clinic](https://github.com/clinicjs/node-clinic) (5939 stars) - Clinic.js diagnoses your Node.js performance issues
 - [node-convict](https://github.com/mozilla/node-convict) (2376 stars) - Featureful configuration management library for Node.js
@@ -326,7 +326,7 @@
 - [random-useragent](https://github.com/skratchdot/random-useragent) (259 stars) - Get a random user agent (with an optional filter to select from a specific set of user agents).
 - [rapid.js](https://github.com/rapidjs/rapid.js) (704 stars) - An ORM-like Interface and a Router For Your API Requests
 - [rapidfireai](https://github.com/RapidFireAI/rapidfireai) (142 stars) - RapidFire AI: Rapid AI Customization from RAG to Fine-Tuning
-- [react](https://github.com/facebook/react) (244109 stars) - The library for web and native user interfaces.
+- [react](https://github.com/facebook/react) (244110 stars) - The library for web and native user interfaces.
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) (13606 stars) - A free book that talks about design patterns/techniques used while developing with React.
 - [reaction](https://github.com/reactioncommerce/reaction) (12423 stars) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 
 - [relax](https://github.com/relax/relax) (8117 stars) - New generation CMS on top of React, Redux and GraphQL
@@ -343,8 +343,8 @@
 - [secretin-app](https://github.com/secretin/secretin-app) (32 stars) - Open source secret manager with sharing capability
 - [semantic-release](https://github.com/semantic-release/semantic-release) (23451 stars) - :package::rocket: Fully automated version management and package publishing
 - [send](https://github.com/timvisee/send) (5691 stars) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-- [server](https://github.com/franciscop/server) (3558 stars) - :desktop_computer: Simple and powerful server for Node.js
 - [server](https://github.com/localtunnel/server) (3308 stars) - server for localtunnel.me
+- [server](https://github.com/franciscop/server) (3558 stars) - :desktop_computer: Simple and powerful server for Node.js
 - [serverless](https://github.com/serverless/serverless) (46947 stars) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [serverless-dns](https://github.com/serverless-dns/serverless-dns) (3425 stars) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [serviceradar](https://github.com/carverauto/serviceradar) (846 stars) - Zero-trust Opensource Network Management and Observability Platform
@@ -352,7 +352,7 @@
 - [shout](https://github.com/erming/shout) (3601 stars) - Deprecated. See fork @ https://github.com/thelounge
 - [Sia-UI](https://github.com/NebulousLabs/Sia-UI) (387 stars) - A Graphical Frontend for Sia - https://sia.tech
 - [signale](https://github.com/klaudiosinani/signale) (9171 stars) - Highly configurable logging library
-- [SillyTavern](https://github.com/SillyTavern/SillyTavern) (24634 stars) - LLM Frontend for Power Users.
+- [SillyTavern](https://github.com/SillyTavern/SillyTavern) (24635 stars) - LLM Frontend for Power Users.
 - [sinon](https://github.com/sinonjs/sinon) (9761 stars) - Test spies, stubs and mocks for JavaScript.
 - [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) (4975 stars) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 - [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) (1666 stars) - Track compressed Webpack asset sizes over time.
@@ -386,9 +386,9 @@
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) (9426 stars) - Swagger Editor
 - [synmetrix](https://github.com/synmetrix/synmetrix) (609 stars) - Synmetrix – production-ready open source semantic layer on Cube
 - [sysdig-inspect](https://github.com/draios/sysdig-inspect) (997 stars) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
-- [tabler-icons](https://github.com/tabler/tabler-icons) (20426 stars) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) (20427 stars) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [taiko](https://github.com/getgauge/taiko) (3661 stars) - A node.js library for testing modern web applications
-- [taskbook](https://github.com/klaudiosinani/taskbook) (9289 stars) - Tasks, boards & notes for the command-line habitat
+- [taskbook](https://github.com/klaudiosinani/taskbook) (9290 stars) - Tasks, boards & notes for the command-line habitat
 - [tellform](https://github.com/tellform/tellform) (3032 stars) - ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
 - [terminal-kit](https://github.com/cronvel/terminal-kit) (3347 stars) - Terminal utilities for node.js
 - [terminator-themes](https://github.com/EliverLara/terminator-themes) (1201 stars) - :metal: The biggest collection of themes for Terminator terminal.
@@ -409,8 +409,8 @@
 - [unirest-nodejs](https://github.com/Kong/unirest-nodejs) (957 stars) - Unirest in Node.js: Simplified, lightweight HTTP client library.
 - [uptime-kuma](https://github.com/louislam/uptime-kuma) (84308 stars) - A fancy self-hosted monitoring tool
 - [UptimeKit-CLI](https://github.com/abhixdd/UptimeKit-CLI) (268 stars) - A modern, cross‑platform CLI to monitor websites and APIs. 
-- [user.js](https://github.com/arkenfox/user.js) (12309 stars) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [user.js](https://github.com/pyllyukko/user.js) (2871 stars) - user.js -- Firefox configuration hardening
+- [user.js](https://github.com/arkenfox/user.js) (12309 stars) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [v8n](https://github.com/imbrn/v8n) (4149 stars) - ☑️ JavaScript fluent validation library
 - [validate.js](https://github.com/ansman/validate.js) (2610 stars) - A declarative validation library written javascript
 - [validator.js](https://github.com/validatorjs/validator.js) (23763 stars) - String validation
