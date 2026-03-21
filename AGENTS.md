@@ -4,6 +4,15 @@ This file provides guidelines for agentic coding assistants working in this repo
 
 ## Build, Lint, and Test Commands
 
+### CI
+Using GitHub Actions.
+
+- Use GitHub Actions for CI/CD
+- Keep workflows in `.github/workflows/`
+- Use `actions/checkout@v6` version >=6 for checking out code
+- Use `actions/setup-go@v6` version >=6 for setting up Go
+- Use `planetscale/ghcommit-action@v0.2.20` version >=0.2.20 for committing changes
+
 ### Build
 ```bash
 # Build the executable
