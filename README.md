@@ -1,4 +1,13 @@
 # awesome-repositories
+
+## Top 5 Languages
+- [Go](stars/byLanguage/go.md) (2195 repositories, 35.60%)
+- [Python](stars/byLanguage/python.md) (847 repositories, 13.74%)
+- [TypeScript](stars/byLanguage/typescript.md) (469 repositories, 7.61%)
+- [JavaScript](stars/byLanguage/javascript.md) (442 repositories, 7.17%)
+- [Rust](stars/byLanguage/rust.md) (433 repositories, 7.02%)
+
+## All Languages
 - [Assembly](stars/byLanguage/assembly.md) (7 repositories, 0.11%)
 - [Astro](stars/byLanguage/astro.md) (1 repositories, 0.02%)
 - [Ballerina](stars/byLanguage/ballerina.md) (1 repositories, 0.02%)

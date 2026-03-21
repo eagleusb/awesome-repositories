@@ -1,34 +1,20 @@
 package github
 
 import (
-	"bufio"
 	"context"
 	"fmt"
-	"maps"
-	"os"
-	"path/filepath"
-	"slices"
-	"strings"
 	"sync"
 	"time"
 
-	u "github.com/eagleusb/awesome-repositories/utils"
+	"github.com/eagleusb/awesome-repositories/md"
+	"github.com/eagleusb/awesome-repositories/types"
 	"github.com/google/go-github/v83/github"
 	"golang.org/x/time/rate"
 )
 
-type githubRepo struct {
-	Name        string
-	Description string
-	Language    string
-	Category    []string
-	URL         string
-	Stars       int
-}
-
-type githubRepos struct {
-	ByLanguage map[string][]*githubRepo
-	ByCategory map[string][]*githubRepo
+type Repos struct {
+	ByLanguage map[string][]*types.Repo
+	ByCategory map[string][]*types.Repo
 }
 
 func (c *GitHubClient) GetStarredRepos(username string, limit, page, workers int) (*GitHubClient, error) {
@@ -178,7 +164,7 @@ func (c *GitHubClient) ClassifyRepos() *GitHubClient {
 			category = []string{"Unknown"}
 		}
 
-		repo := &githubRepo{
+		repo := &types.Repo{
 			Name:        name,
 			Language:    language,
 			Description: description,
@@ -191,89 +177,14 @@ func (c *GitHubClient) ClassifyRepos() *GitHubClient {
 	return c
 }
 
+// WriteIndex generates the main README.md with language index
 func (c *GitHubClient) WriteIndex() error {
-	filename := "README.md"
-	file, err := os.Create(filename)
-	if err != nil {
-		return fmt.Errorf("failed to create file %s: %w", filename, err)
-	}
-	defer file.Close()
-
-	writer := bufio.NewWriter(file)
-
-	_, err = fmt.Fprintf(writer, "# awesome-repositories\n")
-	if err != nil {
-		return fmt.Errorf("failed to write header to %s: %w", filename, err)
-	}
-
-	sortedLanguages := slices.Collect(maps.Keys(c.Repos.ByLanguage))
-	slices.SortFunc(sortedLanguages, func(a, b string) int {
-		return strings.Compare(strings.ToLower(a), strings.ToLower(b))
-	})
-
-	totalRepos := 0
-	for _, language := range sortedLanguages {
-		totalRepos += len(c.Repos.ByLanguage[language])
-	}
-
-	for _, language := range sortedLanguages {
-		repos := c.Repos.ByLanguage[language]
-		percentage := float64(len(repos)) / float64(totalRepos) * 100
-		_, err = fmt.Fprintf(writer, "- [%s](stars/byLanguage/%s.md) (%d repositories, %.2f%%)\n", language, u.SanitizeLanguage(language), len(repos), percentage)
-		if err != nil {
-			return fmt.Errorf("failed to write language %s to %s: %w", language, filename, err)
-		}
-	}
-
-	if err := writer.Flush(); err != nil {
-		return fmt.Errorf("failed to flush %s: %w", filename, err)
-	}
-
-	return nil
+	writer := md.NewWriter(c.Repos.ByLanguage)
+	return writer.WriteIndex("README.md", 5)
 }
 
+// WriteRepos generates individual markdown files for each language
 func (c *GitHubClient) WriteRepos() error {
-	dir := "stars/byLanguage"
-	if err := u.EnsureDirectory(dir); err != nil {
-		return err
-	}
-
-	for language, repos := range c.Repos.ByLanguage {
-		sanitized := u.SanitizeLanguage(language)
-		filename := filepath.Join(dir, sanitized+".md")
-
-		file, err := os.Create(filename)
-		if err != nil {
-			return fmt.Errorf("failed to create file %s: %w", filename, err)
-		}
-		defer file.Close()
-
-		writer := bufio.NewWriter(file)
-
-		sortedRepos := make([]*githubRepo, len(repos))
-		copy(sortedRepos, repos)
-		slices.SortFunc(sortedRepos, func(a, b *githubRepo) int {
-			return strings.Compare(strings.ToLower(a.Name), strings.ToLower(b.Name))
-		})
-
-		_, err = fmt.Fprintf(writer, "## %s (%d repositories) \n", language, len(sortedRepos))
-		if err != nil {
-			return fmt.Errorf("failed to write header to %s: %w", filename, err)
-		}
-
-		for _, repo := range sortedRepos {
-			_, err := fmt.Fprintf(writer, "- [%s](%s) (%d stars) - %s\n", repo.Name, repo.URL, repo.Stars, repo.Description)
-			if err != nil {
-				return fmt.Errorf("failed to write repo %s to %s: %w", repo.Name, filename, err)
-			}
-		}
-
-		if err := writer.Flush(); err != nil {
-			return fmt.Errorf("failed to flush %s: %w", filename, err)
-		}
-
-		fmt.Printf("Wrote %d repositories to %s\n", len(sortedRepos), filename)
-	}
-
-	return nil
+	writer := md.NewWriter(c.Repos.ByLanguage)
+	return writer.WriteRepos("stars/byLanguage")
 }
