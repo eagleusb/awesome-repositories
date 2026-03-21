@@ -11,6 +11,8 @@ import (
 	bboltstorage "github.com/bored-engineer/github-conditional-http-transport/bbolt"
 	"github.com/google/go-github/v83/github"
 	"go.etcd.io/bbolt"
+
+	"github.com/eagleusb/awesome-repositories/types"
 )
 
 var GITHUB_TOKEN = os.Getenv("GITHUB_TOKEN")
@@ -19,7 +21,7 @@ type GitHubClient struct {
 	client       *github.Client
 	config       *githubConfig
 	StarredRepos []*github.Repository
-	Repos        *githubRepos
+	Repos        *Repos
 }
 
 type githubConfig struct {
@@ -59,9 +61,9 @@ func NewGitHubClient() (*GitHubClient, error) {
 	return &GitHubClient{
 		client: github.NewClient(httpClient).WithAuthToken(GITHUB_TOKEN),
 		config: &githubConfig{},
-		Repos: &githubRepos{
-			ByLanguage: make(map[string][]*githubRepo),
-			ByCategory: make(map[string][]*githubRepo),
+		Repos: &Repos{
+			ByLanguage: make(map[string][]*types.Repo),
+			ByCategory: make(map[string][]*types.Repo),
 		},
 	}, nil
 }
