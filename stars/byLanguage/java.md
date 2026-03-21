@@ -1,6 +1,6 @@
 ## Java (90 repositories) 
 - [airsonic](https://github.com/airsonic/airsonic) (2042 stars) -  :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
-- [allure2](https://github.com/allure-framework/allure2) (5315 stars) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
+- [allure2](https://github.com/allure-framework/allure2) (5316 stars) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 - [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) (2520 stars) - Android backup extractor
 - [bazel](https://github.com/bazelbuild/bazel) (25241 stars) - a fast, scalable, multi-language and extensible build system
 - [blox](https://github.com/blox/blox) (938 stars) - Open source tools for building custom schedulers on Amazon ECS
@@ -11,9 +11,9 @@
 - [cloudstack](https://github.com/apache/cloudstack) (2843 stars) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 - [cloudsync](https://github.com/HolgerHees/cloudsync) (176 stars) - Sync a local filesystem on linux, windows and osx incremental and encrypted with google drive simliar to rsync. You can also restore the encrypted data back to a local filesystem. It works as a complete backup solution for your private data.
 - [commafeed](https://github.com/Athou/commafeed) (3479 stars) - Google Reader inspired self-hosted personal RSS reader.
-- [conductor](https://github.com/conductor-oss/conductor) (31547 stars) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+- [conductor](https://github.com/conductor-oss/conductor) (31550 stars) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
 - [crate](https://github.com/crate/crate) (4368 stars) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
-- [cryptomator](https://github.com/cryptomator/cryptomator) (14811 stars) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+- [cryptomator](https://github.com/cryptomator/cryptomator) (14814 stars) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [data-transfer-project](https://github.com/dtinit/data-transfer-project) (3609 stars) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
 - [databus](https://github.com/linkedin/databus) (3677 stars) - Source-agnostic distributed change data capture system
 - [dbeaver](https://github.com/dbeaver/dbeaver) (49205 stars) - Free universal database tool and SQL client
@@ -25,17 +25,17 @@
 - [druid](https://github.com/apache/druid) (13964 stars) - Apache Druid: a high performance real-time analytics database.
 - [dsbulk-migrator](https://github.com/datastax-archive/dsbulk-migrator) (9 stars) - Unknown
 - [dslabs](https://github.com/emichael/dslabs) (1635 stars) - Distributed Systems Labs and Framework
-- [elasticsearch](https://github.com/elastic/elasticsearch) (76370 stars) - Free and Open Source, Distributed, RESTful Search Engine
+- [elasticsearch](https://github.com/elastic/elasticsearch) (76372 stars) - Free and Open Source, Distributed, RESTful Search Engine
 - [embulk](https://github.com/embulk/embulk) (1782 stars) - Embulk: Pluggable Bulk Data Loader.
 - [enso](https://github.com/enso-org/enso) (7437 stars) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [eureka](https://github.com/Netflix/eureka) (12694 stars) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [GCViewer](https://github.com/chewiebug/GCViewer) (4633 stars) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (65968 stars) - Ghidra is a software reverse engineering (SRE) framework
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (65972 stars) - Ghidra is a software reverse engineering (SRE) framework
 - [gocd](https://github.com/gocd/gocd) (7382 stars) - GoCD - Continuous Delivery server main repository
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) (7988 stars) - Free and open log management
 - [haven](https://github.com/guardianproject/haven) (6796 stars) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [hawkbit](https://github.com/eclipse-hawkbit/hawkbit) (554 stars) - Eclipse hawkBit™
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (4873 stars) - Customizable and privacy-conscious open-source keyboard
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (4874 stars) - Customizable and privacy-conscious open-source keyboard
 - [heroic](https://github.com/spotify/heroic) (846 stars) - The Heroic Time Series Database
 - [hono](https://github.com/eclipse-hono/hono) (486 stars) - Eclipse Hono™ Project
 - [jackhammer](https://github.com/olacabs/jackhammer) (739 stars) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
@@ -60,7 +60,7 @@
 - [neosemantics](https://github.com/neo4j-labs/neosemantics) (921 stars) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes) (2787 stars) - Open source note-taking application for Android
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) (25983 stars) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [OpenSearch](https://github.com/opensearch-project/OpenSearch) (12605 stars) - 🔎 Open source distributed and RESTful search engine.
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch) (12606 stars) - 🔎 Open source distributed and RESTful search engine.
 - [opensearchserver](https://github.com/jaeksoft/opensearchserver) (513 stars) - Open-source Enterprise Grade Search Engine Software
 - [orientdb](https://github.com/orientechnologies/orientdb) (4940 stars) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.
 - [pacbot](https://github.com/tmobile/pacbot) (1306 stars) - PacBot (Policy as Code Bot)
@@ -72,18 +72,18 @@
 - [signal-cli](https://github.com/AsamK/signal-cli) (4320 stars) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [SimianArmy](https://github.com/Netflix/SimianArmy) (7984 stars) - Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [skywalking](https://github.com/apache/skywalking) (24750 stars) - APM, Application Performance Monitoring System
-- [sonarqube](https://github.com/SonarSource/sonarqube) (10347 stars) - Continuous Inspection
-- [spinnaker](https://github.com/spinnaker/spinnaker) (9707 stars) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+- [sonarqube](https://github.com/SonarSource/sonarqube) (10348 stars) - Continuous Inspection
+- [spinnaker](https://github.com/spinnaker/spinnaker) (9706 stars) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (5746 stars) - Apache Kafka® running on Kubernetes
 - [supertokens-core](https://github.com/supertokens/supertokens-core) (14982 stars) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
 - [terraform-custom-provider](https://github.com/julianespinel/terraform-custom-provider) (14 stars) - Repository to learn how to create a Terraform custom provider.
-- [thingsboard](https://github.com/thingsboard/thingsboard) (21387 stars) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [thingsboard](https://github.com/thingsboard/thingsboard) (21388 stars) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [tink](https://github.com/tink-crypto/tink) (13558 stars) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) (8553 stars) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [UnifiedNlp](https://github.com/microg/UnifiedNlp) (1042 stars) - Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.
 - [valkey-glide](https://github.com/valkey-io/valkey-glide) (711 stars) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
 - [wildfly](https://github.com/wildfly/wildfly) (3157 stars) - WildFly Application Server
-- [xpipe](https://github.com/xpipe-io/xpipe) (13899 stars) - Access your entire server infrastructure from your local desktop
+- [xpipe](https://github.com/xpipe-io/xpipe) (13900 stars) - Access your entire server infrastructure from your local desktop
 - [YCSB](https://github.com/brianfrankcooper/YCSB) (5197 stars) - Yahoo! Cloud Serving Benchmark
 - [zaproxy](https://github.com/zaproxy/zaproxy) (14882 stars) - The ZAP by Checkmarx Core project
 - [zilla](https://github.com/aklivity/zilla) (682 stars) - 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.

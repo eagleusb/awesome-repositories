@@ -1,5 +1,5 @@
 ## Makefile (18 repositories) 
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (35732 stars) - :whale: A curated list of Docker resources and projects
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (35734 stars) - :whale: A curated list of Docker resources and projects
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
 - [deezer-linux](https://github.com/aunetx/deezer-linux) (541 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
 - [guide](https://github.com/uber-go/guide) (17387 stars) - The Uber Go Style Guide.

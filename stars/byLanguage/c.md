@@ -16,37 +16,37 @@
 - [bloomd](https://github.com/armon/bloomd) (1251 stars) - C network daemon for bloom filters
 - [bluetooth](https://github.com/tinygo-org/bluetooth) (953 stars) - Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice or HCI
 - [bpftop](https://github.com/Netflix/bpftop) (2627 stars) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
-- [bspwm](https://github.com/baskerville/bspwm) (8206 stars) - A tiling window manager based on binary space partitioning
-- [bubblewrap](https://github.com/containers/bubblewrap) (6183 stars) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- [bspwm](https://github.com/baskerville/bspwm) (8207 stars) - A tiling window manager based on binary space partitioning
+- [bubblewrap](https://github.com/containers/bubblewrap) (6185 stars) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [bumblebee](https://github.com/solo-io/bumblebee) (1297 stars) - Get eBPF programs running from the cloud to the kernel in 1 line of bash
 - [burp](https://github.com/grke/burp) (500 stars) - burp - backup and restore program
 - [c-blosc](https://github.com/Blosc/c-blosc) (1045 stars) - A blocking, shuffling and loss-less compression library that can be faster than `memcpy()`.
-- [c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) (2535 stars) - JWT brute force cracker written in C
+- [c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) (2536 stars) - JWT brute force cracker written in C
 - [cache-toys](https://github.com/tortay/cache-toys) (3 stars) - Simple tools for checking (& influencing) the filesystem cache content on POSIX systems
 - [can-utils](https://github.com/linux-can/can-utils) (2809 stars) - Linux-CAN / SocketCAN user space applications
 - [casync](https://github.com/systemd/casync) (1577 stars) - Content-Addressable Data Synchronization Tool
 - [cava](https://github.com/karlstav/cava) (5951 stars) - Cross-platform Audio Visualizer
 - [cc-oci-runtime](https://github.com/intel/cc-oci-runtime) (417 stars) - OCI (Open Containers Initiative) compatible runtime for Intel® Architecture
 - [challack](https://github.com/jduck/challack) (75 stars) - Proof-of-concept exploit code for CVE-2016-5696
-- [citus](https://github.com/citusdata/citus) (12387 stars) - Distributed PostgreSQL as an extension
+- [citus](https://github.com/citusdata/citus) (12388 stars) - Distributed PostgreSQL as an extension
 - [cjdns](https://github.com/cjdelisle/cjdns) (5371 stars) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [columnar](https://github.com/hydradatabase/columnar) (3017 stars) - Postgres-native columnar storage extension
 - [comdb2](https://github.com/bloomberg/comdb2) (1502 stars) - Bloomberg's distributed RDBMS
 - [container-bootfs](https://github.com/ktock/container-bootfs) (21 stars) - Container image converter aiming to minimize image size and speed up boot time dramatically with block-level de-dupliction and lazy-pull technology.
 - [corvus](https://github.com/eleme/corvus) (795 stars) - A fast and lightweight Redis Cluster Proxy for Redis 3.0
-- [coturn](https://github.com/coturn/coturn) (13747 stars) - coturn TURN server project
+- [coturn](https://github.com/coturn/coturn) (13748 stars) - coturn TURN server project
 - [cowsql](https://github.com/cowsql/cowsql) (218 stars) - Embeddable, replicated and fault tolerant SQL engine.
 - [cpuminer](https://github.com/jgarzik/cpuminer) (1024 stars) - CPU miner for bitcoin
 - [crap](https://github.com/rcls/crap) (50 stars) - Cvs Remote Access Program
 - [criu](https://github.com/checkpoint-restore/criu) (3756 stars) - Checkpoint/Restore tool
 - [crun](https://github.com/containers/crun) (3826 stars) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [darktable](https://github.com/darktable-org/darktable) (12151 stars) - darktable is an open source photography workflow application and raw developer
-- [daScript](https://github.com/GaijinEntertainment/daScript) (1108 stars) - daslang - high-performance statically strong typed scripting language
+- [daScript](https://github.com/GaijinEntertainment/daScript) (1110 stars) - daslang - high-performance statically strong typed scripting language
 - [daxfs](https://github.com/multikernel/daxfs) (75 stars) - Disaggregated filesystem for CXL and multi-kernel shared memory.
 - [DCP](https://github.com/NationalSecurityAgency/DCP) (341 stars) - Digest, stat, and copy files from one location to another in the same read pass
 - [dfu-programmer](https://github.com/dfu-programmer/dfu-programmer) (467 stars) - dfu-programmer is a Device Firmware Update based USB programmer for Atmel chips with a USB bootloader
 - [dicedb](https://github.com/dicedb/dicedb) (10713 stars) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
-- [documentdb](https://github.com/documentdb/documentdb) (3229 stars) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
+- [documentdb](https://github.com/documentdb/documentdb) (3230 stars) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 - [doslinux](https://github.com/haileys/doslinux) (1558 stars) - Run Linux programs on DOS
 - [dpinger](https://github.com/dennypage/dpinger) (139 stars) - Pinger engine for monitoring latency and loss
 - [drone-mesh-mapper](https://github.com/colonelpanichacks/drone-mesh-mapper) (146 stars) - Send WiFi Drone RemoteID detections over serial via Meshtastic
@@ -56,7 +56,7 @@
 - [DVID](https://github.com/Vulcainreo/DVID) (219 stars) - Damn Vulnerable IoT Device
 - [earlyoom](https://github.com/rfjakob/earlyoom) (3929 stars) - earlyoom - Early OOM Daemon for Linux
 - [EasyAVR](https://github.com/dhowland/EasyAVR) (535 stars) - Easy AVR USB Keyboard Firmware and Keymapper
-- [ecapture](https://github.com/gojue/ecapture) (15036 stars) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [ecapture](https://github.com/gojue/ecapture) (15035 stars) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [eggdrop](https://github.com/eggheads/eggdrop) (566 stars) - The Eggdrop IRC Bot
 - [emojicode](https://github.com/emojicode/emojicode) (3405 stars) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [encpipe](https://github.com/jedisct1/encpipe) (233 stars) - The dum^H^H^Hsimplest encryption tool in the world.
@@ -66,35 +66,35 @@
 - [Espruino](https://github.com/espruino/Espruino) (2943 stars) - The Espruino JavaScript interpreter - Official Repo
 - [etlegacy](https://github.com/etlegacy/etlegacy) (682 stars) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
 - [ets2-sdk-plugin](https://github.com/nlhans/ets2-sdk-plugin) (212 stars) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
-- [FalkorDB](https://github.com/FalkorDB/FalkorDB) (3765 stars) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
+- [FalkorDB](https://github.com/FalkorDB/FalkorDB) (3767 stars) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [fastpass](https://github.com/yonch/fastpass) (159 stars) - A datacenter network framework that aims for high utilization with zero queueing. A logically centralized arbiter controls and orchestrates all network transfers.
 - [fio](https://github.com/axboe/fio) (6151 stars) - Flexible I/O Tester
 - [firmware](https://github.com/OpenIPC/firmware) (1964 stars) - Alternative IP Camera firmware from an open community
 - [flatpak](https://github.com/flatpak/flatpak) (4842 stars) - Linux application sandboxing and distribution framework
 - [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) (15703 stars) - Flipper Zero firmware source code
-- [fluent-bit](https://github.com/fluent/fluent-bit) (7725 stars) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
+- [fluent-bit](https://github.com/fluent/fluent-bit) (7726 stars) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 - [foo-tools](https://github.com/glftpd/foo-tools) (13 stars) - collected foo-tools sources + some fixes
 - [frr](https://github.com/FRRouting/frr) (4059 stars) - The FRRouting Protocol Suite
 - [fwupd](https://github.com/fwupd/fwupd) (3887 stars) - A system daemon to allow session software to update firmware
-- [gamemode](https://github.com/FeralInteractive/gamemode) (5753 stars) - Optimise Linux system performance on demand
+- [gamemode](https://github.com/FeralInteractive/gamemode) (5754 stars) - Optimise Linux system performance on demand
 - [gatekeeper](https://github.com/AltraMayor/gatekeeper) (1592 stars) - The first open-source DDoS protection system
 - [gdnsd](https://github.com/gdnsd/gdnsd) (539 stars) - Authoritative DNS Server
-- [git](https://github.com/git/git) (59817 stars) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git](https://github.com/git/git) (59818 stars) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gitly](https://github.com/vlang/gitly) (1463 stars) - Light and fast GitHub/GitLab alternative written in V
 - [glb-director](https://github.com/github/glb-director) (2430 stars) - GitHub Load Balancer Director and supporting tooling.
 - [glorytun](https://github.com/angt/glorytun) (745 stars) - Multipath UDP tunnel
 - [glusterfs](https://github.com/gluster/glusterfs) (5155 stars) - Gluster Filesystem : Build your distributed storage in minutes
-- [go-sqlite3](https://github.com/mattn/go-sqlite3) (9024 stars) - sqlite3 driver for go using database/sql
+- [go-sqlite3](https://github.com/mattn/go-sqlite3) (9025 stars) - sqlite3 driver for go using database/sql
 - [go-tpm-tools](https://github.com/google/go-tpm-tools) (286 stars) - Go packages built on go-tpm providing a high-level API for using TPMs
 - [goaccess](https://github.com/allinurl/goaccess) (20351 stars) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [golden-gate](https://github.com/Fitbit/golden-gate) (311 stars) - Framework to connect wearables and other IoT devices to mobile phones, tablets and PCs with an IP-based protocol stack over Bluetooth Low Energy
 - [google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) (1965 stars) - Google Authenticator PAM module
-- [graftcp](https://github.com/hmgle/graftcp) (2456 stars) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+- [graftcp](https://github.com/hmgle/graftcp) (2458 stars) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [gsocket](https://github.com/hackerschoice/gsocket) (1835 stars) - Connect like there is no firewall. Securely.
-- [h2o](https://github.com/h2o/h2o) (11422 stars) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
-- [HandBrake](https://github.com/HandBrake/HandBrake) (22701 stars) - HandBrake's development repository 
+- [h2o](https://github.com/h2o/h2o) (11423 stars) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
+- [HandBrake](https://github.com/HandBrake/HandBrake) (22703 stars) - HandBrake's development repository 
 - [Hardware-and-Firmware-Security-Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) (851 stars) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber
-- [hashcat](https://github.com/hashcat/hashcat) (25615 stars) - World's fastest and most advanced password recovery utility
+- [hashcat](https://github.com/hashcat/hashcat) (25616 stars) - World's fastest and most advanced password recovery utility
 - [hashcat-legacy](https://github.com/hashcat/hashcat-legacy) (2252 stars) - Advanced CPU-based password recovery utility
 - [haxm](https://github.com/intel/haxm) (3312 stars) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
 - [hexchat](https://github.com/hexchat/hexchat) (3281 stars) - GTK+ IRC client
@@ -114,14 +114,14 @@
 - [ioping](https://github.com/koct9i/ioping) (985 stars) - simple disk I/0 latency measuring tool
 - [iroffer-dinoex](https://github.com/dinoex/iroffer-dinoex) (115 stars) - An IRC fileserver using DCC
 - [IronOS](https://github.com/Ralim/IronOS) (8110 stars) - Open Source Soldering Iron firmware
-- [janet](https://github.com/janet-lang/janet) (4191 stars) - A dynamic language and bytecode vm
+- [janet](https://github.com/janet-lang/janet) (4192 stars) - A dynamic language and bytecode vm
 - [janus-gateway](https://github.com/meetecho/janus-gateway) (9055 stars) - Janus WebRTC Server
 - [jerryscript](https://github.com/jerryscript-project/jerryscript) (7380 stars) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [jgmenu](https://github.com/jgmenu/jgmenu) (954 stars) - An X11 menu
 - [jo](https://github.com/jpmens/jo) (4867 stars) - JSON output from a shell
 - [john](https://github.com/openwall/john) (12886 stars) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [journal-triggerd](https://github.com/jjk-jacky/journal-triggerd) (57 stars) - Runs trigger on systemd's journal messages
-- [jq](https://github.com/jqlang/jq) (33897 stars) - Command-line JSON processor
+- [jq](https://github.com/jqlang/jq) (33898 stars) - Command-line JSON processor
 - [katran](https://github.com/facebookincubator/katran) (5200 stars) - A high performance layer 4 load balancer
 - [keepalived](https://github.com/acassen/keepalived) (4510 stars) - Keepalived
 - [keybow-firmware](https://github.com/pimoroni/keybow-firmware) (187 stars) - Keybow Firmware for the Raspberry Pi Zero
@@ -139,14 +139,14 @@
 - [libvirt](https://github.com/libvirt/libvirt) (1658 stars) - Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [lily](https://github.com/FascinatedBox/lily) (1090 stars) - Interpreted language focused on expressiveness and type safety.
 - [linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) (2229 stars) - Linus Torvalds' linked list argument for good taste, explained
-- [linux](https://github.com/ClangBuiltLinux/linux) (256 stars) - Linux kernel source tree
 - [linux](https://github.com/fyu1/linux) (10 stars) - PLEASE NOTE: L3CAT/CDP, L2 CAT, CQM, MBM, and MBA are all in upstream kernel already. Please refer to upstream kernel for all future development, test, and usage. This tree will be not maintained for RDT features any more.
-- [linux](https://github.com/torvalds/linux) (224282 stars) - Linux kernel source tree
+- [linux](https://github.com/torvalds/linux) (224296 stars) - Linux kernel source tree
+- [linux](https://github.com/ClangBuiltLinux/linux) (256 stars) - Linux kernel source tree
 - [llama2.c](https://github.com/karpathy/llama2.c) (19296 stars) - Inference Llama 2 in one file of pure C
 - [lufa](https://github.com/abcminiuser/lufa) (1113 stars) - LUFA - the Lightweight USB Framework for AVRs.
 - [lwan](https://github.com/lpereira/lwan) (6018 stars) - Experimental, scalable, high performance HTTP server
-- [lxc](https://github.com/lxc/lxc) (5137 stars) - LXC - Linux Containers
-- [MangoHud](https://github.com/flightlessmango/MangoHud) (8370 stars) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+- [lxc](https://github.com/lxc/lxc) (5138 stars) - LXC - Linux Containers
+- [MangoHud](https://github.com/flightlessmango/MangoHud) (8371 stars) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [masscan](https://github.com/robertdavidgraham/masscan) (25444 stars) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [mdloader](https://github.com/Massdrop/mdloader) (433 stars) - Massdrop Firmware Loader - for CTRL / ALT / SHIFT / Rocketeer keyboards
 - [media-driver](https://github.com/intel/media-driver) (1198 stars) - Intel Graphics Media Driver to support hardware decode, encode and video processing.
@@ -158,9 +158,9 @@
 - [mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) (1083 stars) - OpenID Certified™ OpenID Connect and FAPI 2 Relying Party module for Apache HTTPd
 - [ModJS](https://github.com/Snapchat/ModJS) (221 stars) - A Javascript Module for KeyDB and Redis
 - [monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) (508 stars) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
-- [moonshine](https://github.com/moonshine-ai/moonshine) (7434 stars) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine](https://github.com/moonshine-ai/moonshine) (7433 stars) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [moosefs](https://github.com/moosefs/moosefs) (1952 stars) - MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage
-- [mquickjs](https://github.com/bellard/mquickjs) (5643 stars) - Public repository of the Micro QuickJS Javascript Engine
+- [mquickjs](https://github.com/bellard/mquickjs) (5644 stars) - Public repository of the Micro QuickJS Javascript Engine
 - [mtm](https://github.com/deadpixi/mtm) (1190 stars) - Perhaps the smallest useful terminal multiplexer in the world.
 - [muon](https://github.com/ImVexed/muon) (2939 stars) - GPU based Electron on a diet
 - [mydumper](https://github.com/mydumper/mydumper) (3058 stars) - Official MyDumper Project
@@ -179,20 +179,20 @@
 - [ngircd](https://github.com/ngircd/ngircd) (546 stars) - Free, portable and lightweight Internet Relay Chat server
 - [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) (1964 stars) - A forward proxy module for CONNECT request handling
 - [nmap](https://github.com/nmap/nmap) (12585 stars) - Nmap - the Network Mapper. Github mirror of official SVN repository.
-- [nnn](https://github.com/jarun/nnn) (21406 stars) - n³ The unorthodox terminal file manager
+- [nnn](https://github.com/jarun/nnn) (21405 stars) - n³ The unorthodox terminal file manager
 - [nntp-proxy](https://github.com/nieluj/nntp-proxy) (58 stars) - simple NNTP proxy with SSL support
 - [nocache](https://github.com/Feh/nocache) (567 stars) - minimize caching effects
 - [node-on-android](https://github.com/node-on-mobile/node-on-android) (1124 stars) - Make Node.JS apps for Android
 - [nq](https://github.com/leahneukirchen/nq) (3108 stars) - Unix command line queue utility
 - [nuster](https://github.com/jiangwenyuan/nuster) (1909 stars) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) (1599 stars) - A VA-API implemention using NVIDIA's NVDEC
-- [nvtop](https://github.com/Syllo/nvtop) (10260 stars) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
+- [nvtop](https://github.com/Syllo/nvtop) (10261 stars) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [NymphCast](https://github.com/MayaPosch/NymphCast) (2545 stars) - Audio and video casting system with support for custom applications.
-- [obs-studio](https://github.com/obsproject/obs-studio) (71067 stars) - OBS Studio - Free and open source software for live streaming and screen recording
+- [obs-studio](https://github.com/obsproject/obs-studio) (71069 stars) - OBS Studio - Free and open source software for live streaming and screen recording
 - [odyssey](https://github.com/yandex/odyssey) (3463 stars) - Scalable PostgreSQL connection pooler
-- [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) (16822 stars) - NVIDIA Linux open GPU kernel module source
+- [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) (16823 stars) - NVIDIA Linux open GPU kernel module source
 - [open-iscsi](https://github.com/open-iscsi/open-iscsi) (612 stars) - iSCSI tools for Linux
-- [openssl](https://github.com/openssl/openssl) (29796 stars) - TLS/SSL and crypto library
+- [openssl](https://github.com/openssl/openssl) (29797 stars) - TLS/SSL and crypto library
 - [opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) (987 stars) - OpenTelemetry Auto Instrumentation using eBPF
 - [openzfs](https://github.com/openzfs/openzfs) (326 stars) - OpenZFS is a storage platform that encompasses the functionality of traditional filesystems and volume managers, delivering enterprise reliability, modern functionality, and consistent performance in an easy to administer package on several operating system platforms.
 - [openzl](https://github.com/facebook/openzl) (2961 stars) - A novel data compression framework
@@ -226,7 +226,7 @@
 - [pgsodium](https://github.com/michelp/pgsodium) (596 stars) - Modern cryptography for PostgreSQL using libsodium.
 - [pgspider](https://github.com/pgspider/pgspider) (178 stars) - High-Performance SQL Cluster Engine for Scalable Data Virtualization
 - [pgsql-http](https://github.com/pramsey/pgsql-http) (1568 stars) - HTTP client for PostgreSQL, retrieve a web page from inside the database.
-- [pgvector](https://github.com/pgvector/pgvector) (20374 stars) - Open-source vector similarity search for Postgres
+- [pgvector](https://github.com/pgvector/pgvector) (20375 stars) - Open-source vector similarity search for Postgres
 - [picom](https://github.com/yshui/picom) (4691 stars) - A lightweight compositor for X11 with animation support
 - [pingfs](https://github.com/yarrick/pingfs) (3482 stars) - Stores your data in ICMP ping packets
 - [pipewire](https://github.com/PipeWire/pipewire) (2067 stars) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
@@ -237,7 +237,7 @@
 - [proxenet](https://github.com/hugsy/proxenet) (221 stars) - The ONLY hacker friendly proxy for webapp pentests.
 - [pspg](https://github.com/okbob/pspg) (2698 stars) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard. 
 - [pzs-ng](https://github.com/pzs-ng/pzs-ng) (77 stars) - A realtime CRC addon made specifically for glftpd.
-- [qemu](https://github.com/qemu/qemu) (12873 stars) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
+- [qemu](https://github.com/qemu/qemu) (12874 stars) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [qmk_firmware](https://github.com/qmk/qmk_firmware) (20208 stars) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [qmkbuilder](https://github.com/ruiqimao/qmkbuilder) (403 stars) - Online GUI for QMK Firmware
 - [qoi](https://github.com/phoboslab/qoi) (7435 stars) - The “Quite OK Image Format” for fast, lossless image compression
@@ -246,7 +246,7 @@
 - [quickjs](https://github.com/quickjs-ng/quickjs) (2801 stars) - QuickJS, the Next Generation: a mighty JavaScript engine
 - [rauc](https://github.com/rauc/rauc) (1116 stars) - Safe and secure software updates for embedded Linux
 - [recorder](https://github.com/owntracks/recorder) (1143 stars) - Store and access data published by OwnTracks apps
-- [redis](https://github.com/redis/redis) (73493 stars) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+- [redis](https://github.com/redis/redis) (73497 stars) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [redis-cell](https://github.com/brandur/redis-cell) (1244 stars) - A Redis module that provides rate limiting in Redis as a single command.
 - [redis-cluster-proxy](https://github.com/RedisLabs/redis-cluster-proxy) (1053 stars) - A proxy for Redis clusters.
 - [redis-ebpf](https://github.com/dorkamotorka/redis-ebpf) (19 stars) - Redis Observability using eBPF
@@ -258,7 +258,7 @@
 - [reptyr](https://github.com/nelhage/reptyr) (6209 stars) - Reparent a running program to a new terminal
 - [reredirect](https://github.com/jerome-pouiller/reredirect) (599 stars) - Tool to dynamicly redirect outputs of a running process
 - [riofs](https://github.com/skoobe/riofs) (398 stars) - Userspace S3 filesystem
-- [rnnoise](https://github.com/xiph/rnnoise) (5423 stars) - Recurrent neural network for audio noise reduction
+- [rnnoise](https://github.com/xiph/rnnoise) (5424 stars) - Recurrent neural network for audio noise reduction
 - [rofi](https://github.com/davatorium/rofi) (15845 stars) - Rofi: A window switcher, application launcher and dmenu replacement
 - [RRO](https://github.com/RevolutionAnalytics/RRO) (86 stars) - Revolution R Open
 - [rsched](https://github.com/masoncl/rsched) (83 stars) - Kernel process scheduler statistics
@@ -266,19 +266,19 @@
 - [rspamd](https://github.com/rspamd/rspamd) (2402 stars) - Rapid spam filtering system.
 - [rumprun](https://github.com/rumpkernel/rumprun) (1172 stars) - The Rumprun unikernel and toolchain for various platforms
 - [rune](https://github.com/google/rune) (1931 stars) - Rune is a programming language developed to test ideas for improving security and efficiency.
-- [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) (2222 stars) - Adjust power management settings for Ryzen APUs
-- [scrcpy](https://github.com/Genymobile/scrcpy) (137283 stars) - Display and control your Android device
+- [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) (2223 stars) - Adjust power management settings for Ryzen APUs
+- [scrcpy](https://github.com/Genymobile/scrcpy) (137290 stars) - Display and control your Android device
 - [secret](https://github.com/angt/secret) (74 stars) - A tiny secret store to keep your little secrets
 - [security-research](https://github.com/google/security-research) (4391 stars) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-- [seL4](https://github.com/seL4/seL4) (5370 stars) - The seL4 microkernel
+- [seL4](https://github.com/seL4/seL4) (5371 stars) - The seL4 microkernel
 - [shairport-sync](https://github.com/mikebrady/shairport-sync) (8549 stars) - AirPlay and AirPlay 2 audio player
 - [sheepdog](https://github.com/sheepdog/sheepdog) (1022 stars) - Distributed Storage System for QEMU
 - [shifter](https://github.com/NERSC/shifter) (361 stars) - Shifter - Linux Containers for HPC
 - [siege](https://github.com/JoeDog/siege) (6188 stars) - Siege is an http load tester and benchmarking utility
 - [sierracns](https://github.com/arsv/sierracns) (7 stars) - CnS protocol tool for Sierra modems
 - [simh](https://github.com/simh/simh) (1843 stars) - The Computer History Simulation Project 
-- [SketchyBar](https://github.com/FelixKratz/SketchyBar) (11380 stars) - A highly customizable macOS status bar replacement
-- [slurm](https://github.com/SchedMD/slurm) (3811 stars) - Slurm: A Highly Scalable Workload Manager
+- [SketchyBar](https://github.com/FelixKratz/SketchyBar) (11383 stars) - A highly customizable macOS status bar replacement
+- [slurm](https://github.com/SchedMD/slurm) (3812 stars) - Slurm: A Highly Scalable Workload Manager
 - [snoopy](https://github.com/a2o/snoopy) (1284 stars) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
 - [sowm](https://github.com/dylanaraps/sowm) (950 stars) - An itsy bitsy floating window manager (220~ sloc!).
 - [spacebar](https://github.com/cmacrae/spacebar) (1343 stars) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -292,7 +292,7 @@
 - [sway](https://github.com/swaywm/sway) (16708 stars) - i3-compatible Wayland compositor
 - [swupdate](https://github.com/sbabic/swupdate) (1777 stars) - Software Update for Embedded Systems
 - [syslog-ng](https://github.com/syslog-ng/syslog-ng) (2324 stars) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
-- [systemd](https://github.com/systemd/systemd) (15505 stars) - The systemd System and Service Manager 
+- [systemd](https://github.com/systemd/systemd) (15510 stars) - The systemd System and Service Manager 
 - [tayga](https://github.com/apalrd/tayga) (253 stars) - Simple, no-fuss NAT64 for Linux
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) (4689 stars) - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.
 - [tcpreplay](https://github.com/appneta/tcpreplay) (1307 stars) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
@@ -308,8 +308,8 @@
 - [tinyproxy](https://github.com/tinyproxy/tinyproxy) (5745 stars) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [tmate](https://github.com/tmate-io/tmate) (6010 stars) - Instant Terminal Sharing
 - [tmk_core](https://github.com/tmk/tmk_core) (170 stars) - TMK keyboard library
-- [tmk_keyboard](https://github.com/di0ib/tmk_keyboard) (127 stars) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [tmk_keyboard](https://github.com/tmk/tmk_keyboard) (4113 stars) - Keyboard firmwares for Atmel AVR and Cortex-M
+- [tmk_keyboard](https://github.com/di0ib/tmk_keyboard) (127 stars) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [tmk_keyboard_custom](https://github.com/kairyu/tmk_keyboard_custom) (151 stars) - Unknown
 - [toxcore](https://github.com/irungentoo/toxcore) (8759 stars) - The future of online communications.
 - [tpm2-tools](https://github.com/tpm2-software/tpm2-tools) (840 stars) - The source repository for the Trusted Platform Module (TPM2.0) tools
@@ -323,18 +323,18 @@
 - [uhub](https://github.com/janvidar/uhub) (71 stars) - A high performance ADC peer to peer message hub.
 - [unikraft](https://github.com/unikraft/unikraft) (3519 stars) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [unit](https://github.com/nginx/unit) (5560 stars) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
-- [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) (21262 stars) - Flipper Zero Unleashed Firmware
-- [valkey](https://github.com/valkey-io/valkey) (25185 stars) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+- [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) (21263 stars) - Flipper Zero Unleashed Firmware
+- [valkey](https://github.com/valkey-io/valkey) (25190 stars) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [vallumd](https://github.com/stintel/vallumd) (124 stars) - Centralize or distribute IPset blacklists
 - [varnish-cache](https://github.com/varnishcache/varnish-cache) (4059 stars) - Varnish Cache source code repository
-- [Ventoy](https://github.com/ventoy/Ventoy) (75158 stars) - A new bootable USB solution.
+- [Ventoy](https://github.com/ventoy/Ventoy) (75161 stars) - A new bootable USB solution.
 - [vial-qmk](https://github.com/vial-kb/vial-qmk) (1273 stars) - QMK fork with Vial-specific features.
-- [vmaf](https://github.com/Netflix/vmaf) (5291 stars) - Perceptual video quality assessment based on multi-method fusion.
+- [vmaf](https://github.com/Netflix/vmaf) (5290 stars) - Perceptual video quality assessment based on multi-method fusion.
 - [vmtouch](https://github.com/hoytech/vmtouch) (1927 stars) - Portable file system cache diagnostics and control
 - [volant](https://github.com/ccheshirecat/volant) (39 stars) - Modular orchestration engine for microvms
 - [Vrrpd](https://github.com/fredbcode/Vrrpd) (79 stars) - Project moved to https://gitlab.com/fredbcode/Vrrpd Advanced Vrrpd That version has many improvements like monitoring other vrrpd processes and executing a command when changing back and forth from master to backup. You can also use atropos program for view or change global state. VRRP For Linux
 - [wasix-libc](https://github.com/wasix-org/wasix-libc) (153 stars) - wasix libc implementation for WebAssembly
-- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) (5831 stars) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) (5832 stars) - WebAssembly Micro Runtime (WAMR)
 - [wasm3](https://github.com/wasm3/wasm3) (7883 stars) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [whatfiles](https://github.com/spieglt/whatfiles) (946 stars) - Log what files are accessed by any Linux process
 - [xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) (2401 stars) - Xash3D FWGS engine
@@ -342,13 +342,13 @@
 - [xpadneo](https://github.com/atar-axis/xpadneo) (2570 stars) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 - [xsecurelock](https://github.com/google/xsecurelock) (923 stars) - X11 screen lock utility with security in mind
 - [Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) (9863 stars) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!    
-- [yabai](https://github.com/asmvik/yabai) (28449 stars) - A tiling window manager for macOS based on binary space partitioning
+- [yabai](https://github.com/asmvik/yabai) (28450 stars) - A tiling window manager for macOS based on binary space partitioning
 - [yara](https://github.com/VirusTotal/yara) (9492 stars) - The pattern matching swiss knife
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) (10176 stars) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [zap](https://github.com/zigzap/zap) (3282 stars) - blazingly fast backends in zig
 - [zapper](https://github.com/hackerschoice/zapper) (250 stars) - Zaps arguments and environment from the process list
 - [zapret](https://github.com/bol-van/zapret) (14690 stars) - DPI bypass multi platform
-- [zfs](https://github.com/openzfs/zfs) (12064 stars) - OpenZFS on Linux and FreeBSD
+- [zfs](https://github.com/openzfs/zfs) (12065 stars) - OpenZFS on Linux and FreeBSD
 - [zlib-ng](https://github.com/zlib-ng/zlib-ng) (1960 stars) - zlib replacement with optimizations for "next generation" systems.
 - [zmap](https://github.com/zmap/zmap) (6134 stars) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [zmk](https://github.com/zmkfirmware/zmk) (3921 stars) - ZMK Firmware Repository

@@ -1,11 +1,11 @@
 ## CSS (32 repositories) 
 - [98.css](https://github.com/jdan/98.css) (10956 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82628 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [animate.css](https://github.com/animate-css/animate.css) (82629 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8265 stars) - A flat theme with transparent elements
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9265 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2553 stars) - A list of history's greatest software engineers and tech pioneers
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (7813 stars) - 🚨 Collection of Prometheus alerting rules
-- [bearblog](https://github.com/HermanMartinus/bearblog) (4798 stars) - Free, no-nonsense, super fast blogging.
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (7812 stars) - 🚨 Collection of Prometheus alerting rules
+- [bearblog](https://github.com/HermanMartinus/bearblog) (4800 stars) - Free, no-nonsense, super fast blogging.
 - [cs16.css](https://github.com/ekmas/cs16.css) (1976 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
 - [dalai](https://github.com/cocktailpeanut/dalai) (12977 stars) - The simplest way to run LLaMA on your local machine

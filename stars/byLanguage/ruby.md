@@ -5,23 +5,23 @@
 - [ansible_spec](https://github.com/volanja/ansible_spec) (232 stars) - It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).
 - [api-umbrella](https://github.com/NatLabRockies/api-umbrella) (2152 stars) - Open source API management platform
 - [aptly_cli](https://github.com/sepulworld/aptly_cli) (44 stars) - Aptly client
-- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) (14048 stars) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) (14049 stars) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [aws-fluent-plugin-kinesis](https://github.com/awslabs/aws-fluent-plugin-kinesis) (289 stars) - Amazon Kinesis output plugin for Fluentd
 - [backup](https://github.com/backup/backup) (4875 stars) - Easy full stack backup operations on UNIX-like systems.
 - [bluedoc](https://github.com/huacnlee/bluedoc) (632 stars) - An open-source document management tool for enterprise self host.
 - [brimir](https://github.com/ivaldi/brimir) (1373 stars) - Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [canine](https://github.com/CanineHQ/canine) (2796 stars) - A developer friendly PaaS for your Kubernetes
-- [chatwoot](https://github.com/chatwoot/chatwoot) (27937 stars) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot](https://github.com/chatwoot/chatwoot) (27941 stars) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [chef](https://github.com/chef/chef) (8367 stars) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [ciao](https://github.com/brotandgames/ciao) (1932 stars) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [cuber-gem](https://github.com/cuber-cloud/cuber-gem) (703 stars) - An automation tool that simplify the deployment of your apps on Kubernetes.
 - [dawarich](https://github.com/Freika/dawarich) (8358 stars) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [decidim](https://github.com/decidim/decidim) (1725 stars) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [discourse](https://github.com/discourse/discourse) (46602 stars) - A platform for community discussion. Free, open, simple.
+- [discourse](https://github.com/discourse/discourse) (46603 stars) - A platform for community discussion. Free, open, simple.
 - [discourse-calendar](https://github.com/discourse/discourse-calendar) (69 stars) - Adds the ability to create a dynamic calendar in the first post of a topic.
 - [dockerspec](https://github.com/zuazo/dockerspec) (181 stars) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [dpl](https://github.com/travis-ci/dpl) (1299 stars) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) (37553 stars) - A curated list of engineering blogs
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) (37555 stars) - A curated list of engineering blogs
 - [eu-haul](https://github.com/eurosky-social/eu-haul) (30 stars) - ATProto account migration tool with a simple web interface. Built with Rails 7. Includes progress tracking, encrypted credentials, and background job processing via Sidekiq.
 - [fasterer](https://github.com/DamirSvrtan/fasterer) (1822 stars) - :zap: Don't make your Rubies go fast. Make them go fasterer ™. :zap: 
 - [fastlane](https://github.com/fastlane/fastlane) (41213 stars) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -70,7 +70,7 @@
 - [solidus](https://github.com/solidusio/solidus) (5273 stars) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
 - [spree](https://github.com/spree/spree) (15280 stars) - Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively — from B2B wholesale to multi-vendor marketplace to global multi-region or multi-tenant distributor platforms. Use each model independently or combine them as your business evolves.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) (788 stars) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
-- [sure](https://github.com/we-promise/sure) (7425 stars) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [sure](https://github.com/we-promise/sure) (7424 stars) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [synapse](https://github.com/airbnb/synapse) (2064 stars) - A transparent service discovery framework for connecting an SOA
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) (1627 stars) - Improve Terraform's plan output to be easier to read and understand
 - [terraforming](https://github.com/dtan4/terraforming) (4262 stars) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained

@@ -12,7 +12,7 @@
 - [investbrain](https://github.com/investbrainapp/investbrain) (800 stars) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages
 - [invoiceninja](https://github.com/invoiceninja/invoiceninja) (9591 stars) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) (3000 stars) - A self-hosted open source application for managing your invoices, clients and payments.
-- [kanboard](https://github.com/kanboard/kanboard) (9511 stars) - Kanban project management software
+- [kanboard](https://github.com/kanboard/kanboard) (9512 stars) - Kanban project management software
 - [kloxo](https://github.com/mustafaramadhan/kloxo) (335 stars) - This is special edition (fork) of Kloxo with many features not existing on Kloxo official release (6.1.12+).  This fork named as Kloxo-MR (meaning 'Kloxo fork by Mustafa Ramadhan')
 - [librenms](https://github.com/librenms/librenms) (4633 stars) - Community-based GPL-licensed network monitoring system
 - [Lychee](https://github.com/LycheeOrg/Lychee) (4102 stars) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.

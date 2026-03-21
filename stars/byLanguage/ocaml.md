@@ -4,7 +4,7 @@
 - [mirage](https://github.com/mirage/mirage) (2862 stars) - MirageOS is a library operating system that constructs unikernels
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (305 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [pyre-check](https://github.com/facebook/pyre-check) (7149 stars) - Performant type-checking for python.
-- [reason](https://github.com/reasonml/reason) (10296 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [semgrep](https://github.com/semgrep/semgrep) (14510 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [reason](https://github.com/reasonml/reason) (10297 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [semgrep](https://github.com/semgrep/semgrep) (14512 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [terrateam](https://github.com/terrateamio/terrateam) (1205 stars) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [unison](https://github.com/bcpierce00/unison) (5186 stars) - Unison file synchronizer

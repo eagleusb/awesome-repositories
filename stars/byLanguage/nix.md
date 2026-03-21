@@ -6,4 +6,4 @@
 - [nix-csi](https://github.com/Lillecarl/nix-csi) (88 stars) - CSI driver for Nixxing Kubernetes, see develop branch!
 - [nix-lib](https://github.com/ekala-project/nix-lib) (43 stars) - Standalone lib for use with nix
 - [nixos-config](https://github.com/tazjin/nixos-config) (50 stars) - NixOS configuration for my machines. This repository is deprecated, config now lives at https://cs.tvl.fyi/depot/-/tree/users/tazjin/nixos
-- [nixpkgs](https://github.com/NixOS/nixpkgs) (23954 stars) - Nix Packages collection & NixOS
+- [nixpkgs](https://github.com/NixOS/nixpkgs) (23959 stars) - Nix Packages collection & NixOS
