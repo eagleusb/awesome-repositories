@@ -1,7 +1,7 @@
 ## Shell (151 repositories) 
 - [A2A](https://github.com/a2aproject/A2A) (22696 stars) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [alexa-remote-control](https://github.com/thorsten-gehrig/alexa-remote-control) (451 stars) - control Amazon Alexa from command Line (set volume, select station from tunein or pandora) 
-- [amplifier](https://github.com/microsoft/amplifier) (3018 stars) - Unknown
+- [amplifier](https://github.com/microsoft/amplifier) (3019 stars) - Unknown
 - [android-31](https://github.com/docker-android-sdk/android-31) (29 stars) - Docker for Android SDK 31 with preinstalled build tools and emulator image
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) (156 stars) - Basic bash completion for Ansible
 - [architecture-center](https://github.com/MicrosoftDocs/architecture-center) (1976 stars) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
@@ -23,7 +23,7 @@
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) (5275 stars) - A short tutorial about building Linux based operating systems.
 - [buildtagpush](https://github.com/matti/buildtagpush) (6 stars) - Unknown
 - [chimeraos](https://github.com/ChimeraOS/chimeraos) (1966 stars) - A Steam Big Picture based couch gaming OS
-- [claude-code](https://github.com/anthropics/claude-code) (80574 stars) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [claude-code](https://github.com/anthropics/claude-code) (80584 stars) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) (2564 stars) - Claude Desktop for Debian-based Linux distributions
 - [Clear-NDR-ISO](https://github.com/StamusNetworks/Clear-NDR-ISO) (1589 stars) - A Suricata based NDR distribution
 - [cnab-spec](https://github.com/cnabio/cnab-spec) (970 stars) - Cloud Native Application Bundle Specification
@@ -68,10 +68,10 @@
 - [harbian-audit](https://github.com/hardenedlinux/harbian-audit) (460 stars) - Hardened Debian GNU/Linux distro auditing
 - [helm-charts](https://github.com/kiali/helm-charts) (69 stars) - Helm Charts used to install Kiali resources.
 - [helm-kubeval](https://github.com/instrumenta/helm-kubeval) (108 stars) - A Helm plugin for validating Charts against the Kubernetes schemas
-- [helm-secrets](https://github.com/jkroepke/helm-secrets) (1973 stars) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [helm-secrets](https://github.com/zendesk/helm-secrets) (1151 stars) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [helm-secrets](https://github.com/jkroepke/helm-secrets) (1973 stars) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [helm-tiller](https://github.com/rimusz/helm-tiller) (252 stars) - Helm v2 Tiller plugin aka Tillerless Helm
-- [hf-agents](https://github.com/huggingface/hf-agents) (302 stars) - HF CLI extension to run local coding agent powered by llmfit and llama.cpp
+- [hf-agents](https://github.com/huggingface/hf-agents) (303 stars) - HF CLI extension to run local coding agent powered by llmfit and llama.cpp
 - [historian](https://github.com/jcsalterego/historian) (552 stars) - Command-line utility for managing shell history in a SQLite database.
 - [hypertrace](https://github.com/hypertrace/hypertrace) (519 stars) - An open source distributed tracing & observability platform
 - [imapsync](https://github.com/imapsync/imapsync) (3974 stars) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
@@ -130,7 +130,7 @@
 - [squashible](https://github.com/antonym/squashible) (21 stars) - Cross-Platform Linux Live Image Builder
 - [steam-runtime](https://github.com/ValveSoftware/steam-runtime) (1382 stars) - A runtime environment for Steam applications
 - [super-linter](https://github.com/super-linter/super-linter) (10367 stars) - Combination of multiple linters to run as a GitHub Action or standalone
-- [superpowers](https://github.com/obra/superpowers) (101482 stars) - An agentic skills framework & software development methodology that works.
+- [superpowers](https://github.com/obra/superpowers) (101499 stars) - An agentic skills framework & software development methodology that works.
 - [suru-plus](https://github.com/gusbemacbe/suru-plus) (390 stars) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [sysbox](https://github.com/nestybox/sysbox) (3523 stars) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [TALA](https://github.com/terrastruct/TALA) (279 stars) - A diagram layout engine designed specifically for software architecture diagrams

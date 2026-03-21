@@ -1,6 +1,6 @@
 ## Python (846 repositories) 
 - [0xtools](https://github.com/tanelpoder/0xtools) (1799 stars) - 0x.Tools: X-Ray vision for Linux systems
-- [activitywatch](https://github.com/ActivityWatch/activitywatch) (17014 stars) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [activitywatch](https://github.com/ActivityWatch/activitywatch) (17015 stars) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [adk-python](https://github.com/google/adk-python) (18504 stars) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [aegea](https://github.com/kislyuk/aegea) (68 stars) - Amazon Web Services Operator Interface
 - [agent-squad](https://github.com/awslabs/agent-squad) (7533 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -8,7 +8,7 @@
 - [agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) (2056 stars) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai 
 - [agents](https://github.com/livekit/agents) (9773 stars) - A framework for building realtime voice AI agents 🤖🎙️📹 
 - [agentskills](https://github.com/agentskills/agentskills) (13754 stars) - Specification and documentation for Agent Skills
-- [aider](https://github.com/Aider-AI/aider) (42190 stars) - aider is AI pair programming in your terminal
+- [aider](https://github.com/Aider-AI/aider) (42191 stars) - aider is AI pair programming in your terminal
 - [aiortc](https://github.com/aiortc/aiortc) (5029 stars) - WebRTC and ORTC implementation for Python using asyncio
 - [airbyte](https://github.com/airbytehq/airbyte) (20916 stars) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [airflow](https://github.com/apache/airflow) (44721 stars) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -50,21 +50,21 @@
 - [ART](https://github.com/OpenPipe/ART) (9049 stars) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [asyncer](https://github.com/fastapi/asyncer) (2390 stars) - Asyncer, async and await, focused on developer experience.
 - [atomic](https://github.com/projectatomic/atomic) (529 stars) - Atomic Run Tool for installing/running/managing container images.
-- [authentik](https://github.com/goauthentik/authentik) (20593 stars) - The authentication glue you need.
+- [authentik](https://github.com/goauthentik/authentik) (20594 stars) - The authentication glue you need.
 - [authlib](https://github.com/authlib/authlib) (5246 stars) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
 - [auto-archiver](https://github.com/bellingcat/auto-archiver) (1053 stars) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) (182634 stars) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) (182633 stars) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [autopep8](https://github.com/hhatto/autopep8) (4664 stars) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [ava-whatsapp-agent-course](https://github.com/neural-maze/ava-whatsapp-agent-course) (1650 stars) - Meet Ava, the WhatsApp Agent
 - [avatarify-python](https://github.com/alievk/avatarify-python) (16541 stars) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) (13949 stars) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) (29432 stars) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) (29435 stars) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) (284 stars) - :sunglasses: Search the awesome curated list without browser
-- [awesome-math](https://github.com/rossant/awesome-math) (13697 stars) - A curated list of awesome mathematics resources
+- [awesome-math](https://github.com/rossant/awesome-math) (13698 stars) - A curated list of awesome mathematics resources
 - [awesome-mlops](https://github.com/kelvins/awesome-mlops) (5060 stars) - :sunglasses: A curated list of awesome MLOps tools
 - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) (2552 stars) - A curated list of awesome MySQL software, libraries, tools and resources
 - [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) (18900 stars) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [awesome-python](https://github.com/vinta/awesome-python) (288164 stars) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [awesome-python](https://github.com/vinta/awesome-python) (288171 stars) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) (7397 stars) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥
 - [aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) (2148 stars) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [aws-graviton-getting-started](https://github.com/aws/aws-graviton-getting-started) (1038 stars) - Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g[d], M6g[d], R6g[d], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g[d][n], M7g[d], R7g[d], R8g).
@@ -91,7 +91,7 @@
 - [Bowler](https://github.com/facebookincubator/Bowler) (1612 stars) - Safe code refactoring for modern Python.
 - [bpython](https://github.com/bpython/bpython) (2771 stars) - bpython - A fancy curses interface to the Python interactive interpreter
 - [bridgy-fed](https://github.com/snarfed/bridgy-fed) (1172 stars) - 🌉 A bridge between decentralized social networks
-- [browser-use](https://github.com/browser-use/browser-use) (81428 stars) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use](https://github.com/browser-use/browser-use) (81429 stars) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [buildbot](https://github.com/buildbot/buildbot) (5440 stars) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [buku](https://github.com/jarun/buku) (7097 stars) - :bookmark: Personal mini-web in text
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) (1285 stars) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
@@ -137,7 +137,7 @@
 - [clan-core](https://github.com/clan-lol/clan-core) (150 stars) - Build your own clan [read-only mirror of https://git.clan.lol/clan/clan-core]
 - [clash](https://github.com/ottogroup/clash) (28 stars) - Clash is a tool for running jobs on the Google Compute Engine  :rocket:
 - [cli](https://github.com/terraform-compliance/cli) (1441 stars) - a lightweight, security focused, BDD test framework against terraform.
-- [CLI-Anything](https://github.com/HKUDS/CLI-Anything) (19941 stars) - CLI-Anything: Making ALL Software Agent-Native
+- [CLI-Anything](https://github.com/HKUDS/CLI-Anything) (19946 stars) - CLI-Anything: Making ALL Software Agent-Native
 - [click](https://github.com/pallets/click) (17358 stars) - Python composable command line interface toolkit
 - [cloud-init](https://github.com/canonical/cloud-init) (3635 stars) - Official upstream for the cloud-init: cloud instance initialization
 - [cloudcoil](https://github.com/cloudcoil/cloudcoil) (85 stars) - Modern async-first Kubernetes client for Python with Pydantic models - bringing cloud-native operations and K8s development to life with elegant Pythonic APIs
@@ -152,7 +152,7 @@
 - [cognee](https://github.com/topoteretes/cognee) (14409 stars) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [colin](https://github.com/user-cont/colin) (52 stars) - Tool to check generic rules/best-practices for containers/images/dockerfiles.
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) (41368 stars) - Making large AI models cheaper, faster and more accessible
-- [ComfyUI](https://github.com/Comfy-Org/ComfyUI) (106461 stars) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [ComfyUI](https://github.com/Comfy-Org/ComfyUI) (106462 stars) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [commix](https://github.com/commixproject/commix) (5682 stars) - Automated All-in-One OS Command Injection Exploitation Tool
 - [community.aws](https://github.com/ansible-collections/community.aws) (200 stars) - Ansible Collection for Community AWS
 - [community.general](https://github.com/ansible-collections/community.general) (1026 stars) - Ansible Community General Collection
@@ -161,7 +161,7 @@
 - [congressional-filings-explorer](https://github.com/tg12/congressional-filings-explorer) (14 stars) - An intelligent pattern-matching tool for analyzing publicly available Congressional financial disclosure documents using AI-powered optical character recognition.
 - [conn-check](https://github.com/canonical-ols/conn-check) (56 stars) - git mirror of lp:conn-check, PRs welcome and will be merged into trunk
 - [conu](https://github.com/user-cont/conu) (164 stars) - conu - python API for your containers
-- [CoPaw](https://github.com/agentscope-ai/CoPaw) (12825 stars) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+- [CoPaw](https://github.com/agentscope-ai/CoPaw) (12826 stars) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [copyparty](https://github.com/9001/copyparty) (43633 stars) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [core](https://github.com/home-assistant/core) (85477 stars) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [coreruleset](https://github.com/coreruleset/coreruleset) (3032 stars) - OWASP CRS (Official Repository)
@@ -183,7 +183,7 @@
 - [dataclaw](https://github.com/peteromallet/dataclaw) (1978 stars) - Unknown
 - [dbdb.io](https://github.com/cmu-db/dbdb.io) (555 stars) - The On-line Database of Databases
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) (15135 stars) - DeDRM tools for ebooks
-- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) (80211 stars) - real time face swap and one-click video deepfake with only a single image
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) (80212 stars) - real time face swap and one-click video deepfake with only a single image
 - [DeepCode](https://github.com/HKUDS/DeepCode) (14959 stars) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [deepfabric](https://github.com/always-further/deepfabric) (848 stars) - Generate High-Quality Synthetics, Train, Measure, and Evaluate in a Single Pipeline
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) (102262 stars) - Unknown
@@ -193,13 +193,13 @@
 - [devpush](https://github.com/hunvreus/devpush) (4572 stars) - Like Vercel, but open source and for all languages.
 - [dharma](https://github.com/MozillaSecurity/dharma) (494 stars) - Generation-based, context-free grammar fuzzer. Refer to https://github.com/posidron/dharma for a maintained version.
 - [dia](https://github.com/nari-labs/dia) (19210 stars) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [diagrams](https://github.com/mingrammer/diagrams) (42113 stars) - :art: Diagram as Code for prototyping cloud system architectures
+- [diagrams](https://github.com/mingrammer/diagrams) (42114 stars) - :art: Diagram as Code for prototyping cloud system architectures
 - [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) (4924 stars) - Uses some known methods that attempt to minimize tracking in Windows 10
 - [discovery](https://github.com/lyft/discovery) (185 stars) - This service provides a REST interface for querying for the list of hosts that belong to all microservices.
 - [dispatch](https://github.com/Netflix/dispatch) (6411 stars) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [distil-gitara](https://github.com/distil-labs/distil-gitara) (29 stars) - GitAra 🦜🎸: A small function-calling git agent you can run locally
 - [DistillKit](https://github.com/arcee-ai/DistillKit) (892 stars) - An Open Source Toolkit For LLM Distillation
-- [django](https://github.com/django/django) (87100 stars) - The Web framework for perfectionists with deadlines.
+- [django](https://github.com/django/django) (87099 stars) - The Web framework for perfectionists with deadlines.
 - [DLRN](https://github.com/softwarefactory-project/DLRN) (28 stars) - DO NOT send Pull Requests here, send reviews to
 - [dlt](https://github.com/dlt-hub/dlt) (5073 stars) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ 
 - [doccano](https://github.com/doccano/doccano) (10580 stars) - Open source annotation tool for machine learning practitioners.
@@ -244,7 +244,7 @@
 - [faceswap](https://github.com/deepfakes/faceswap) (55051 stars) - Deepfakes Software For All
 - [fail2ban](https://github.com/fail2ban/fail2ban) (17259 stars) - Daemon to ban hosts that cause multiple authentication errors
 - [falco-security-workshop](https://github.com/falcosecurity-retire/falco-security-workshop) (106 stars) - Container Security Workshop covering using Falco on Kubernetes.
-- [fastapi](https://github.com/fastapi/fastapi) (96404 stars) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi](https://github.com/fastapi/fastapi) (96405 stars) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [FastChat](https://github.com/lm-sys/FastChat) (39441 stars) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [FastUI](https://github.com/pydantic/FastUI) (8960 stars) - Build better UIs faster.
 - [fauxpilot](https://github.com/fauxpilot/fauxpilot) (14761 stars) - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -303,7 +303,7 @@
 - [gpt4free](https://github.com/xtekky/gpt4free) (65810 stars) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [gpustack](https://github.com/gpustack/gpustack) (4688 stars) - Performance-optimized AI inference on your GPUs. Unlock superior throughput by selecting and tuning engines like vLLM or SGLang.
 - [grab](https://github.com/lorien/grab) (2458 stars) - Web Scraping Framework
-- [gradio](https://github.com/gradio-app/gradio) (42082 stars) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [gradio](https://github.com/gradio-app/gradio) (42083 stars) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [gradtype](https://github.com/indutny/gradtype) (68 stars) - WIP
 - [grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) (947 stars) - A Python-based application to backup Grafana settings by using the Grafana API
 - [grafanalib](https://github.com/weaveworks/grafanalib) (1957 stars) - Python library for building Grafana dashboards
@@ -313,10 +313,10 @@
 - [Hasklig](https://github.com/i-tu/Hasklig) (5771 stars) - Hasklig - a code font with monospaced ligatures
 - [hatch](https://github.com/pypa/hatch) (7152 stars) - Modern, extensible Python project management
 - [healthchecks](https://github.com/healthchecks/healthchecks) (9944 stars) - Open-source cron job and background task monitoring service, written in Python & Django
-- [helix](https://github.com/MakotoKurauchi/helix) (968 stars) - A compact split ortholinear keyboard.
 - [helix](https://github.com/mcmadhatter/helix) (32 stars) - A compact split ortholinear keyboard.
+- [helix](https://github.com/MakotoKurauchi/helix) (968 stars) - A compact split ortholinear keyboard.
 - [heretic](https://github.com/p-e-w/heretic) (16239 stars) - Fully automatic censorship removal for language models
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) (9462 stars) - The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) (9465 stars) - The agent that grows with you
 - [hi](https://github.com/Twofyw/hi) (31 stars) - A fast terminal-native AI assistant that sees what you see.
 - [holmesgpt](https://github.com/HolmesGPT/holmesgpt) (2002 stars) - SRE Agent - CNCF Sandbox Project
 - [homeassistant](https://github.com/geekofweek/homeassistant) (1466 stars) - Example Home Assistant Configs
@@ -344,7 +344,7 @@
 - [iris](https://github.com/linkedin/iris) (840 stars) - Iris is a highly configurable and flexible service for paging and messaging.
 - [isd](https://github.com/kainctl/isd) (2059 stars) - isd (interactive systemd) – a better way to work with systemd units
 - [jc](https://github.com/kellyjonbrazil/jc) (8560 stars) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-- [jedi](https://github.com/davidhalter/jedi) (6127 stars) - Awesome autocompletion, static analysis and refactoring library for python
+- [jedi](https://github.com/davidhalter/jedi) (6128 stars) - Awesome autocompletion, static analysis and refactoring library for python
 - [jello](https://github.com/kellyjonbrazil/jello) (527 stars) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) (2129 stars) - MPV Cast Client for Jellyfin
 - [JetStream](https://github.com/AI-Hypercomputer/JetStream) (416 stars) - JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
@@ -367,7 +367,7 @@
 - [khoj](https://github.com/khoj-ai/khoj) (33526 stars) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [Kiln](https://github.com/Kiln-AI/Kiln) (4712 stars) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [kinto](https://github.com/Kinto/kinto) (4426 stars) - A generic JSON document store with sharing and synchronisation capabilities.
-- [kitty](https://github.com/kovidgoyal/kitty) (31944 stars) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [kitty](https://github.com/kovidgoyal/kitty) (31945 stars) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [kivy](https://github.com/kivy/kivy) (18896 stars) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [kiwi](https://github.com/OSInside/kiwi) (378 stars) - KIWI - Appliance Builder Next Generation
 - [kle_render](https://github.com/CQCumbers/kle_render) (150 stars) - Get prettier images of Keyboard Layout Editor designs
@@ -391,16 +391,16 @@
 - [KubiScan](https://github.com/cyberark/KubiScan) (1417 stars) - A tool to scan Kubernetes cluster for risky permissions
 - [KV-planner](https://github.com/h9-tec/KV-planner) (16 stars) - Unknown
 - [lambda-controller](https://github.com/aws-controllers-k8s/lambda-controller) (18 stars) -  ACK service controller for AWS Lambda 
-- [langchain](https://github.com/langchain-ai/langchain) (130380 stars) - The agent engineering platform
+- [langchain](https://github.com/langchain-ai/langchain) (130381 stars) - The agent engineering platform
 - [langextract](https://github.com/google/langextract) (34816 stars) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [langgraph](https://github.com/langchain-ai/langgraph) (27003 stars) - Build resilient language agents as graphs.
 - [LEANN](https://github.com/yichuan-w/LEANN) (10342 stars) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [lemur](https://github.com/Netflix/lemur) (1766 stars) - Repository for the Lemur Certificate Manager
 - [lenspect](https://github.com/vmkspv/lenspect) (177 stars) - A lightweight security threat scanner intended to make malware detection more accessible and efficient.
-- [letta](https://github.com/letta-ai/letta) (21675 stars) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [letta](https://github.com/letta-ai/letta) (21676 stars) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [librephotos](https://github.com/LibrePhotos/librephotos) (7960 stars) - A self-hosted open source photo management service. This is the repository of the backend.
 - [lighteval](https://github.com/huggingface/lighteval) (2351 stars) - Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends
-- [LightRAG](https://github.com/HKUDS/LightRAG) (29662 stars) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [LightRAG](https://github.com/HKUDS/LightRAG) (29663 stars) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [linux-cli-community](https://github.com/Rafficer/linux-cli-community) (1371 stars) - Linux command-line client for ProtonVPN. Written in Python.
 - [linux-insides](https://github.com/0xAX/linux-insides) (32247 stars) - A book-in-progress about the Linux kernel and its insides.
 - [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) (384 stars) - List of github lists
@@ -453,13 +453,13 @@
 - [mantl](https://github.com/mantl/mantl) (2981 stars) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [marathon-lb](https://github.com/d2iq-archive/marathon-lb) (449 stars) - Marathon-lb is a service discovery & load balancing tool for DC/OS
 - [marimo](https://github.com/marimo-team/marimo) (19813 stars) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [markitdown](https://github.com/microsoft/markitdown) (91180 stars) - Python tool for converting files and office documents to Markdown.
+- [markitdown](https://github.com/microsoft/markitdown) (91187 stars) - Python tool for converting files and office documents to Markdown.
 - [maubot](https://github.com/maubot/maubot) (854 stars) - A plugin-based Matrix bot system.
 - [maxtext](https://github.com/AI-Hypercomputer/maxtext) (2178 stars) - A simple, performant and scalable Jax LLM!
 - [mcp](https://github.com/awslabs/mcp) (8517 stars) - Official MCP Servers for AWS
 - [meet](https://github.com/suitenumerique/meet) (1879 stars) - Open source video conferencing app powered by LiveKit.
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) (15747 stars) - Ongoing research training transformer models at scale
-- [mem0](https://github.com/mem0ai/mem0) (50541 stars) - Universal memory layer for AI Agents
+- [mem0](https://github.com/mem0ai/mem0) (50543 stars) - Universal memory layer for AI Agents
 - [Memori](https://github.com/MemoriLabs/Memori) (12410 stars) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 - [memtop](https://github.com/MartinThoma/memtop) (34 stars) - View memory consumption
 - [mergekit](https://github.com/arcee-ai/mergekit) (6889 stars) - Tools for merging pretrained large language models.
@@ -470,7 +470,7 @@
 - [microk8s](https://github.com/canonical/microk8s) (9232 stars) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [milano](https://github.com/RookLabs/milano) (42 stars) - Hacking Team Malware Detection Utility
 - [mindsdb](https://github.com/mindsdb/mindsdb) (38797 stars) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
-- [MinerU](https://github.com/opendatalab/MinerU) (56666 stars) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [MinerU](https://github.com/opendatalab/MinerU) (56668 stars) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [minGPT](https://github.com/karpathy/minGPT) (23950 stars) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [mini-sglang](https://github.com/sgl-project/mini-sglang) (3761 stars) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) (3415 stars) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
@@ -497,8 +497,8 @@
 - [mycli](https://github.com/dbcli/mycli) (11889 stars) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [mysql_utils](https://github.com/pinterest/mysql_utils) (881 stars) - Pinterest MySQL Management Tools
 - [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) (12342 stars) - Nano vLLM
-- [nanochat](https://github.com/karpathy/nanochat) (49715 stars) - The best ChatGPT that $100 can buy.
-- [nanoGPT](https://github.com/karpathy/nanoGPT) (55277 stars) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [nanochat](https://github.com/karpathy/nanochat) (49716 stars) - The best ChatGPT that $100 can buy.
+- [nanoGPT](https://github.com/karpathy/nanoGPT) (55278 stars) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [napalm](https://github.com/napalm-automation/napalm) (2440 stars) - Network Automation and Programmability Abstraction Layer with Multivendor support
 - [nectar-tools](https://github.com/NeCTAR-RC/nectar-tools) (17 stars) - Various scripts to help operate OpenStack
 - [nek-type-a](https://github.com/ecopoesis/nek-type-a) (14 stars) - Natural Ergonomic Keyboard Type A
@@ -526,8 +526,8 @@
 - [oils](https://github.com/oils-for-unix/oils) (3297 stars) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [OLMo-core](https://github.com/allenai/OLMo-core) (974 stars) - PyTorch building blocks for the OLMo ecosystem
 - [olmocr](https://github.com/allenai/olmocr) (17044 stars) - Toolkit for linearizing PDFs for LLM datasets/training
-- [oncall](https://github.com/linkedin/oncall) (1238 stars) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [oncall](https://github.com/grafana/oncall) (3882 stars) - Developer-friendly incident response with brilliant Slack integration
+- [oncall](https://github.com/linkedin/oncall) (1238 stars) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [onyx](https://github.com/onyx-dot-app/onyx) (17959 stars) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [opal](https://github.com/permitio/opal) (5440 stars) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [open-instruct](https://github.com/allenai/open-instruct) (3642 stars) - AllenAI's post-training codebase
@@ -535,9 +535,9 @@
 - [open-paperless](https://github.com/zhoubear/open-paperless) (2564 stars) -  Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
 - [open-r1](https://github.com/huggingface/open-r1) (25955 stars) - Fully open reproduction of DeepSeek-R1
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora) (28727 stars) - Open-Sora: Democratizing Efficient Video Production for All
-- [open-swe](https://github.com/langchain-ai/open-swe) (7623 stars) - An Open-Source Asynchronous Coding Agent
+- [open-swe](https://github.com/langchain-ai/open-swe) (7627 stars) - An Open-Source Asynchronous Coding Agent
 - [open-terminal](https://github.com/open-webui/open-terminal) (1993 stars) - A computer you can curl ⚡
-- [open-webui](https://github.com/open-webui/open-webui) (128029 stars) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [open-webui](https://github.com/open-webui/open-webui) (128030 stars) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [openf1](https://github.com/br-g/openf1) (1331 stars) - OpenF1 API - Real-time and historical Formula 1 data
 - [openfreemap](https://github.com/hyperknot/openfreemap) (4837 stars) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 - [OpenHands](https://github.com/OpenHands/OpenHands) (69466 stars) - 🙌 OpenHands: AI-Driven Development
@@ -550,7 +550,7 @@
 - [opensnitch](https://github.com/evilsocket/opensnitch) (12995 stars) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [openstack](https://github.com/openstack/openstack) (5858 stars) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 - [openstack-ansible](https://github.com/openstack/openstack-ansible) (1543 stars) - Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org.
-- [OpenViking](https://github.com/volcengine/OpenViking) (16968 stars) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+- [OpenViking](https://github.com/volcengine/OpenViking) (16972 stars) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) (36133 stars) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [openvpn-monitor](https://github.com/furlongm/openvpn-monitor) (1054 stars) - openvpn-monitor is a web based OpenVPN monitor, that shows current connection information, such as users, location and data transferred.
 - [ops-cli](https://github.com/adobe/ops-cli) (201 stars) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
@@ -590,8 +590,8 @@
 - [pghoard](https://github.com/Aiven-Open/pghoard) (1401 stars) - PostgreSQL® backup and restore service
 - [pgqueuer](https://github.com/janbjorge/pgqueuer) (1446 stars) - PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.
 - [pgspot](https://github.com/timescale/pgspot) (130 stars) - Spot vulnerabilities in postgres SQL scripts
-- [photon](https://github.com/vmware/photon) (3174 stars) - Minimal Linux container host
 - [Photon](https://github.com/s0md3v/Photon) (12756 stars) - Incredibly fast crawler designed for OSINT.
+- [photon](https://github.com/vmware/photon) (3174 stars) - Minimal Linux container host
 - [pico-banana-400k](https://github.com/apple/pico-banana-400k) (1798 stars) - Unknown
 - [piku](https://github.com/piku/piku) (6565 stars) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [pinject](https://github.com/google/pinject) (1346 stars) - A pythonic dependency injection library.
@@ -622,12 +622,12 @@
 - [prowler](https://github.com/prowler-cloud/prowler) (13368 stars) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [psycopg](https://github.com/psycopg/psycopg) (2325 stars) - New generation PostgreSQL database adapter for the Python programming language 
 - [ptr](https://github.com/facebookincubator/ptr) (279 stars) - Python Test Runner.
-- [public-apis](https://github.com/public-apis/public-apis) (412714 stars) - A collective list of free APIs
+- [public-apis](https://github.com/public-apis/public-apis) (412719 stars) - A collective list of free APIs
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) (798 stars) - CLI and curses mixer for PulseAudio
 - [pulumi](https://github.com/thunderbird/pulumi) (5 stars) - Common Pulumi elements for use in Thunderbird infrastructure development
-- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) (4078 stars) - Set of tools to assess and improve LLM security.
+- [PurpleLlama](https://github.com/meta-llama/PurpleLlama) (4079 stars) - Set of tools to assess and improve LLM security.
 - [pybootd](https://github.com/eblot/pybootd) (109 stars) - A minimalist bootp/dhcp/pxe and tftp server
-- [pydantic](https://github.com/pydantic/pydantic) (27269 stars) - Data validation using Python type hints
+- [pydantic](https://github.com/pydantic/pydantic) (27270 stars) - Data validation using Python type hints
 - [pydantic-settings](https://github.com/pydantic/pydantic-settings) (1277 stars) - Settings management using pydantic
 - [pygorithm](https://github.com/OmkarPathak/pygorithm) (4393 stars) - A Python module for learning all major algorithms
 - [pyinfra](https://github.com/pyinfra-dev/pyinfra) (4890 stars) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
@@ -688,7 +688,7 @@
 - [rich](https://github.com/Textualize/rich) (55816 stars) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [robotframework](https://github.com/robotframework/robotframework) (11493 stars) - Generic automation framework for acceptance testing and RPA
 - [robusta](https://github.com/robusta-dev/robusta) (2963 stars) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [rotki](https://github.com/rotki/rotki) (3741 stars) - A portfolio tracking, analytics, accounting and management application that protects your privacy
+- [rotki](https://github.com/rotki/rotki) (3742 stars) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen) (847 stars) - A tool to generate highly customised software images for Raspberry Pi devices.
 - [s3cmd](https://github.com/s3tools/s3cmd) (4872 stars) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [s3fs](https://github.com/fsspec/s3fs) (1018 stars) - S3 Filesystem 
@@ -705,7 +705,7 @@
 - [sdk-python](https://github.com/strands-agents/sdk-python) (5344 stars) - A model-driven approach to building AI agents in just a few lines of code.
 - [sdxpy](https://github.com/gvwilson/sdxpy) (520 stars) - Software Design by Example: a tool-based introduction with Python
 - [searx](https://github.com/searx/searx) (13501 stars) - Privacy-respecting metasearch engine
-- [searxng](https://github.com/searxng/searxng) (26860 stars) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [searxng](https://github.com/searxng/searxng) (26861 stars) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [securitybot](https://github.com/dropbox/securitybot) (991 stars) - Distributed alerting for the masses!
 - [seed-oss](https://github.com/ByteDance-Seed/seed-oss) (874 stars) - Unknown
 - [semantic-router](https://github.com/aurelio-labs/semantic-router) (3365 stars) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -717,8 +717,8 @@
 - [sh](https://github.com/amoffat/sh) (7244 stars) - Python process launching
 - [sigma](https://github.com/SigmaHQ/sigma) (10214 stars) - Main Sigma Rule Repository
 - [SimpleDeckyTDP](https://github.com/aarron-lee/SimpleDeckyTDP) (232 stars) - Decky TDP plugin for PC handhelds + Linux
-- [skills](https://github.com/huggingface/skills) (9513 stars) - Give your agents the power of the Hugging Face ecosystem
-- [skills](https://github.com/anthropics/skills) (98630 stars) - Public repository for Agent Skills
+- [skills](https://github.com/huggingface/skills) (9514 stars) - Give your agents the power of the Hugging Face ecosystem
+- [skills](https://github.com/anthropics/skills) (98635 stars) - Public repository for Agent Skills
 - [skypilot](https://github.com/skypilot-org/skypilot) (9644 stars) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [skyvern](https://github.com/Skyvern-AI/skyvern) (20878 stars) - Automate browser based workflows with AI
 - [slate](https://github.com/vipul-sharma20/slate) (82 stars) - Self hosted Slack app for daily standups
@@ -730,7 +730,7 @@
 - [spacy-models](https://github.com/explosion/spacy-models) (1848 stars) - 💫  Models for the spaCy Natural Language Processing (NLP) library
 - [spark-operator](https://github.com/kubeflow/spark-operator) (3107 stars) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes. 
 - [spec](https://github.com/cloudevents/spec) (5708 stars) - CloudEvents Specification
-- [spec-kit](https://github.com/github/spec-kit) (78939 stars) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [spec-kit](https://github.com/github/spec-kit) (78941 stars) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [specification](https://github.com/theupdateframework/specification) (398 stars) - The Update Framework specification
 - [spilo](https://github.com/zalando/spilo) (1804 stars) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [sqlfluff](https://github.com/sqlfluff/sqlfluff) (9594 stars) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -740,8 +740,8 @@
 - [stackstorm-ansible](https://github.com/StackStorm-Exchange/stackstorm-ansible) (39 stars) - st2 content pack containing ansible integrations
 - [stanza](https://github.com/stanfordnlp/stanza) (7745 stars) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
 - [starred](https://github.com/maguowei/starred) (1868 stars) - Create and maintain your own Awesome-style list from GitHub stars!
-- [storm](https://github.com/stanford-oval/storm) (28020 stars) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [storm](https://github.com/emre/storm) (3918 stars) - Manage your SSH like a boss.
+- [storm](https://github.com/stanford-oval/storm) (28020 stars) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [strace-pipes-presentation](https://github.com/nh2/strace-pipes-presentation) (155 stars) - Presentation: Debugging across pipes and sockets with strace
 - [streamalert](https://github.com/airbnb/streamalert) (2886 stars) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [streamlink](https://github.com/streamlink/streamlink) (11351 stars) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -754,13 +754,13 @@
 - [superpaper](https://github.com/hhannine/superpaper) (1323 stars) - A cross-platform multi monitor wallpaper manager.
 - [supervision](https://github.com/roboflow/supervision) (36741 stars) - We write your reusable computer vision tools. 💜
 - [surya](https://github.com/datalab-to/surya) (19482 stars) - OCR, layout analysis, reading order, table recognition in 90+ languages
-- [swarm](https://github.com/openai/swarm) (21199 stars) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- [swarm](https://github.com/openai/swarm) (21200 stars) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) (18800 stars) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
 - [swiftshadow](https://github.com/sachin-sankar/swiftshadow) (315 stars) - Free IP Proxy rotator library for python
 - [synapse](https://github.com/element-hq/synapse) (3908 stars) - Synapse: Matrix homeserver written in Python/Twisted + Rust
 - [synator](https://github.com/TheYkk/synator) (117 stars) - Synator Kubernetes Secret and ConfigMap synchronizer
 - [syncserver](https://github.com/mozilla-services/syncserver) (1979 stars) - Run-Your-Own Firefox Sync Server
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) (339575 stars) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) (339576 stars) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [tabbyAPI](https://github.com/theroyallab/tabbyAPI) (1158 stars) - The official API server for Exllama. OAI compatible, lightweight, and fast.
 - [tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) (1397 stars) - The Tahoe-LAFS decentralized secure filesystem.
 - [Tardis](https://github.com/koldinger/Tardis) (59 stars) - A backup system, similar to TimeMachine.  Supports encrypted, incremental backups, with filesystem based recovery.
@@ -786,7 +786,7 @@
 - [tornado](https://github.com/tornadoweb/tornado) (22408 stars) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [trackers](https://github.com/roboflow/trackers) (3086 stars) - Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
 - [trae-agent](https://github.com/bytedance/trae-agent) (11080 stars) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
-- [transformers](https://github.com/huggingface/transformers) (158148 stars) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+- [transformers](https://github.com/huggingface/transformers) (158149 stars) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 - [transitions](https://github.com/pytransitions/transitions) (6463 stars) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [trl](https://github.com/huggingface/trl) (17733 stars) - Train transformer language models with reinforcement learning.
 - [trogon](https://github.com/Textualize/trogon) (2820 stars) - Easily turn your Click CLI into a powerful terminal application
@@ -796,21 +796,21 @@
 - [twisted](https://github.com/twisted/twisted) (5953 stars) - Event-driven networking engine written in Python.
 - [twittor](https://github.com/PaulSec/twittor) (792 stars) - A fully featured backdoor that uses Twitter as a C&C server 
 - [txtai](https://github.com/neuml/txtai) (12315 stars) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
-- [ty](https://github.com/astral-sh/ty) (17924 stars) - An extremely fast Python type checker and language server, written in Rust.
+- [ty](https://github.com/astral-sh/ty) (17926 stars) - An extremely fast Python type checker and language server, written in Rust.
 - [typer](https://github.com/fastapi/typer) (19061 stars) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [ucp](https://github.com/Universal-Commerce-Protocol/ucp) (2492 stars) - Specification and documentation for the Universal Commerce Protocol (UCP)
+- [ucp](https://github.com/Universal-Commerce-Protocol/ucp) (2493 stars) - Specification and documentation for the Universal Commerce Protocol (UCP)
 - [ultimate-python](https://github.com/huangsam/ultimate-python) (5819 stars) - Ultimate Python study guide 🐍 🐍 🐍
 - [ultravox](https://github.com/fixie-ai/ultravox) (4381 stars) - A fast multimodal LLM for real-time voice
 - [uncaptcha](https://github.com/ecthros/uncaptcha) (2815 stars) - Defeating Google's audio reCaptcha with 85% accuracy. 
 - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) (26081 stars) - Google Chromium, sans integration with Google
 - [unmanic](https://github.com/Unmanic/unmanic) (2196 stars) - Unmanic - Library Optimiser
-- [unsloth](https://github.com/unslothai/unsloth) (57120 stars) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unsloth](https://github.com/unslothai/unsloth) (57123 stars) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [ursula](https://github.com/blueboxgroup/ursula) (204 stars) - Ansible playbooks for operating OpenStack - Powering Blue Box Cloud.
 - [vanna](https://github.com/vanna-ai/vanna) (23035 stars) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [variety-slideshow](https://github.com/peterlevi/variety-slideshow) (66 stars) - A pan-and-zoom image slideshow in Python, using Clutter. Integrates nicely with Variety.
 - [vector-search-examples](https://github.com/scylladb/vector-search-examples) (6 stars) - Vector search examples with ScyllaDB
 - [venom-xbmc-addons](https://github.com/Kodi-vStream/venom-xbmc-addons) (537 stars) - Addon de Streaming français pour Xbmc
-- [VibeVoice](https://github.com/microsoft/VibeVoice) (23907 stars) - Open-Source Frontier Voice AI
+- [VibeVoice](https://github.com/microsoft/VibeVoice) (23908 stars) - Open-Source Frontier Voice AI
 - [vllm](https://github.com/vllm-project/vllm) (73809 stars) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [VoxCPM](https://github.com/OpenBMB/VoxCPM) (6148 stars) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
 - [waf-bypass](https://github.com/nemesida-waf/waf-bypass) (1471 stars) - Check your WAF before an attacker does
@@ -822,9 +822,9 @@
 - [watcher](https://github.com/openstack/watcher) (81 stars) - Resource optimization service for OpenStack. Mirror of code maintained at opendev.org.
 - [watchfiles](https://github.com/samuelcolvin/watchfiles) (2446 stars) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [weave](https://github.com/wandb/weave) (1061 stars) - Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.
-- [whisper](https://github.com/openai/whisper) (96349 stars) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [whisper](https://github.com/openai/whisper) (96350 stars) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) (9954 stars) - Simultaneous speech-to-text models
-- [whisperX](https://github.com/m-bain/whisperX) (20819 stars) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+- [whisperX](https://github.com/m-bain/whisperX) (20820 stars) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI) (806 stars) - WilmerAI is one of the oldest LLM semantic routers. It uses multi-layer prompt routing and complex workflows to allow you to not only create practical chatbots, but to extend any kind of application that connects to an LLM via REST API. Wilmer sits between your app and your many LLM APIs, so that you can manipulate prompts as needed.
 - [withoutbg](https://github.com/withoutbg/withoutbg) (942 stars) - Image Background Removal Toolkit - Open Source and API Models
 - [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) (2051 stars) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
@@ -837,10 +837,10 @@
 - [yamllint](https://github.com/adrienverge/yamllint) (3345 stars) - A linter for YAML files.
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26277 stars) - A code-completion engine for Vim
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) (139923 stars) - Command-line program to download videos from YouTube.com and other video sites
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) (152288 stars) - A feature-rich command-line audio/video downloader
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) (152289 stars) - A feature-rich command-line audio/video downloader
 - [yunohost](https://github.com/YunoHost/yunohost) (2847 stars) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [z-image-studio](https://github.com/iconben/z-image-studio) (99 stars) - A Cli, a webUI, and a MCP server for the Z-Image-Turbo text-to-image generation model (Tongyi-MAI/Z-Image-Turbo base model as well as quantized models)
-- [zenml](https://github.com/zenml-io/zenml) (5280 stars) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
+- [zenml](https://github.com/zenml-io/zenml) (5281 stars) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
 - [zentral](https://github.com/zentralopensource/zentral) (847 stars) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
 - [zfec](https://github.com/tahoe-lafs/zfec) (422 stars) -  zfec -- an efficient, portable erasure coding tool
 - [zippy](https://github.com/nimish-ks/zippy) (21 stars) - Open source CLI for Bionifying eBooks for the Kindle

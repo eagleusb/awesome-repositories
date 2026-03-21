@@ -1,11 +1,11 @@
 ## Lua (20 repositories) 
 - [APIcast](https://github.com/3scale/APIcast) (323 stars) - 3scale API Gateway
-- [apisix](https://github.com/apache/apisix) (16334 stars) - The Cloud-Native API Gateway and AI Gateway
+- [apisix](https://github.com/apache/apisix) (16335 stars) - The Cloud-Native API Gateway and AI Gateway
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) (14201 stars) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
 - [awesome](https://github.com/awesomeWM/awesome) (6841 stars) - awesome window manager
 - [haproxy-lua-acme](https://github.com/haproxytech/haproxy-lua-acme) (104 stars) - Unknown
 - [haproxy-lua-oauth](https://github.com/haproxytech/haproxy-lua-oauth) (117 stars) - JWT Validation implementation for HAProxy Lua host
-- [kong](https://github.com/Kong/kong) (43003 stars) - 🦍 The API and AI Gateway
+- [kong](https://github.com/Kong/kong) (43004 stars) - 🦍 The API and AI Gateway
 - [LazyVim](https://github.com/LazyVim/LazyVim) (25495 stars) - Neovim config for the lazy
 - [lite](https://github.com/rxi/lite) (8127 stars) - A lightweight text editor written in Lua
 - [lsyncd](https://github.com/lsyncd/lsyncd) (6018 stars) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets

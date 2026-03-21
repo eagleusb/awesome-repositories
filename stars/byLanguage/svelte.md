@@ -1,6 +1,6 @@
 ## Svelte (11 repositories) 
 - [agx](https://github.com/agnosticeng/agx) (250 stars) - AI Powered Analytics
-- [bananas](https://github.com/mistweaverco/bananas) (6181 stars) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
+- [bananas](https://github.com/mistweaverco/bananas) (6182 stars) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [cobalt](https://github.com/imputnet/cobalt) (39197 stars) - best way to save what you love
 - [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1040 stars) - Admin Web Interface for juanfont/headscale
 - [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2546 stars) - A web frontend for the headscale Tailscale-compatible coordination server

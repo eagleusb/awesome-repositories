@@ -6,7 +6,7 @@
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) (686 stars) - Discover who's upto what on Github
 - [goldfish](https://github.com/Caiyeon/goldfish) (2131 stars) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 - [nuxt-shadcn-prisma-auth](https://github.com/drobertson-dev/nuxt-shadcn-prisma-auth) (2 stars) - A production-ready Nuxt 4 starter template with authentication, database, and modern UI — designed for both human developers and AI coding agents.
-- [Piped](https://github.com/TeamPiped/Piped) (9849 stars) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [Piped](https://github.com/TeamPiped/Piped) (9850 stars) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [rbac-view](https://github.com/jasonrichardsmith/rbac-view) (160 stars) - Visualize Kubernetes RBAC rules
 - [Sink](https://github.com/miantiao-me/Sink) (6455 stars) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [statping](https://github.com/statping/statping) (7280 stars) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.

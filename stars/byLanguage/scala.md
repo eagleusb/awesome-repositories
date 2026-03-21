@@ -6,5 +6,5 @@
 - [gatling](https://github.com/gatling/gatling) (6878 stars) - Modern Load Testing as Code
 - [nelson](https://github.com/getnelson/nelson) (404 stars) - Automated, multi-region container deployment
 - [openwhisk](https://github.com/apache/openwhisk) (6758 stars) - Apache OpenWhisk is an open source serverless cloud platform
-- [scheduler](https://github.com/PagerDuty/scheduler) (213 stars) - A Scala library for scheduling arbitrary code to run at an arbitrary time.
+- [scheduler](https://github.com/PagerDuty/scheduler) (212 stars) - A Scala library for scheduling arbitrary code to run at an arbitrary time.
 - [scylla-migrator](https://github.com/scylladb/scylla-migrator) (70 stars) - Migrate data extract using Spark to Scylla, normally from Cassandra/parquet files. Alt. from DynamoDB to Scylla Alternator.
