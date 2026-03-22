@@ -1,7 +1,7 @@
 ## Makefile (18 repositories) 
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (35737 stars) - :whale: A curated list of Docker resources and projects
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (35745 stars) - :whale: A curated list of Docker resources and projects
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
-- [deezer-linux](https://github.com/aunetx/deezer-linux) (541 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
+- [deezer-linux](https://github.com/aunetx/deezer-linux) (543 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
 - [guide](https://github.com/uber-go/guide) (17387 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (529 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
@@ -16,4 +16,4 @@
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) (1058 stars) - Service Mesh Interface
 - [spec](https://github.com/container-storage-interface/spec) (1460 stars) - Container Storage Interface (CSI) Specification.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4012 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4014 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
