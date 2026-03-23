@@ -1,7 +1,7 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2196 repositories, 35.57%)
+- [Go](stars/byLanguage/go.md) (2197 repositories, 35.58%)
 - [Python](stars/byLanguage/python.md) (849 repositories, 13.75%)
 - [TypeScript](stars/byLanguage/typescript.md) (473 repositories, 7.66%)
 - [JavaScript](stars/byLanguage/javascript.md) (442 repositories, 7.16%)
@@ -39,7 +39,7 @@
 - [FreeMarker](stars/byLanguage/freemarker.md) (1 repositories, 0.02%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2196 repositories, 35.57%)
+- [Go](stars/byLanguage/go.md) (2197 repositories, 35.58%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)

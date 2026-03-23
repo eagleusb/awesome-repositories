@@ -1,3 +1,3 @@
 ## YAML (2 repositories) 
-- [deploy](https://github.com/ansistrano/deploy) (2404 stars) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+- [deploy](https://github.com/ansistrano/deploy) (2405 stars) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 - [k8ssandra](https://github.com/k8ssandra/k8ssandra) (455 stars) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling.
