@@ -1,11 +1,11 @@
 ## Makefile (18 repositories) 
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (35754 stars) - :whale: A curated list of Docker resources and projects
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (35762 stars) - :whale: A curated list of Docker resources and projects
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
 - [deezer-linux](https://github.com/aunetx/deezer-linux) (545 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
-- [guide](https://github.com/uber-go/guide) (17387 stars) - The Uber Go Style Guide.
+- [guide](https://github.com/uber-go/guide) (17388 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (529 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
-- [hubble](https://github.com/cilium/hubble) (4113 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [hubble](https://github.com/cilium/hubble) (4116 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [k8s-clusters](https://github.com/grampelberg/k8s-clusters) (25 stars) - Simple kubernetes clusters on cloud providers for development
 - [kernel](https://github.com/gokrazy/kernel) (66 stars) - (Upstream) Linux kernel build for gokrazy
 - [keydb-operator](https://github.com/krestomatio/keydb-operator) (58 stars) - A KeyDB (Drop-In Alternative to Redis) Operator for Kubernetes, based on Ansible Operator SDK. 
@@ -16,4 +16,4 @@
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) (1059 stars) - Service Mesh Interface
 - [spec](https://github.com/container-storage-interface/spec) (1460 stars) - Container Storage Interface (CSI) Specification.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4013 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4016 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
