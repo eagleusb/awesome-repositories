@@ -1,5 +1,5 @@
 ## Assembly (7 repositories) 
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) (64708 stars) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11) (64707 stars) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [blake3](https://github.com/lukechampine/blake3) (414 stars) - An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function
 - [fastd](https://github.com/neocturne/fastd) (146 stars) - Fast and Secure Tunnelling Daemon
 - [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) (17900 stars) - Collection of malware source code for a variety of platforms in an array of different programming languages.
