@@ -1,2 +1,2 @@
 ## BitBake (1 repositories) 
-- [meta-balena](https://github.com/balena-os/meta-balena) (985 stars) - A collection of Yocto layers used to build balenaOS images
+- [meta-balena](https://github.com/balena-os/meta-balena) (986 stars) - A collection of Yocto layers used to build balenaOS images
