@@ -15,7 +15,7 @@
 - [terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) (357 stars) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.
 - [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1254 stars) - Configures opinionated GKE clusters
 - [terraform-guides](https://github.com/hashicorp/terraform-guides) (1490 stars) - Example usage of HashiCorp Terraform
-- [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (595 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
+- [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (596 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [terraform-kubernetes-addons](https://github.com/particuleio/terraform-kubernetes-addons) (210 stars) - Terraform module to deploy curated Kubernetes middlewares on multiple cloud providers.
 - [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) (734 stars) - Generate Atlantis config for Terragrunt projects.
 - [typhoon](https://github.com/poseidon/typhoon) (2039 stars) - Minimal and free Kubernetes distribution with Terraform
