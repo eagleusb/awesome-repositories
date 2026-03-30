@@ -3,12 +3,12 @@
 - [hstream](https://github.com/hstreamdb/hstream) (725 stars) - HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.
 - [klfc](https://github.com/39aldo39/klfc) (235 stars) - Keyboard Layout Files Creator
 - [linux_notification_center](https://github.com/phuhl/linux_notification_center) (1050 stars) - A notification daemon/center for linux
-- [postgrest](https://github.com/PostgREST/postgrest) (26700 stars) - REST API for any Postgres database
-- [purescript](https://github.com/purescript/purescript) (8842 stars) - A strongly-typed language that compiles to JavaScript
+- [postgrest](https://github.com/PostgREST/postgrest) (26702 stars) - REST API for any Postgres database
+- [purescript](https://github.com/purescript/purescript) (8840 stars) - A strongly-typed language that compiles to JavaScript
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) (912 stars) - A peer-to-peer stack for code collaboration
-- [shellcheck](https://github.com/koalaman/shellcheck) (39187 stars) - ShellCheck, a static analysis tool for shell scripts
-- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (10759 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-- [simplexmq](https://github.com/simplex-chat/simplexmq) (773 stars) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+- [shellcheck](https://github.com/koalaman/shellcheck) (39185 stars) - ShellCheck, a static analysis tool for shell scripts
+- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (10765 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [simplexmq](https://github.com/simplex-chat/simplexmq) (774 stars) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 - [squee](https://github.com/KMahoney/squee) (104 stars) - A Typed, Composable Database Query Language
 - [taffybar](https://github.com/taffybar/taffybar) (713 stars) - A gtk based status bar for tiling window managers such as XMonad
 - [wire-server](https://github.com/wireapp/wire-server) (2755 stars) - 🇪🇺 Wire back-end services
