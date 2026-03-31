@@ -1,12 +1,12 @@
 ## Zig (11 repositories) 
-- [browser](https://github.com/lightpanda-io/browser) (25873 stars) - Lightpanda: the headless browser designed for AI and automation
-- [bun](https://github.com/oven-sh/bun) (88458 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [browser](https://github.com/lightpanda-io/browser) (26098 stars) - Lightpanda: the headless browser designed for AI and automation
+- [bun](https://github.com/oven-sh/bun) (88482 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [cyber](https://github.com/fubark/cyber) (1425 stars) - Fast and concurrent scripting.
-- [ghostty](https://github.com/ghostty-org/ghostty) (49096 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [ghostty](https://github.com/ghostty-org/ghostty) (49198 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hys](https://github.com/superstarryeyes/hys) (257 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
-- [ly](https://github.com/fairyglade/ly) (7134 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [ly](https://github.com/fairyglade/ly) (7138 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [zig](https://github.com/ziglang/zig) (42802 stars) - Moved to Codeberg
-- [zml](https://github.com/zml/zml) (3292 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-- [zmx](https://github.com/neurosnap/zmx) (1157 stars) - Session persistence for terminal processes
+- [zml](https://github.com/zml/zml) (3294 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+- [zmx](https://github.com/neurosnap/zmx) (1160 stars) - Session persistence for terminal processes
 - [zpdf](https://github.com/Lulzx/zpdf) (891 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 - [zs3](https://github.com/Lulzx/zs3) (165 stars) - S3-compatible storage in Zig. Zero dependencies.

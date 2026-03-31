@@ -1,3 +1,3 @@
 ## Prolog (2 repositories) 
-- [open-source-rover](https://github.com/nasa-jpl/open-source-rover) (9217 stars) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-- [terminusdb](https://github.com/terminusdb/terminusdb) (3235 stars) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
+- [open-source-rover](https://github.com/nasa-jpl/open-source-rover) (9219 stars) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+- [terminusdb](https://github.com/terminusdb/terminusdb) (3236 stars) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
