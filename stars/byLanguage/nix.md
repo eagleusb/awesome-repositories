@@ -1,9 +1,9 @@
 ## Nix (8 repositories) 
-- [corepkgs](https://github.com/ekala-project/corepkgs) (59 stars) - Core packages and NixOS modules for a poly-repo nixpkgs fork
+- [corepkgs](https://github.com/ekala-project/corepkgs) (60 stars) - Core packages and NixOS modules for a poly-repo nixpkgs fork
 - [easykubenix](https://github.com/Lillecarl/easykubenix) (27 stars) - Like kubenix, but easier
-- [home-manager](https://github.com/nix-community/home-manager) (9563 stars) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
-- [microvm.nix](https://github.com/microvm-nix/microvm.nix) (2438 stars) - NixOS MicroVMs
+- [home-manager](https://github.com/nix-community/home-manager) (9571 stars) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
+- [microvm.nix](https://github.com/microvm-nix/microvm.nix) (2440 stars) - NixOS MicroVMs
 - [nix-csi](https://github.com/Lillecarl/nix-csi) (94 stars) - CSI driver for Nixxing Kubernetes, see develop branch!
-- [nix-lib](https://github.com/ekala-project/nix-lib) (43 stars) - Standalone lib for use with nix
+- [nix-lib](https://github.com/ekala-project/nix-lib) (44 stars) - Standalone lib for use with nix
 - [nixos-config](https://github.com/tazjin/nixos-config) (50 stars) - NixOS configuration for my machines. This repository is deprecated, config now lives at https://cs.tvl.fyi/depot/-/tree/users/tazjin/nixos
-- [nixpkgs](https://github.com/NixOS/nixpkgs) (24114 stars) - Nix Packages collection & NixOS
+- [nixpkgs](https://github.com/NixOS/nixpkgs) (24125 stars) - Nix Packages collection & NixOS
