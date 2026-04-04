@@ -1,5 +1,5 @@
 ## Markdown (4 repositories) 
 - [awesome-canvas](https://github.com/raphamorim/awesome-canvas) (1808 stars) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) (485716 stars) - Master programming by recreating your favorite technologies from scratch.
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (30985 stars) - The OpenAPI Specification Repository
-- [tldr](https://github.com/tldr-pages/tldr) (61892 stars) - Collaborative cheatsheets for console commands 📚.
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) (485939 stars) - Master programming by recreating your favorite technologies from scratch.
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (30989 stars) - The OpenAPI Specification Repository
+- [tldr](https://github.com/tldr-pages/tldr) (61899 stars) - Collaborative cheatsheets for console commands 📚.
