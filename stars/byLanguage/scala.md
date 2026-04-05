@@ -5,6 +5,6 @@
 - [finagle](https://github.com/twitter/finagle) (8873 stars) - A fault tolerant, protocol-agnostic RPC system
 - [gatling](https://github.com/gatling/gatling) (6880 stars) - Modern Load Testing as Code
 - [nelson](https://github.com/getnelson/nelson) (404 stars) - Automated, multi-region container deployment
-- [openwhisk](https://github.com/apache/openwhisk) (6764 stars) - Apache OpenWhisk is an open source serverless cloud platform
+- [openwhisk](https://github.com/apache/openwhisk) (6763 stars) - Apache OpenWhisk is an open source serverless cloud platform
 - [scheduler](https://github.com/PagerDuty/scheduler) (212 stars) - A Scala library for scheduling arbitrary code to run at an arbitrary time.
 - [scylla-migrator](https://github.com/scylladb/scylla-migrator) (71 stars) - Migrate data extract using Spark to Scylla, normally from Cassandra/parquet files. Alt. from DynamoDB to Scylla Alternator.

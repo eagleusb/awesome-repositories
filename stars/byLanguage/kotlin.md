@@ -1,17 +1,17 @@
 ## Kotlin (16 repositories) 
-- [amethyst](https://github.com/vitorpamplona/amethyst) (1494 stars) - Nostr client for Android
-- [android](https://github.com/owntracks/android) (1669 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (3476 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (15912 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [KernelSU](https://github.com/tiann/KernelSU) (15837 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/kavishdevar/librepods) (26306 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (11654 stars) - An alternative frontend for YouTube, for Android.
-- [nexa-sdk](https://github.com/NexaAI/nexa-sdk) (7905 stars) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.
+- [amethyst](https://github.com/vitorpamplona/amethyst) (1495 stars) - Nostr client for Android
+- [android](https://github.com/owntracks/android) (1671 stars) - OwnTracks Android App
+- [android-app](https://github.com/ProtonVPN/android-app) (3480 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (16216 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [KernelSU](https://github.com/tiann/KernelSU) (15855 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/kavishdevar/librepods) (26328 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (11658 stars) - An alternative frontend for YouTube, for Android.
+- [nexa-sdk](https://github.com/NexaAI/nexa-sdk) (7903 stars) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (547 stars) - PartiQL libraries and tools in Kotlin.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (27141 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5082 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13297 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2572 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (27166 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5085 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13305 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2573 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2725 stars) - Unknown
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4172 stars) - Main UserLAnd Repository
-- [Wholphin](https://github.com/damontecres/Wholphin) (1572 stars) - An OSS Android TV client for Jellyfin
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4175 stars) - Main UserLAnd Repository
+- [Wholphin](https://github.com/damontecres/Wholphin) (1575 stars) - An OSS Android TV client for Jellyfin

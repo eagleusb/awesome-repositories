@@ -3,12 +3,12 @@
 - [hstream](https://github.com/hstreamdb/hstream) (724 stars) - HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.
 - [klfc](https://github.com/39aldo39/klfc) (235 stars) - Keyboard Layout Files Creator
 - [linux_notification_center](https://github.com/phuhl/linux_notification_center) (1050 stars) - A notification daemon/center for linux
-- [postgrest](https://github.com/PostgREST/postgrest) (26717 stars) - REST API for any Postgres database
+- [postgrest](https://github.com/PostgREST/postgrest) (26721 stars) - REST API for any Postgres database
 - [purescript](https://github.com/purescript/purescript) (8844 stars) - A strongly-typed language that compiles to JavaScript
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) (912 stars) - A peer-to-peer stack for code collaboration
-- [shellcheck](https://github.com/koalaman/shellcheck) (39225 stars) - ShellCheck, a static analysis tool for shell scripts
-- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (10794 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-- [simplexmq](https://github.com/simplex-chat/simplexmq) (778 stars) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+- [shellcheck](https://github.com/koalaman/shellcheck) (39227 stars) - ShellCheck, a static analysis tool for shell scripts
+- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (10810 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [simplexmq](https://github.com/simplex-chat/simplexmq) (779 stars) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 - [squee](https://github.com/KMahoney/squee) (104 stars) - A Typed, Composable Database Query Language
 - [taffybar](https://github.com/taffybar/taffybar) (714 stars) - A gtk based status bar for tiling window managers such as XMonad
 - [wire-server](https://github.com/wireapp/wire-server) (2756 stars) - 🇪🇺 Wire back-end services
