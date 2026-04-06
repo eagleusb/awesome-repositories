@@ -1,2 +1,2 @@
 ## RPM Spec (1 repositories) 
-- [azurelinux](https://github.com/microsoft/azurelinux) (4598 stars) - Linux OS for Azure 1P services and edge appliances
+- [azurelinux](https://github.com/microsoft/azurelinux) (4599 stars) - Linux OS for Azure 1P services and edge appliances

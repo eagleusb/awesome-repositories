@@ -1,2 +1,2 @@
 ## Just (1 repositories) 
-- [cosmic-epoch](https://github.com/pop-os/cosmic-epoch) (5991 stars) - Next generation Cosmic desktop environment
+- [cosmic-epoch](https://github.com/pop-os/cosmic-epoch) (5997 stars) - Next generation Cosmic desktop environment

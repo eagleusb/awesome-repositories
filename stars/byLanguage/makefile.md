@@ -15,4 +15,4 @@
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) (1060 stars) - Service Mesh Interface
 - [spec](https://github.com/container-storage-interface/spec) (1460 stars) - Container Storage Interface (CSI) Specification.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4028 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4033 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)

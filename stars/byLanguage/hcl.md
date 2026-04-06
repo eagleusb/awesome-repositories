@@ -1,5 +1,5 @@
 ## HCL (22 repositories) 
-- [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (84 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
+- [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (85 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (220 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
@@ -18,6 +18,6 @@
 - [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (603 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [terraform-kubernetes-addons](https://github.com/particuleio/terraform-kubernetes-addons) (210 stars) - Terraform module to deploy curated Kubernetes middlewares on multiple cloud providers.
 - [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) (736 stars) - Generate Atlantis config for Terragrunt projects.
-- [typhoon](https://github.com/poseidon/typhoon) (2041 stars) - Minimal and free Kubernetes distribution with Terraform
+- [typhoon](https://github.com/poseidon/typhoon) (2042 stars) - Minimal and free Kubernetes distribution with Terraform
 - [vault-on-gke](https://github.com/sethvargo/vault-on-gke) (498 stars) - Run @HashiCorp Vault on Google Kubernetes Engine (GKE) with Terraform
 - [vault-raft-backup-agent](https://github.com/adfinis/vault-raft-backup-agent) (18 stars) - Vault Raft Integrated Storage Snapshot Automation
