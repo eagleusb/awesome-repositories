@@ -1,2 +1,2 @@
 ## Cython (1 repositories) 
-- [uvloop](https://github.com/MagicStack/uvloop) (11739 stars) - Ultra fast asyncio event loop.
+- [uvloop](https://github.com/MagicStack/uvloop) (11743 stars) - Ultra fast asyncio event loop.
