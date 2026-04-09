@@ -1,2 +1,2 @@
 ## D (1 repositories) 
-- [tilix](https://github.com/gnunn1/tilix) (5657 stars) - A tiling terminal emulator for Linux using GTK+ 3
+- [tilix](https://github.com/gnunn1/tilix) (5658 stars) - A tiling terminal emulator for Linux using GTK+ 3
