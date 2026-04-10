@@ -1,31 +1,31 @@
 ## CSS (31 repositories) 
-- [98.css](https://github.com/jdan/98.css) (10983 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82641 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [98.css](https://github.com/jdan/98.css) (10987 stars) - A design system for building faithful recreations of old UIs
+- [animate.css](https://github.com/animate-css/animate.css) (82581 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8260 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9286 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9284 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2554 stars) - A list of history's greatest software engineers and tech pioneers
 - [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (7828 stars) - 🚨 Collection of Prometheus alerting rules
-- [cs16.css](https://github.com/ekmas/cs16.css) (1978 stars) - CSS library based on Counter Strike 1.6 UI.
+- [cs16.css](https://github.com/ekmas/cs16.css) (1981 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [dalai](https://github.com/cocktailpeanut/dalai) (12959 stars) - The simplest way to run LLaMA on your local machine
+- [dalai](https://github.com/cocktailpeanut/dalai) (12961 stars) - The simplest way to run LLaMA on your local machine
 - [Fira](https://github.com/mozilla/Fira) (5155 stars) - Mozilla's new typeface, used in Firefox OS
-- [goflow](https://github.com/s8sg/goflow) (1371 stars) - A Golang based high performance, scalable and distributed workflow framework
+- [goflow](https://github.com/s8sg/goflow) (1370 stars) - A Golang based high performance, scalable and distributed workflow framework
 - [gtk](https://github.com/dracula/gtk) (1046 stars) - 🧛🏻‍♂️ Dark theme for GTK
-- [http2-explained](https://github.com/bagder/http2-explained) (2315 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+- [http2-explained](https://github.com/bagder/http2-explained) (2313 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (422 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2707 stars) - A simple, retro theme for Hugo
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2708 stars) - A simple, retro theme for Hugo
 - [juliamono](https://github.com/cormullion/juliamono) (1624 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
-- [mazanoke](https://github.com/civilblur/mazanoke) (2553 stars) - A self-hosted local image optimizer that runs in your browser.
-- [Nordic](https://github.com/EliverLara/Nordic) (2671 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+- [mazanoke](https://github.com/civilblur/mazanoke) (2555 stars) - A self-hosted local image optimizer that runs in your browser.
+- [Nordic](https://github.com/EliverLara/Nordic) (2673 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (171 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3788 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) (20 stars) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3363 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (127 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20386 stars) - Monospaced font family for user interface and coding environments
-- [source-sans](https://github.com/adobe-fonts/source-sans) (3681 stars) - Sans serif font family for user interface environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20384 stars) - Monospaced font family for user interface and coding environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) (3682 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2304 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11702 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7889 stars) - The JavaScript Way book
