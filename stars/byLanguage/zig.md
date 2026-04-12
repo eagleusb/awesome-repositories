@@ -1,12 +1,12 @@
 ## Zig (11 repositories) 
-- [browser](https://github.com/lightpanda-io/browser) (28296 stars) - Lightpanda: the headless browser designed for AI and automation
-- [bun](https://github.com/oven-sh/bun) (88977 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [cyber](https://github.com/fubark/cyber) (1428 stars) - Fast and concurrent scripting.
-- [ghostty](https://github.com/ghostty-org/ghostty) (50340 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [browser](https://github.com/lightpanda-io/browser) (28461 stars) - Lightpanda: the headless browser designed for AI and automation
+- [bun](https://github.com/oven-sh/bun) (89005 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [cyber](https://github.com/fubark/cyber) (1429 stars) - Fast and concurrent scripting.
+- [ghostty](https://github.com/ghostty-org/ghostty) (50452 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hys](https://github.com/superstarryeyes/hys) (258 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
-- [ly](https://github.com/fairyglade/ly) (7169 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [zig](https://github.com/ziglang/zig) (42811 stars) - Moved to Codeberg
-- [zml](https://github.com/zml/zml) (3379 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-- [zmx](https://github.com/neurosnap/zmx) (1236 stars) - Session persistence for terminal processes
+- [ly](https://github.com/fairyglade/ly) (7174 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [zig](https://github.com/ziglang/zig) (42815 stars) - Moved to Codeberg
+- [zml](https://github.com/zml/zml) (3382 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+- [zmx](https://github.com/neurosnap/zmx) (1239 stars) - Session persistence for terminal processes
 - [zpdf](https://github.com/Lulzx/zpdf) (896 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 - [zs3](https://github.com/Lulzx/zs3) (166 stars) - S3-compatible storage in Zig. Zero dependencies.
