@@ -1,10 +1,10 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2207 repositories, 35.38%)
-- [Python](stars/byLanguage/python.md) (858 repositories, 13.75%)
-- [TypeScript](stars/byLanguage/typescript.md) (495 repositories, 7.94%)
-- [Rust](stars/byLanguage/rust.md) (451 repositories, 7.23%)
+- [Go](stars/byLanguage/go.md) (2208 repositories, 35.38%)
+- [Python](stars/byLanguage/python.md) (857 repositories, 13.73%)
+- [TypeScript](stars/byLanguage/typescript.md) (495 repositories, 7.93%)
+- [Rust](stars/byLanguage/rust.md) (452 repositories, 7.24%)
 - [JavaScript](stars/byLanguage/javascript.md) (443 repositories, 7.10%)
 
 ## All Languages
@@ -39,7 +39,7 @@
 - [FreeMarker](stars/byLanguage/freemarker.md) (1 repositories, 0.02%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2207 repositories, 35.38%)
+- [Go](stars/byLanguage/go.md) (2208 repositories, 35.38%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -82,7 +82,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (7 repositories, 0.11%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (858 repositories, 13.75%)
+- [Python](stars/byLanguage/python.md) (857 repositories, 13.73%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
@@ -90,7 +90,7 @@
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [RPM Spec](stars/byLanguage/rpmspec.md) (1 repositories, 0.02%)
 - [Ruby](stars/byLanguage/ruby.md) (82 repositories, 1.31%)
-- [Rust](stars/byLanguage/rust.md) (451 repositories, 7.23%)
+- [Rust](stars/byLanguage/rust.md) (452 repositories, 7.24%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
 - [Shell](stars/byLanguage/shell.md) (150 repositories, 2.40%)
@@ -102,8 +102,8 @@
 - [templ](stars/byLanguage/templ.md) (1 repositories, 0.02%)
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
-- [TypeScript](stars/byLanguage/typescript.md) (495 repositories, 7.94%)
-- [Unknown](stars/byLanguage/unknown.md) (282 repositories, 4.52%)
+- [TypeScript](stars/byLanguage/typescript.md) (495 repositories, 7.93%)
+- [Unknown](stars/byLanguage/unknown.md) (283 repositories, 4.54%)
 - [V](stars/byLanguage/v.md) (4 repositories, 0.06%)
 - [Vala](stars/byLanguage/vala.md) (2 repositories, 0.03%)
 - [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)

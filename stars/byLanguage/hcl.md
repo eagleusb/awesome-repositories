@@ -1,5 +1,5 @@
 ## HCL (22 repositories) 
-- [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (87 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
+- [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (88 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (220 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
@@ -15,7 +15,7 @@
 - [terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) (357 stars) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.
 - [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1257 stars) - Configures opinionated GKE clusters
 - [terraform-guides](https://github.com/hashicorp/terraform-guides) (1492 stars) - Example usage of HashiCorp Terraform
-- [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (623 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
+- [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (624 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [terraform-kubernetes-addons](https://github.com/particuleio/terraform-kubernetes-addons) (210 stars) - Terraform module to deploy curated Kubernetes middlewares on multiple cloud providers.
 - [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) (737 stars) - Generate Atlantis config for Terragrunt projects.
 - [typhoon](https://github.com/poseidon/typhoon) (2041 stars) - Minimal and free Kubernetes distribution with Terraform

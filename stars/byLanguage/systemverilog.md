@@ -1,2 +1,2 @@
 ## SystemVerilog (1 repositories) 
-- [tiny-gpu](https://github.com/adam-maj/tiny-gpu) (12163 stars) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
+- [tiny-gpu](https://github.com/adam-maj/tiny-gpu) (12176 stars) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
