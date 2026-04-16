@@ -1,3 +1,2 @@
-## Vala (2 repositories) 
+## Vala (1 repositories) 
 - [bookworm](https://github.com/babluboy/bookworm) (1378 stars) - A simple ebook reader for Elementary OS
-- [peek](https://github.com/phw/peek) (10563 stars) - Simple animated GIF screen recorder with an easy to use interface
