@@ -1,7 +1,7 @@
 ## SCSS (10 repositories) 
-- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) (8762 stars) - The conventional commits specification
-- [hacker101](https://github.com/Hacker0x01/hacker101) (14393 stars) - Source code for Hacker101.com - a free online web and mobile security class.
-- [hugo-fresh](https://github.com/StefMa/hugo-fresh) (685 stars) - Hugo Fresh Theme
+- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) (8765 stars) - The conventional commits specification
+- [hacker101](https://github.com/Hacker0x01/hacker101) (14394 stars) - Source code for Hacker101.com - a free online web and mobile security class.
+- [hugo-fresh](https://github.com/StefMa/hugo-fresh) (686 stars) - Hugo Fresh Theme
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) (1086 stars) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme) (273 stars) - Whisper is a minimal documentation theme for Hugo.
 - [materia-theme](https://github.com/nana-4/materia-theme) (3504 stars) - A Material Design theme for GNOME/GTK based desktop environments
