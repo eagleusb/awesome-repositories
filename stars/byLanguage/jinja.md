@@ -6,6 +6,6 @@
 - [ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx) (653 stars) - Ansible role to install and manage nginx configuration
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) (271 stars) - [DEPRECATED] Setup unattended-upgrades on Debian-based systems
 - [build](https://github.com/nodejs/build) (532 stars) - Better build and test infra for Node.
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) (18418 stars) - Deploy a Production Ready Kubernetes Cluster
-- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (11637 stars) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) (18421 stars) - Deploy a Production Ready Kubernetes Cluster
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (11642 stars) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) (74 stars) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.

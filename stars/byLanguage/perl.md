@@ -1,8 +1,8 @@
 ## Perl (10 repositories) 
-- [ddclient](https://github.com/ddclient/ddclient) (3403 stars) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
+- [ddclient](https://github.com/ddclient/ddclient) (3405 stars) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [openstack-image-tools](https://github.com/cernops/openstack-image-tools) (8 stars) - Oz imput files to create SLC and Windows images
-- [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (571 stars) - Query Performance Monitoring Tool for PostgreSQL
-- [pgbadger](https://github.com/darold/pgbadger) (3997 stars) - A fast PostgreSQL Log Analyzer
+- [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (572 stars) - Query Performance Monitoring Tool for PostgreSQL
+- [pgbadger](https://github.com/darold/pgbadger) (3999 stars) - A fast PostgreSQL Log Analyzer
 - [pgcluu](https://github.com/darold/pgcluu) (346 stars) - PostgreSQL Cluster performances monitoring and auditing tool
 - [SmokePing](https://github.com/oetiker/SmokePing) (1867 stars) - The Active Monitoring System
 - [sqitch](https://github.com/sqitchers/sqitch) (3123 stars) - Sensible database change management
