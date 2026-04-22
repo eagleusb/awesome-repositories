@@ -1,8 +1,8 @@
 ## Scala (9 repositories) 
 - [chronon](https://github.com/airbnb/chronon) (1002 stars) - Chronon is a data platform for serving for AI/ML applications.
-- [chronos](https://github.com/mesos/chronos) (4382 stars) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
+- [chronos](https://github.com/mesos/chronos) (4383 stars) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 - [collins](https://github.com/tumblr/collins) (577 stars) - groovy kind of love
-- [finagle](https://github.com/twitter/finagle) (8865 stars) - A fault tolerant, protocol-agnostic RPC system
+- [finagle](https://github.com/twitter/finagle) (8864 stars) - A fault tolerant, protocol-agnostic RPC system
 - [gatling](https://github.com/gatling/gatling) (6893 stars) - Modern Load Testing as Code
 - [nelson](https://github.com/getnelson/nelson) (404 stars) - Automated, multi-region container deployment
 - [openwhisk](https://github.com/apache/openwhisk) (6764 stars) - Apache OpenWhisk is an open source serverless cloud platform
