@@ -1,10 +1,10 @@
 ## OCaml (9 repositories) 
 - [fastpack](https://github.com/fastpack/fastpack) (2260 stars) - Pack JS code fast & easy
-- [liquidsoap](https://github.com/savonet/liquidsoap) (1644 stars) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
-- [mirage](https://github.com/mirage/mirage) (2876 stars) - MirageOS is a library operating system that constructs unikernels
+- [liquidsoap](https://github.com/savonet/liquidsoap) (1646 stars) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
+- [mirage](https://github.com/mirage/mirage) (2879 stars) - MirageOS is a library operating system that constructs unikernels
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (314 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [pyre-check](https://github.com/facebook/pyre-check) (7150 stars) - Performant type-checking for python.
 - [reason](https://github.com/reasonml/reason) (10301 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [semgrep](https://github.com/semgrep/semgrep) (14883 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [terrateam](https://github.com/terrateamio/terrateam) (1220 stars) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
-- [unison](https://github.com/bcpierce00/unison) (5244 stars) - Unison file synchronizer
+- [semgrep](https://github.com/semgrep/semgrep) (14898 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [terrateam](https://github.com/terrateamio/terrateam) (1221 stars) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
+- [unison](https://github.com/bcpierce00/unison) (5245 stars) - Unison file synchronizer

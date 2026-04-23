@@ -2,9 +2,9 @@
 
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2220 repositories, 35.47%)
-- [Python](stars/byLanguage/python.md) (859 repositories, 13.72%)
+- [Python](stars/byLanguage/python.md) (860 repositories, 13.74%)
 - [TypeScript](stars/byLanguage/typescript.md) (499 repositories, 7.97%)
-- [Rust](stars/byLanguage/rust.md) (454 repositories, 7.25%)
+- [Rust](stars/byLanguage/rust.md) (453 repositories, 7.24%)
 - [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 7.05%)
 
 ## All Languages
@@ -15,7 +15,7 @@
 - [Bikeshed](stars/byLanguage/bikeshed.md) (1 repositories, 0.02%)
 - [BitBake](stars/byLanguage/bitbake.md) (1 repositories, 0.02%)
 - [Blade](stars/byLanguage/blade.md) (1 repositories, 0.02%)
-- [C](stars/byLanguage/c.md) (358 repositories, 5.72%)
+- [C](stars/byLanguage/c.md) (357 repositories, 5.70%)
 - [C#](stars/byLanguage/c.md) (29 repositories, 0.46%)
 - [C++](stars/byLanguage/c.md) (229 repositories, 3.66%)
 - [Clojure](stars/byLanguage/clojure.md) (8 repositories, 0.13%)
@@ -81,7 +81,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (7 repositories, 0.11%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (859 repositories, 13.72%)
+- [Python](stars/byLanguage/python.md) (860 repositories, 13.74%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
@@ -89,7 +89,7 @@
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [RPM Spec](stars/byLanguage/rpmspec.md) (1 repositories, 0.02%)
 - [Ruby](stars/byLanguage/ruby.md) (82 repositories, 1.31%)
-- [Rust](stars/byLanguage/rust.md) (454 repositories, 7.25%)
+- [Rust](stars/byLanguage/rust.md) (453 repositories, 7.24%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
 - [Shell](stars/byLanguage/shell.md) (151 repositories, 2.41%)
@@ -111,4 +111,4 @@
 - [Vue](stars/byLanguage/vue.md) (16 repositories, 0.26%)
 - [XSLT](stars/byLanguage/xslt.md) (1 repositories, 0.02%)
 - [YAML](stars/byLanguage/yaml.md) (2 repositories, 0.03%)
-- [Zig](stars/byLanguage/zig.md) (10 repositories, 0.16%)
+- [Zig](stars/byLanguage/zig.md) (11 repositories, 0.18%)
