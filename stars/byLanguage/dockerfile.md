@@ -5,6 +5,6 @@
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) (13942 stars) - Various Dockerfiles I use on the desktop and on servers.
 - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs) (1041 stars) - PagerDuty's Incident Response Documentation.
 - [jetstream](https://github.com/nats-io/jetstream) (474 stars) - JetStream Utilities
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105226 stars) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105225 stars) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [rockchip-bsp](https://github.com/radxa/rockchip-bsp) (101 stars) - Linux BSP for ROCK Pi
-- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (381 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (382 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
