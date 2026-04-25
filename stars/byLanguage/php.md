@@ -1,44 +1,44 @@
 ## PHP (43 repositories) 
-- [ampache](https://github.com/ampache/ampache) (3795 stars) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
+- [ampache](https://github.com/ampache/ampache) (3791 stars) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
 - [awesome-appsec](https://github.com/paragonie/awesome-appsec) (6893 stars) - A curated list of resources for learning about application security
 - [Baikal](https://github.com/sabre-io/Baikal) (3135 stars) - Baïkal is a Calendar+Contacts server
 - [cachet](https://github.com/cachethq/cachet) (15017 stars) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [cacti](https://github.com/Cacti/cacti) (1820 stars) - Cacti ™
 - [crater](https://github.com/crater-invoice-inc/crater) (8281 stars) - Open Source Invoicing Solution for Individuals & Businesses
-- [cypht](https://github.com/cypht-org/cypht) (1484 stars) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services)
-- [Erugo](https://github.com/ErugoOSS/Erugo) (1021 stars) - A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you complete control over your data while providing a seamless experience for both senders and recipients.
-- [framework](https://github.com/flarum/framework) (6704 stars) - Simple forum software for building great communities.
+- [cypht](https://github.com/cypht-org/cypht) (1486 stars) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and EWS (Exchange Web Services)
+- [Erugo](https://github.com/ErugoOSS/Erugo) (1020 stars) - A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you complete control over your data while providing a seamless experience for both senders and recipients.
+- [framework](https://github.com/flarum/framework) (6705 stars) - Simple forum software for building great communities.
 - [grav](https://github.com/getgrav/grav) (15465 stars) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-- [investbrain](https://github.com/investbrainapp/investbrain) (827 stars) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages
-- [invoiceninja](https://github.com/invoiceninja/invoiceninja) (9693 stars) - A source-available invoice, quote, project and time-tracking app built with Laravel
-- [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) (3020 stars) - A self-hosted open source application for managing your invoices, clients and payments.
-- [kanboard](https://github.com/kanboard/kanboard) (9559 stars) - Kanban project management software
+- [investbrain](https://github.com/investbrainapp/investbrain) (830 stars) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages
+- [invoiceninja](https://github.com/invoiceninja/invoiceninja) (9694 stars) - A source-available invoice, quote, project and time-tracking app built with Laravel
+- [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) (3021 stars) - A self-hosted open source application for managing your invoices, clients and payments.
+- [kanboard](https://github.com/kanboard/kanboard) (9558 stars) - Kanban project management software
 - [kloxo](https://github.com/mustafaramadhan/kloxo) (335 stars) - This is special edition (fork) of Kloxo with many features not existing on Kloxo official release (6.1.12+).  This fork named as Kloxo-MR (meaning 'Kloxo fork by Mustafa Ramadhan')
-- [librenms](https://github.com/librenms/librenms) (4676 stars) - Community-based GPL-licensed network monitoring system
+- [librenms](https://github.com/librenms/librenms) (4678 stars) - Community-based GPL-licensed network monitoring system
 - [Lychee](https://github.com/LycheeOrg/Lychee) (4143 stars) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [matomo](https://github.com/matomo-org/matomo) (21450 stars) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! 
-- [MISP](https://github.com/MISP/MISP) (6253 stars) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
-- [moode](https://github.com/moode-player/moode) (1326 stars) - moOde sources and configs
+- [matomo](https://github.com/matomo-org/matomo) (21453 stars) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! 
+- [MISP](https://github.com/MISP/MISP) (6255 stars) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+- [moode](https://github.com/moode-player/moode) (1327 stars) - moOde sources and configs
 - [nZEDb](https://github.com/nZEDb/nZEDb) (640 stars) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
-- [observium-community-edition](https://github.com/DanielleHuisman/observium-community-edition) (53 stars) - Unofficial mirror of Observium Community Edition. Automatic updates through a GitHub Actions workflow.
-- [panel](https://github.com/pterodactyl/panel) (8820 stars) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+- [observium-community-edition](https://github.com/DanielleHuisman/observium-community-edition) (54 stars) - Unofficial mirror of Observium Community Edition. Automatic updates through a GitHub Actions workflow.
+- [panel](https://github.com/pterodactyl/panel) (8818 stars) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 - [paseto](https://github.com/paragonie/paseto) (3380 stars) - Platform-Agnostic Security Tokens
 - [php-pm](https://github.com/php-pm/php-pm) (6555 stars) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
-- [pixelfed](https://github.com/pixelfed/pixelfed) (6947 stars) - Photo Sharing. For Everyone.
-- [polr](https://github.com/cydrobolt/polr) (5106 stars) - :aerial_tramway: A modern, powerful, and robust URL shortener
+- [pixelfed](https://github.com/pixelfed/pixelfed) (6948 stars) - Photo Sharing. For Everyone.
+- [polr](https://github.com/cydrobolt/polr) (5105 stars) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [pydio-core](https://github.com/pydio/pydio-core) (871 stars) - Pydio 8 official repository
 - [QuickDash](https://github.com/bemosior/QuickDash) (14 stars) - An easily installed PHP web dashboard that displays a simple status message about web services based on HTTP response code and HTML content.
 - [racktables](https://github.com/RackTables/racktables) (803 stars) - RackTables current development repository
 - [rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) (4131 stars) - Simple, modern & fast web-based email client
-- [roundcubemail](https://github.com/roundcube/roundcubemail) (6930 stars) - The Roundcube Webmail suite
-- [SecLists](https://github.com/danielmiessler/SecLists) (70447 stars) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-- [server](https://github.com/hashtopolis/server) (1736 stars) - Hashtopolis - distributed password cracking with Hashcat
+- [roundcubemail](https://github.com/roundcube/roundcubemail) (6931 stars) - The Roundcube Webmail suite
+- [SecLists](https://github.com/danielmiessler/SecLists) (70470 stars) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [server](https://github.com/hashtopolis/server) (1737 stars) - Hashtopolis - distributed password cracking with Hashcat
 - [sonerezh](https://github.com/Sonerezh/sonerezh) (775 stars) - A self-hosted, web-based application to stream your music, everywhere.
 - [spotweb](https://github.com/spotweb/spotweb) (654 stars) - Decentralized community
 - [switches.mx](https://github.com/BWLR/switches.mx) (90 stars) - Open source code for the website https://switches.mx (currently lives on http://45.33.1.82/ until I get a new domain)
 - [TeamPass](https://github.com/nilsteampassnet/TeamPass) (1789 stars) - Collaborative Passwords Manager
 - [thelia](https://github.com/thelia/thelia) (873 stars) - Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)
-- [UNIT3D](https://github.com/HDInnovations/UNIT3D) (2365 stars) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
-- [wallabag](https://github.com/wallabag/wallabag) (12640 stars) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [UNIT3D](https://github.com/HDInnovations/UNIT3D) (2366 stars) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
+- [wallabag](https://github.com/wallabag/wallabag) (12643 stars) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [WebPageTest](https://github.com/catchpoint/WebPageTest) (3244 stars) - Official repository for WebPageTest
 - [wp-sentry](https://github.com/stayallive/wp-sentry) (381 stars) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.

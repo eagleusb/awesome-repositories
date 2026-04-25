@@ -1,6 +1,6 @@
 ## SCSS (10 repositories) 
-- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) (8777 stars) - The conventional commits specification
-- [hacker101](https://github.com/Hacker0x01/hacker101) (14396 stars) - Source code for Hacker101.com - a free online web and mobile security class.
+- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) (8778 stars) - The conventional commits specification
+- [hacker101](https://github.com/Hacker0x01/hacker101) (14399 stars) - Source code for Hacker101.com - a free online web and mobile security class.
 - [hugo-fresh](https://github.com/StefMa/hugo-fresh) (686 stars) - Hugo Fresh Theme
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) (1086 stars) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [hugo-whisper-theme](https://github.com/zerostaticthemes/hugo-whisper-theme) (273 stars) - Whisper is a minimal documentation theme for Hugo.
@@ -8,4 +8,4 @@
 - [mqtt.org](https://github.com/mqtt/mqtt.org) (5120 stars) - The mqtt.org website
 - [numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) (1204 stars) - A modern flat theme with a combination of light and dark elements.
 - [workflow](https://github.com/teamhephy/workflow) (419 stars) - Hephy Workflow - An open source fork of Deis Workflow - The open source PaaS for Kubernetes.
-- [XP.css](https://github.com/botoxparty/XP.css) (2930 stars) - A CSS framework for building faithful recreations of operating system GUIs.
+- [XP.css](https://github.com/botoxparty/XP.css) (2932 stars) - A CSS framework for building faithful recreations of operating system GUIs.
