@@ -1,5 +1,2 @@
-## Vim Script (4 repositories) 
-- [neovim](https://github.com/neovim/neovim) (99063 stars) - Vim-fork focused on extensibility and usability
-- [SpaceVim](https://github.com/wsdjeg/SpaceVim) (20286 stars) - A modular configuration of Vim and Neovim
-- [vim-airline](https://github.com/vim-airline/vim-airline) (17948 stars) - lean & mean status/tabline for vim that's light as air
-- [vim-plug](https://github.com/junegunn/vim-plug) (35633 stars) - :hibiscus: Minimalist Vim Plugin Manager
+## Vim script (1 repositories) 
+- [vim-colorschemes](https://github.com/flazz/vim-colorschemes) (3463 stars) - one colorscheme pack to rule them all!
