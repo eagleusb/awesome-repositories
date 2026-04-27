@@ -1,4 +1,4 @@
 ## Dhall (3 repositories) 
 - [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) (70 stars) - Ansible definitions with Dhall
 - [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) (649 stars) - Typecheck, template and modularize your Kubernetes definitions with Dhall
-- [dhall-lang](https://github.com/dhall-lang/dhall-lang) (4439 stars) - Maintainable configuration files
+- [dhall-lang](https://github.com/dhall-lang/dhall-lang) (4440 stars) - Maintainable configuration files
