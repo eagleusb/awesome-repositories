@@ -1,18 +1,18 @@
 ## Lua (20 repositories) 
 - [APIcast](https://github.com/3scale/APIcast) (323 stars) - 3scale API Gateway
-- [apisix](https://github.com/apache/apisix) (16517 stars) - The Cloud-Native API Gateway and AI Gateway
-- [AstroNvim](https://github.com/AstroNvim/AstroNvim) (14266 stars) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
-- [awesome](https://github.com/awesomeWM/awesome) (6869 stars) - awesome window manager
+- [apisix](https://github.com/apache/apisix) (16516 stars) - The Cloud-Native API Gateway and AI Gateway
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) (14267 stars) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
+- [awesome](https://github.com/awesomeWM/awesome) (6870 stars) - awesome window manager
 - [haproxy-lua-acme](https://github.com/haproxytech/haproxy-lua-acme) (104 stars) - Unknown
 - [haproxy-lua-oauth](https://github.com/haproxytech/haproxy-lua-oauth) (118 stars) - JWT Validation implementation for HAProxy Lua host
-- [kong](https://github.com/Kong/kong) (43269 stars) - 🦍 The API and AI Gateway
-- [LazyVim](https://github.com/LazyVim/LazyVim) (26079 stars) - Neovim config for the lazy
-- [lite](https://github.com/rxi/lite) (8137 stars) - A lightweight text editor written in Lua
-- [lsyncd](https://github.com/lsyncd/lsyncd) (6034 stars) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
+- [kong](https://github.com/Kong/kong) (43277 stars) - 🦍 The API and AI Gateway
+- [LazyVim](https://github.com/LazyVim/LazyVim) (26086 stars) - Neovim config for the lazy
+- [lite](https://github.com/rxi/lite) (8136 stars) - A lightweight text editor written in Lua
+- [lsyncd](https://github.com/lsyncd/lsyncd) (6033 stars) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) (1061 stars) - OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
-- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (7901 stars) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (7903 stars) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [moonscript](https://github.com/leafo/moonscript) (3428 stars) - :crescent_moon: A language that compiles to Lua
-- [ntopng](https://github.com/ntop/ntopng) (7756 stars) - Web-based Traffic and Security Network Traffic Monitoring
+- [ntopng](https://github.com/ntop/ntopng) (7760 stars) - Web-based Traffic and Security Network Traffic Monitoring
 - [nvim-hardline](https://github.com/ojroques/nvim-hardline) (203 stars) - A simple Neovim statusline
 - [packer.nvim](https://github.com/wbthomason/packer.nvim) (8107 stars) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [paq-nvim](https://github.com/savq/paq-nvim) (717 stars) - 🌚  Neovim package manager
