@@ -1,13 +1,13 @@
 ## Zig (12 repositories) 
-- [browser](https://github.com/lightpanda-io/browser) (29626 stars) - Lightpanda: the headless browser designed for AI and automation
-- [bun](https://github.com/oven-sh/bun) (89426 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [cyber](https://github.com/fubark/cyber) (1433 stars) - Fast and concurrent scripting.
-- [ghostty](https://github.com/ghostty-org/ghostty) (52007 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [hys](https://github.com/superstarryeyes/hys) (259 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
-- [ly](https://github.com/fairyglade/ly) (7241 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [zig](https://github.com/ziglang/zig) (42869 stars) - Moved to Codeberg
-- [zml](https://github.com/zml/zml) (3453 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-- [zmx](https://github.com/neurosnap/zmx) (1389 stars) - Session persistence for terminal processes
+- [browser](https://github.com/lightpanda-io/browser) (29724 stars) - Lightpanda: the headless browser designed for AI and automation
+- [bun](https://github.com/oven-sh/bun) (89450 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [cyber](https://github.com/fubark/cyber) (1434 stars) - Fast and concurrent scripting.
+- [ghostty](https://github.com/ghostty-org/ghostty) (52395 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [hys](https://github.com/superstarryeyes/hys) (258 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
+- [ly](https://github.com/fairyglade/ly) (7243 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [zig](https://github.com/ziglang/zig) (42876 stars) - Moved to Codeberg
+- [zml](https://github.com/zml/zml) (3455 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+- [zmx](https://github.com/neurosnap/zmx) (1392 stars) - Session persistence for terminal processes
 - [zpdf](https://github.com/Lulzx/zpdf) (900 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 - [zs3](https://github.com/Lulzx/zs3) (173 stars) - S3-compatible storage in Zig. Zero dependencies.
 - [ztick](https://github.com/awf-project/ztick) (1 stars) - A time-based job scheduler written in Zig
