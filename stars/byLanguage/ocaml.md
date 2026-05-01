@@ -5,6 +5,6 @@
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (314 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [pyre-check](https://github.com/facebook/pyre-check) (7154 stars) - Performant type-checking for python.
 - [reason](https://github.com/reasonml/reason) (10304 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [semgrep](https://github.com/semgrep/semgrep) (14972 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep](https://github.com/semgrep/semgrep) (14980 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [terrateam](https://github.com/terrateamio/terrateam) (1224 stars) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
-- [unison](https://github.com/bcpierce00/unison) (5256 stars) - Unison file synchronizer
+- [unison](https://github.com/bcpierce00/unison) (5257 stars) - Unison file synchronizer

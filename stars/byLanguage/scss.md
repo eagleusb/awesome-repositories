@@ -8,4 +8,4 @@
 - [mqtt.org](https://github.com/mqtt/mqtt.org) (5120 stars) - The mqtt.org website
 - [numix-gtk-theme](https://github.com/numixproject/numix-gtk-theme) (1203 stars) - A modern flat theme with a combination of light and dark elements.
 - [workflow](https://github.com/teamhephy/workflow) (419 stars) - Hephy Workflow - An open source fork of Deis Workflow - The open source PaaS for Kubernetes.
-- [XP.css](https://github.com/botoxparty/XP.css) (2936 stars) - A CSS framework for building faithful recreations of operating system GUIs.
+- [XP.css](https://github.com/botoxparty/XP.css) (2937 stars) - A CSS framework for building faithful recreations of operating system GUIs.
