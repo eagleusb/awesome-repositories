@@ -1,2 +1,2 @@
 ## Nunjucks (1 repositories) 
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) (40293 stars) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) (40296 stars) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies

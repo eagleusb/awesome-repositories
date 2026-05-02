@@ -1,13 +1,13 @@
 ## Svelte (12 repositories) 
 - [agx](https://github.com/agnosticeng/agx) (254 stars) - AI Powered Analytics
-- [bananas](https://github.com/mistweaverco/bananas) (6213 stars) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
-- [cobalt](https://github.com/imputnet/cobalt) (39986 stars) - best way to save what you love
-- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1066 stars) - Admin Web Interface for juanfont/headscale
-- [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2585 stars) - A web frontend for the headscale Tailscale-compatible coordination server
-- [mathesar](https://github.com/mathesar-foundation/mathesar) (4939 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.
+- [bananas](https://github.com/mistweaverco/bananas) (6215 stars) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
+- [cobalt](https://github.com/imputnet/cobalt) (40014 stars) - best way to save what you love
+- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1067 stars) - Admin Web Interface for juanfont/headscale
+- [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2586 stars) - A web frontend for the headscale Tailscale-compatible coordination server
+- [mathesar](https://github.com/mathesar-foundation/mathesar) (4941 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.
 - [nah.pet](https://github.com/Gradleless/nah.pet) (153 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
-- [networking-toolbox](https://github.com/Lissy93/networking-toolbox) (2513 stars) - 🛜 100+ offline-first networking tools and utilities
+- [networking-toolbox](https://github.com/Lissy93/networking-toolbox) (2514 stars) - 🛜 100+ offline-first networking tools and utilities
 - [photon](https://github.com/Xyphyn/photon) (520 stars) - A faster, prettier, and nicer fediverse client
 - [tidal-ui](https://github.com/binimum/tidal-ui) (1370 stars) - Simple Tidal frontend. Modified version on tidal.squid.wtf
-- [VERT](https://github.com/VERT-sh/VERT) (14711 stars) - The next-generation file converter. Open source, fully local* and free forever.
-- [wanderer](https://github.com/open-wanderer/wanderer) (3558 stars) - wanderer is a self-hosted trail database. Save your adventures!
+- [VERT](https://github.com/VERT-sh/VERT) (14716 stars) - The next-generation file converter. Open source, fully local* and free forever.
+- [wanderer](https://github.com/open-wanderer/wanderer) (3568 stars) - wanderer is a self-hosted trail database. Save your adventures!
