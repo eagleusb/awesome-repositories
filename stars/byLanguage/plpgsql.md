@@ -9,7 +9,7 @@
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (33 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmanage](https://github.com/commandprompt/pgmanage) (1006 stars) - Web tool for database management
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (4826 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq](https://github.com/pgmq/pgmq) (4828 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (54 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2107 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (259 stars) - SQLite Foreign Data Wrapper for PostgreSQL
