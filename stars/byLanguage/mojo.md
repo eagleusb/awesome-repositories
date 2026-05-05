@@ -1,2 +1,2 @@
 ## Mojo (1 repositories) 
-- [modular](https://github.com/modular/modular) (25926 stars) - The Modular Platform (includes MAX & Mojo)
+- [modular](https://github.com/modular/modular) (25933 stars) - The Modular Platform (includes MAX & Mojo)

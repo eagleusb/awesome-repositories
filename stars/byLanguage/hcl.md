@@ -1,16 +1,16 @@
 ## HCL (22 repositories) 
-- [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (94 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
+- [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (95 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (219 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
 - [pgbouncer-containers](https://github.com/cloudnative-pg/pgbouncer-containers) (16 stars) - Operand images for CloudNativePG containing PgBouncer
 - [quickstart](https://github.com/rancher-archives/quickstart) (395 stars) - Unknown
-- [stack](https://github.com/segmentio/stack) (2093 stars) - A set of Terraform modules for configuring production infrastructure with AWS
+- [stack](https://github.com/segmentio/stack) (2092 stars) - A set of Terraform modules for configuring production infrastructure with AWS
 - [teks](https://github.com/particuleio/teks) (358 stars) - Full feature EKS cluster with Terragrunt/Terraform
 - [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1242 stars) - High availability implementation of AWS NAT instances.
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4933 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (82 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
-- [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (951 stars) - Terraform module to create AWS RDS resources 🇺🇦
+- [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (952 stars) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) (41 stars) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
 - [terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) (357 stars) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.
 - [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1260 stars) - Configures opinionated GKE clusters
