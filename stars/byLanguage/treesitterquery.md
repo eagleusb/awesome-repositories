@@ -1,2 +1,2 @@
 ## Tree-sitter Query (1 repositories) 
-- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) (13884 stars) - Nvim Treesitter configurations and abstraction layer
+- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) (13888 stars) - Nvim Treesitter configurations and abstraction layer
