@@ -1,13 +1,14 @@
-## Zig (12 repositories) 
-- [browser](https://github.com/lightpanda-io/browser) (30120 stars) - Lightpanda: the headless browser designed for AI and automation
-- [bun](https://github.com/oven-sh/bun) (89740 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [cyber](https://github.com/fubark/cyber) (1435 stars) - Fast and concurrent scripting.
-- [ghostty](https://github.com/ghostty-org/ghostty) (53805 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+## Zig (13 repositories) 
+- [browser](https://github.com/lightpanda-io/browser) (30153 stars) - Lightpanda: the headless browser designed for AI and automation
+- [bun](https://github.com/oven-sh/bun) (89768 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [cyber](https://github.com/fubark/cyber) (1436 stars) - Fast and concurrent scripting.
+- [ghostty](https://github.com/ghostty-org/ghostty) (54029 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hys](https://github.com/superstarryeyes/hys) (259 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
-- [ly](https://github.com/fairyglade/ly) (7262 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [zig](https://github.com/ziglang/zig) (42892 stars) - Moved to Codeberg
-- [zml](https://github.com/zml/zml) (3483 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-- [zmx](https://github.com/neurosnap/zmx) (1442 stars) - Session persistence for terminal processes
-- [zpdf](https://github.com/Lulzx/zpdf) (900 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
+- [ly](https://github.com/fairyglade/ly) (7267 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [zero-native](https://github.com/vercel-labs/zero-native) (418 stars) - Build native desktop + mobile apps with web UI and Zig
+- [zig](https://github.com/ziglang/zig) (42905 stars) - Moved to Codeberg
+- [zml](https://github.com/zml/zml) (3485 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+- [zmx](https://github.com/neurosnap/zmx) (1451 stars) - Session persistence for terminal processes
+- [zpdf](https://github.com/Lulzx/zpdf) (901 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 - [zs3](https://github.com/Lulzx/zs3) (172 stars) - S3-compatible storage in Zig. Zero dependencies.
 - [ztick](https://github.com/awf-project/ztick) (1 stars) - A time-based job scheduler written in Zig
