@@ -1,7 +1,7 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2234 repositories, 35.44%)
+- [Go](stars/byLanguage/go.md) (2235 repositories, 35.45%)
 - [Python](stars/byLanguage/python.md) (862 repositories, 13.67%)
 - [TypeScript](stars/byLanguage/typescript.md) (507 repositories, 8.04%)
 - [Rust](stars/byLanguage/rust.md) (466 repositories, 7.39%)
@@ -38,7 +38,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2234 repositories, 35.44%)
+- [Go](stars/byLanguage/go.md) (2235 repositories, 35.45%)
 - [Go Template](stars/byLanguage/gotemplate.md) (1 repositories, 0.02%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -91,7 +91,7 @@
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
 - [Shell](stars/byLanguage/shell.md) (148 repositories, 2.35%)
-- [Smarty](stars/byLanguage/smarty.md) (3 repositories, 0.05%)
+- [Smarty](stars/byLanguage/smarty.md) (2 repositories, 0.03%)
 - [Starlark](stars/byLanguage/starlark.md) (3 repositories, 0.05%)
 - [Svelte](stars/byLanguage/svelte.md) (12 repositories, 0.19%)
 - [Swift](stars/byLanguage/swift.md) (5 repositories, 0.08%)

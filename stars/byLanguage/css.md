@@ -1,19 +1,19 @@
 ## CSS (29 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11046 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82523 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [98.css](https://github.com/jdan/98.css) (11048 stars) - A design system for building faithful recreations of old UIs
+- [animate.css](https://github.com/animate-css/animate.css) (82521 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8256 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9332 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9333 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2558 stars) - A list of history's greatest software engineers and tech pioneers
-- [cs16.css](https://github.com/ekmas/cs16.css) (1989 stars) - CSS library based on Counter Strike 1.6 UI.
+- [cs16.css](https://github.com/ekmas/cs16.css) (1990 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [dalai](https://github.com/cocktailpeanut/dalai) (12943 stars) - The simplest way to run LLaMA on your local machine
+- [dalai](https://github.com/cocktailpeanut/dalai) (12941 stars) - The simplest way to run LLaMA on your local machine
 - [Fira](https://github.com/mozilla/Fira) (5163 stars) - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1374 stars) - A Golang based high performance, scalable and distributed workflow framework
-- [gtk](https://github.com/dracula/gtk) (1045 stars) - 🧛🏻‍♂️ Dark theme for GTK
-- [http2-explained](https://github.com/bagder/http2-explained) (2308 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+- [gtk](https://github.com/dracula/gtk) (1044 stars) - 🧛🏻‍♂️ Dark theme for GTK
+- [http2-explained](https://github.com/bagder/http2-explained) (2309 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (422 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2746 stars) - A simple, retro theme for Hugo
-- [juliamono](https://github.com/cormullion/juliamono) (1642 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2748 stars) - A simple, retro theme for Hugo
+- [juliamono](https://github.com/cormullion/juliamono) (1644 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [Nordic](https://github.com/EliverLara/Nordic) (2683 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (171 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
@@ -22,7 +22,7 @@
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3362 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (127 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20400 stars) - Monospaced font family for user interface and coding environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20399 stars) - Monospaced font family for user interface and coding environments
 - [source-sans](https://github.com/adobe-fonts/source-sans) (3693 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2302 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11700 stars) - Functional css for humans
