@@ -7,7 +7,7 @@
 - [quickstart](https://github.com/rancher-archives/quickstart) (394 stars) - Unknown
 - [stack](https://github.com/segmentio/stack) (2091 stars) - A set of Terraform modules for configuring production infrastructure with AWS
 - [teks](https://github.com/particuleio/teks) (359 stars) - Full feature EKS cluster with Terragrunt/Terraform
-- [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1244 stars) - High availability implementation of AWS NAT instances.
+- [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1245 stars) - High availability implementation of AWS NAT instances.
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4940 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (83 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (955 stars) - Terraform module to create AWS RDS resources 🇺🇦
