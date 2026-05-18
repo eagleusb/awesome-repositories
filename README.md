@@ -2,7 +2,7 @@
 
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2235 repositories, 35.43%)
-- [Python](stars/byLanguage/python.md) (862 repositories, 13.67%)
+- [Python](stars/byLanguage/python.md) (863 repositories, 13.68%)
 - [TypeScript](stars/byLanguage/typescript.md) (507 repositories, 8.04%)
 - [Rust](stars/byLanguage/rust.md) (467 repositories, 7.40%)
 - [JavaScript](stars/byLanguage/javascript.md) (442 repositories, 7.01%)
@@ -79,7 +79,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (7 repositories, 0.11%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (862 repositories, 13.67%)
+- [Python](stars/byLanguage/python.md) (863 repositories, 13.68%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
@@ -103,8 +103,8 @@
 - [Unknown](stars/byLanguage/unknown.md) (284 repositories, 4.50%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
+- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (16 repositories, 0.25%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)

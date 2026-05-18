@@ -1,20 +1,20 @@
 ## Kotlin (19 repositories) 
-- [amethyst](https://github.com/vitorpamplona/amethyst) (1525 stars) - Nostr client for Android
-- [android](https://github.com/owntracks/android) (1705 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (3609 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (23036 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [KernelSU](https://github.com/tiann/KernelSU) (16452 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/kavishdevar/librepods) (27005 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (11886 stars) - An alternative frontend for YouTube, for Android.
+- [amethyst](https://github.com/vitorpamplona/amethyst) (1529 stars) - Nostr client for Android
+- [android](https://github.com/owntracks/android) (1706 stars) - OwnTracks Android App
+- [android-app](https://github.com/ProtonVPN/android-app) (3611 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (23063 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [KernelSU](https://github.com/tiann/KernelSU) (16479 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/kavishdevar/librepods) (27010 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (11895 stars) - An alternative frontend for YouTube, for Android.
 - [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (202 stars) - Official Android App of ListenBrainz
-- [nexa-sdk](https://github.com/qualcomm/nexa-sdk) (8046 stars) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.
-- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2083 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+- [nexa-sdk](https://github.com/qualcomm/nexa-sdk) (8050 stars) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.
+- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2084 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (546 stars) - PartiQL libraries and tools in Kotlin.
 - [prism-android](https://github.com/lone-cloud/prism-android) (39 stars) - A UnifiedPush distributor with optional self-hosted Prism server integration.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (27876 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5215 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13488 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2628 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
-- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2722 stars) - Unknown
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (27886 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5222 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13492 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2627 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2721 stars) - Unknown
 - [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4204 stars) - Main UserLAnd Repository
-- [Wholphin](https://github.com/damontecres/Wholphin) (1855 stars) - An OSS Android TV client for Jellyfin
+- [Wholphin](https://github.com/damontecres/Wholphin) (1859 stars) - An OSS Android TV client for Jellyfin
