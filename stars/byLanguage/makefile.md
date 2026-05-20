@@ -4,12 +4,12 @@
 - [guide](https://github.com/uber-go/guide) (17493 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (537 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
-- [hubble](https://github.com/cilium/hubble) (4191 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [hubble](https://github.com/cilium/hubble) (4193 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [k8s-clusters](https://github.com/grampelberg/k8s-clusters) (25 stars) - Simple kubernetes clusters on cloud providers for development
 - [kernel](https://github.com/gokrazy/kernel) (67 stars) - (Upstream) Linux kernel build for gokrazy
 - [keydb-operator](https://github.com/krestomatio/keydb-operator) (58 stars) - A KeyDB (Drop-In Alternative to Redis) Operator for Kubernetes, based on Ansible Operator SDK. 
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) (682 stars) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
-- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2750 stars) - Just enough OS for KODI
+- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2751 stars) - Just enough OS for KODI
 - [openhue-api](https://github.com/openhue/openhue-api) (184 stars) - OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API
 - [pragmasevka](https://github.com/shytikov/pragmasevka) (428 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support

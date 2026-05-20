@@ -1,3 +1,3 @@
 ## Groovy (2 repositories) 
-- [repose](https://github.com/rackerlabs/repose) (341 stars) - The powerful, programmable, API Middleware Platform
+- [repose](https://github.com/rackerlabs/repose) (342 stars) - The powerful, programmable, API Middleware Platform
 - [rundeck](https://github.com/rundeck/rundeck) (6119 stars) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts

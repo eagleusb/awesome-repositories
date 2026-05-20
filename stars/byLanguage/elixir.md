@@ -1,8 +1,8 @@
 ## Elixir (7 repositories) 
-- [analytics](https://github.com/plausible/analytics) (26043 stars) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+- [analytics](https://github.com/plausible/analytics) (26171 stars) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [cog](https://github.com/operable/cog) (919 stars) - Bringing the power of the command line to chat
-- [firezone](https://github.com/firezone/firezone) (8613 stars) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone](https://github.com/firezone/firezone) (8614 stars) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [Lynx](https://github.com/Clivern/Lynx) (365 stars) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
-- [phoenix](https://github.com/phoenixframework/phoenix) (22997 stars) - Peace of mind from prototype to production
-- [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) (6761 stars) - Rich, real-time user experiences with server-rendered HTML
-- [supavisor](https://github.com/supabase/supavisor) (2194 stars) - A cloud-native, multi-tenant Postgres connection pooler.
+- [phoenix](https://github.com/phoenixframework/phoenix) (22996 stars) - Peace of mind from prototype to production
+- [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) (6762 stars) - Rich, real-time user experiences with server-rendered HTML
+- [supavisor](https://github.com/supabase/supavisor) (2195 stars) - A cloud-native, multi-tenant Postgres connection pooler.
