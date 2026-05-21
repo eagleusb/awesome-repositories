@@ -4,7 +4,7 @@
 - [docker-alpine-wkhtmltopdf-patched-qt](https://github.com/aantonw/docker-alpine-wkhtmltopdf-patched-qt) (17 stars) - Alpine Linux 3.9 wkhtmltopdf 0.12.5 (with patched qt)
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) (13933 stars) - Various Dockerfiles I use on the desktop and on servers.
 - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs) (1044 stars) - PagerDuty's Incident Response Documentation.
-- [jetstream](https://github.com/nats-io/jetstream) (475 stars) - JetStream Utilities
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105269 stars) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [jetstream](https://github.com/nats-io/jetstream) (476 stars) - JetStream Utilities
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105270 stars) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [rockchip-bsp](https://github.com/radxa/rockchip-bsp) (101 stars) - Linux BSP for ROCK Pi
-- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (385 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (384 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
