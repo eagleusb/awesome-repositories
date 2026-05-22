@@ -2,9 +2,9 @@
 
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2236 repositories, 35.44%)
-- [Python](stars/byLanguage/python.md) (863 repositories, 13.68%)
-- [TypeScript](stars/byLanguage/typescript.md) (505 repositories, 8.00%)
-- [Rust](stars/byLanguage/rust.md) (468 repositories, 7.42%)
+- [Python](stars/byLanguage/python.md) (865 repositories, 13.71%)
+- [TypeScript](stars/byLanguage/typescript.md) (504 repositories, 7.99%)
+- [Rust](stars/byLanguage/rust.md) (467 repositories, 7.40%)
 - [JavaScript](stars/byLanguage/javascript.md) (442 repositories, 7.00%)
 
 ## All Languages
@@ -79,7 +79,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (7 repositories, 0.11%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (863 repositories, 13.68%)
+- [Python](stars/byLanguage/python.md) (865 repositories, 13.71%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
@@ -87,7 +87,7 @@
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [RPM Spec](stars/byLanguage/rpmspec.md) (1 repositories, 0.02%)
 - [Ruby](stars/byLanguage/ruby.md) (82 repositories, 1.30%)
-- [Rust](stars/byLanguage/rust.md) (468 repositories, 7.42%)
+- [Rust](stars/byLanguage/rust.md) (467 repositories, 7.40%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
 - [Shell](stars/byLanguage/shell.md) (148 repositories, 2.35%)
@@ -99,7 +99,7 @@
 - [templ](stars/byLanguage/templ.md) (1 repositories, 0.02%)
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
-- [TypeScript](stars/byLanguage/typescript.md) (505 repositories, 8.00%)
+- [TypeScript](stars/byLanguage/typescript.md) (504 repositories, 7.99%)
 - [Unknown](stars/byLanguage/unknown.md) (285 repositories, 4.52%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
