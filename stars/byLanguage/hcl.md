@@ -8,7 +8,7 @@
 - [stack](https://github.com/segmentio/stack) (2091 stars) - A set of Terraform modules for configuring production infrastructure with AWS
 - [teks](https://github.com/particuleio/teks) (359 stars) - Full feature EKS cluster with Terragrunt/Terraform
 - [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1246 stars) - High availability implementation of AWS NAT instances.
-- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4949 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4951 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (83 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (955 stars) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) (41 stars) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/

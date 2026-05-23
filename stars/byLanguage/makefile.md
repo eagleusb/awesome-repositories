@@ -11,8 +11,8 @@
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) (682 stars) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2752 stars) - Just enough OS for KODI
 - [openhue-api](https://github.com/openhue/openhue-api) (184 stars) - OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API
-- [pragmasevka](https://github.com/shytikov/pragmasevka) (429 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
+- [pragmasevka](https://github.com/shytikov/pragmasevka) (430 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) (1060 stars) - Service Mesh Interface
 - [spec](https://github.com/container-storage-interface/spec) (1468 stars) - Container Storage Interface (CSI) Specification.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4124 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4125 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
