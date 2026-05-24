@@ -1,7 +1,7 @@
 ## PLpgSQL (17 repositories) 
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3076 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3077 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (248 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
-- [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (91 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
+- [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (92 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
 - [pg_partman](https://github.com/pgpartman/pg_partman) (2714 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (331 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) (8 stars) - pgEdge Labs: pg_semantic_cache allows you to leverage vector embeddings to cache and retrieve query results based on semantic similarity.
@@ -10,7 +10,7 @@
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (35 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmanage](https://github.com/commandprompt/pgmanage) (1011 stars) - Web tool for database management
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (4880 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq](https://github.com/pgmq/pgmq) (4881 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (54 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2124 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (136 stars) - PostgreSQL BM25S extension

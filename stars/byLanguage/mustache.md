@@ -2,5 +2,5 @@
 - [argo-helm](https://github.com/argoproj/argo-helm) (2292 stars) - ArgoProj Helm Charts
 - [charts](https://github.com/kedacore/charts) (213 stars) - Helm charts for KEDA
 - [charts](https://github.com/sentry-kubernetes/charts) (1369 stars) - Easily deploy Sentry on your Kubernetes Cluster
-- [eks-charts](https://github.com/aws/eks-charts) (1294 stars) - Amazon EKS Helm chart repository
-- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) (17744 stars) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+- [eks-charts](https://github.com/aws/eks-charts) (1295 stars) - Amazon EKS Helm chart repository
+- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) (17745 stars) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
