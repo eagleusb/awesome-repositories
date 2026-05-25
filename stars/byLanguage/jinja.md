@@ -7,5 +7,5 @@
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) (272 stars) - [DEPRECATED] Setup unattended-upgrades on Debian-based systems
 - [build](https://github.com/nodejs/build) (534 stars) - Better build and test infra for Node.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) (18498 stars) - Deploy a Production Ready Kubernetes Cluster
-- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (11789 stars) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (11793 stars) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) (73 stars) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
