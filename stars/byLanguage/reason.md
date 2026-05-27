@@ -1,3 +1,3 @@
 ## Reason (2 repositories) 
-- [grain](https://github.com/grain-lang/grain) (3447 stars) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
-- [revery](https://github.com/revery-ui/revery) (8046 stars) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
+- [grain](https://github.com/grain-lang/grain) (3448 stars) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
+- [revery](https://github.com/revery-ui/revery) (8045 stars) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!

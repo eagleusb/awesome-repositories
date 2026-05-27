@@ -1,2 +1,2 @@
 ## Go Template (1 repositories) 
-- [magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (956 stars) - Add Google Cloud Platform support to Terraform
+- [magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) (957 stars) - Add Google Cloud Platform support to Terraform
