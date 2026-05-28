@@ -1,10 +1,10 @@
 ## OCaml (9 repositories) 
 - [fastpack](https://github.com/fastpack/fastpack) (2262 stars) - Pack JS code fast & easy
-- [liquidsoap](https://github.com/savonet/liquidsoap) (1663 stars) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
-- [mirage](https://github.com/mirage/mirage) (2918 stars) - MirageOS is a library operating system that constructs unikernels
+- [liquidsoap](https://github.com/savonet/liquidsoap) (1666 stars) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
+- [mirage](https://github.com/mirage/mirage) (2917 stars) - MirageOS is a library operating system that constructs unikernels
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (314 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
-- [pyre-check](https://github.com/facebook/pyre-check) (7163 stars) - Performant type-checking for python.
-- [reason](https://github.com/reasonml/reason) (10313 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [semgrep](https://github.com/semgrep/semgrep) (15282 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [pyre-check](https://github.com/facebook/pyre-check) (7162 stars) - Performant type-checking for python.
+- [reason](https://github.com/reasonml/reason) (10310 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [semgrep](https://github.com/semgrep/semgrep) (15296 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [terrateam](https://github.com/terrateamio/terrateam) (1234 stars) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
-- [unison](https://github.com/bcpierce00/unison) (5326 stars) - Unison file synchronizer
+- [unison](https://github.com/bcpierce00/unison) (5328 stars) - Unison file synchronizer
