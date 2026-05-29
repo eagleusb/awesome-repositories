@@ -5,33 +5,33 @@
 - [ansible_spec](https://github.com/volanja/ansible_spec) (232 stars) - It's ruby gem that connect Ansible & Serverspec for Test Driven Server Configuration(or TDD).
 - [api-umbrella](https://github.com/NatLabRockies/api-umbrella) (2163 stars) - Open source API management platform
 - [aptly_cli](https://github.com/sepulworld/aptly_cli) (44 stars) - Aptly client
-- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) (14216 stars) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) (14220 stars) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [aws-fluent-plugin-kinesis](https://github.com/awslabs/aws-fluent-plugin-kinesis) (289 stars) - Amazon Kinesis output plugin for Fluentd
 - [backup](https://github.com/backup/backup) (4871 stars) - Easy full stack backup operations on UNIX-like systems.
 - [bluedoc](https://github.com/huacnlee/bluedoc) (633 stars) - An open-source document management tool for enterprise self host.
 - [brimir](https://github.com/ivaldi/brimir) (1367 stars) - Email helpdesk built using Ruby on Rails and Zurb Foundation
-- [canine](https://github.com/CanineHQ/canine) (2858 stars) - A developer friendly PaaS for your Kubernetes
-- [chatwoot](https://github.com/chatwoot/chatwoot) (29786 stars) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [canine](https://github.com/CanineHQ/canine) (2859 stars) - A developer friendly PaaS for your Kubernetes
+- [chatwoot](https://github.com/chatwoot/chatwoot) (29809 stars) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [chef](https://github.com/chef/chef) (8179 stars) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [ciao](https://github.com/brotandgames/ciao) (1968 stars) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [cuber-gem](https://github.com/cuber-cloud/cuber-gem) (714 stars) - An automation tool that simplify the deployment of your apps on Kubernetes.
-- [dawarich](https://github.com/Freika/dawarich) (9126 stars) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
-- [decidim](https://github.com/decidim/decidim) (1756 stars) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [discourse](https://github.com/discourse/discourse) (47115 stars) - A platform for community discussion. Free, open, simple.
+- [dawarich](https://github.com/Freika/dawarich) (9133 stars) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
+- [decidim](https://github.com/decidim/decidim) (1757 stars) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+- [discourse](https://github.com/discourse/discourse) (47124 stars) - A platform for community discussion. Free, open, simple.
 - [discourse-calendar](https://github.com/discourse/discourse-calendar) (69 stars) - Adds the ability to create a dynamic calendar in the first post of a topic.
 - [dockerspec](https://github.com/zuazo/dockerspec) (182 stars) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [dpl](https://github.com/travis-ci/dpl) (1301 stars) - Dpl (dee-pee-ell) is a deploy tool made for continuous deployment.
-- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) (38203 stars) - A curated list of engineering blogs
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) (38212 stars) - A curated list of engineering blogs
 - [eu-haul](https://github.com/eurosky-social/eu-haul) (35 stars) - ATProto account migration tool with a simple web interface. Built with Rails 7. Includes progress tracking, encrypted credentials, and background job processing via Sidekiq.
-- [fasterer](https://github.com/DamirSvrtan/fasterer) (1821 stars) - :zap: Don't make your Rubies go fast. Make them go fasterer ™. :zap: 
-- [fastlane](https://github.com/fastlane/fastlane) (41575 stars) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [fluentd](https://github.com/fluent/fluentd) (13543 stars) - Fluentd: Unified Logging Layer (project under CNCF)
+- [fasterer](https://github.com/DamirSvrtan/fasterer) (1822 stars) - :zap: Don't make your Rubies go fast. Make them go fasterer ™. :zap: 
+- [fastlane](https://github.com/fastlane/fastlane) (41585 stars) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [fluentd](https://github.com/fluent/fluentd) (13544 stars) - Fluentd: Unified Logging Layer (project under CNCF)
 - [foreman](https://github.com/theforeman/foreman) (2868 stars) - an application that automates the lifecycle of servers 
-- [fpm](https://github.com/jordansissel/fpm) (11476 stars) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+- [fpm](https://github.com/jordansissel/fpm) (11475 stars) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [gollum](https://github.com/gollum/gollum) (14275 stars) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [helpy](https://github.com/helpyio/helpy) (2482 stars) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
 - [hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) (534 stars) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data
-- [huginn](https://github.com/huginn/huginn) (49341 stars) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [huginn](https://github.com/huginn/huginn) (49347 stars) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [inspec](https://github.com/inspec/inspec) (3070 stars) - InSpec: Auditing and Testing Framework
 - [jerakia](https://github.com/jerakia/jerakia) (111 stars) - A pluggable and extendable data lookup system
 - [jeweler](https://github.com/technicalpickles/jeweler) (1474 stars) - Opinionated tool for creating and managing Rubygem projects
@@ -41,23 +41,23 @@
 - [krane](https://github.com/appvia/krane) (740 stars) - Kubernetes RBAC static analysis & visualisation tool
 - [lessy](https://github.com/lessy-community/lessy) (220 stars) - A respectful and ethical time manager.
 - [manageiq](https://github.com/ManageIQ/manageiq) (1398 stars) - ManageIQ Open-Source Management Platform
-- [mastodon](https://github.com/mastodon/mastodon) (49976 stars) - Your self-hosted, globally interconnected microblogging community
-- [metasploit-framework](https://github.com/rapid7/metasploit-framework) (38252 stars) - Metasploit Framework
+- [mastodon](https://github.com/mastodon/mastodon) (49979 stars) - Your self-hosted, globally interconnected microblogging community
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) (38258 stars) - Metasploit Framework
 - [minicron](https://github.com/jamesrwhite/minicron) (2318 stars) - 🕰️ Monitor your cron jobs
-- [open-build-service](https://github.com/openSUSE/open-build-service) (1054 stars) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
-- [openproject](https://github.com/opf/openproject) (15177 stars) - OpenProject is the leading open source project management software.
-- [oxidized](https://github.com/ytti/oxidized) (3387 stars) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+- [open-build-service](https://github.com/openSUSE/open-build-service) (1055 stars) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
+- [openproject](https://github.com/opf/openproject) (15183 stars) - OpenProject is the leading open source project management software.
+- [oxidized](https://github.com/ytti/oxidized) (3392 stars) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [partiql-spec](https://github.com/partiql/partiql-spec) (148 stars) - The language specification of PartiQL.
-- [pghero](https://github.com/ankane/pghero) (8873 stars) - A performance dashboard for Postgres
-- [postal](https://github.com/postalserver/postal) (16577 stars) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [pghero](https://github.com/ankane/pghero) (8875 stars) - A performance dashboard for Postgres
+- [postal](https://github.com/postalserver/postal) (16579 stars) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [puewue-backend](https://github.com/facebookarchive/puewue-backend) (116 stars) - The back-end to a simple application that displays Facebook's datacenter power consumption and other information.
 - [puppet](https://github.com/puppetlabs/puppet) (7863 stars) - Server automation framework and application
 - [puppet-elasticsearch](https://github.com/voxpupuli/puppet-elasticsearch) (402 stars) - Elasticsearch Puppet module
 - [puppet-grafana](https://github.com/bfraser/puppet-grafana) (39 stars) - Puppet module to manage Grafana
-- [puppet-neutron](https://github.com/openstack/puppet-neutron) (63 stars) - OpenStack Neutron Puppet Module. Mirror of code maintained at opendev.org.
-- [puppet-nova](https://github.com/openstack/puppet-nova) (71 stars) - OpenStack Nova Puppet Module. Mirror of code maintained at opendev.org.
-- [puppet-openstacklib](https://github.com/openstack/puppet-openstacklib) (41 stars) - Module for Common Puppet OpenStack Dependencies. Mirror of code maintained at opendev.org.
-- [puppet-vswitch](https://github.com/openstack/puppet-vswitch) (46 stars) - Puppet provider for virtual switches. Mirror of code maintained at opendev.org.
+- [puppet-neutron](https://github.com/openstack/puppet-neutron) (64 stars) - OpenStack Neutron Puppet Module. Mirror of code maintained at opendev.org.
+- [puppet-nova](https://github.com/openstack/puppet-nova) (72 stars) - OpenStack Nova Puppet Module. Mirror of code maintained at opendev.org.
+- [puppet-openstacklib](https://github.com/openstack/puppet-openstacklib) (42 stars) - Module for Common Puppet OpenStack Dependencies. Mirror of code maintained at opendev.org.
+- [puppet-vswitch](https://github.com/openstack/puppet-vswitch) (47 stars) - Puppet provider for virtual switches. Mirror of code maintained at opendev.org.
 - [runbook](https://github.com/braintree/runbook) (763 stars) - A framework for gradual system automation
 - [scientist](https://github.com/github/scientist) (7710 stars) - :microscope: A Ruby library for carefully refactoring critical paths.
 - [sensu](https://github.com/sensu/sensu) (2870 stars) - Monitoring for today's infrastructure. 
@@ -67,14 +67,14 @@
 - [SIMP](https://github.com/NationalSecurityAgency/SIMP) (1331 stars) - A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
 - [sinatra](https://github.com/sinatra/sinatra) (12433 stars) - Classy web-development dressed in a DSL (official / canonical repo)
 - [slack-notifier](https://github.com/slack-notifier/slack-notifier) (1489 stars) - A simple wrapper for posting to slack channels
-- [solidus](https://github.com/solidusio/solidus) (5300 stars) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
-- [spree](https://github.com/spree/spree) (15435 stars) - Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce.
+- [solidus](https://github.com/solidusio/solidus) (5302 stars) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
+- [spree](https://github.com/spree/spree) (15439 stars) - Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce.
 - [ssh_scan](https://github.com/mozilla/ssh_scan) (791 stars) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
-- [sure](https://github.com/we-promise/sure) (8424 stars) - The personal finance app for everyone (by everyone)
+- [sure](https://github.com/we-promise/sure) (8439 stars) - The personal finance app for everyone (by everyone)
 - [synapse](https://github.com/airbnb/synapse) (2063 stars) - A transparent service discovery framework for connecting an SOA
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) (1628 stars) - Improve Terraform's plan output to be easier to read and understand
 - [terraforming](https://github.com/dtan4/terraforming) (4260 stars) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
-- [terraspace](https://github.com/boltops-tools/terraspace) (716 stars) - Terraspace: The Terraform Framework
+- [terraspace](https://github.com/boltops-tools/terraspace) (715 stars) - Terraspace: The Terraform Framework
 - [thredded](https://github.com/thredded/thredded) (1602 stars) - The best Rails forums engine ever.
 - [upright](https://github.com/basecamp/upright) (797 stars) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [vane](https://github.com/delvelabs/vane) (213 stars) - A GPL fork of the popular wordpress vulnerability scanner WPScan

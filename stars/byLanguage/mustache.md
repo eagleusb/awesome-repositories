@@ -1,5 +1,5 @@
 ## Mustache (5 repositories) 
-- [argo-helm](https://github.com/argoproj/argo-helm) (2294 stars) - ArgoProj Helm Charts
+- [argo-helm](https://github.com/argoproj/argo-helm) (2295 stars) - ArgoProj Helm Charts
 - [charts](https://github.com/kedacore/charts) (215 stars) - Helm charts for KEDA
 - [charts](https://github.com/sentry-kubernetes/charts) (1369 stars) - Easily deploy Sentry on your Kubernetes Cluster
 - [eks-charts](https://github.com/aws/eks-charts) (1295 stars) - Amazon EKS Helm chart repository
