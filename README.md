@@ -3,9 +3,9 @@
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2238 repositories, 35.39%)
 - [Python](stars/byLanguage/python.md) (871 repositories, 13.78%)
-- [TypeScript](stars/byLanguage/typescript.md) (506 repositories, 8.00%)
+- [TypeScript](stars/byLanguage/typescript.md) (507 repositories, 8.02%)
 - [Rust](stars/byLanguage/rust.md) (468 repositories, 7.40%)
-- [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.97%)
+- [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.96%)
 
 ## All Languages
 - [Assembly](stars/byLanguage/assembly.md) (7 repositories, 0.11%)
@@ -48,7 +48,7 @@
 - [HolyC](stars/byLanguage/holyc.md) (1 repositories, 0.02%)
 - [HTML](stars/byLanguage/html.md) (67 repositories, 1.06%)
 - [Java](stars/byLanguage/java.md) (91 repositories, 1.44%)
-- [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.97%)
+- [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.96%)
 - [Jinja](stars/byLanguage/jinja.md) (10 repositories, 0.16%)
 - [Jsonnet](stars/byLanguage/jsonnet.md) (6 repositories, 0.09%)
 - [Jupyter Notebook](stars/byLanguage/jupyternotebook.md) (44 repositories, 0.70%)
@@ -97,7 +97,7 @@
 - [templ](stars/byLanguage/templ.md) (1 repositories, 0.02%)
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
-- [TypeScript](stars/byLanguage/typescript.md) (506 repositories, 8.00%)
+- [TypeScript](stars/byLanguage/typescript.md) (507 repositories, 8.02%)
 - [Unknown](stars/byLanguage/unknown.md) (286 repositories, 4.52%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
