@@ -1,2 +1,2 @@
 ## Pony (1 repositories) 
-- [ponyc](https://github.com/ponylang/ponyc) (6114 stars) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
+- [ponyc](https://github.com/ponylang/ponyc) (6116 stars) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
