@@ -1,11 +1,11 @@
 ## Zig (12 repositories) 
-- [browser](https://github.com/lightpanda-io/browser) (30782 stars) - Lightpanda: the headless browser designed for AI and automation
-- [cyber](https://github.com/fubark/cyber) (1441 stars) - Fast and concurrent scripting.
-- [ghostty](https://github.com/ghostty-org/ghostty) (55875 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [browser](https://github.com/lightpanda-io/browser) (30804 stars) - Lightpanda: the headless browser designed for AI and automation
+- [cyber](https://github.com/fubark/cyber) (1442 stars) - Fast and concurrent scripting.
+- [ghostty](https://github.com/ghostty-org/ghostty) (55941 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hys](https://github.com/superstarryeyes/hys) (261 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
-- [ly](https://github.com/fairyglade/ly) (7341 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [zero-native](https://github.com/vercel-labs/zero-native) (4096 stars) - Build desktop + mobile apps with Zig and web UI
-- [zig](https://github.com/ziglang/zig) (42972 stars) - Moved to Codeberg
+- [ly](https://github.com/fairyglade/ly) (7346 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [zero-native](https://github.com/vercel-labs/zero-native) (4104 stars) - Build desktop + mobile apps with Zig and web UI
+- [zig](https://github.com/ziglang/zig) (42978 stars) - Moved to Codeberg
 - [zml](https://github.com/zml/zml) (3581 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 - [zmx](https://github.com/neurosnap/zmx) (1564 stars) - Session persistence for terminal processes
 - [zpdf](https://github.com/Lulzx/zpdf) (907 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.

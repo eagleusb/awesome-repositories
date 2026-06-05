@@ -2,7 +2,7 @@
 
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2240 repositories, 35.43%)
-- [Python](stars/byLanguage/python.md) (869 repositories, 13.75%)
+- [Python](stars/byLanguage/python.md) (870 repositories, 13.76%)
 - [TypeScript](stars/byLanguage/typescript.md) (503 repositories, 7.96%)
 - [Rust](stars/byLanguage/rust.md) (471 repositories, 7.45%)
 - [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.98%)
@@ -78,7 +78,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (7 repositories, 0.11%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (869 repositories, 13.75%)
+- [Python](stars/byLanguage/python.md) (870 repositories, 13.76%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
@@ -98,7 +98,7 @@
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
 - [TypeScript](stars/byLanguage/typescript.md) (503 repositories, 7.96%)
-- [Unknown](stars/byLanguage/unknown.md) (286 repositories, 4.52%)
+- [Unknown](stars/byLanguage/unknown.md) (285 repositories, 4.51%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
 - [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
