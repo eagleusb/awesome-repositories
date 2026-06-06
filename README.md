@@ -1,9 +1,9 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2240 repositories, 35.43%)
-- [Python](stars/byLanguage/python.md) (870 repositories, 13.76%)
-- [TypeScript](stars/byLanguage/typescript.md) (503 repositories, 7.96%)
+- [Go](stars/byLanguage/go.md) (2239 repositories, 35.42%)
+- [Python](stars/byLanguage/python.md) (871 repositories, 13.78%)
+- [TypeScript](stars/byLanguage/typescript.md) (504 repositories, 7.97%)
 - [Rust](stars/byLanguage/rust.md) (471 repositories, 7.45%)
 - [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.98%)
 
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2240 repositories, 35.43%)
+- [Go](stars/byLanguage/go.md) (2239 repositories, 35.42%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -51,7 +51,7 @@
 - [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.98%)
 - [Jinja](stars/byLanguage/jinja.md) (10 repositories, 0.16%)
 - [Jsonnet](stars/byLanguage/jsonnet.md) (6 repositories, 0.09%)
-- [Jupyter Notebook](stars/byLanguage/jupyternotebook.md) (44 repositories, 0.70%)
+- [Jupyter Notebook](stars/byLanguage/jupyternotebook.md) (43 repositories, 0.68%)
 - [Just](stars/byLanguage/just.md) (2 repositories, 0.03%)
 - [Koka](stars/byLanguage/koka.md) (1 repositories, 0.02%)
 - [Kotlin](stars/byLanguage/kotlin.md) (19 repositories, 0.30%)
@@ -78,7 +78,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (7 repositories, 0.11%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (870 repositories, 13.76%)
+- [Python](stars/byLanguage/python.md) (871 repositories, 13.78%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
@@ -97,7 +97,7 @@
 - [templ](stars/byLanguage/templ.md) (1 repositories, 0.02%)
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
-- [TypeScript](stars/byLanguage/typescript.md) (503 repositories, 7.96%)
+- [TypeScript](stars/byLanguage/typescript.md) (504 repositories, 7.97%)
 - [Unknown](stars/byLanguage/unknown.md) (285 repositories, 4.51%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
