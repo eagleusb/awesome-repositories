@@ -1,7 +1,7 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2240 repositories, 35.42%)
+- [Go](stars/byLanguage/go.md) (2239 repositories, 35.40%)
 - [Python](stars/byLanguage/python.md) (871 repositories, 13.77%)
 - [TypeScript](stars/byLanguage/typescript.md) (504 repositories, 7.97%)
 - [Rust](stars/byLanguage/rust.md) (473 repositories, 7.48%)
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2240 repositories, 35.42%)
+- [Go](stars/byLanguage/go.md) (2239 repositories, 35.40%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -101,8 +101,8 @@
 - [Unknown](stars/byLanguage/unknown.md) (285 repositories, 4.51%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
+- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (16 repositories, 0.25%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)
