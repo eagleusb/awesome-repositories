@@ -1,4 +1,4 @@
 ## HLSL (3 repositories) 
-- [Depth3D](https://github.com/BlueSkyDefender/Depth3D) (732 stars) - Depth Based 3D & Other post-process shaders
-- [qUINT](https://github.com/martymcmodding/qUINT) (563 stars) - Collection of general-purpose effects for the ReShade shader injector.
-- [Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) (2614 stars) - Unlock the full potential of your Intel/AMD based device.
+- [Depth3D](https://github.com/BlueSkyDefender/Depth3D) (733 stars) - Depth Based 3D & Other post-process shaders
+- [qUINT](https://github.com/martymcmodding/qUINT) (564 stars) - Collection of general-purpose effects for the ReShade shader injector.
+- [Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) (2617 stars) - Unlock the full potential of your Intel/AMD based device.
