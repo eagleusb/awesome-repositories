@@ -8,9 +8,9 @@
 - [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (420 stars) - Simple and focused time-series tables for PostgreSQL
 - [pgai](https://github.com/timescale/pgai) (5802 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (36 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
-- [pgmanage](https://github.com/commandprompt/pgmanage) (1012 stars) - Web tool for database management
+- [pgmanage](https://github.com/commandprompt/pgmanage) (1013 stars) - Web tool for database management
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (4946 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq](https://github.com/pgmq/pgmq) (4949 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (54 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2139 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (140 stars) - PostgreSQL BM25S extension
