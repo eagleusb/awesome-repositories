@@ -5,7 +5,7 @@
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) (13940 stars) - Various Dockerfiles I use on the desktop and on servers.
 - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs) (1046 stars) - PagerDuty's Incident Response Documentation.
 - [jetstream](https://github.com/nats-io/jetstream) (476 stars) - JetStream Utilities
-- [minds](https://github.com/mindsdb/minds) (39297 stars) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105317 stars) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [minds](https://github.com/mindsdb/minds) (39304 stars) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105326 stars) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [rockchip-bsp](https://github.com/radxa/rockchip-bsp) (102 stars) - Linux BSP for ROCK Pi
 - [static-ffmpeg](https://github.com/wader/static-ffmpeg) (387 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies

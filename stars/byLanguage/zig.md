@@ -1,13 +1,13 @@
 ## Zig (12 repositories) 
-- [browser](https://github.com/lightpanda-io/browser) (31090 stars) - Lightpanda: the headless browser designed for AI and automation
+- [browser](https://github.com/lightpanda-io/browser) (31122 stars) - Lightpanda: the headless browser designed for AI and automation
 - [cyber](https://github.com/fubark/cyber) (1444 stars) - Fast and concurrent scripting.
-- [ghostty](https://github.com/ghostty-org/ghostty) (56432 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [ghostty](https://github.com/ghostty-org/ghostty) (56482 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hys](https://github.com/superstarryeyes/hys) (264 stars) - Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll
 - [ly](https://github.com/fairyglade/ly) (7374 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [zero-native](https://github.com/vercel-labs/zero-native) (4161 stars) - Build desktop + mobile apps with Zig and web UI
-- [zig](https://github.com/ziglang/zig) (43080 stars) - Moved to Codeberg
-- [zml](https://github.com/zml/zml) (3636 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-- [zmx](https://github.com/neurosnap/zmx) (1598 stars) - Session attach/detach for the terminal
+- [zero-native](https://github.com/vercel-labs/zero-native) (4171 stars) - Build desktop + mobile apps with Zig and web UI
+- [zig](https://github.com/ziglang/zig) (43087 stars) - Moved to Codeberg
+- [zml](https://github.com/zml/zml) (3643 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+- [zmx](https://github.com/neurosnap/zmx) (1603 stars) - Session attach/detach for the terminal
 - [zpdf](https://github.com/Lulzx/zpdf) (908 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
-- [zs3](https://github.com/Lulzx/zs3) (178 stars) - S3-compatible storage in Zig. Zero dependencies.
+- [zs3](https://github.com/Lulzx/zs3) (179 stars) - S3-compatible storage in Zig. Zero dependencies.
 - [ztick](https://github.com/awf-project/ztick) (2 stars) - A time-based job scheduler written in Zig
