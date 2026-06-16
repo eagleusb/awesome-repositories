@@ -2,10 +2,10 @@
 - [ddclient](https://github.com/ddclient/ddclient) (3457 stars) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [openstack-image-tools](https://github.com/cernops/openstack-image-tools) (8 stars) - Oz imput files to create SLC and Windows images
 - [pg_stat_ch](https://github.com/ClickHouse/pg_stat_ch) (114 stars) - Unknown
-- [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (582 stars) - Query Performance Monitoring Tool for PostgreSQL
-- [pgbadger](https://github.com/darold/pgbadger) (4027 stars) - A fast PostgreSQL Log Analyzer
+- [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (583 stars) - Query Performance Monitoring Tool for PostgreSQL
+- [pgbadger](https://github.com/darold/pgbadger) (4028 stars) - A fast PostgreSQL Log Analyzer
 - [pgcluu](https://github.com/darold/pgcluu) (346 stars) - PostgreSQL Cluster performances monitoring and auditing tool
-- [SmokePing](https://github.com/oetiker/SmokePing) (1900 stars) - The Active Monitoring System
+- [SmokePing](https://github.com/oetiker/SmokePing) (1902 stars) - The Active Monitoring System
 - [sqitch](https://github.com/sqitchers/sqitch) (3133 stars) - Sensible database change management
 - [swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) (12 stars) - MC7354 revert USB compositions script
 - [trurl](https://github.com/curl/trurl) (3340 stars) - a command line tool for URL parsing and manipulation.
