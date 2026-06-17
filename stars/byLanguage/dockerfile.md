@@ -1,11 +1,10 @@
-## Dockerfile (10 repositories) 
+## Dockerfile (9 repositories) 
 - [cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker) (790 stars) - Google Cloud CLI Docker Image - Docker Image containing the gcloud CLI and its bundled components.
 - [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) (2671 stars) - This is the playbook for "code-with" customer or partner engagements
 - [docker-alpine-wkhtmltopdf-patched-qt](https://github.com/aantonw/docker-alpine-wkhtmltopdf-patched-qt) (17 stars) - Alpine Linux 3.9 wkhtmltopdf 0.12.5 (with patched qt)
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) (13939 stars) - Various Dockerfiles I use on the desktop and on servers.
 - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs) (1046 stars) - PagerDuty's Incident Response Documentation.
 - [jetstream](https://github.com/nats-io/jetstream) (476 stars) - JetStream Utilities
-- [minds](https://github.com/mindsdb/minds) (39311 stars) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105326 stars) - ✅ The Node.js best practices list (July 2026)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105333 stars) - ✅ The Node.js best practices list (July 2026)
 - [rockchip-bsp](https://github.com/radxa/rockchip-bsp) (102 stars) - Linux BSP for ROCK Pi
-- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (387 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (389 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies

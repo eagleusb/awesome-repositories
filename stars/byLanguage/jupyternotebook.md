@@ -1,44 +1,45 @@
-## Jupyter Notebook (43 repositories) 
+## Jupyter Notebook (44 repositories) 
 - [100days](https://github.com/coells/100days) (7489 stars) - 100 days of algorithms
 - [2018-MachineLearning-Lectures-ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA) (374 stars) - Machine Learning Lectures at the European Space Agency (ESA) in 2018
-- [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) (48172 stars) - 12 Weeks, 24 Lessons, AI for All!
-- [audiocraft](https://github.com/facebookresearch/audiocraft) (23377 stars) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+- [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) (48171 stars) - 12 Weeks, 24 Lessons, AI for All!
+- [audiocraft](https://github.com/facebookresearch/audiocraft) (23379 stars) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [burst](https://github.com/burstable-ai/burst) (134 stars) - Command-line tool to remotely execute code in the cloud
 - [calculette-impots-m-language-parser](https://github.com/etalab/calculette-impots-m-language-parser) (15 stars) - Calculette de l'impôt sur le revenu parsée
-- [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) (45499 stars) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [community](https://github.com/kubernetes/community) (12890 stars) - Kubernetes community content
-- [cookbook](https://github.com/google-gemma/cookbook) (3684 stars) - A collection of guides and examples for the Gemma open models from Google.
-- [cookbook](https://github.com/google-gemini/cookbook) (17418 stars) - Examples and guides for using the Gemini API
+- [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) (45564 stars) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [community](https://github.com/kubernetes/community) (12891 stars) - Kubernetes community content
+- [cookbook](https://github.com/google-gemini/cookbook) (17423 stars) - Examples and guides for using the Gemini API
+- [cookbook](https://github.com/google-gemma/cookbook) (3689 stars) - A collection of guides and examples for the Gemma open models from Google.
 - [course-nlp](https://github.com/fastai/course-nlp) (3478 stars) - A Code-First Introduction to NLP course
 - [datasets](https://github.com/unsplash/datasets) (2729 stars) - 🎁  7,400,000+ Unsplash images made available for research and machine learning
-- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) (14820 stars) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
+- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) (14823 stars) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [europilot](https://github.com/marsauto/europilot) (1514 stars) - A toolkit for controlling Euro Truck Simulator 2 with the end-to-end driving model
-- [fastai](https://github.com/fastai/fastai) (28033 stars) - The fastai deep learning library
-- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (18216 stars) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
-- [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) (17031 stars) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (112022 stars) - 21 Lessons, Get Started Building with Generative AI 
+- [fastai](https://github.com/fastai/fastai) (28034 stars) - The fastai deep learning library
+- [gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) (694 stars) - Gateway API Inference Extension
+- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (18218 stars) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+- [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) (17047 stars) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) (112077 stars) - 21 Lessons, Get Started Building with Generative AI 
 - [GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) (1923 stars) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
-- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) (24607 stars) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) (5310 stars) - Book about interpretable machine learning
-- [llama-cookbook](https://github.com/meta-llama/llama-cookbook) (18356 stars) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
-- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) (97248 stars) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [llms-txt](https://github.com/AnswerDotAI/llms-txt) (2440 stars) - The /llms.txt file, helping language models use your website
-- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) (19146 stars) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) (24608 stars) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) (5312 stars) - Book about interpretable machine learning
+- [llama-cookbook](https://github.com/meta-llama/llama-cookbook) (18358 stars) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) (97280 stars) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [llms-txt](https://github.com/AnswerDotAI/llms-txt) (2441 stars) - The /llms.txt file, helping language models use your website
+- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) (19166 stars) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [max-llm-book](https://github.com/modular/max-llm-book) (56 stars) - Build an LLM from scratch with MAX
-- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) (16542 stars) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-- [mistral-inference](https://github.com/mistralai/mistral-inference) (10817 stars) - Official inference library for Mistral models
-- [ml-retreat](https://github.com/hesamsheikh/ml-retreat) (2351 stars) - Machine Learning Journal for Intermediate to Advanced Topics. 
+- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) (16544 stars) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+- [mistral-inference](https://github.com/mistralai/mistral-inference) (10816 stars) - Official inference library for Mistral models
+- [ml-retreat](https://github.com/hesamsheikh/ml-retreat) (2352 stars) - Machine Learning Journal for Intermediate to Advanced Topics. 
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) (14912 stars) - Natural Language Processing Tutorial for Deep Learning Researchers
-- [notebooks](https://github.com/unslothai/notebooks) (5446 stars) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
+- [notebooks](https://github.com/unslothai/notebooks) (5449 stars) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
 - [notes](https://github.com/CME211/notes) (259 stars) - CME211 Notes
 - [OLMoE](https://github.com/allenai/OLMoE) (1026 stars) - OLMoE: Open Mixture-of-Experts Language Models
-- [optimum-intel](https://github.com/huggingface/optimum-intel) (597 stars) - 🤗 Optimum Intel: Accelerate inference with Intel optimization tools
-- [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) (4024 stars) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.
-- [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) (19386 stars) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+- [optimum-intel](https://github.com/huggingface/optimum-intel) (596 stars) - 🤗 Optimum Intel: Accelerate inference with Intel optimization tools
+- [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) (4026 stars) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.
+- [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) (19404 stars) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [smart-image-sorter](https://github.com/bellingcat/smart-image-sorter) (64 stars) - User friendly zero-shot image classification using open-source models from the Hugging Face library
-- [smol-course](https://github.com/huggingface/smol-course) (6658 stars) - A course on aligning smol models.
+- [smol-course](https://github.com/huggingface/smol-course) (6660 stars) - A course on aligning smol models.
 - [tarmac](https://github.com/adrida/tarmac) (12 stars) - Explainable git diff for your ML models
 - [vigogne](https://github.com/bofenghuang/vigogne) (504 stars) - French instruction-following and chat models
-- [Virgilio](https://github.com/virgili0/Virgilio) (14707 stars) - Your new Mentor for Data Science E-Learning.
-- [vosk-api](https://github.com/alphacep/vosk-api) (14852 stars) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) (4614 stars) - An Open Source text-to-speech system built by inverting Whisper.
+- [Virgilio](https://github.com/virgili0/Virgilio) (14712 stars) - Your new Mentor for Data Science E-Learning.
+- [vosk-api](https://github.com/alphacep/vosk-api) (14855 stars) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) (4616 stars) - An Open Source text-to-speech system built by inverting Whisper.
