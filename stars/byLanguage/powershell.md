@@ -4,5 +4,5 @@
 - [boxstarter](https://github.com/chocolatey-community/boxstarter) (1364 stars) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [iDRAC-Redfish-Scripting](https://github.com/dell/iDRAC-Redfish-Scripting) (723 stars) - Python and PowerShell scripting for Dell EMC PowerEdge iDRAC REST API with DMTF Redfish
 - [openhab-distro](https://github.com/openhab/openhab-distro) (1385 stars) - The binary distribution of openHAB
-- [Scoop](https://github.com/ScoopInstaller/Scoop) (24277 stars) - A command-line installer for Windows.
+- [Scoop](https://github.com/ScoopInstaller/Scoop) (24279 stars) - A command-line installer for Windows.
 - [windows-imaging-tools](https://github.com/cloudbase/windows-imaging-tools) (779 stars) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.

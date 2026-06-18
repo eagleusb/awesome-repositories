@@ -1,20 +1,20 @@
 ## Kotlin (19 repositories) 
-- [amethyst](https://github.com/vitorpamplona/amethyst) (1547 stars) - Nostr client for Android
-- [android](https://github.com/owntracks/android) (1719 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (3703 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (23785 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5454 stars) - Customizable and privacy-conscious open-source keyboard
-- [KernelSU](https://github.com/tiann/KernelSU) (16859 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/kavishdevar/librepods) (27230 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (12153 stars) - An alternative frontend for YouTube, for Android.
+- [amethyst](https://github.com/vitorpamplona/amethyst) (1548 stars) - Nostr client for Android
+- [android](https://github.com/owntracks/android) (1720 stars) - OwnTracks Android App
+- [android-app](https://github.com/ProtonVPN/android-app) (3708 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (23800 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5459 stars) - Customizable and privacy-conscious open-source keyboard
+- [KernelSU](https://github.com/tiann/KernelSU) (16869 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/kavishdevar/librepods) (27238 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (12160 stars) - An alternative frontend for YouTube, for Android.
 - [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (205 stars) - Official Android App of ListenBrainz
-- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2125 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2127 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (548 stars) - PartiQL libraries and tools in Kotlin.
 - [prism-android](https://github.com/lone-cloud/prism-android) (42 stars) - A UnifiedPush distributor with optional self-hosted Prism server integration.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28293 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5320 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13613 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28306 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5322 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13621 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2668 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2721 stars) - Unknown
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4221 stars) - Main UserLAnd Repository
-- [Wholphin](https://github.com/damontecres/Wholphin) (2342 stars) - An OSS Android TV client for Jellyfin
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4223 stars) - Main UserLAnd Repository
+- [Wholphin](https://github.com/damontecres/Wholphin) (2349 stars) - An OSS Android TV client for Jellyfin

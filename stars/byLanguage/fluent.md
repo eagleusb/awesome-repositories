@@ -1,3 +1,3 @@
 ## Fluent (2 repositories) 
-- [calibre-web](https://github.com/janeczku/calibre-web) (17503 stars) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [czkawka](https://github.com/qarmin/czkawka) (31541 stars) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [calibre-web](https://github.com/janeczku/calibre-web) (17513 stars) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [czkawka](https://github.com/qarmin/czkawka) (31549 stars) - Multi functional app to find duplicates, empty folders, similar images etc.
