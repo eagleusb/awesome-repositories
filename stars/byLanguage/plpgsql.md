@@ -2,7 +2,7 @@
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3097 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (251 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (98 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
-- [pg_partman](https://github.com/pgpartman/pg_partman) (2737 stars) - Partition management extension for PostgreSQL
+- [pg_partman](https://github.com/pgpartman/pg_partman) (2738 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (333 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) (8 stars) - pgEdge Labs: pg_semantic_cache allows you to leverage vector embeddings to cache and retrieve query results based on semantic similarity.
 - [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (421 stars) - Simple and focused time-series tables for PostgreSQL
@@ -13,6 +13,6 @@
 - [pgmq](https://github.com/pgmq/pgmq) (4965 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (54 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2142 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
-- [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (140 stars) - PostgreSQL BM25S extension
+- [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (141 stars) - PostgreSQL BM25S extension
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (260 stars) - SQLite Foreign Data Wrapper for PostgreSQL
 - [zombodb](https://github.com/zombodb/zombodb) (4730 stars) - Making Postgres and Elasticsearch work together like it's 2023

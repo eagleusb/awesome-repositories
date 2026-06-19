@@ -1,16 +1,16 @@
 ## Makefile (18 repositories) 
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
 - [deezer-linux](https://github.com/aunetx/deezer-linux) (584 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
-- [guide](https://github.com/uber-go/guide) (17574 stars) - The Uber Go Style Guide.
+- [guide](https://github.com/uber-go/guide) (17578 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (539 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
-- [hubble](https://github.com/cilium/hubble) (4212 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [hubble](https://github.com/cilium/hubble) (4214 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [k8s-clusters](https://github.com/grampelberg/k8s-clusters) (25 stars) - Simple kubernetes clusters on cloud providers for development
 - [kernel](https://github.com/gokrazy/kernel) (68 stars) - (Upstream) Linux kernel build for gokrazy
 - [keydb-operator](https://github.com/krestomatio/keydb-operator) (59 stars) - A KeyDB (Drop-In Alternative to Redis) Operator for Kubernetes, based on Ansible Operator SDK. 
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) (679 stars) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
-- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2769 stars) - Just enough OS for KODI
-- [minds](https://github.com/mindsdb/minds) (39318 stars) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
+- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2770 stars) - Just enough OS for KODI
+- [minds](https://github.com/mindsdb/minds) (39315 stars) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 - [openhue-api](https://github.com/openhue/openhue-api) (192 stars) - OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API
 - [pragmasevka](https://github.com/shytikov/pragmasevka) (435 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support
