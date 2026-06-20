@@ -1,10 +1,10 @@
 ## CSS (29 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11115 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82617 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [arc-theme](https://github.com/horst3180/arc-theme) (8243 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9385 stars) - List of awesome CSS frameworks in 2026
+- [98.css](https://github.com/jdan/98.css) (11117 stars) - A design system for building faithful recreations of old UIs
+- [animate.css](https://github.com/animate-css/animate.css) (82618 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [arc-theme](https://github.com/horst3180/arc-theme) (8244 stars) - A flat theme with transparent elements
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9388 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2559 stars) - A list of history's greatest software engineers and tech pioneers
-- [cs16.css](https://github.com/ekmas/cs16.css) (1997 stars) - CSS library based on Counter Strike 1.6 UI.
+- [cs16.css](https://github.com/ekmas/cs16.css) (1998 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
 - [dalai](https://github.com/cocktailpeanut/dalai) (12922 stars) - The simplest way to run LLaMA on your local machine
 - [Fira](https://github.com/mozilla/Fira) (5154 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
@@ -12,10 +12,10 @@
 - [gtk](https://github.com/dracula/gtk) (1048 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2313 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (421 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2762 stars) - A simple, retro theme for Hugo
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2764 stars) - A simple, retro theme for Hugo
 - [juliamono](https://github.com/cormullion/juliamono) (1663 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
-- [Nordic](https://github.com/EliverLara/Nordic) (2689 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+- [Nordic](https://github.com/EliverLara/Nordic) (2688 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (171 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3806 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) (20 stars) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.

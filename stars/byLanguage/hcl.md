@@ -3,12 +3,12 @@
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (217 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
-- [pgbouncer-containers](https://github.com/cloudnative-pg/pgbouncer-containers) (18 stars) - Operand images for CloudNativePG containing PgBouncer
+- [pgbouncer-containers](https://github.com/cloudnative-pg/pgbouncer-containers) (17 stars) - Operand images for CloudNativePG containing PgBouncer
 - [quickstart](https://github.com/rancher-archives/quickstart) (394 stars) - Unknown
 - [stack](https://github.com/segmentio/stack) (2092 stars) - A set of Terraform modules for configuring production infrastructure with AWS
 - [teks](https://github.com/particuleio/teks) (360 stars) - Full feature EKS cluster with Terragrunt/Terraform
-- [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1248 stars) - High availability implementation of AWS NAT instances.
-- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4973 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1249 stars) - High availability implementation of AWS NAT instances.
+- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4974 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (84 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (956 stars) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) (41 stars) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
