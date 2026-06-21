@@ -1,27 +1,27 @@
 ## C# (28 repositories) 
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) (13419 stars) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-- [Axiom](https://github.com/MattMcManis/Axiom) (1703 stars) - An FFmpeg GUI for Windows
+- [Axiom](https://github.com/MattMcManis/Axiom) (1704 stars) - An FFmpeg GUI for Windows
 - [docker-lambda](https://github.com/lambci/docker-lambda) (5786 stars) - Docker images and test runners that replicate the live AWS Lambda environment
 - [drasi-platform](https://github.com/drasi-project/drasi-platform) (1241 stars) - The Data Change Processing platform
-- [duplicati](https://github.com/duplicati/duplicati) (14674 stars) - Store securely encrypted backups in the cloud!
-- [ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server) (724 stars) - ETS2/ATS Telemetry Web Server + Mobile Dashboard
+- [duplicati](https://github.com/duplicati/duplicati) (14677 stars) - Store securely encrypted backups in the cloud!
+- [ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server) (725 stars) - ETS2/ATS Telemetry Web Server + Mobile Dashboard
 - [FASTER](https://github.com/microsoft/FASTER) (6627 stars) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
-- [g-helper](https://github.com/seerge/g-helper) (13779 stars) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many more.
-- [garnet](https://github.com/microsoft/garnet) (11881 stars) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+- [g-helper](https://github.com/seerge/g-helper) (13810 stars) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many more.
+- [garnet](https://github.com/microsoft/garnet) (11883 stars) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 - [GraphEngine](https://github.com/microsoft/GraphEngine) (2251 stars) - Microsoft Graph Engine
-- [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) (1657 stars) - ControllerService
+- [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) (1658 stars) - ControllerService
 - [ilSFV](https://github.com/judwhite/ilSFV) (37 stars) - SFV, MD5 and SHA-1 file verification utility for Windows.
-- [Jackett](https://github.com/Jackett/Jackett) (15614 stars) - API Support for your favorite torrent trackers
-- [jellyfin](https://github.com/jellyfin/jellyfin) (53488 stars) - The Free Software Media System - Server Backend & API
+- [Jackett](https://github.com/Jackett/Jackett) (15617 stars) - API Support for your favorite torrent trackers
+- [jellyfin](https://github.com/jellyfin/jellyfin) (53510 stars) - The Free Software Media System - Server Backend & API
 - [jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) (240 stars) - Automatically delete played media files after specified amount of time.
-- [Kavita](https://github.com/Kareadita/Kavita) (10964 stars) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+- [Kavita](https://github.com/Kareadita/Kavita) (10979 stars) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 - [kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) (1620 stars) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [legacy](https://github.com/ErsatzTV/legacy) (2824 stars) - Open-source platform that transforms your personal media library into live, custom TV channels.
-- [Lidarr](https://github.com/Lidarr/Lidarr) (5404 stars) - Looks and smells like Sonarr but made for music.
+- [Lidarr](https://github.com/Lidarr/Lidarr) (5406 stars) - Looks and smells like Sonarr but made for music.
 - [lingarr](https://github.com/lingarr-translate/lingarr) (794 stars) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.
 - [OpenCiv3](https://github.com/C7-Game/OpenCiv3) (612 stars) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.
-- [Pinta](https://github.com/PintaProject/Pinta) (3761 stars) - Simple GTK Paint Program
-- [Prowlarr](https://github.com/Prowlarr/Prowlarr) (6706 stars) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+- [Pinta](https://github.com/PintaProject/Pinta) (3762 stars) - Simple GTK Paint Program
+- [Prowlarr](https://github.com/Prowlarr/Prowlarr) (6709 stars) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [qmk_toolbox](https://github.com/qmk/qmk_toolbox) (3044 stars) - A Toolbox companion for QMK Firmware
 - [scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) (269 stars) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
 - [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) (8512 stars) - A manager for game achievements in Steam.

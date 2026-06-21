@@ -2,9 +2,9 @@
 
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2241 repositories, 35.36%)
-- [Python](stars/byLanguage/python.md) (871 repositories, 13.74%)
+- [Python](stars/byLanguage/python.md) (870 repositories, 13.73%)
 - [TypeScript](stars/byLanguage/typescript.md) (507 repositories, 8.00%)
-- [Rust](stars/byLanguage/rust.md) (480 repositories, 7.57%)
+- [Rust](stars/byLanguage/rust.md) (481 repositories, 7.59%)
 - [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.94%)
 
 ## All Languages
@@ -78,14 +78,14 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (7 repositories, 0.11%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (871 repositories, 13.74%)
+- [Python](stars/byLanguage/python.md) (870 repositories, 13.73%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
 - [RobotFramework](stars/byLanguage/robotframework.md) (1 repositories, 0.02%)
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [Ruby](stars/byLanguage/ruby.md) (82 repositories, 1.29%)
-- [Rust](stars/byLanguage/rust.md) (480 repositories, 7.57%)
+- [Rust](stars/byLanguage/rust.md) (481 repositories, 7.59%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
 - [Shell](stars/byLanguage/shell.md) (149 repositories, 2.35%)
@@ -101,8 +101,8 @@
 - [Unknown](stars/byLanguage/unknown.md) (285 repositories, 4.50%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
+- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (16 repositories, 0.25%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)
