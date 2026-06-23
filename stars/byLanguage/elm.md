@@ -1,2 +1,2 @@
 ## Elm (1 repositories) 
-- [azimutt](https://github.com/azimuttapp/azimutt) (2134 stars) - Explore, document and optimize any database
+- [azimutt](https://github.com/azimuttapp/azimutt) (2136 stars) - Explore, document and optimize any database

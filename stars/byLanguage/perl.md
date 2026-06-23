@@ -6,7 +6,7 @@
 - [pgbadger](https://github.com/darold/pgbadger) (4032 stars) - A fast PostgreSQL Log Analyzer
 - [pgcluu](https://github.com/darold/pgcluu) (346 stars) - PostgreSQL Cluster performances monitoring and auditing tool
 - [SmokePing](https://github.com/oetiker/SmokePing) (1908 stars) - The Active Monitoring System
-- [sqitch](https://github.com/sqitchers/sqitch) (3132 stars) - Sensible database change management
+- [sqitch](https://github.com/sqitchers/sqitch) (3134 stars) - Sensible database change management
 - [swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) (12 stars) - MC7354 revert USB compositions script
 - [trurl](https://github.com/curl/trurl) (3342 stars) - a command line tool for URL parsing and manipulation.
 - [vmprobe](https://github.com/vmprobe/vmprobe) (35 stars) - The control panel for your cloud's memory
