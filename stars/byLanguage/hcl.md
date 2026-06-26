@@ -10,7 +10,7 @@
 - [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1250 stars) - High availability implementation of AWS NAT instances.
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4975 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (84 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
-- [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (954 stars) - Terraform module to create AWS RDS resources 🇺🇦
+- [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (955 stars) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) (41 stars) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
 - [terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) (357 stars) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.
 - [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1272 stars) - Configures opinionated GKE clusters
