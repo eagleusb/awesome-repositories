@@ -1,20 +1,19 @@
-## Kotlin (19 repositories) 
+## Kotlin (18 repositories) 
 - [amethyst](https://github.com/vitorpamplona/amethyst) (1553 stars) - Nostr client for Android
 - [android](https://github.com/owntracks/android) (1719 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (3728 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (23897 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5494 stars) - Customizable and privacy-conscious open-source keyboard
-- [KernelSU](https://github.com/tiann/KernelSU) (16973 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/librepods-org/librepods) (27733 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (12193 stars) - An alternative frontend for YouTube, for Android.
+- [android-app](https://github.com/ProtonVPN/android-app) (3731 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (23902 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5497 stars) - Customizable and privacy-conscious open-source keyboard
+- [KernelSU](https://github.com/tiann/KernelSU) (16985 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/librepods-org/librepods) (27768 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (12191 stars) - An alternative frontend for YouTube, for Android.
 - [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (205 stars) - Official Android App of ListenBrainz
-- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2131 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2137 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (547 stars) - PartiQL libraries and tools in Kotlin.
-- [prism-android](https://github.com/lone-cloud/prism-android) (42 stars) - A UnifiedPush distributor with optional self-hosted Prism server integration.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28373 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5343 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13645 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2699 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28384 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5347 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13644 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2702 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2720 stars) - Unknown
 - [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4229 stars) - Main UserLAnd Repository
-- [Wholphin](https://github.com/damontecres/Wholphin) (2402 stars) - An OSS Android TV client for Jellyfin
+- [Wholphin](https://github.com/damontecres/Wholphin) (2409 stars) - An OSS Android TV client for Jellyfin

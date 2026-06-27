@@ -1,18 +1,18 @@
 ## CSS (29 repositories) 
 - [98.css](https://github.com/jdan/98.css) (11133 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82630 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [arc-theme](https://github.com/horst3180/arc-theme) (8244 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9400 stars) - List of awesome CSS frameworks in 2026
+- [animate.css](https://github.com/animate-css/animate.css) (82629 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [arc-theme](https://github.com/horst3180/arc-theme) (8245 stars) - A flat theme with transparent elements
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9401 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2559 stars) - A list of history's greatest software engineers and tech pioneers
 - [cs16.css](https://github.com/ekmas/cs16.css) (1998 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [dalai](https://github.com/cocktailpeanut/dalai) (12922 stars) - The simplest way to run LLaMA on your local machine
+- [dalai](https://github.com/cocktailpeanut/dalai) (12921 stars) - The simplest way to run LLaMA on your local machine
 - [Fira](https://github.com/mozilla/Fira) (5151 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1381 stars) - A Golang based high performance, scalable and distributed workflow framework
 - [gtk](https://github.com/dracula/gtk) (1049 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2313 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (421 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2768 stars) - A simple, retro theme for Hugo
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2769 stars) - A simple, retro theme for Hugo
 - [juliamono](https://github.com/cormullion/juliamono) (1663 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [Nordic](https://github.com/EliverLara/Nordic) (2692 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.

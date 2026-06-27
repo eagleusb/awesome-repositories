@@ -1,5 +1,5 @@
 ## SCSS (10 repositories) 
-- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) (9001 stars) - The conventional commits specification
+- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) (9006 stars) - The conventional commits specification
 - [hacker101](https://github.com/Hacker0x01/hacker101) (14461 stars) - Source code for Hacker101.com - a free online web and mobile security class.
 - [hugo-fresh](https://github.com/StefMa/hugo-fresh) (688 stars) - Hugo Fresh Theme
 - [hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) (1086 stars) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
