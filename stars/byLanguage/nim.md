@@ -1,3 +1,3 @@
 ## Nim (2 repositories) 
-- [Nim](https://github.com/nim-lang/Nim) (18068 stars) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
-- [nitter](https://github.com/zedeus/nitter) (13165 stars) - Alternative Twitter front-end
+- [Nim](https://github.com/nim-lang/Nim) (18070 stars) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
+- [nitter](https://github.com/zedeus/nitter) (13168 stars) - Alternative Twitter front-end

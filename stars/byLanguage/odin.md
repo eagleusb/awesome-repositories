@@ -1,2 +1,2 @@
 ## Odin (1 repositories) 
-- [Odin](https://github.com/odin-lang/Odin) (10891 stars) - Odin Programming Language
+- [Odin](https://github.com/odin-lang/Odin) (10904 stars) - Odin Programming Language
