@@ -1,8 +1,8 @@
 ## CSS (29 repositories) 
 - [98.css](https://github.com/jdan/98.css) (11137 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82629 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [animate.css](https://github.com/animate-css/animate.css) (82631 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8246 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9399 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9401 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2559 stars) - A list of history's greatest software engineers and tech pioneers
 - [cs16.css](https://github.com/ekmas/cs16.css) (1999 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
@@ -20,10 +20,10 @@
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3807 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) (20 stars) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
-- [rfs](https://github.com/twbs/rfs) (3364 stars) - ✩ Automates responsive resizing ✩
+- [rfs](https://github.com/twbs/rfs) (3363 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (127 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20416 stars) - Monospaced font family for user interface and coding environments
-- [source-sans](https://github.com/adobe-fonts/source-sans) (3700 stars) - Sans serif font family for user interface environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20418 stars) - Monospaced font family for user interface and coding environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) (3701 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2304 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11709 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7884 stars) - The JavaScript Way book

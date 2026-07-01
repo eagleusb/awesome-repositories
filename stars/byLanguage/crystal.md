@@ -1,3 +1,3 @@
 ## Crystal (2 repositories) 
-- [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) (3609 stars) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
-- [mint](https://github.com/mint-lang/mint) (4251 stars) - 🍃 A refreshing programming language for the front-end web.
+- [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) (3611 stars) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
+- [mint](https://github.com/mint-lang/mint) (4252 stars) - 🍃 A refreshing programming language for the front-end web.
