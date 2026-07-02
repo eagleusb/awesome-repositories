@@ -4,8 +4,8 @@
 - [pg_stat_ch](https://github.com/ClickHouse/pg_stat_ch) (115 stars) - Unknown
 - [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (583 stars) - Query Performance Monitoring Tool for PostgreSQL
 - [pgbadger](https://github.com/darold/pgbadger) (4036 stars) - A fast PostgreSQL Log Analyzer
-- [pgcluu](https://github.com/darold/pgcluu) (346 stars) - PostgreSQL Cluster performances monitoring and auditing tool
-- [SmokePing](https://github.com/oetiker/SmokePing) (1909 stars) - The Active Monitoring System
+- [pgcluu](https://github.com/darold/pgcluu) (345 stars) - PostgreSQL Cluster performances monitoring and auditing tool
+- [SmokePing](https://github.com/oetiker/SmokePing) (1910 stars) - The Active Monitoring System
 - [sqitch](https://github.com/sqitchers/sqitch) (3134 stars) - Sensible database change management
 - [swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) (12 stars) - MC7354 revert USB compositions script
 - [trurl](https://github.com/curl/trurl) (3343 stars) - a command line tool for URL parsing and manipulation.

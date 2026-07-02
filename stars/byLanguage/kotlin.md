@@ -1,19 +1,19 @@
 ## Kotlin (18 repositories) 
 - [amethyst](https://github.com/vitorpamplona/amethyst) (1557 stars) - Nostr client for Android
-- [android](https://github.com/owntracks/android) (1721 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (3740 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (23958 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5521 stars) - Customizable and privacy-conscious open-source keyboard
-- [KernelSU](https://github.com/tiann/KernelSU) (17042 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/librepods-org/librepods) (28448 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (12214 stars) - An alternative frontend for YouTube, for Android.
+- [android](https://github.com/owntracks/android) (1722 stars) - OwnTracks Android App
+- [android-app](https://github.com/ProtonVPN/android-app) (3742 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (23973 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5527 stars) - Customizable and privacy-conscious open-source keyboard
+- [KernelSU](https://github.com/tiann/KernelSU) (17055 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/librepods-org/librepods) (28489 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (12223 stars) - An alternative frontend for YouTube, for Android.
 - [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (205 stars) - Official Android App of ListenBrainz
-- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2144 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2147 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (547 stars) - PartiQL libraries and tools in Kotlin.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28428 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5360 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13661 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2708 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28441 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5362 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13666 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2710 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2720 stars) - Unknown
 - [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4230 stars) - Main UserLAnd Repository
-- [Wholphin](https://github.com/damontecres/Wholphin) (2449 stars) - An OSS Android TV client for Jellyfin
+- [Wholphin](https://github.com/damontecres/Wholphin) (2462 stars) - An OSS Android TV client for Jellyfin
