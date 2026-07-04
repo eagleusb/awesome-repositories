@@ -1,12 +1,12 @@
 ## CSS (29 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11140 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82632 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [98.css](https://github.com/jdan/98.css) (11144 stars) - A design system for building faithful recreations of old UIs
+- [animate.css](https://github.com/animate-css/animate.css) (82631 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8247 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9405 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9407 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2560 stars) - A list of history's greatest software engineers and tech pioneers
-- [cs16.css](https://github.com/ekmas/cs16.css) (1999 stars) - CSS library based on Counter Strike 1.6 UI.
+- [cs16.css](https://github.com/ekmas/cs16.css) (2000 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [dalai](https://github.com/cocktailpeanut/dalai) (12920 stars) - The simplest way to run LLaMA on your local machine
+- [dalai](https://github.com/cocktailpeanut/dalai) (12919 stars) - The simplest way to run LLaMA on your local machine
 - [Fira](https://github.com/mozilla/Fira) (5151 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1381 stars) - A Golang based high performance, scalable and distributed workflow framework
 - [gtk](https://github.com/dracula/gtk) (1051 stars) - 🧛🏻‍♂️ Dark theme for GTK
@@ -22,8 +22,8 @@
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3363 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (127 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20419 stars) - Monospaced font family for user interface and coding environments
-- [source-sans](https://github.com/adobe-fonts/source-sans) (3702 stars) - Sans serif font family for user interface environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20420 stars) - Monospaced font family for user interface and coding environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) (3703 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2303 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11709 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7884 stars) - The JavaScript Way book
