@@ -1,2 +1,2 @@
 ## Ballerina (1 repositories) 
-- [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) (3842 stars) - The Ballerina Programming Language
+- [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) (3841 stars) - The Ballerina Programming Language
