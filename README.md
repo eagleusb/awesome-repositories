@@ -5,7 +5,7 @@
 - [Python](stars/byLanguage/python.md) (870 repositories, 13.69%)
 - [TypeScript](stars/byLanguage/typescript.md) (513 repositories, 8.07%)
 - [Rust](stars/byLanguage/rust.md) (484 repositories, 7.62%)
-- [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.92%)
+- [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.94%)
 
 ## All Languages
 - [Assembly](stars/byLanguage/assembly.md) (7 repositories, 0.11%)
@@ -48,7 +48,7 @@
 - [HolyC](stars/byLanguage/holyc.md) (1 repositories, 0.02%)
 - [HTML](stars/byLanguage/html.md) (69 repositories, 1.09%)
 - [Java](stars/byLanguage/java.md) (91 repositories, 1.43%)
-- [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.92%)
+- [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.94%)
 - [Jinja](stars/byLanguage/jinja.md) (10 repositories, 0.16%)
 - [Jsonnet](stars/byLanguage/jsonnet.md) (6 repositories, 0.09%)
 - [Jupyter Notebook](stars/byLanguage/jupyternotebook.md) (43 repositories, 0.68%)
@@ -88,7 +88,7 @@
 - [Rust](stars/byLanguage/rust.md) (484 repositories, 7.62%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
-- [Shell](stars/byLanguage/shell.md) (146 repositories, 2.30%)
+- [Shell](stars/byLanguage/shell.md) (145 repositories, 2.28%)
 - [Smarty](stars/byLanguage/smarty.md) (1 repositories, 0.02%)
 - [Starlark](stars/byLanguage/starlark.md) (3 repositories, 0.05%)
 - [Svelte](stars/byLanguage/svelte.md) (11 repositories, 0.17%)
