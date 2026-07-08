@@ -1,10 +1,10 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2247 repositories, 35.36%)
+- [Go](stars/byLanguage/go.md) (2248 repositories, 35.37%)
 - [Python](stars/byLanguage/python.md) (870 repositories, 13.69%)
 - [TypeScript](stars/byLanguage/typescript.md) (513 repositories, 8.07%)
-- [Rust](stars/byLanguage/rust.md) (484 repositories, 7.62%)
+- [Rust](stars/byLanguage/rust.md) (484 repositories, 7.61%)
 - [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.94%)
 
 ## All Languages
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2247 repositories, 35.36%)
+- [Go](stars/byLanguage/go.md) (2248 repositories, 35.37%)
 - [Go Template](stars/byLanguage/gotemplate.md) (3 repositories, 0.05%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -51,7 +51,7 @@
 - [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.94%)
 - [Jinja](stars/byLanguage/jinja.md) (10 repositories, 0.16%)
 - [Jsonnet](stars/byLanguage/jsonnet.md) (6 repositories, 0.09%)
-- [Jupyter Notebook](stars/byLanguage/jupyternotebook.md) (43 repositories, 0.68%)
+- [Jupyter Notebook](stars/byLanguage/jupyternotebook.md) (44 repositories, 0.69%)
 - [Just](stars/byLanguage/just.md) (2 repositories, 0.03%)
 - [Koka](stars/byLanguage/koka.md) (1 repositories, 0.02%)
 - [Kotlin](stars/byLanguage/kotlin.md) (18 repositories, 0.28%)
@@ -85,7 +85,7 @@
 - [RobotFramework](stars/byLanguage/robotframework.md) (1 repositories, 0.02%)
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [Ruby](stars/byLanguage/ruby.md) (82 repositories, 1.29%)
-- [Rust](stars/byLanguage/rust.md) (484 repositories, 7.62%)
+- [Rust](stars/byLanguage/rust.md) (484 repositories, 7.61%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
 - [Shell](stars/byLanguage/shell.md) (145 repositories, 2.28%)

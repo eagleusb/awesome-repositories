@@ -1,10 +1,10 @@
 ## Scala (9 repositories) 
-- [chronon](https://github.com/airbnb/chronon) (1025 stars) - Chronon is a data platform for serving for AI/ML applications.
+- [chronon](https://github.com/airbnb/chronon) (1027 stars) - Chronon is a data platform for serving for AI/ML applications.
 - [chronos](https://github.com/mesos/chronos) (4375 stars) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 - [collins](https://github.com/tumblr/collins) (576 stars) - groovy kind of love
 - [finagle](https://github.com/twitter/finagle) (8863 stars) - A fault tolerant, protocol-agnostic RPC system
-- [gatling](https://github.com/gatling/gatling) (6930 stars) - Modern Load Testing as Code
+- [gatling](https://github.com/gatling/gatling) (6933 stars) - Modern Load Testing as Code
 - [nelson](https://github.com/getnelson/nelson) (405 stars) - Automated, multi-region container deployment
-- [openwhisk](https://github.com/apache/openwhisk) (6785 stars) - Apache OpenWhisk is an open source serverless cloud platform
+- [openwhisk](https://github.com/apache/openwhisk) (6784 stars) - Apache OpenWhisk is an open source serverless cloud platform
 - [scheduler](https://github.com/PagerDuty/scheduler) (213 stars) - A Scala library for scheduling arbitrary code to run at an arbitrary time.
 - [scylla-migrator](https://github.com/scylladb/scylla-migrator) (73 stars) - Migrate data extract using Spark to Scylla, normally from Cassandra/parquet files. Alt. from DynamoDB to Scylla Alternator.
