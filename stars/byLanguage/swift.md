@@ -1,9 +1,9 @@
 ## Swift (8 repositories) 
-- [agent-squad](https://github.com/2FastLabs/agent-squad) (7686 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+- [agent-squad](https://github.com/2FastLabs/agent-squad) (7688 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [Amethyst](https://github.com/ianyh/Amethyst) (16185 stars) - Automatic tiling window manager for macOS à la xmonad.
-- [Cilicon](https://github.com/traderepublic/Cilicon) (1172 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [container](https://github.com/apple/container) (47024 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [Cilicon](https://github.com/traderepublic/Cilicon) (1173 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
+- [container](https://github.com/apple/container) (47185 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [iGlance](https://github.com/iglance/iGlance) (2482 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
-- [PairPods](https://github.com/wozniakpawel/PairPods) (735 stars) - Free and open source app to share audio on macOS
-- [stats](https://github.com/exelban/stats) (40286 stars) - macOS system monitor in your menu bar
-- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4133 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+- [PairPods](https://github.com/wozniakpawel/PairPods) (737 stars) - Free and open source app to share audio on macOS
+- [stats](https://github.com/exelban/stats) (40310 stars) - macOS system monitor in your menu bar
+- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4135 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
