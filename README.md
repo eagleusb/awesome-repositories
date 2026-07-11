@@ -1,10 +1,10 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2250 repositories, 35.39%)
+- [Go](stars/byLanguage/go.md) (2251 repositories, 35.41%)
 - [Python](stars/byLanguage/python.md) (871 repositories, 13.70%)
 - [TypeScript](stars/byLanguage/typescript.md) (513 repositories, 8.07%)
-- [Rust](stars/byLanguage/rust.md) (484 repositories, 7.61%)
+- [Rust](stars/byLanguage/rust.md) (485 repositories, 7.63%)
 - [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.92%)
 
 ## All Languages
@@ -37,8 +37,8 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2250 repositories, 35.39%)
-- [Go Template](stars/byLanguage/gotemplate.md) (3 repositories, 0.05%)
+- [Go](stars/byLanguage/go.md) (2251 repositories, 35.41%)
+- [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
 - [Handlebars](stars/byLanguage/handlebars.md) (1 repositories, 0.02%)
@@ -46,7 +46,7 @@
 - [HCL](stars/byLanguage/hcl.md) (22 repositories, 0.35%)
 - [HLSL](stars/byLanguage/hlsl.md) (3 repositories, 0.05%)
 - [HolyC](stars/byLanguage/holyc.md) (1 repositories, 0.02%)
-- [HTML](stars/byLanguage/html.md) (69 repositories, 1.09%)
+- [HTML](stars/byLanguage/html.md) (68 repositories, 1.07%)
 - [Java](stars/byLanguage/java.md) (91 repositories, 1.43%)
 - [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.92%)
 - [Jinja](stars/byLanguage/jinja.md) (10 repositories, 0.16%)
@@ -85,7 +85,7 @@
 - [RobotFramework](stars/byLanguage/robotframework.md) (1 repositories, 0.02%)
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [Ruby](stars/byLanguage/ruby.md) (82 repositories, 1.29%)
-- [Rust](stars/byLanguage/rust.md) (484 repositories, 7.61%)
+- [Rust](stars/byLanguage/rust.md) (485 repositories, 7.63%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
 - [Shell](stars/byLanguage/shell.md) (145 repositories, 2.28%)
@@ -98,7 +98,7 @@
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
 - [TypeScript](stars/byLanguage/typescript.md) (513 repositories, 8.07%)
-- [Unknown](stars/byLanguage/unknown.md) (286 repositories, 4.50%)
+- [Unknown](stars/byLanguage/unknown.md) (285 repositories, 4.48%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
 - [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
