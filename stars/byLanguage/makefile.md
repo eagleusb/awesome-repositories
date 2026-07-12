@@ -1,19 +1,19 @@
 ## Makefile (18 repositories) 
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
 - [deezer-linux](https://github.com/aunetx/deezer-linux) (599 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
-- [guide](https://github.com/uber-go/guide) (17620 stars) - The Uber Go Style Guide.
+- [guide](https://github.com/uber-go/guide) (17621 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (540 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
-- [hubble](https://github.com/cilium/hubble) (4246 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [hubble](https://github.com/cilium/hubble) (4248 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [k8s-clusters](https://github.com/grampelberg/k8s-clusters) (25 stars) - Simple kubernetes clusters on cloud providers for development
 - [kernel](https://github.com/gokrazy/kernel) (68 stars) - (Upstream) Linux kernel build for gokrazy
 - [keydb-operator](https://github.com/krestomatio/keydb-operator) (59 stars) - A KeyDB (Drop-In Alternative to Redis) Operator for Kubernetes, based on Ansible Operator SDK. 
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) (678 stars) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
 - [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2778 stars) - Just enough OS for KODI
-- [mindshub](https://github.com/mindsdb/mindshub) (39394 stars) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindshub](https://github.com/mindsdb/mindshub) (39399 stars) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [openhue-api](https://github.com/openhue/openhue-api) (197 stars) - OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API
-- [pragmasevka](https://github.com/shytikov/pragmasevka) (439 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
+- [pragmasevka](https://github.com/shytikov/pragmasevka) (440 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) (1060 stars) - Service Mesh Interface
 - [spec](https://github.com/container-storage-interface/spec) (1480 stars) - Container Storage Interface (CSI) Specification.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4205 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4210 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
