@@ -1,6 +1,6 @@
 ## CSS (29 repositories) 
 - [98.css](https://github.com/jdan/98.css) (11148 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82654 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [animate.css](https://github.com/animate-css/animate.css) (82655 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8246 stars) - A flat theme with transparent elements
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9427 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2562 stars) - A list of history's greatest software engineers and tech pioneers
@@ -15,15 +15,15 @@
 - [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2773 stars) - A simple, retro theme for Hugo
 - [juliamono](https://github.com/cormullion/juliamono) (1673 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
-- [Nordic](https://github.com/EliverLara/Nordic) (2703 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+- [Nordic](https://github.com/EliverLara/Nordic) (2704 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (171 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
-- [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3809 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
+- [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3810 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) (20 stars) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3365 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (127 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20419 stars) - Monospaced font family for user interface and coding environments
-- [source-sans](https://github.com/adobe-fonts/source-sans) (3708 stars) - Sans serif font family for user interface environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20418 stars) - Monospaced font family for user interface and coding environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) (3709 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2302 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11712 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7886 stars) - The JavaScript Way book
