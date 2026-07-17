@@ -1,8 +1,8 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2252 repositories, 35.36%)
-- [Python](stars/byLanguage/python.md) (873 repositories, 13.71%)
+- [Go](stars/byLanguage/go.md) (2253 repositories, 35.37%)
+- [Python](stars/byLanguage/python.md) (873 repositories, 13.70%)
 - [TypeScript](stars/byLanguage/typescript.md) (516 repositories, 8.10%)
 - [Rust](stars/byLanguage/rust.md) (489 repositories, 7.68%)
 - [JavaScript](stars/byLanguage/javascript.md) (441 repositories, 6.92%)
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2252 repositories, 35.36%)
+- [Go](stars/byLanguage/go.md) (2253 repositories, 35.37%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -78,7 +78,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (8 repositories, 0.13%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (873 repositories, 13.71%)
+- [Python](stars/byLanguage/python.md) (873 repositories, 13.70%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
