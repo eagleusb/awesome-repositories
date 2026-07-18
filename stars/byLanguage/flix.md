@@ -1,2 +1,2 @@
 ## Flix (1 repositories) 
-- [flix](https://github.com/flix/flix) (2694 stars) - The Flix Programming Language
+- [flix](https://github.com/flix/flix) (2695 stars) - The Flix Programming Language

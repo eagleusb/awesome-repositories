@@ -1,19 +1,19 @@
 ## Kotlin (18 repositories) 
 - [amethyst](https://github.com/vitorpamplona/amethyst) (1562 stars) - Nostr client for Android
 - [android](https://github.com/owntracks/android) (1738 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (3796 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (24183 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5644 stars) - Customizable and privacy-conscious open-source keyboard
-- [KernelSU](https://github.com/tiann/KernelSU) (17290 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/librepods-org/librepods) (29071 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (12299 stars) - An alternative frontend for YouTube, for Android.
+- [android-app](https://github.com/ProtonVPN/android-app) (3799 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (24194 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5654 stars) - Customizable and privacy-conscious open-source keyboard
+- [KernelSU](https://github.com/tiann/KernelSU) (17301 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/librepods-org/librepods) (29083 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (12304 stars) - An alternative frontend for YouTube, for Android.
 - [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (206 stars) - Official Android App of ListenBrainz
 - [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2181 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (547 stars) - PartiQL libraries and tools in Kotlin.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28593 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5409 stars) - Bringing Astrid Tasks back from the dead
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28601 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5413 stars) - Bringing Astrid Tasks back from the dead
 - [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13710 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2729 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2730 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2719 stars) - Unknown
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4242 stars) - Main UserLAnd Repository
-- [Wholphin](https://github.com/damontecres/Wholphin) (2536 stars) - An OSS Android TV client for Jellyfin
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4243 stars) - Main UserLAnd Repository
+- [Wholphin](https://github.com/damontecres/Wholphin) (2540 stars) - An OSS Android TV client for Jellyfin
