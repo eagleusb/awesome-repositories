@@ -1,92 +1,92 @@
 ## Java (91 repositories) 
 - [airsonic](https://github.com/airsonic/airsonic) (2045 stars) -  :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
-- [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) (2565 stars) - Android backup extractor
-- [bazel](https://github.com/bazelbuild/bazel) (25635 stars) - a fast, scalable, multi-language and extensible build system
+- [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) (2566 stars) - Android backup extractor
+- [bazel](https://github.com/bazelbuild/bazel) (25639 stars) - a fast, scalable, multi-language and extensible build system
 - [blox](https://github.com/blox/blox) (938 stars) - Open source tools for building custom schedulers on Amazon ECS
-- [briar](https://github.com/briar/briar) (651 stars) - Mirror of https://code.briarproject.org/briar/briar
+- [briar](https://github.com/briar/briar) (652 stars) - Mirror of https://code.briarproject.org/briar/briar
 - [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) (1867 stars) - Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
 - [cassandra-data-migrator](https://github.com/datastax/cassandra-data-migrator) (39 stars) - Cassandra Data Migrator - Migrate & Validate data between origin and target Apache Cassandra®-compatible clusters.
 - [chronix.server](https://github.com/ChronixDB/chronix.server) (265 stars) - The Chronix Server implementation that is based on Apache Solr.
-- [cloudstack](https://github.com/apache/cloudstack) (2987 stars) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+- [cloudstack](https://github.com/apache/cloudstack) (2990 stars) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 - [cloudsync](https://github.com/HolgerHees/cloudsync) (176 stars) - Sync a local filesystem on linux, windows and osx incremental and encrypted with google drive simliar to rsync. You can also restore the encrypted data back to a local filesystem. It works as a complete backup solution for your private data.
-- [commafeed](https://github.com/Athou/commafeed) (3569 stars) - Google Reader inspired self-hosted personal RSS reader.
-- [conductor](https://github.com/conductor-oss/conductor) (32011 stars) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
-- [copybara](https://github.com/google/copybara) (3744 stars) - Copybara: A tool for transforming and moving code between repositories.
+- [commafeed](https://github.com/Athou/commafeed) (3570 stars) - Google Reader inspired self-hosted personal RSS reader.
+- [conductor](https://github.com/conductor-oss/conductor) (32018 stars) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
+- [copybara](https://github.com/google/copybara) (3748 stars) - Copybara: A tool for transforming and moving code between repositories.
 - [crate](https://github.com/crate/crate) (4416 stars) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
-- [cryptomator](https://github.com/cryptomator/cryptomator) (15711 stars) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+- [cryptomator](https://github.com/cryptomator/cryptomator) (15720 stars) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [data-transfer-project](https://github.com/dtinit/data-transfer-project) (3616 stars) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
 - [databus](https://github.com/linkedin/databus) (3678 stars) - Source-agnostic distributed change data capture system
-- [dbeaver](https://github.com/dbeaver/dbeaver) (51052 stars) - Free universal database tool and SQL client
+- [dbeaver](https://github.com/dbeaver/dbeaver) (51060 stars) - Free universal database tool and SQL client
 - [dcache](https://github.com/dCache/dcache) (320 stars) - dCache - a system for storing and retrieving huge amounts of data, distributed among a large number of heterogenous server nodes, under a single virtual filesystem tree with a variety of standard access methods
-- [debezium](https://github.com/debezium/debezium) (12929 stars) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
+- [debezium](https://github.com/debezium/debezium) (12931 stars) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [deprecated-security-advanced-modules](https://github.com/opendistro-for-elasticsearch/deprecated-security-advanced-modules) (45 stars) - [DO NOT USE - DEPRECATED as of v1.4.0] Advanced modules for the Open Distro security plugin; Merged into security repo.
 - [deprecated-security-ssl](https://github.com/opendistro-for-elasticsearch/deprecated-security-ssl) (31 stars) - [DO NOT USE - DEPRECATED AS OF v1.0.0] SSL module for Open Distro security plugin 
 - [DoctorK](https://github.com/pinterest/DoctorK) (627 stars) - DoctorK is a service for Kafka cluster auto healing and workload balancing
 - [drftpd](https://github.com/drftpd-ng/drftpd) (69 stars) - Distributed Daemon FTP Server (aka DrFTPD)
 - [druid](https://github.com/apache/druid) (14033 stars) - Apache Druid: a high performance real-time analytics database.
 - [dsbulk-migrator](https://github.com/datastax-archive/dsbulk-migrator) (9 stars) - Unknown
-- [dslabs](https://github.com/emichael/dslabs) (1681 stars) - Distributed Systems Labs and Framework
-- [elasticsearch](https://github.com/elastic/elasticsearch) (77553 stars) - Free and Open Source, Distributed, RESTful Search Engine
+- [dslabs](https://github.com/emichael/dslabs) (1682 stars) - Distributed Systems Labs and Framework
+- [elasticsearch](https://github.com/elastic/elasticsearch) (77561 stars) - Free and Open Source, Distributed, RESTful Search Engine
 - [embulk](https://github.com/embulk/embulk) (1783 stars) - Embulk: Pluggable Bulk Data Loader.
 - [enso](https://github.com/enso-org/enso) (7438 stars) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [eureka](https://github.com/Netflix/eureka) (12721 stars) - AWS Service registry for resilient mid-tier load balancing and failover.
-- [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) (2864 stars) - Unknown
+- [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) (2874 stars) - Unknown
 - [GCViewer](https://github.com/chewiebug/GCViewer) (4642 stars) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (71060 stars) - Ghidra is a software reverse engineering (SRE) framework
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) (71101 stars) - Ghidra is a software reverse engineering (SRE) framework
 - [gocd](https://github.com/gocd/gocd) (7416 stars) - GoCD - Continuous Delivery server main repository
-- [graylog2-server](https://github.com/Graylog2/graylog2-server) (8083 stars) - Free and open log management
+- [graylog2-server](https://github.com/Graylog2/graylog2-server) (8086 stars) - Free and open log management
 - [haven](https://github.com/guardianproject/haven) (6801 stars) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 - [hawkbit](https://github.com/eclipse-hawkbit/hawkbit) (585 stars) - Eclipse hawkBit™
 - [heroic](https://github.com/spotify/heroic) (846 stars) - The Heroic Time Series Database
 - [hono](https://github.com/eclipse-hono/hono) (495 stars) - Eclipse Hono™ Project
 - [jackhammer](https://github.com/olacabs/jackhammer) (741 stars) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
-- [janusgraph](https://github.com/JanusGraph/janusgraph) (5813 stars) - JanusGraph: an open-source, distributed graph database
-- [jib](https://github.com/GoogleContainerTools/jib) (14433 stars) - 🏗 Build container images for your Java applications.
+- [janusgraph](https://github.com/JanusGraph/janusgraph) (5814 stars) - JanusGraph: an open-source, distributed graph database
+- [jib](https://github.com/GoogleContainerTools/jib) (14434 stars) - 🏗 Build container images for your Java applications.
 - [jvm-profiler](https://github.com/uber-common/jvm-profiler) (1804 stars) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
-- [kestra](https://github.com/kestra-io/kestra) (27381 stars) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [keycloak](https://github.com/keycloak/keycloak) (35724 stars) - Open Source Identity and Access Management For Modern Applications and Services
+- [kestra](https://github.com/kestra-io/kestra) (27392 stars) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [keycloak](https://github.com/keycloak/keycloak) (35740 stars) - Open Source Identity and Access Management For Modern Applications and Services
 - [keycloak-mariadb](https://github.com/mposolda/keycloak-mariadb) (10 stars) - How to easily set MariaDB cluster and configure with Keycloak
 - [kronotop](https://github.com/kronotop/kronotop) (302 stars) - Distributed, transactional document database backed by FoundationDB.
 - [ksql](https://github.com/confluentinc/ksql) (310 stars) - The database purpose-built for stream processing applications.
 - [kylo](https://github.com/Teradata/kylo) (1111 stars) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is licensed under Apache 2.0. Contributed by Teradata Inc.
 - [lavagna](https://github.com/digitalfondue/lavagna) (641 stars) - Lavagna: issue tracker/project management tool
-- [logstash](https://github.com/elastic/logstash) (14906 stars) - Logstash - transport and process your logs, events, or other data
+- [logstash](https://github.com/elastic/logstash) (14907 stars) - Logstash - transport and process your logs, events, or other data
 - [maven-build-scanner](https://github.com/intuit/maven-build-scanner) (158 stars) -  Know your build - so you can make it faster
-- [maven-mvnd](https://github.com/apache/maven-mvnd) (3434 stars) - Apache Maven Daemon
+- [maven-mvnd](https://github.com/apache/maven-mvnd) (3435 stars) - Apache Maven Daemon
 - [mirus](https://github.com/salesforce/mirus) (210 stars) - Mirus is a cross data-center data replication tool for Apache Kafka
 - [mysql_perf_analyzer](https://github.com/yahoo/mysql_perf_analyzer) (1433 stars) - MySQL performance monitoring and analysis.
-- [neo4j](https://github.com/neo4j/neo4j) (16905 stars) - Graphs for Everyone
+- [neo4j](https://github.com/neo4j/neo4j) (16911 stars) - Graphs for Everyone
 - [neo4j-apoc-procedures](https://github.com/neo4j-contrib/neo4j-apoc-procedures) (1865 stars) - Awesome Procedures On Cypher for Neo4j - codenamed "apoc"                     If you like it, please ★ above ⇧            
 - [neosemantics](https://github.com/neo4j-labs/neosemantics) (947 stars) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes) (2800 stars) - Open source note-taking application for Android
-- [openapi-generator](https://github.com/OpenAPITools/openapi-generator) (26596 stars) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [OpenSearch](https://github.com/opensearch-project/OpenSearch) (13336 stars) - 🔎 Open source distributed and RESTful search engine.
+- [openapi-generator](https://github.com/OpenAPITools/openapi-generator) (26601 stars) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch) (13342 stars) - 🔎 Open source distributed and RESTful search engine.
 - [opensearchserver](https://github.com/jaeksoft/opensearchserver) (516 stars) - Open-source Enterprise Grade Search Engine Software
 - [orientdb](https://github.com/orientechnologies/orientdb) (4972 stars) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.
 - [pacbot](https://github.com/tmobile/pacbot) (1310 stars) - PacBot (Policy as Code Bot)
-- [pkl](https://github.com/apple/pkl) (11467 stars) - A configuration as code language with rich validation and tooling.
+- [pkl](https://github.com/apple/pkl) (11468 stars) - A configuration as code language with rich validation and tooling.
 - [presto](https://github.com/prestodb/presto) (16719 stars) - The official home of the Presto distributed SQL query engine for big data
 - [raspicast](https://github.com/HaarigerHarald/raspicast) (52 stars) - Raspicast android app
 - [riot](https://github.com/redis/riot) (333 stars) - ⚠️ UNMAINTAINED - See RIOT-X for the actively maintained version
 - [routerkeygenAndroid](https://github.com/routerkeygen/routerkeygenAndroid) (499 stars) - Router Keygen generate default WPA/WEP keys for several routers.
 - [signal-cli](https://github.com/AsamK/signal-cli) (4798 stars) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [SimianArmy](https://github.com/Netflix/SimianArmy) (7983 stars) - Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- [skywalking](https://github.com/apache/skywalking) (24881 stars) - APM, Application Performance Monitoring System
-- [sonarqube](https://github.com/SonarSource/sonarqube) (10808 stars) - Continuous Inspection
-- [spinnaker](https://github.com/spinnaker/spinnaker) (9753 stars) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) (87381 stars) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- [skywalking](https://github.com/apache/skywalking) (24884 stars) - APM, Application Performance Monitoring System
+- [sonarqube](https://github.com/SonarSource/sonarqube) (10810 stars) - Continuous Inspection
+- [spinnaker](https://github.com/spinnaker/spinnaker) (9754 stars) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) (87459 stars) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) (5879 stars) - Apache Kafka® running on Kubernetes
-- [supertokens-core](https://github.com/supertokens/supertokens-core) (15209 stars) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
+- [supertokens-core](https://github.com/supertokens/supertokens-core) (15211 stars) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
 - [terraform-custom-provider](https://github.com/julianespinel/terraform-custom-provider) (14 stars) - Repository to learn how to create a Terraform custom provider.
-- [thingsboard](https://github.com/thingsboard/thingsboard) (22087 stars) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [thingsboard](https://github.com/thingsboard/thingsboard) (22093 stars) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [tink](https://github.com/tink-crypto/tink) (13541 stars) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) (8595 stars) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [UnifiedNlp](https://github.com/microg/UnifiedNlp) (1057 stars) - Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.
 - [valkey-glide](https://github.com/valkey-io/valkey-glide) (766 stars) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
 - [wildfly](https://github.com/wildfly/wildfly) (3179 stars) - WildFly Application Server
-- [xpipe](https://github.com/xpipe-io/xpipe) (14357 stars) - Access your entire server infrastructure from your local desktop
+- [xpipe](https://github.com/xpipe-io/xpipe) (14363 stars) - Access your entire server infrastructure from your local desktop
 - [YCSB](https://github.com/brianfrankcooper/YCSB) (5226 stars) - Yahoo! Cloud Serving Benchmark
-- [zaproxy](https://github.com/zaproxy/zaproxy) (15434 stars) - The ZAP by Checkmarx Core project
+- [zaproxy](https://github.com/zaproxy/zaproxy) (15440 stars) - The ZAP by Checkmarx Core project
 - [zilla](https://github.com/aklivity/zilla) (694 stars) - 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 - [zipkin](https://github.com/openzipkin/zipkin) (17447 stars) - Zipkin is a distributed tracing system
-- [zuul](https://github.com/Netflix/zuul) (14048 stars) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [zuul](https://github.com/Netflix/zuul) (14050 stars) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.

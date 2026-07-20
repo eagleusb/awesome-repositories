@@ -1,5 +1,5 @@
 ## PLpgSQL (17 repositories) 
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3117 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3118 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (252 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (98 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
 - [pg_partman](https://github.com/pgpartman/pg_partman) (2769 stars) - Partition management extension for PostgreSQL
@@ -12,7 +12,7 @@
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
 - [pgmq](https://github.com/pgmq/pgmq) (5029 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (55 stars) - Helper functions for working with the OpenAI API
-- [postgis](https://github.com/postgis/postgis) (2173 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
-- [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (142 stars) - PostgreSQL BM25S extension
+- [postgis](https://github.com/postgis/postgis) (2174 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
+- [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (143 stars) - PostgreSQL BM25S extension
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (261 stars) - SQLite Foreign Data Wrapper for PostgreSQL
 - [zombodb](https://github.com/zombodb/zombodb) (4723 stars) - Making Postgres and Elasticsearch work together like it's 2023
