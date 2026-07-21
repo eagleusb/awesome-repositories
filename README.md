@@ -3,7 +3,7 @@
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2254 repositories, 35.32%)
 - [Python](stars/byLanguage/python.md) (876 repositories, 13.73%)
-- [TypeScript](stars/byLanguage/typescript.md) (519 repositories, 8.13%)
+- [TypeScript](stars/byLanguage/typescript.md) (520 repositories, 8.15%)
 - [Rust](stars/byLanguage/rust.md) (492 repositories, 7.71%)
 - [JavaScript](stars/byLanguage/javascript.md) (440 repositories, 6.89%)
 
@@ -59,7 +59,7 @@
 - [M](stars/byLanguage/m.md) (1 repositories, 0.02%)
 - [Makefile](stars/byLanguage/makefile.md) (18 repositories, 0.28%)
 - [Markdown](stars/byLanguage/markdown.md) (5 repositories, 0.08%)
-- [MDX](stars/byLanguage/mdx.md) (7 repositories, 0.11%)
+- [MDX](stars/byLanguage/mdx.md) (6 repositories, 0.09%)
 - [Mojo](stars/byLanguage/mojo.md) (1 repositories, 0.02%)
 - [MoonScript](stars/byLanguage/moonscript.md) (1 repositories, 0.02%)
 - [Mustache](stars/byLanguage/mustache.md) (5 repositories, 0.08%)
@@ -97,7 +97,7 @@
 - [templ](stars/byLanguage/templ.md) (1 repositories, 0.02%)
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
-- [TypeScript](stars/byLanguage/typescript.md) (519 repositories, 8.13%)
+- [TypeScript](stars/byLanguage/typescript.md) (520 repositories, 8.15%)
 - [Unknown](stars/byLanguage/unknown.md) (284 repositories, 4.45%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)

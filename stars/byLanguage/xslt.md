@@ -1,2 +1,2 @@
 ## XSLT (1 repositories) 
-- [openscap](https://github.com/OpenSCAP/openscap) (1771 stars) - NIST Certified SCAP 1.2 toolkit
+- [openscap](https://github.com/OpenSCAP/openscap) (1772 stars) - NIST Certified SCAP 1.2 toolkit
