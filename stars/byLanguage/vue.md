@@ -1,17 +1,17 @@
 ## Vue (16 repositories) 
-- [automa](https://github.com/AutomaApp/automa) (21506 stars) - A browser extension for automating your browser by connecting blocks
-- [drop](https://github.com/Drop-OSS/drop) (680 stars) - Drop is an open-source game distribution platform.
+- [automa](https://github.com/AutomaApp/automa) (21510 stars) - A browser extension for automating your browser by connecting blocks
+- [drop](https://github.com/Drop-OSS/drop) (682 stars) - Drop is an open-source game distribution platform.
 - [ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) (1056 stars) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [forum](https://github.com/sebbkw/forum) (253 stars) - Forum software created using Express, Vue, and Sequelize
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube) (21508 stars) - An Open Source YouTube app for privacy
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) (21514 stars) - An Open Source YouTube app for privacy
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) (687 stars) - Discover who's upto what on Github
 - [goldfish](https://github.com/Caiyeon/goldfish) (2128 stars) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 - [nuxt-shadcn-prisma-auth](https://github.com/drobertson-dev/nuxt-shadcn-prisma-auth) (2 stars) - A production-ready Nuxt 4 starter template with authentication, database, and modern UI — designed for both human developers and AI coding agents.
-- [Piped](https://github.com/TeamPiped/Piped) (10119 stars) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [Piped](https://github.com/TeamPiped/Piped) (10121 stars) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [rbac-view](https://github.com/jasonrichardsmith/rbac-view) (160 stars) - Visualize Kubernetes RBAC rules
-- [Sink](https://github.com/miantiao-me/Sink) (6961 stars) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [Sink](https://github.com/miantiao-me/Sink) (6960 stars) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [statping](https://github.com/statping/statping) (7292 stars) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) (12964 stars) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) (12976 stars) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [victor-mono](https://github.com/rubjo/victor-mono) (3776 stars) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) (90241 stars) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [xray](https://github.com/chaitin/xray) (11663 stars) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) (90240 stars) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+- [xray](https://github.com/chaitin/xray) (11666 stars) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
