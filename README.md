@@ -2,7 +2,7 @@
 
 ## Top 5 Languages
 - [Go](stars/byLanguage/go.md) (2254 repositories, 35.31%)
-- [Python](stars/byLanguage/python.md) (876 repositories, 13.72%)
+- [Python](stars/byLanguage/python.md) (877 repositories, 13.74%)
 - [TypeScript](stars/byLanguage/typescript.md) (522 repositories, 8.18%)
 - [Rust](stars/byLanguage/rust.md) (492 repositories, 7.71%)
 - [JavaScript](stars/byLanguage/javascript.md) (439 repositories, 6.88%)
@@ -78,7 +78,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (8 repositories, 0.13%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (876 repositories, 13.72%)
+- [Python](stars/byLanguage/python.md) (877 repositories, 13.74%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)

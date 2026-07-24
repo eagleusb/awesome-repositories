@@ -1,12 +1,12 @@
 ## PLpgSQL (17 repositories) 
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3120 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3123 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (253 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (98 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
-- [pg_partman](https://github.com/pgpartman/pg_partman) (2771 stars) - Partition management extension for PostgreSQL
+- [pg_partman](https://github.com/pgpartman/pg_partman) (2772 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (337 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) (8 stars) - pgEdge Labs: pg_semantic_cache allows you to leverage vector embeddings to cache and retrieve query results based on semantic similarity.
 - [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (422 stars) - Simple and focused time-series tables for PostgreSQL
-- [pgai](https://github.com/timescale/pgai) (5813 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+- [pgai](https://github.com/timescale/pgai) (5812 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (36 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmanage](https://github.com/commandprompt/pgmanage) (1015 stars) - Web tool for database management
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
