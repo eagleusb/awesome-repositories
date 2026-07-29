@@ -1,5 +1,5 @@
 ## Perl (11 repositories) 
-- [ddclient](https://github.com/ddclient/ddclient) (3500 stars) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
+- [ddclient](https://github.com/ddclient/ddclient) (3501 stars) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [openstack-image-tools](https://github.com/cernops/openstack-image-tools) (8 stars) - Oz imput files to create SLC and Windows images
 - [pg_stat_ch](https://github.com/ClickHouse/pg_stat_ch) (119 stars) - Unknown
 - [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (586 stars) - Query Performance Monitoring Tool for PostgreSQL
@@ -8,5 +8,5 @@
 - [SmokePing](https://github.com/oetiker/SmokePing) (1925 stars) - The Active Monitoring System
 - [sqitch](https://github.com/sqitchers/sqitch) (3144 stars) - Sensible database change management
 - [swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) (12 stars) - MC7354 revert USB compositions script
-- [trurl](https://github.com/curl/trurl) (3345 stars) - a command line tool for URL parsing and manipulation.
+- [trurl](https://github.com/curl/trurl) (3346 stars) - a command line tool for URL parsing and manipulation.
 - [vmprobe](https://github.com/vmprobe/vmprobe) (35 stars) - The control panel for your cloud's memory
