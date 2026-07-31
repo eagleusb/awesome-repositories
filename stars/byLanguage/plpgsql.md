@@ -2,7 +2,7 @@
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3126 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (254 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (99 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
-- [pg_partman](https://github.com/pgpartman/pg_partman) (2778 stars) - Partition management extension for PostgreSQL
+- [pg_partman](https://github.com/pgpartman/pg_partman) (2780 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (337 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) (8 stars) - pgEdge Labs: pg_semantic_cache allows you to leverage vector embeddings to cache and retrieve query results based on semantic similarity.
 - [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (422 stars) - Simple and focused time-series tables for PostgreSQL
@@ -12,7 +12,7 @@
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
 - [pgmq](https://github.com/pgmq/pgmq) (5043 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (55 stars) - Helper functions for working with the OpenAI API
-- [postgis](https://github.com/postgis/postgis) (2186 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
+- [postgis](https://github.com/postgis/postgis) (2188 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (144 stars) - PostgreSQL BM25S extension
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (261 stars) - SQLite Foreign Data Wrapper for PostgreSQL
 - [zombodb](https://github.com/zombodb/zombodb) (4720 stars) - Making Postgres and Elasticsearch work together like it's 2023

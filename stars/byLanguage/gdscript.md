@@ -1,2 +1,2 @@
 ## GDScript (1 repositories) 
-- [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) (913 stars) - Open source gamepad-native game launcher and overlay
+- [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) (914 stars) - Open source gamepad-native game launcher and overlay
