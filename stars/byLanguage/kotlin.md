@@ -1,20 +1,20 @@
 ## Kotlin (19 repositories) 
-- [amethyst](https://github.com/vitorpamplona/amethyst) (1573 stars) - Nostr client for Android
-- [android](https://github.com/owntracks/android) (1740 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (3852 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (24319 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5753 stars) - Customizable and privacy-conscious open-source keyboard
-- [KernelSU](https://github.com/tiann/KernelSU) (17552 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/librepods-org/librepods) (29237 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (12385 stars) - An alternative frontend for YouTube, for Android.
-- [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (207 stars) - Official Android App of ListenBrainz
-- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2211 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+- [amethyst](https://github.com/vitorpamplona/amethyst) (1574 stars) - Nostr client for Android
+- [android](https://github.com/owntracks/android) (1741 stars) - OwnTracks Android App
+- [android-app](https://github.com/ProtonVPN/android-app) (3855 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (24325 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (5759 stars) - Customizable and privacy-conscious open-source keyboard
+- [KernelSU](https://github.com/tiann/KernelSU) (17569 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/librepods-org/librepods) (29244 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (12393 stars) - An alternative frontend for YouTube, for Android.
+- [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (208 stars) - Official Android App of ListenBrainz
+- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2213 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (547 stars) - PartiQL libraries and tools in Kotlin.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28805 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5446 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13771 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2758 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
-- [trailblaze](https://github.com/block/trailblaze) (277 stars) - AI-driven UI testing framework.
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (28824 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5448 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13775 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2760 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [trailblaze](https://github.com/block/trailblaze) (277 stars) - 🥾 AI-Driven UI Testing Framework
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2720 stars) - Unknown
-- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4243 stars) - Main UserLAnd Repository
-- [Wholphin](https://github.com/damontecres/Wholphin) (2618 stars) - An OSS Android TV client for Jellyfin
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) (4245 stars) - Main UserLAnd Repository
+- [Wholphin](https://github.com/damontecres/Wholphin) (2630 stars) - An OSS Android TV client for Jellyfin
