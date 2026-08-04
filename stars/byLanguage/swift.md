@@ -1,9 +1,9 @@
 ## Swift (8 repositories) 
 - [agent-squad](https://github.com/2FastLabs/agent-squad) (7728 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [Amethyst](https://github.com/ianyh/Amethyst) (16202 stars) - Automatic tiling window manager for macOS à la xmonad.
+- [Amethyst](https://github.com/ianyh/Amethyst) (16201 stars) - Automatic tiling window manager for macOS à la xmonad.
 - [Cilicon](https://github.com/traderepublic/Cilicon) (1175 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [container](https://github.com/apple/container) (48565 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [container](https://github.com/apple/container) (48608 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [iGlance](https://github.com/iglance/iGlance) (2489 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
-- [PairPods](https://github.com/wozniakpawel/PairPods) (786 stars) - Free and open source app to share audio on macOS
-- [stats](https://github.com/exelban/stats) (40940 stars) - macOS system monitor in your menu bar
-- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4167 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+- [PairPods](https://github.com/wozniakpawel/PairPods) (788 stars) - Free and open source app to share audio on macOS
+- [stats](https://github.com/exelban/stats) (40964 stars) - macOS system monitor in your menu bar
+- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4169 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
