@@ -2,10 +2,10 @@
 - [fastpack](https://github.com/fastpack/fastpack) (2258 stars) - Pack JS code fast & easy
 - [liquidsoap](https://github.com/savonet/liquidsoap) (1711 stars) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
 - [mirage](https://github.com/mirage/mirage) (2971 stars) - MirageOS is a library operating system that constructs unikernels
-- [opengrep](https://github.com/opengrep/opengrep) (2869 stars) - 🔎 Static code analysis engine to find security issues in code.
+- [opengrep](https://github.com/opengrep/opengrep) (2875 stars) - 🔎 Static code analysis engine to find security issues in code.
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (318 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
-- [pyre-check](https://github.com/facebook/pyre-check) (7170 stars) - Performant type-checking for python.
+- [pyre-check](https://github.com/facebook/pyre-check) (7171 stars) - Performant type-checking for python.
 - [reason](https://github.com/reasonml/reason) (10316 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [semgrep](https://github.com/semgrep/semgrep) (16101 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep](https://github.com/semgrep/semgrep) (16116 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [terrateam](https://github.com/terrateamio/terrateam) (1252 stars) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
-- [unison](https://github.com/bcpierce00/unison) (5420 stars) - Unison file synchronizer
+- [unison](https://github.com/bcpierce00/unison) (5424 stars) - Unison file synchronizer

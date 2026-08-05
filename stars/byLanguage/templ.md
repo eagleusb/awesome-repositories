@@ -1,2 +1,2 @@
 ## templ (1 repositories) 
-- [templui](https://github.com/templui/templui) (1637 stars) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code.
+- [templui](https://github.com/templui/templui) (1638 stars) - shadcn/ui for templ. A set of beautifully-designed, accessible components and a code distribution platform. Works with Go and templ. Open Source. Open Code.
