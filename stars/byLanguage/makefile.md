@@ -1,7 +1,7 @@
 ## Makefile (18 repositories) 
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
 - [deezer-linux](https://github.com/aunetx/deezer-linux) (597 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
-- [guide](https://github.com/uber-go/guide) (17644 stars) - The Uber Go Style Guide.
+- [guide](https://github.com/uber-go/guide) (17645 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (539 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
 - [hubble](https://github.com/cilium/hubble) (4276 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
@@ -9,8 +9,8 @@
 - [kernel](https://github.com/gokrazy/kernel) (68 stars) - (Upstream) Linux kernel build for gokrazy
 - [keydb-operator](https://github.com/krestomatio/keydb-operator) (59 stars) - A KeyDB (Drop-In Alternative to Redis) Operator for Kubernetes, based on Ansible Operator SDK. 
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) (679 stars) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
-- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2793 stars) - Just enough OS for KODI
-- [mindshub](https://github.com/mindsdb/mindshub) (39521 stars) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2794 stars) - Just enough OS for KODI
+- [mindshub](https://github.com/mindsdb/mindshub) (39525 stars) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [openhue-api](https://github.com/openhue/openhue-api) (198 stars) - OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API
 - [pragmasevka](https://github.com/shytikov/pragmasevka) (440 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (96 stars) - Lambda Layer providing sharp with HEIC support
