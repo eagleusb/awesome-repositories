@@ -1,2 +1,2 @@
 ## WebAssembly (1 repositories) 
-- [watgo](https://github.com/eliben/watgo) (154 stars) - WebAssembly Toolkit for Go
+- [watgo](https://github.com/eliben/watgo) (155 stars) - WebAssembly Toolkit for Go

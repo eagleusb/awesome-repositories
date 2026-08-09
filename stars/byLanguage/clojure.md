@@ -1,9 +1,9 @@
 ## Clojure (8 repositories) 
-- [FiraCode](https://github.com/tonsky/FiraCode) (81906 stars) - Free monospaced font with programming ligatures
+- [FiraCode](https://github.com/tonsky/FiraCode) (81907 stars) - Free monospaced font with programming ligatures
 - [konstellate](https://github.com/jeremykross/konstellate) (1457 stars) - Free and Open Source GUI to Visualize Kubernetes Applications.
-- [logseq](https://github.com/logseq/logseq) (44329 stars) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
-- [metabase](https://github.com/metabase/metabase) (48595 stars) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- [logseq](https://github.com/logseq/logseq) (44352 stars) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+- [metabase](https://github.com/metabase/metabase) (48618 stars) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [metabase-clickhouse-driver](https://github.com/ClickHouse/metabase-clickhouse-driver) (509 stars) - ClickHouse database driver for the Metabase business intelligence front-end
-- [penpot](https://github.com/penpot/penpot) (58243 stars) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
+- [penpot](https://github.com/penpot/penpot) (58287 stars) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [riemann](https://github.com/riemann/riemann) (4268 stars) - A network event stream processing system, in Clojure.
 - [samplerr](https://github.com/ccin2p3/samplerr) (15 stars) - Round robin timeseries middleware based on riemann and elasticsearch
