@@ -1,4 +1,4 @@
-## PLpgSQL (17 repositories) 
+## PLpgSQL (16 repositories) 
 - [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1029 stars) - Web tool for database management
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3134 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (254 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
@@ -10,7 +10,6 @@
 - [pgai](https://github.com/timescale/pgai) (5811 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (36 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (5070 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (55 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2198 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (146 stars) - PostgreSQL BM25S extension

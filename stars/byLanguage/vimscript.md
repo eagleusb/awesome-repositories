@@ -1,5 +1,5 @@
 ## Vim Script (4 repositories) 
-- [neovim](https://github.com/neovim/neovim) (101718 stars) - Vim-fork focused on extensibility and usability
-- [SpaceVim](https://github.com/wsdjeg/SpaceVim) (20227 stars) - A modular configuration of Vim and Neovim
-- [vim-airline](https://github.com/vim-airline/vim-airline) (17962 stars) - lean & mean status/tabline for vim that's light as air
-- [vim-plug](https://github.com/junegunn/vim-plug) (35740 stars) - :hibiscus: Minimalist Vim Plugin Manager
+- [neovim](https://github.com/neovim/neovim) (101723 stars) - Vim-fork focused on extensibility and usability
+- [SpaceVim](https://github.com/wsdjeg/SpaceVim) (20225 stars) - A modular configuration of Vim and Neovim
+- [vim-airline](https://github.com/vim-airline/vim-airline) (17963 stars) - lean & mean status/tabline for vim that's light as air
+- [vim-plug](https://github.com/junegunn/vim-plug) (35745 stars) - :hibiscus: Minimalist Vim Plugin Manager

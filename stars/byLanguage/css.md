@@ -1,15 +1,15 @@
 ## CSS (30 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11432 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82731 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [98.css](https://github.com/jdan/98.css) (11433 stars) - A design system for building faithful recreations of old UIs
+- [animate.css](https://github.com/animate-css/animate.css) (82737 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8244 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9460 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9462 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2565 stars) - A list of history's greatest software engineers and tech pioneers
-- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3814 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3815 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cs16.css](https://github.com/ekmas/cs16.css) (2009 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [dalai](https://github.com/cocktailpeanut/dalai) (12901 stars) - The simplest way to run LLaMA on your local machine
+- [dalai](https://github.com/cocktailpeanut/dalai) (12900 stars) - The simplest way to run LLaMA on your local machine
 - [Fira](https://github.com/mozilla/Fira) (5143 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
-- [goflow](https://github.com/s8sg/goflow) (1381 stars) - A Golang based high performance, scalable and distributed workflow framework
+- [goflow](https://github.com/s8sg/goflow) (1382 stars) - A Golang based high performance, scalable and distributed workflow framework
 - [gtk](https://github.com/dracula/gtk) (1057 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2313 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (421 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
@@ -26,6 +26,6 @@
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20432 stars) - Monospaced font family for user interface and coding environments
 - [source-sans](https://github.com/adobe-fonts/source-sans) (3717 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2300 stars) - React components and demo for the Tabler UI theme.
-- [tachyons](https://github.com/tachyons-css/tachyons) (11717 stars) - Functional css for humans
+- [tachyons](https://github.com/tachyons-css/tachyons) (11718 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7884 stars) - The JavaScript Way book
 - [write-ups-2015](https://github.com/ctfs/write-ups-2015) (1997 stars) - Wiki-like CTF write-ups repository, maintained by the community. 2015

@@ -1,6 +1,6 @@
 ## V (5 repositories) 
 - [gitly](https://github.com/vlang/gitly) (1474 stars) - Light and fast GitHub/GitLab alternative written in V
 - [lilly](https://github.com/tauraamui/lilly) (461 stars) - TUI editor and VIM/Neovim alternative
-- [ui](https://github.com/vlang/ui) (2518 stars) - A cross-platform UI library written in V
-- [v](https://github.com/vlang/v) (37790 stars) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
+- [ui](https://github.com/vlang/ui) (2517 stars) - A cross-platform UI library written in V
+- [v](https://github.com/vlang/v) (37791 stars) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 - [vinix](https://github.com/vlang/vinix) (2161 stars) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language

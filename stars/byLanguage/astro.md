@@ -1,3 +1,3 @@
 ## Astro (2 repositories) 
 - [awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) (3302 stars) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (8134 stars) - 🚨 Collection of Prometheus alerting rules
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) (8138 stars) - 🚨 Collection of Prometheus alerting rules
