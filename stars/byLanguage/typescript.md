@@ -1,519 +1,519 @@
 ## TypeScript (532 repositories) 
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) (1573 stars) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-- [activepieces](https://github.com/activepieces/activepieces) (23769 stars) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [actual](https://github.com/actualbudget/actual) (28129 stars) - A local-first personal finance app
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) (36099 stars) - Network-wide ads & trackers blocking DNS server
-- [AFFiNE](https://github.com/toeverything/AFFiNE) (71519 stars) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [activepieces](https://github.com/activepieces/activepieces) (23792 stars) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [actual](https://github.com/actualbudget/actual) (28141 stars) - A local-first personal finance app
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) (36107 stars) - Network-wide ads & trackers blocking DNS server
+- [AFFiNE](https://github.com/toeverything/AFFiNE) (71552 stars) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [agama](https://github.com/agama-project/agama) (265 stars) - A service-based Linux installer
 - [agent](https://github.com/xataio/agent) (1085 stars) - AI agent expert in PostgreSQL
 - [agent-identity-discovery](https://github.com/agentcommunity/agent-identity-discovery) (45 stars) - Agent Interface Discovery 
-- [agents](https://github.com/inkeep/agents) (1367 stars) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
-- [agents.md](https://github.com/agentsmd/agents.md) (23626 stars) - AGENTS.md — a simple, open format for guiding coding agents
+- [agents](https://github.com/inkeep/agents) (1368 stars) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
+- [agents.md](https://github.com/agentsmd/agents.md) (23642 stars) - AGENTS.md — a simple, open format for guiding coding agents
 - [AI-Playground](https://github.com/intel/AI-Playground) (954 stars) - AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
-- [alchemy](https://github.com/alchemy-run/alchemy) (974 stars) - Infrastructure as Effects
+- [alchemy](https://github.com/alchemy-run/alchemy) (978 stars) - Infrastructure as Effects
 - [Alexandria](https://github.com/btpf/Alexandria) (2717 stars) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript 
 - [alva](https://github.com/meetalva/alva) (3698 stars) - Create living prototypes with code components.
-- [amplication](https://github.com/amplication/amplication) (16015 stars) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams.
+- [amplication](https://github.com/amplication/amplication) (16013 stars) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) (9557 stars) - A declarative JavaScript library for application development using cloud services.
 - [app](https://github.com/the-via/app) (1592 stars) - Unknown
-- [appwrite](https://github.com/appwrite/appwrite) (56936 stars) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite](https://github.com/appwrite/appwrite) (56986 stars) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [arwes](https://github.com/arwes/arwes) (7552 stars) - Futuristic Sci-Fi UI Web Framework.
-- [astro](https://github.com/withastro/astro) (61764 stars) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [atproto](https://github.com/bluesky-social/atproto) (9586 stars) - Social networking technology created by Bluesky
+- [astro](https://github.com/withastro/astro) (61782 stars) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [atproto](https://github.com/bluesky-social/atproto) (9588 stars) - Social networking technology created by Bluesky
 - [atproto-at](https://github.com/sriganesh/atproto-at) (41 stars) - Taproot - All-in-one AT Protocol Explorer A comprehensive web-based explorer for the atproto ecosystem. View, explore, and interact with AT Protocol data directly in your browser.
 - [atproto-browser](https://github.com/haroldadmin/atproto-browser) (17 stars) - Browser for files stored on the ATProto network
 - [autobase](https://github.com/autobase-tech/autobase) (4334 stars) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [ava](https://github.com/cztomsik/ava) (470 stars) - All-in-one desktop app for running LLMs locally.
 - [avatar-generator](https://github.com/arusanov/avatar-generator) (179 stars) - 8bit avatar generator. Inspired by https://github.com/matveyco/8biticon
 - [awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (809 stars) - A comprehensive collection of Model Context Protocol (MCP) servers
-- [aws-cdk](https://github.com/aws/aws-cdk) (12867 stars) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [aws-cdk](https://github.com/aws/aws-cdk) (12869 stars) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [axentix](https://github.com/axentix/axentix) (190 stars) - The framework mixing fully customizable components and utility-first classes, leaving the design choice to the developer. 
-- [Backlog.md](https://github.com/MrLesk/Backlog.md) (6454 stars) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- [backstage](https://github.com/backstage/backstage) (34138 stars) - Backstage is an open framework for building developer portals
+- [Backlog.md](https://github.com/MrLesk/Backlog.md) (6463 stars) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
+- [backstage](https://github.com/backstage/backstage) (34144 stars) - Backstage is an open framework for building developer portals
 - [balena-supervisor](https://github.com/balena-os/balena-supervisor) (156 stars) - Balena Supervisor: balena's agent on devices.
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) (23406 stars) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) (23429 stars) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bemi-io](https://github.com/BemiHQ/bemi-io) (401 stars) - Automatic data change tracking for PostgreSQL
-- [berty](https://github.com/berty/berty) (9271 stars) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty](https://github.com/berty/berty) (9273 stars) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [bit](https://github.com/teambit/bit) (18454 stars) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [BLeak](https://github.com/plasma-umass/BLeak) (410 stars) - BLeak: Automatically Debugging Memory Leaks in Web Applications
 - [bloomrpc](https://github.com/bloomrpc/bloomrpc) (8986 stars) - Former GUI client for gRPC services. No longer maintained.
 - [boat](https://github.com/mary-ext/boat) (73 stars) - handy online tools for AT Protocol
 - [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) (5210 stars) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle. 
 - [bottega](https://github.com/vdaubry/bottega) (83 stars) - Coding agent orchestration for engineering teams — shipped as a spec plus a working reference implementation.
-- [brave-talk](https://github.com/brave/brave-talk) (149 stars) - Unlimited private video calls with your friends and colleagues
-- [brotli](https://github.com/google/brotli) (14840 stars) - Brotli compression format
+- [brave-talk](https://github.com/brave/brave-talk) (150 stars) - Unlimited private video calls with your friends and colleagues
+- [brotli](https://github.com/google/brotli) (14842 stars) - Brotli compression format
 - [browserless](https://github.com/browserless/browserless) (13586 stars) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [builder](https://github.com/BuilderIO/builder) (8797 stars) - Visual Development for React, Vue, Svelte, Qwik, and more
+- [builder](https://github.com/BuilderIO/builder) (8800 stars) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance) (331 stars) - Save `RUN --mount=type=cache` caches on GitHub Actions ( Forked from https://github.com/overmindtech/buildkit-cache-dance )
 - [burn0](https://github.com/burn0-dev/burn0) (42 stars) - Lightweight cost observability for every API call in your stack. Track LLM tokens, database ops, and external services from your terminal.
-- [cachebro](https://github.com/glommer/cachebro) (216 stars) - File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%.
-- [cal.diy](https://github.com/calcom/cal.diy) (47551 stars) - Scheduling infrastructure for absolutely everyone.
-- [Cap](https://github.com/CapSoftware/Cap) (20762 stars) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [capacitor](https://github.com/ionic-team/capacitor) (16304 stars) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [capnweb](https://github.com/cloudflare/capnweb) (3920 stars) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+- [cachebro](https://github.com/glommer/cachebro) (218 stars) - File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%.
+- [cal.diy](https://github.com/calcom/cal.diy) (47595 stars) - Scheduling infrastructure for absolutely everyone.
+- [Cap](https://github.com/CapSoftware/Cap) (20796 stars) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [capacitor](https://github.com/ionic-team/capacitor) (16312 stars) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+- [capnweb](https://github.com/cloudflare/capnweb) (3922 stars) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [Caporal.js](https://github.com/mattallty/Caporal.js) (3450 stars) - A full-featured framework for building command line applications (cli) with node.js
-- [caprover](https://github.com/caprover/caprover) (15127 stars) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+- [caprover](https://github.com/caprover/caprover) (15130 stars) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chameleon](https://github.com/sereneblue/chameleon) (685 stars) - WebExtension port of Random Agent Spoofer
-- [chartdb](https://github.com/chartdb/chartdb) (22728 stars) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+- [chartdb](https://github.com/chartdb/chartdb) (22729 stars) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [Chatito](https://github.com/rodrigopivi/Chatito) (889 stars) - 🎯🗯 Dataset generation for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [chdb-node](https://github.com/chdb-io/chdb-node) (57 stars) - Native NodeJS bindings for chDB, an in-process SQL OLAP Engine powered by ClickHouse
 - [che](https://github.com/eclipse-che/che) (7154 stars) - Kubernetes based Cloud Development Environments for Enterprise Teams
-- [Checkmate](https://github.com/bluewave-labs/Checkmate) (10518 stars) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)
-- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (49119 stars) - Chrome DevTools for coding agents
+- [Checkmate](https://github.com/bluewave-labs/Checkmate) (10523 stars) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (49179 stars) - Chrome DevTools for coding agents
 - [chromeless](https://github.com/schickling/chromeless) (13228 stars) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [CLAIR](https://github.com/accelaire/CLAIR) (42 stars) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
 - [claude-code-containers](https://github.com/ghostwriternr/claude-code-containers) (244 stars) - Use Claude Code on Cloudflare to solve GitHub issues
-- [claude-context](https://github.com/zilliztech/claude-context) (12390 stars) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) (5339 stars) - Claude Desktop for Linux
-- [claude-subconscious](https://github.com/letta-ai/claude-subconscious) (2867 stars) - Give Claude Code a subconscious
+- [claude-context](https://github.com/zilliztech/claude-context) (12399 stars) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) (5340 stars) - Claude Desktop for Linux
+- [claude-subconscious](https://github.com/letta-ai/claude-subconscious) (2869 stars) - Give Claude Code a subconscious
 - [clawssh](https://github.com/denoland/clawssh) (6 stars) - Claude Code over SSH
-- [cleye](https://github.com/privatenumber/cleye) (685 stars) - 👁‍🗨 Strongly typed CLI development for Node.js
-- [cli](https://github.com/devcontainers/cli) (2901 stars) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
+- [cleye](https://github.com/privatenumber/cleye) (686 stars) - 👁‍🗨 Strongly typed CLI development for Node.js
+- [cli](https://github.com/devcontainers/cli) (2903 stars) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [clientdb](https://github.com/clientdb/clientdb) (638 stars) - ClientDB is an open source in-memory database for enabling real-time web apps.
-- [cline](https://github.com/cline/cline) (66150 stars) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+- [cline](https://github.com/cline/cline) (66204 stars) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [cloud-snitch](https://github.com/ccbrown/cloud-snitch) (376 stars) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
 - [cloudburn](https://github.com/towardsthecloud/cloudburn) (1775 stars) - Open-source policy engine that blocks bad AWS spending patterns before they ship and remediates what's already burning.
-- [cloudflare-os](https://github.com/cloudflare/cloudflare-os) (8095 stars) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+- [cloudflare-os](https://github.com/cloudflare/cloudflare-os) (8249 stars) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) (25172 stars) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [codag-visualizer](https://github.com/codag-megalith/codag-visualizer) (664 stars) - Visualize AI/LLM workflows in your codebase.
-- [code-server](https://github.com/coder/code-server) (78806 stars) - VS Code in the browser
-- [codeburn](https://github.com/getagentseal/codeburn) (9322 stars) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+- [codag-visualizer](https://github.com/codag-megalith/codag-visualizer) (665 stars) - Visualize AI/LLM workflows in your codebase.
+- [code-server](https://github.com/coder/code-server) (78814 stars) - VS Code in the browser
+- [codeburn](https://github.com/getagentseal/codeburn) (9374 stars) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) (3806 stars) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [colibri.social](https://github.com/colibri-social/colibri.social) (86 stars) - Colibri is a next-generation social chat app built on the AT protocol.
 - [colota](https://github.com/dietrichmax/colota) (469 stars) - Colota - Android GPS Location tracker
 - [comlink](https://github.com/GoogleChromeLabs/comlink) (12776 stars) - Comlink makes WebWorkers enjoyable.
-- [company-researcher](https://github.com/exa-labs/company-researcher) (1479 stars) - Company Researcher tool helps you instantly understand any company inside out.
-- [compose-for-agents](https://github.com/docker/compose-for-agents) (1020 stars) - Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes.
-- [computer](https://github.com/cloudflare/computer) (7994 stars) - Give your agent a computer 👾
+- [company-researcher](https://github.com/exa-labs/company-researcher) (1478 stars) - Company Researcher tool helps you instantly understand any company inside out.
+- [compose-for-agents](https://github.com/docker/compose-for-agents) (1021 stars) - Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes.
+- [computer](https://github.com/cloudflare/computer) (8141 stars) - Give your agent a computer 👾
 - [configu](https://github.com/configu/configu) (1682 stars) - Open-source ConfigOps infrastructure ⚙️
-- [connect-es](https://github.com/connectrpc/connect-es) (1797 stars) - The TypeScript implementation of Connect: Protobuf RPC that works.
+- [connect-es](https://github.com/connectrpc/connect-es) (1798 stars) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [consola](https://github.com/unjs/consola) (7318 stars) - 🐨 Elegant Console Logger for Node.js and Browser 
-- [context7](https://github.com/upstash/context7) (60703 stars) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [continue](https://github.com/continuedev/continue) (35477 stars) - open-source coding agent
-- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) (8497 stars) - Generate changelogs and release notes from a project's commit messages and metadata.
-- [convex-backend](https://github.com/get-convex/convex-backend) (12369 stars) - The open-source reactive database for app developers
-- [CopilotKit](https://github.com/CopilotKit/CopilotKit) (36748 stars) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [core](https://github.com/adonisjs/core) (19081 stars) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
+- [context7](https://github.com/upstash/context7) (60758 stars) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [continue](https://github.com/continuedev/continue) (35482 stars) - open-source coding agent
+- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) (8498 stars) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [convex-backend](https://github.com/get-convex/convex-backend) (12376 stars) - The open-source reactive database for app developers
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) (36767 stars) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- [core](https://github.com/adonisjs/core) (19082 stars) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [corgi](https://github.com/cardog-ai/corgi) (327 stars) - A TypeScript library for decoding and validating Vehicle Identification Numbers (VINs) using a customized VPIC database.
 - [cpupro](https://github.com/discoveryjs/cpupro) (786 stars) - Rethinking of CPU profile analysis
 - [cronpush](https://github.com/amygrinn/cronpush) (16 stars) - Schedule custom push notifications through the browser
 - [cross-seed](https://github.com/cross-seed/cross-seed) (1526 stars) - Fully-automatic cross-seeding with Torznab
 - [crypt.fyi](https://github.com/osbytes/crypt.fyi) (141 stars) - Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
 - [crystal](https://github.com/graphile/crystal) (12930 stars) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
-- [cypress](https://github.com/cypress-io/cypress) (50964 stars) - Fast, easy and reliable testing for anything that runs in a browser.
-- [cyrus](https://github.com/cyrusagents/cyrus) (764 stars) - The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor and Gemini too.
+- [cypress](https://github.com/cypress-io/cypress) (50971 stars) - Fast, easy and reliable testing for anything that runs in a browser.
+- [cyrus](https://github.com/cyrusagents/cyrus) (767 stars) - The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor and Gemini too.
 - [Danet](https://github.com/Savory/Danet) (524 stars) - The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !
 - [Datakit](https://github.com/Datakitpage/Datakit) (326 stars) - DataKit is a browser-based data analysis platform that processes multi-gigabyte files locally. All processing happens in your browser - no data is sent to external servers.
 - [dax](https://github.com/dsherret/dax) (1492 stars) - Cross-platform shell tools for Deno and Node.js inspired by zx.
-- [dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) (1318 stars) - Database-Backed Durable TypeScript Workflows
-- [deepsec](https://github.com/vercel-labs/deepsec) (7324 stars) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+- [dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) (1319 stars) - Database-Backed Durable TypeScript Workflows
+- [deepsec](https://github.com/vercel-labs/deepsec) (7611 stars) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (51371 stars) - The repository for high quality TypeScript type definitions.
-- [defuddle](https://github.com/kepano/defuddle) (8965 stars) - Get the main content of any page as Markdown.
-- [dendron](https://github.com/dendronhq/dendron) (7461 stars) - The personal knowledge management (PKM) tool that grows as you do!
-- [desktop](https://github.com/atuinsh/desktop) (2436 stars) - 📖 Runbooks that run 
+- [defuddle](https://github.com/kepano/defuddle) (8972 stars) - Get the main content of any page as Markdown.
+- [dendron](https://github.com/dendronhq/dendron) (7462 stars) - The personal knowledge management (PKM) tool that grows as you do!
+- [desktop](https://github.com/atuinsh/desktop) (2437 stars) - 📖 Runbooks that run 
 - [destr](https://github.com/unjs/destr) (1376 stars) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
-- [developer-roadmap](https://github.com/nilbuild/developer-roadmap) (364371 stars) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [developer-roadmap](https://github.com/nilbuild/developer-roadmap) (364419 stars) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [dillinger](https://github.com/joemccann/dillinger) (8272 stars) - The last Markdown editor, ever.
-- [directus](https://github.com/directus/directus) (37367 stars) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [directus](https://github.com/directus/directus) (37389 stars) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [do-not-ghost-me](https://github.com/necdetsanli/do-not-ghost-me) (76 stars) - Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.
-- [docmost](https://github.com/docmost/docmost) (21353 stars) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-- [docs-mcp-server](https://github.com/arabold/docs-mcp-server) (1642 stars) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
-- [docusaurus](https://github.com/facebook/docusaurus) (65916 stars) - Easy to maintain open source documentation websites.
+- [docmost](https://github.com/docmost/docmost) (21365 stars) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [docs-mcp-server](https://github.com/arabold/docs-mcp-server) (1646 stars) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
+- [docusaurus](https://github.com/facebook/docusaurus) (65922 stars) - Easy to maintain open source documentation websites.
 - [docz](https://github.com/pedronauck/docz) (23587 stars) - ✍ It has never been so easy to document your things!
-- [dokploy](https://github.com/Dokploy/dokploy) (36580 stars) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [dokploy](https://github.com/Dokploy/dokploy) (36606 stars) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [driftdb](https://github.com/jamsocket/driftdb) (955 stars) - A real-time data backend for browser-based applications.
-- [dub](https://github.com/dubinc/dub) (24347 stars) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [dub](https://github.com/dubinc/dub) (24377 stars) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [duffle-coat](https://github.com/deislabs/duffle-coat) (5 stars) - VS Code extension for generating CNAB self-installers
 - [dust](https://github.com/dust-tt/dust) (1438 stars) - Custom AI agent platform to speed up your work.
 - [edit-mind](https://github.com/IliasHad/edit-mind) (1779 stars) - Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.
 - [Electorrent](https://github.com/tympanix/Electorrent) (1182 stars) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
-- [electric](https://github.com/electric-sql/electric) (10319 stars) - The agent platform built on sync.
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) (24250 stars) - A Foundation for Scalable Cross-Platform Apps
-- [element-web](https://github.com/element-hq/element-web) (13371 stars) - A glossy Matrix collaboration client for the web.
+- [electric](https://github.com/electric-sql/electric) (10318 stars) - The agent platform built on sync.
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) (24251 stars) - A Foundation for Scalable Cross-Platform Apps
+- [element-web](https://github.com/element-hq/element-web) (13375 stars) - A glossy Matrix collaboration client for the web.
 - [elsa](https://github.com/elsaland/elsa) (2834 stars) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
-- [emailmd](https://github.com/anypost/emailmd) (1301 stars) - Render markdown into email-safe HTML
-- [emdash](https://github.com/emdash-cms/emdash) (11609 stars) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
-- [emdash](https://github.com/generalaction/emdash) (5401 stars) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
+- [emailmd](https://github.com/anypost/emailmd) (1300 stars) - Render markdown into email-safe HTML
+- [emdash](https://github.com/generalaction/emdash) (5407 stars) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
+- [emdash](https://github.com/emdash-cms/emdash) (11619 stars) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [env-and-files](https://github.com/wtgtybhertgeghgtwtg/env-and-files) (49 stars) - Load configuration from environmental variables and files.
-- [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) (4594 stars) - Official ESLint plugin for Vue.js
+- [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) (4592 stars) - Official ESLint plugin for Vue.js
 - [eszip](https://github.com/denoland/eszip) (285 stars) - A compact file format to losslessly serialize an ECMAScript module graph into a single file
-- [etcher](https://github.com/balena-io/etcher) (34153 stars) - Flash OS images to SD cards & USB drives, safely and easily.
-- [etherpad](https://github.com/ether/etherpad) (18491 stars) - Etherpad: A modern really-real-time collaborative document editor.
+- [etcher](https://github.com/balena-io/etcher) (34157 stars) - Flash OS images to SD cards & USB drives, safely and easily.
+- [etherpad](https://github.com/ether/etherpad) (18492 stars) - Etherpad: A modern really-real-time collaborative document editor.
 - [eva-icons](https://github.com/akveo/eva-icons) (8819 stars) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
-- [evershop](https://github.com/evershopcommerce/evershop) (10281 stars) - 🛍️ Typescript E-commerce Platform
+- [evershop](https://github.com/evershopcommerce/evershop) (10293 stars) - 🛍️ Typescript E-commerce Platform
 - [exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) (730 stars) - A simple open-source chat app that uses Exa's API for web search and Deepseek R1 for reasoning
-- [excalidraw](https://github.com/excalidraw/excalidraw) (129550 stars) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [expo](https://github.com/expo/expo) (51594 stars) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [exportify](https://github.com/watsonbox/exportify) (4181 stars) - Export/Backup Spotify playlists using the Web API
+- [excalidraw](https://github.com/excalidraw/excalidraw) (129603 stars) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [expo](https://github.com/expo/expo) (51609 stars) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [exportify](https://github.com/watsonbox/exportify) (4183 stars) - Export/Backup Spotify playlists using the Web API
 - [faro-web-sdk](https://github.com/grafana/faro-web-sdk) (1119 stars) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability.
 - [feathers](https://github.com/feathersjs/feathers) (15260 stars) - The API and real-time application framework
 - [featurevisor](https://github.com/featurevisor/featurevisor) (804 stars) - Feature flags, experiments, and remote config management with version control
-- [ferdium-app](https://github.com/ferdium/ferdium-app) (4511 stars) - All your services in one place, built by the community
+- [ferdium-app](https://github.com/ferdium/ferdium-app) (4516 stars) - All your services in one place, built by the community
 - [filepizza](https://github.com/kern/filepizza) (10132 stars) - :pizza: Peer-to-peer file transfers in your browser
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) (28255 stars) - The most advanced free and open-source browser fingerprinting library
-- [firecrawl](https://github.com/firecrawl/firecrawl) (167031 stars) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) (28263 stars) - The most advanced free and open-source browser fingerprinting library
+- [firecrawl](https://github.com/firecrawl/firecrawl) (167450 stars) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [flint](https://github.com/0xchasercat/flint) (1680 stars) - Lightweight tool for managing linux virtual machines
-- [flint-chart](https://github.com/microsoft/flint-chart) (3762 stars) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
-- [Floorp](https://github.com/Floorp-Projects/Floorp) (8323 stars) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
+- [flint-chart](https://github.com/microsoft/flint-chart) (3773 stars) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
+- [Floorp](https://github.com/Floorp-Projects/Floorp) (8326 stars) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 - [flowcraft](https://github.com/gorango/flowcraft) (208 stars) - A lightweight workflow engine
-- [flowglad](https://github.com/flowglad/flowglad) (1719 stars) - Open source, zero webhooks payment provider
+- [flowglad](https://github.com/flowglad/flowglad) (1718 stars) - Open source, zero webhooks payment provider
 - [Flowise](https://github.com/FlowiseAI/Flowise) (55365 stars) - Build AI Agents, Visually
 - [FluidFramework](https://github.com/microsoft/FluidFramework) (4945 stars) - Library for building distributed, real-time collaborative web  applications
-- [foam](https://github.com/foambubble/foam) (17348 stars) - A personal knowledge management and sharing system for VSCode
-- [Folo](https://github.com/RSSNext/Folo) (38804 stars) - 🧡 Folo is the AI RSS Reader
-- [freelens](https://github.com/freelensapp/freelens) (5383 stars) - Free IDE for Kubernetes
+- [foam](https://github.com/foambubble/foam) (17351 stars) - A personal knowledge management and sharing system for VSCode
+- [Folo](https://github.com/RSSNext/Folo) (38807 stars) - 🧡 Folo is the AI RSS Reader
+- [freelens](https://github.com/freelensapp/freelens) (5390 stars) - Free IDE for Kubernetes
 - [freelens-fluxcd-extension](https://github.com/freelensapp/freelens-fluxcd-extension) (124 stars) - Freelens FluxCD extension
-- [fresh](https://github.com/freshframework/fresh) (13788 stars) - The framework so simple, you already know it.
-- [frigate](https://github.com/blakeblackshear/frigate) (35074 stars) - NVR with realtime local object detection for IP cameras
+- [fresh](https://github.com/freshframework/fresh) (13789 stars) - The framework so simple, you already know it.
+- [frigate](https://github.com/blakeblackshear/frigate) (35101 stars) - NVR with realtime local object detection for IP cameras
 - [garden](https://github.com/garden-io/garden) (3606 stars) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching
-- [gcloud-mcp](https://github.com/googleapis/gcloud-mcp) (885 stars) - gcloud MCP server
-- [gemini-cli](https://github.com/google-gemini/gemini-cli) (106512 stars) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [genkit](https://github.com/genkit-ai/genkit) (6334 stars) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
-- [ghostfolio](https://github.com/ghostfolio/ghostfolio) (9118 stars) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+- [gcloud-mcp](https://github.com/googleapis/gcloud-mcp) (887 stars) - gcloud MCP server
+- [gemini-cli](https://github.com/google-gemini/gemini-cli) (106524 stars) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [genkit](https://github.com/genkit-ai/genkit) (6338 stars) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
+- [ghostfolio](https://github.com/ghostfolio/ghostfolio) (9127 stars) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [git-rewind](https://github.com/mikelane/git-rewind) (2 stars) - A privacy-focused year-in-review for your GitHub activity
-- [github1s](https://github.com/conwnet/github1s) (23292 stars) - One second to read GitHub code with VS Code.
-- [GitNexus](https://github.com/abhigyanpatwari/GitNexus) (45373 stars) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
-- [gitpod](https://github.com/gitpod-io/gitpod) (13754 stars) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [grafana](https://github.com/grafana/grafana) (76297 stars) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [github1s](https://github.com/conwnet/github1s) (23289 stars) - One second to read GitHub code with VS Code.
+- [GitNexus](https://github.com/abhigyanpatwari/GitNexus) (45396 stars) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
+- [gitpod](https://github.com/gitpod-io/gitpod) (13752 stars) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [grafana](https://github.com/grafana/grafana) (76280 stars) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana-llm-app](https://github.com/grafana/grafana-llm-app) (137 stars) - Plugin to easily allow LLM based extensions to grafana
 - [grafana-sqldb-datasource](https://github.com/vavrusa/grafana-sqldb-datasource) (50 stars) - Unknown
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) (829 stars) - Grafana panel plugin to visualize status of multiple objects over time
-- [graphql-engine](https://github.com/hasura/graphql-engine) (32082 stars) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- [greenlight](https://github.com/unknownskl/greenlight) (2832 stars) - Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.
-- [h3](https://github.com/h3js/h3) (5405 stars) - ⚡️ Minimal H(TTP) framework built for high performance and portability 
+- [graphql-engine](https://github.com/hasura/graphql-engine) (32080 stars) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
+- [greenlight](https://github.com/unknownskl/greenlight) (2833 stars) - Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.
+- [h3](https://github.com/h3js/h3) (5408 stars) - ⚡️ Minimal H(TTP) framework built for high performance and portability 
 - [handbrake-web](https://github.com/TheNickOfTime/handbrake-web) (792 stars) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-- [headlamp](https://github.com/kubernetes-sigs/headlamp) (7064 stars) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
-- [helicone](https://github.com/Helicone/helicone) (6064 stars) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
-- [helm-dashboard](https://github.com/komodorio/helm-dashboard) (5745 stars) - The missing UI for Helm - visualize your releases
-- [hermes](https://github.com/hashicorp-forge/hermes) (1896 stars) - A document management system
+- [headlamp](https://github.com/kubernetes-sigs/headlamp) (7077 stars) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+- [helicone](https://github.com/Helicone/helicone) (6070 stars) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
+- [helm-dashboard](https://github.com/komodorio/helm-dashboard) (5744 stars) - The missing UI for Helm - visualize your releases
+- [hermes](https://github.com/hashicorp-forge/hermes) (1898 stars) - A document management system
 - [hexo](https://github.com/hexojs/hexo) (41770 stars) - A fast, simple & powerful blog framework, powered by Node.js.
-- [highlight](https://github.com/highlight/highlight) (9365 stars) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [hint](https://github.com/webhintio/hint) (3700 stars) - 💡 A hinting engine for the web
+- [highlight](https://github.com/highlight/highlight) (9368 stars) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
+- [hint](https://github.com/webhintio/hint) (3701 stars) - 💡 A hinting engine for the web
 - [homarr](https://github.com/ajnart/homarr) (7213 stars) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-- [hono](https://github.com/honojs/hono) (31658 stars) - Web framework built on Web Standards
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) (80023 stars) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [hygieia](https://github.com/hygieia/hygieia) (3811 stars) - CapitalOne  DevOps Dashboard
-- [hyper](https://github.com/vercel/hyper) (44693 stars) - A terminal built on web technologies
-- [hyperdx](https://github.com/hyperdxio/hyperdx) (9829 stars) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
+- [hono](https://github.com/honojs/hono) (31666 stars) - Web framework built on Web Standards
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) (80029 stars) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [hygieia](https://github.com/hygieia/hygieia) (3810 stars) - CapitalOne  DevOps Dashboard
+- [hyper](https://github.com/vercel/hyper) (44691 stars) - A terminal built on web technologies
+- [hyperdx](https://github.com/hyperdxio/hyperdx) (9831 stars) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [iam-policy-generator](https://github.com/aletheia/iam-policy-generator) (153 stars) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
-- [immich](https://github.com/immich-app/immich) (110442 stars) - High performance self-hosted photo and video management solution.
-- [immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) (2169 stars) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
-- [immutable-js](https://github.com/immutable-js/immutable-js) (33045 stars) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical) (110 stars) - Fork of canonical/lxd-ui for use with Incus (gets rebased frequently)
+- [immich](https://github.com/immich-app/immich) (110537 stars) - High performance self-hosted photo and video management solution.
+- [immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) (2172 stars) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
+- [immutable-js](https://github.com/immutable-js/immutable-js) (33043 stars) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+- [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical) (111 stars) - Fork of canonical/lxd-ui for use with Incus (gets rebased frequently)
 - [infinite-mac](https://github.com/mihaip/infinite-mac) (1608 stars) - A classic Mac loaded with everything you'd want
-- [infisical](https://github.com/Infisical/infisical) (28752 stars) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [ink](https://github.com/vadimdemedes/ink) (39647 stars) - 🌈 React for interactive command-line apps
-- [insomnia](https://github.com/Kong/insomnia) (39944 stars) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+- [infisical](https://github.com/Infisical/infisical) (28772 stars) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [ink](https://github.com/vadimdemedes/ink) (39655 stars) - 🌈 React for interactive command-line apps
+- [insomnia](https://github.com/Kong/insomnia) (39946 stars) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [internect.info](https://github.com/mozzius/internect.info) (39 stars) - Unknown
 - [Invio](https://github.com/kittendevv/Invio) (1045 stars) - Self-hosted invoicing without the bloat.
-- [iptv](https://github.com/iptv-org/iptv) (135776 stars) - Collection of publicly available IPTV channels from all over the world
-- [isoflow](https://github.com/markmanx/isoflow) (1429 stars) - Unknown
-- [jan](https://github.com/janhq/jan) (43995 stars) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [javascript](https://github.com/ulid/javascript) (3442 stars) - Universally Unique Lexicographically Sortable Identifier
+- [iptv](https://github.com/iptv-org/iptv) (135807 stars) - Collection of publicly available IPTV channels from all over the world
+- [isoflow](https://github.com/markmanx/isoflow) (1430 stars) - Unknown
+- [jan](https://github.com/janhq/jan) (44001 stars) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [javascript](https://github.com/kubernetes-client/javascript) (2265 stars) - JavaScript client
-- [jest](https://github.com/jestjs/jest) (45470 stars) - Delightful JavaScript Testing.
-- [joplin](https://github.com/laurent22/joplin) (55938 stars) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [jose](https://github.com/panva/jose) (7748 stars) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
-- [jsonquery](https://github.com/jsonquerylang/jsonquery) (662 stars) - A lightweight, flexible, and expandable JSON query language
-- [just-bash](https://github.com/vercel-labs/just-bash) (4133 stars) - Bash for Agents
-- [kan](https://github.com/kanbn/kan) (5348 stars) - The open source Trello alternative.
+- [javascript](https://github.com/ulid/javascript) (3442 stars) - Universally Unique Lexicographically Sortable Identifier
+- [jest](https://github.com/jestjs/jest) (45469 stars) - Delightful JavaScript Testing.
+- [joplin](https://github.com/laurent22/joplin) (55945 stars) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+- [jose](https://github.com/panva/jose) (7747 stars) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
+- [jsonquery](https://github.com/jsonquerylang/jsonquery) (661 stars) - A lightweight, flexible, and expandable JSON query language
+- [just-bash](https://github.com/vercel-labs/just-bash) (4135 stars) - Bash for Agents
+- [kan](https://github.com/kanbn/kan) (5350 stars) - The open source Trello alternative.
 - [kandan](https://github.com/DamageLabs/kandan) (2685 stars) - Kandan is an Open Source Alternative to HipChat
-- [kaneo](https://github.com/usekaneo/kaneo) (8250 stars) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-- [Kap](https://github.com/wulkano/Kap) (19317 stars) - An open-source screen recorder built with web technology
-- [karakeep](https://github.com/karakeep-app/karakeep) (28334 stars) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [kaneo](https://github.com/usekaneo/kaneo) (8290 stars) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [Kap](https://github.com/wulkano/Kap) (19323 stars) - An open-source screen recorder built with web technology
+- [karakeep](https://github.com/karakeep-app/karakeep) (28355 stars) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kashti](https://github.com/brigadecore/kashti) (377 stars) - Kashti is a dashboard for your Brigade v1 pipelines.
-- [keeper.sh](https://github.com/ridafkih/keeper.sh) (1242 stars) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
+- [keeper.sh](https://github.com/ridafkih/keeper.sh) (1245 stars) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [keyboards](https://github.com/the-via/keyboards) (795 stars) - Unknown
 - [keytrace](https://github.com/orta/keytrace) (85 stars) - The monorepo for a keybase on atproto
-- [kibana](https://github.com/elastic/kibana) (21239 stars) - Your window into all of your data
-- [kimaki](https://github.com/remorses/kimaki) (1322 stars) - all opencode features deeply integrated inside Discord. each project is a channel. each session a thread
+- [kibana](https://github.com/elastic/kibana) (21240 stars) - Your window into all of your data
+- [kimaki](https://github.com/remorses/kimaki) (1324 stars) - all opencode features deeply integrated inside Discord. each project is a channel. each session a thread
 - [kosko](https://github.com/tommy351/kosko) (359 stars) - Organize Kubernetes manifests in TypeScript.
-- [kubespec.dev](https://github.com/aptakube/kubespec.dev) (630 stars) - Kubernetes Spec Explorer
+- [kubespec.dev](https://github.com/aptakube/kubespec.dev) (631 stars) - Kubernetes Spec Explorer
 - [kui](https://github.com/kubernetes-retired/kui) (2896 stars) - A hybrid command-line/UI development experience for cloud-native development
-- [kvm](https://github.com/jetkvm/kvm) (4870 stars) - Control any computer remotely
-- [ky](https://github.com/sindresorhus/ky) (17020 stars) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
-- [Kyoo](https://github.com/zoriya/Kyoo) (2494 stars) - A portable and vast media library solution.
-- [langfuse](https://github.com/langfuse/langfuse) (33071 stars) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+- [kvm](https://github.com/jetkvm/kvm) (4880 stars) - Control any computer remotely
+- [ky](https://github.com/sindresorhus/ky) (17024 stars) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
+- [Kyoo](https://github.com/zoriya/Kyoo) (2496 stars) - A portable and vast media library solution.
+- [langfuse](https://github.com/langfuse/langfuse) (33119 stars) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 - [lanyards](https://github.com/renderghost/lanyards) (13 stars) - Lanyards is a dedicated profile for researchers, built on the AT Protocol
 - [lerna](https://github.com/lerna/lerna) (36054 stars) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [lesspass](https://github.com/lesspass/lesspass) (6053 stars) - :key: stateless open source password manager
-- [letta-code](https://github.com/letta-ai/letta-code) (2995 stars) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
-- [liam](https://github.com/liam-hq/liam) (4972 stars) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
-- [LibreChat](https://github.com/danny-avila/LibreChat) (42002 stars) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
-- [linkwarden](https://github.com/linkwarden/linkwarden) (19480 stars) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+- [lesspass](https://github.com/lesspass/lesspass) (6052 stars) - :key: stateless open source password manager
+- [letta-code](https://github.com/letta-ai/letta-code) (2997 stars) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+- [liam](https://github.com/liam-hq/liam) (4982 stars) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
+- [LibreChat](https://github.com/danny-avila/LibreChat) (42043 stars) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+- [linkwarden](https://github.com/linkwarden/linkwarden) (19491 stars) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [linux-window-session-manager](https://github.com/johannesjo/linux-window-session-manager) (438 stars) - A tool to store and reload open windows and window positions for x11 desktops like unity and gnome.
 - [llama-fs](https://github.com/iyaja/llama-fs) (5832 stars) - A self-organizing file system with llama 3
-- [llama.vscode](https://github.com/ggml-org/llama.vscode) (1482 stars) - VS Code extension for LLM-assisted code/text completion
+- [llama.vscode](https://github.com/ggml-org/llama.vscode) (1484 stars) - VS Code extension for LLM-assisted code/text completion
 - [LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) (3078 stars) - Data framework for your LLM applications. Focus on server side solution
 - [lmnr](https://github.com/lmnr-ai/lmnr) (3166 stars) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [lms](https://github.com/lmstudio-ai/lms) (5177 stars) - LM Studio CLI
-- [lobehub](https://github.com/lobehub/lobehub) (81668 stars) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [logtape](https://github.com/dahlia/logtape) (1934 stars) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
+- [lms](https://github.com/lmstudio-ai/lms) (5178 stars) - LM Studio CLI
+- [lobehub](https://github.com/lobehub/lobehub) (81698 stars) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [logtape](https://github.com/dahlia/logtape) (1945 stars) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [loops-app](https://github.com/joinloops/loops-app) (188 stars) - Mobile app for Loops
-- [lossless-cut](https://github.com/mifi/lossless-cut) (42899 stars) - The swiss army knife of lossless video/audio editing
+- [lossless-cut](https://github.com/mifi/lossless-cut) (42925 stars) - The swiss army knife of lossless video/audio editing
 - [Lumos](https://github.com/andrewnguonly/Lumos) (1516 stars) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 - [lxd-ui](https://github.com/canonical/lxd-ui) (490 stars) - Easy and accessible container and virtual machine management. A browser interface for LXD
 - [machina.js](https://github.com/ifandelse/machina.js) (1970 stars) - ts ex machina - finite state machines in TypeScript
 - [majestic](https://github.com/Raathigesh/majestic) (7452 stars) - ⚡ Zero config GUI for Jest
-- [malloy](https://github.com/malloydata/malloy) (2548 stars) - Malloy is a modern open source language for describing data relationships and transformations.
+- [malloy](https://github.com/malloydata/malloy) (2549 stars) - Malloy is a modern open source language for describing data relationships and transformations.
 - [margin](https://github.com/paddinglabs/margin) (104 stars) - Margin's Monorepo, available under AGPLv3
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) (2911 stars) - A Model Context Protocol server for converting almost anything to Markdown
-- [marktext](https://github.com/marktext/marktext) (60027 stars) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [mastra](https://github.com/mastra-ai/mastra) (27184 stars) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
+- [marktext](https://github.com/marktext/marktext) (60057 stars) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [mastra](https://github.com/mastra-ai/mastra) (27202 stars) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [material-shell](https://github.com/material-shell/material-shell) (7251 stars) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
-- [mattermost](https://github.com/mattermost/mattermost) (38766 stars) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [maxun](https://github.com/getmaxun/maxun) (17127 stars) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 
-- [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) (4072 stars) - Unknown
-- [mediabunny](https://github.com/Vanilagy/mediabunny) (6911 stars) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
+- [mattermost](https://github.com/mattermost/mattermost) (38795 stars) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [maxun](https://github.com/getmaxun/maxun) (17135 stars) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 
+- [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) (4074 stars) - Unknown
+- [mediabunny](https://github.com/Vanilagy/mediabunny) (6920 stars) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [meet](https://github.com/cloudflare/meet) (2308 stars) - Unknown
-- [mermaid](https://github.com/mermaid-js/mermaid) (89746 stars) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [meshery](https://github.com/meshery/meshery) (11481 stars) - Meshery, the cloud native manager
+- [mermaid](https://github.com/mermaid-js/mermaid) (89763 stars) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [meshery](https://github.com/meshery/meshery) (11485 stars) - Meshery, the cloud native manager
 - [metacar](https://github.com/thibo73800/metacar) (377 stars) - A reinforcement learning environment for self-driving cars in the browser.
-- [mex](https://github.com/mex-memory/mex) (1435 stars) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
-- [midday](https://github.com/midday-ai/midday) (14741 stars) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+- [mex](https://github.com/mex-memory/mex) (1439 stars) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
+- [midday](https://github.com/midday-ai/midday) (14748 stars) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [MiniSearch](https://github.com/felladrin/MiniSearch) (580 stars) - Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space
-- [models.dev](https://github.com/anomalyco/models.dev) (6380 stars) - An open-source database of AI models.
+- [models.dev](https://github.com/anomalyco/models.dev) (6403 stars) - An open-source database of AI models.
 - [mokka](https://github.com/ega-forever/mokka) (30 stars) - Mokka consensus
 - [monokle](https://github.com/kubeshop/monokle) (2140 stars) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
-- [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) (1168 stars) - Scrobble plays from multiple sources to multiple clients
-- [n8n](https://github.com/n8n-io/n8n) (200537 stars) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [nango](https://github.com/NangoHQ/nango) (11447 stars) - Build product integrations with AI.
-- [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) (6463 stars) - Native mobile applications using Vue and NativeScript.
-- [nest](https://github.com/nestjs/nest) (76371 stars) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [netronome](https://github.com/autobrr/netronome) (1130 stars) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
+- [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) (1169 stars) - Scrobble plays from multiple sources to multiple clients
+- [n8n](https://github.com/n8n-io/n8n) (200639 stars) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [nango](https://github.com/NangoHQ/nango) (11467 stars) - Build product integrations with AI.
+- [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) (6464 stars) - Native mobile applications using Vue and NativeScript.
+- [nest](https://github.com/nestjs/nest) (76378 stars) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [netronome](https://github.com/autobrr/netronome) (1133 stars) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [network](https://github.com/streamr-dev/network) (578 stars) - Monorepo containing all the main components of Streamr Network.
 - [nexe](https://github.com/nexe/nexe) (13571 stars) - 🎉 create a single executable out of your node.js apps
-- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) (34837 stars) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) (34869 stars) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 - [nextra](https://github.com/shuding/nextra) (13903 stars) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [nocodb](https://github.com/nocodb/nocodb) (64527 stars) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+- [nocodb](https://github.com/nocodb/nocodb) (64537 stars) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [node-crawler](https://github.com/bda-research/node-crawler) (6798 stars) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 - [node-js-source-maps-performance-test](https://github.com/cstickel/node-js-source-maps-performance-test) (1 stars) - Unknown
 - [node-k8s-client](https://github.com/Goyoo/node-k8s-client) (166 stars) - kubernetes client of node.js
 - [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) (3377 stars) - Slack Developer Kit for Node.js
 - [nodejs-docker](https://github.com/GoogleCloudPlatform/nodejs-docker) (407 stars) - The Node.js Docker image used by Google App Engine Flexible.
 - [norish](https://github.com/norish-recipes/norish) (1129 stars) - Norish - A realtime, self-hosted recipe app for families & friends 
-- [novu](https://github.com/novuhq/novu) (39501 stars) - The open-source communication infrastructure for agents and products
-- [nx](https://github.com/nrwl/nx) (29218 stars) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
-- [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) (12011 stars) - Unknown
+- [novu](https://github.com/novuhq/novu) (39541 stars) - The open-source communication infrastructure for agents and products
+- [nx](https://github.com/nrwl/nx) (29220 stars) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
+- [obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) (12021 stars) - Unknown
 - [oclif](https://github.com/oclif/oclif) (9574 stars) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
-- [omnivore](https://github.com/omnivore-app/omnivore) (16219 stars) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [onecli](https://github.com/onecli/onecli) (3084 stars) - Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.
-- [oneuptime](https://github.com/OneUptime/oneuptime) (7458 stars) - Complete open-source monitoring and observability platform.
-- [onlook](https://github.com/onlook-dev/onlook) (26482 stars) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-- [opcode](https://github.com/winfunc/opcode) (22364 stars) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [omnivore](https://github.com/omnivore-app/omnivore) (16218 stars) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [onecli](https://github.com/onecli/onecli) (3088 stars) - Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.
+- [oneuptime](https://github.com/OneUptime/oneuptime) (7464 stars) - Complete open-source monitoring and observability platform.
+- [onlook](https://github.com/onlook-dev/onlook) (26488 stars) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [opcode](https://github.com/winfunc/opcode) (22363 stars) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [open-balena-api](https://github.com/balena-io/open-balena-api) (59 stars) - The core API of openBalena
 - [open-balena-vpn](https://github.com/balena-io/open-balena-vpn) (65 stars) - openBalena VPN
-- [open-knowledge](https://github.com/inkeep/open-knowledge) (3432 stars) - Beautiful, AI-native markdown IDE and LLM wiki
-- [open-notebook](https://github.com/lfnovo/open-notebook) (36788 stars) - An Open Source implementation of Notebook LM with more flexibility and features
-- [openbrowser](https://github.com/ntegrals/openbrowser) (9508 stars) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
+- [open-knowledge](https://github.com/inkeep/open-knowledge) (3457 stars) - Beautiful, AI-native markdown IDE and LLM wiki
+- [open-notebook](https://github.com/lfnovo/open-notebook) (36816 stars) - An Open Source implementation of Notebook LM with more flexibility and features
+- [openbrowser](https://github.com/ntegrals/openbrowser) (9510 stars) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [opencensus-node](https://github.com/census-instrumentation/opencensus-node) (273 stars) - A stats collection and distributed tracing framework
-- [opencode](https://github.com/anomalyco/opencode) (197184 stars) - The open source coding agent.
-- [opencti](https://github.com/OpenCTI-Platform/opencti) (9805 stars) - Open Cyber Threat Intelligence Platform
+- [opencode](https://github.com/anomalyco/opencode) (197526 stars) - The open source coding agent.
+- [opencti](https://github.com/OpenCTI-Platform/opencti) (9810 stars) - Open Cyber Threat Intelligence Platform
 - [openeverest](https://github.com/openeverest/openeverest) (884 stars) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises.
-- [OpenHands](https://github.com/OpenHands/OpenHands) (83968 stars) - 🙌 OpenHands: AI-Driven Development
-- [openinary](https://github.com/openinary/openinary) (374 stars) - The self-hostable alternative to Cloudinary
-- [openobserve](https://github.com/openobserve/openobserve) (20992 stars) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
-- [openscreen](https://github.com/siddharthvaddem/openscreen) (39885 stars) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [OpenSpec](https://github.com/Fission-AI/OpenSpec) (64809 stars) - Spec-driven development (SDD) for AI coding assistants.
-- [openstatus](https://github.com/openstatusHQ/openstatus) (8969 stars) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
+- [OpenHands](https://github.com/OpenHands/OpenHands) (84065 stars) - 🙌 OpenHands: AI-Driven Development
+- [openinary](https://github.com/openinary/openinary) (376 stars) - The self-hostable alternative to Cloudinary
+- [openobserve](https://github.com/openobserve/openobserve) (21036 stars) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openscreen](https://github.com/siddharthvaddem/openscreen) (39880 stars) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) (64919 stars) - Spec-driven development (SDD) for AI coding assistants.
+- [openstatus](https://github.com/openstatusHQ/openstatus) (8976 stars) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [opentofu-mcp-server](https://github.com/opentofu/opentofu-mcp-server) (107 stars) - OpenTofu MCP Server for accessing the OpenTofu Registry
 - [opentracing-javascript](https://github.com/opentracing/opentracing-javascript) (1083 stars) - OpenTracing API for Javascript (both Node and browser). 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
-- [opentui](https://github.com/anomalyco/opentui) (12977 stars) - OpenTUI is a library for building terminal user interfaces (TUIs)
-- [openvscode-server](https://github.com/gitpod-io/openvscode-server) (6150 stars) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [openwiki](https://github.com/langchain-ai/openwiki) (15034 stars) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- [opentui](https://github.com/anomalyco/opentui) (13006 stars) - OpenTUI is a library to build terminal user interfaces (TUI)
+- [openvscode-server](https://github.com/gitpod-io/openvscode-server) (6149 stars) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
+- [openwiki](https://github.com/langchain-ai/openwiki) (15094 stars) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [openworkflow](https://github.com/openworkflowdev/openworkflow) (1296 stars) - Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.
-- [orama](https://github.com/oramasearch/orama) (10516 stars) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
-- [orca](https://github.com/stablyai/orca) (45046 stars) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [otelbin](https://github.com/dash0hq/otelbin) (554 stars) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
-- [outline](https://github.com/outline/outline) (40111 stars) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [orama](https://github.com/oramasearch/orama) (10519 stars) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
+- [orca](https://github.com/stablyai/orca) (45697 stars) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [otelbin](https://github.com/dash0hq/otelbin) (564 stars) - Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
+- [outline](https://github.com/outline/outline) (40153 stars) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [owtf](https://github.com/owtf/owtf) (1946 stars) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
-- [page-agent](https://github.com/alibaba/page-agent) (28618 stars) - JavaScript in-page GUI agent. Control web interfaces with natural language.
-- [pangolin](https://github.com/fosrl/pangolin) (22289 stars) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
-- [paperclip](https://github.com/paperclipai/paperclip) (78054 stars) - The open-source app everyone uses to manage agents at work
-- [papra](https://github.com/papra-hq/papra) (5190 stars) - The minimalistic document archiving platform.
-- [parca](https://github.com/parca-dev/parca) (4938 stars) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [partykit](https://github.com/cloudflare/partykit) (1244 stars) - PartyKit, for Workers
-- [partykit](https://github.com/partykit/partykit) (5681 stars) - PartyKit simplifies developing multiplayer applications
-- [partytown](https://github.com/QwikDev/partytown) (13755 stars) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [page-agent](https://github.com/alibaba/page-agent) (28629 stars) - JavaScript in-page GUI agent. Control web interfaces with natural language.
+- [pangolin](https://github.com/fosrl/pangolin) (22303 stars) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [paperclip](https://github.com/paperclipai/paperclip) (78160 stars) - The open-source app everyone uses to manage agents at work
+- [papra](https://github.com/papra-hq/papra) (5196 stars) - The minimalistic document archiving platform.
+- [parca](https://github.com/parca-dev/parca) (4940 stars) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [partykit](https://github.com/partykit/partykit) (5682 stars) - PartyKit simplifies developing multiplayer applications
+- [partykit](https://github.com/cloudflare/partykit) (1247 stars) - PartyKit, for Workers
+- [partytown](https://github.com/QwikDev/partytown) (13756 stars) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [pasteguard](https://github.com/sgasser/pasteguard) (731 stars) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
-- [payload](https://github.com/payloadcms/payload) (44132 stars) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+- [payload](https://github.com/payloadcms/payload) (44144 stars) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 - [pbkit](https://github.com/pbkit/pbkit) (341 stars) - Protobuf toolkit for modern web development
 - [pds-migration-frontend](https://github.com/NorthskySocial/pds-migration-frontend) (6 stars) - Frontend for the migration tool
-- [PeerTube](https://github.com/Chocobozzz/PeerTube) (15263 stars) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) (15267 stars) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [permission-manager](https://github.com/sighupio/permission-manager) (1373 stars) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
-- [pev2](https://github.com/dalibo/pev2) (3563 stars) - Postgres Explain Visualizer 2
-- [pglite](https://github.com/electric-sql/pglite) (15804 stars) - Embeddable Postgres with real-time, reactive bindings.
-- [pi](https://github.com/earendil-works/pi) (89805 stars) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [pi](https://github.com/knoopx/pi) (69 stars) - pi.ai config
-- [piscina](https://github.com/piscinajs/piscina) (5187 stars) - A fast, efficient Node.js Worker Thread Pool implementation
-- [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) (8890 stars) - Pixel office.
+- [pev2](https://github.com/dalibo/pev2) (3565 stars) - Postgres Explain Visualizer 2
+- [pglite](https://github.com/electric-sql/pglite) (15818 stars) - Embeddable Postgres with real-time, reactive bindings.
+- [pi](https://github.com/knoopx/pi) (70 stars) - pi.ai config
+- [pi](https://github.com/earendil-works/pi) (90463 stars) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [piscina](https://github.com/piscinajs/piscina) (5186 stars) - A fast, efficient Node.js Worker Thread Pool implementation
+- [pixel-agents](https://github.com/pixel-agents-hq/pixel-agents) (8896 stars) - Pixel office.
 - [pkgroll](https://github.com/privatenumber/pkgroll) (1563 stars) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [pkgsign](https://github.com/RedpointArchive/pkgsign) (94 stars) - A CLI tool for signing and verifying npm and yarn packages.
-- [plane](https://github.com/makeplane/plane) (55936 stars) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [playwright](https://github.com/microsoft/playwright) (94490 stars) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
-- [playwright-mcp](https://github.com/microsoft/playwright-mcp) (36098 stars) - Playwright MCP server
-- [plunk](https://github.com/useplunk/plunk) (5365 stars) - The Open-Source Email Platform
-- [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) (7909 stars) - An app that brings language models directly to your phone.
-- [pomatez](https://github.com/zidoro/pomatez) (4871 stars) - Stay Focused. Take a Break.
+- [plane](https://github.com/makeplane/plane) (55973 stars) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+- [playwright](https://github.com/microsoft/playwright) (94531 stars) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) (36130 stars) - Playwright MCP server
+- [plunk](https://github.com/useplunk/plunk) (5367 stars) - The Open-Source Email Platform
+- [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) (7924 stars) - An app that brings language models directly to your phone.
+- [pomatez](https://github.com/zidoro/pomatez) (4873 stars) - Stay Focused. Take a Break.
 - [poml](https://github.com/microsoft/poml) (4944 stars) - Prompt Orchestration Markup Language
-- [popcorntime](https://github.com/popcorntime/popcorntime) (10632 stars) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
-- [portainer](https://github.com/portainer/portainer) (38234 stars) - Making Docker and Kubernetes management easy.
+- [popcorntime](https://github.com/popcorntime/popcorntime) (10631 stars) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [portainer](https://github.com/portainer/portainer) (38245 stars) - Making Docker and Kubernetes management easy.
 - [portier-node](https://github.com/portier/portier-node) (49 stars) - Portier client for Node.js
-- [portless](https://github.com/vercel-labs/portless) (10377 stars) - Replace port numbers with stable, named local URLs. For humans and agents.
+- [portless](https://github.com/vercel-labs/portless) (10380 stars) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [postal.js](https://github.com/postaljs/postal.js) (2836 stars) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
-- [postgres-meta](https://github.com/supabase/postgres-meta) (1232 stars) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
-- [postiz-app](https://github.com/gitroomhq/postiz-app) (34644 stars) - 📨 The ultimate agentic social media scheduling tool 🤖
+- [postgres-meta](https://github.com/supabase/postgres-meta) (1233 stars) - A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries
+- [postiz-app](https://github.com/gitroomhq/postiz-app) (34687 stars) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) (414 stars) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens 
-- [pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) (2172 stars) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
-- [Prismer](https://github.com/Prismer-AI/Prismer) (786 stars) - Open Source Research Claw
+- [pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) (2171 stars) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
+- [Prismer](https://github.com/Prismer-AI/Prismer) (793 stars) - Open Source Research Claw
 - [projen](https://github.com/projen/projen) (2940 stars) - Rapidly build modern applications with advanced configuration management
 - [promlens](https://github.com/prometheus/promlens) (677 stars) - PromLens – The query builder, analyzer, and explainer for PromQL
 - [proxy](https://github.com/grepture/proxy) (7 stars) - Drop-in proxy for OpenAI, Anthropic, and other LLM APIs. Logging, PII redaction, prompt versioning, and evals out of the box.
-- [puppeteer](https://github.com/puppeteer/puppeteer) (95460 stars) - JavaScript API for Chrome and Firefox
-- [puter](https://github.com/HeyPuter/puter) (43050 stars) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-- [pxpipe](https://github.com/teamchong/pxpipe) (7094 stars) - cut Claude Code token usage by rendering text context as images
-- [qm](https://github.com/yc-software/qm) (13464 stars) - Multiplayer agent harness for work.
-- [qmd](https://github.com/tobi/qmd) (28815 stars) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+- [puppeteer](https://github.com/puppeteer/puppeteer) (95463 stars) - JavaScript API for Chrome and Firefox
+- [puter](https://github.com/HeyPuter/puter) (43055 stars) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [pxpipe](https://github.com/teamchong/pxpipe) (7103 stars) - cut Claude Code token usage by rendering text context as images
+- [qm](https://github.com/yc-software/qm) (13559 stars) - Multiplayer agent harness for work.
+- [qmd](https://github.com/tobi/qmd) (28849 stars) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [qrframe](https://github.com/zhengkyl/qrframe) (3369 stars) - code-based qr code designer
-- [quint](https://github.com/quint-co/quint) (1600 stars) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
+- [quint](https://github.com/quint-co/quint) (1604 stars) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [quirk](https://github.com/Flaque/quirk) (2272 stars) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
-- [qwen-code](https://github.com/QwenLM/qwen-code) (26982 stars) - An open-source AI coding agent that lives in your terminal.
-- [qwik](https://github.com/QwikDev/qwik) (22041 stars) - Instant-loading web apps, without effort
+- [qwen-code](https://github.com/QwenLM/qwen-code) (27009 stars) - An open-source AI coding agent that lives in your terminal.
+- [qwik](https://github.com/QwikDev/qwik) (22040 stars) - Instant-loading web apps, without effort
 - [radar](https://github.com/MattKetmo/radar) (14 stars) - Alert dashboard for Prometheus Alertmanager
 - [rag](https://github.com/sepiropht/rag) (42 stars) - self-hosted rag in bun.js
-- [rallly](https://github.com/lukevella/rallly) (5211 stars) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-- [ralph](https://github.com/snarktank/ralph) (21473 stars) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
-- [RapidRAW](https://github.com/CyberTimon/RapidRAW) (9315 stars) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
-- [readest](https://github.com/readest/readest) (23389 stars) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
-- [RedisInsight](https://github.com/redis/RedisInsight) (8734 stars) - Redis GUI by Redis
+- [rallly](https://github.com/lukevella/rallly) (5212 stars) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+- [ralph](https://github.com/snarktank/ralph) (21489 stars) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+- [RapidRAW](https://github.com/CyberTimon/RapidRAW) (9320 stars) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+- [readest](https://github.com/readest/readest) (23412 stars) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+- [RedisInsight](https://github.com/redis/RedisInsight) (8736 stars) - Redis GUI by Redis
 - [refdoc-cli](https://github.com/dynamik-dev/refdoc-cli) (7 stars) - Unknown
-- [refine](https://github.com/refinedev/refine) (35514 stars) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [refined-github](https://github.com/refined-github/refined-github) (31926 stars) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [release-please](https://github.com/googleapis/release-please) (7338 stars) - generate release PRs based on the conventionalcommits.org spec
-- [remix](https://github.com/remix-run/remix) (33293 stars) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [refine](https://github.com/refinedev/refine) (35518 stars) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [refined-github](https://github.com/refined-github/refined-github) (31928 stars) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [release-please](https://github.com/googleapis/release-please) (7345 stars) - generate release PRs based on the conventionalcommits.org spec
+- [remix](https://github.com/remix-run/remix) (33304 stars) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [rendertron](https://github.com/GoogleChrome/rendertron) (5952 stars) - A Headless Chrome rendering solution
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) (45971 stars) - The Secure CommsOS™ for mission-critical operations
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) (45978 stars) - The Secure CommsOS™ for mission-critical operations
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code) (24344 stars) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [roomy](https://github.com/muni-town/roomy) (471 stars) - Gardenable group chats in the Atmosphere.
-- [ruflo](https://github.com/ruvnet/ruflo) (67806 stars) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+- [ruflo](https://github.com/ruvnet/ruflo) (67872 stars) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) (2052 stars) - A GitHub Action invoking the Gemini CLI.
 - [runner-container-hooks](https://github.com/actions/runner-container-hooks) (153 stars) - Runner Container Hooks for GitHub Actions
-- [ryot](https://github.com/IgnisDa/ryot) (3535 stars) - Roll your own tracker!
-- [s3mini](https://github.com/good-lly/s3mini) (1346 stars) - ⚠️  Moved to Code.NOLOG: https://code.nolog.cz/thinking.tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
-- [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) (1533 stars) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
-- [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) (4956 stars) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+- [ryot](https://github.com/IgnisDa/ryot) (3537 stars) - Roll your own tracker!
+- [s3mini](https://github.com/good-lly/s3mini) (1345 stars) - ⚠️  Moved to Code.NOLOG: https://code.nolog.cz/thinking.tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
+- [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) (1532 stars) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
+- [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) (4969 stars) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [scenes](https://github.com/grafana/scenes) (204 stars) - Build Grafana dashboards directly in your Grafana app plugins.
 - [schemalint](https://github.com/kristiandupont/schemalint) (441 stars) - Lint database schemas
-- [scriptc](https://github.com/vercel-labs/scriptc) (3481 stars) - TypeScript-to-Native Compiler
-- [scrypted](https://github.com/koush/scrypted) (5850 stars) - Scrypted is a high performance video integration and automation platform
-- [sdk-javascript](https://github.com/cloudevents/sdk-javascript) (400 stars) - JavaScript/TypeScript SDK for CloudEvents 
+- [scriptc](https://github.com/vercel-labs/scriptc) (3516 stars) - TypeScript-to-Native Compiler
+- [scrypted](https://github.com/koush/scrypted) (5851 stars) - Scrypted is a high performance video integration and automation platform
+- [sdk-javascript](https://github.com/cloudevents/sdk-javascript) (401 stars) - JavaScript/TypeScript SDK for CloudEvents 
 - [semble](https://github.com/cosmik-network/semble) (87 stars) - A social knowledge tool for research trails, built on ATProto
 - [send-suite](https://github.com/thunderbird/send-suite) (108 stars) - ⛔️ [DEPRECATED] Send moved to -> https://github.com/thunderbird/tbpro-add-on
-- [serpbear](https://github.com/towfiqi/serpbear) (2039 stars) - Search Engine Position Rank Tracking App
+- [serpbear](https://github.com/towfiqi/serpbear) (2041 stars) - Search Engine Position Rank Tracking App
 - [server](https://github.com/sprksocial/server) (21 stars) - Spark Social AppView Server
 - [serverless-registry](https://github.com/cloudflare/serverless-registry) (1443 stars) - A container registry backed by Workers and R2.
 - [setup-qemu-action](https://github.com/docker/setup-qemu-action) (589 stars) - GitHub Action to install QEMU static binaries
 - [shellhub](https://github.com/shellhub-io/shellhub) (2060 stars) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) (16478 stars) - A private messenger for Windows, macOS, and Linux.
-- [signoz](https://github.com/SigNoz/signoz) (31836 stars) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.
+- [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) (16483 stars) - A private messenger for Windows, macOS, and Linux.
+- [signoz](https://github.com/SigNoz/signoz) (31842 stars) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.
 - [singlie](https://github.com/klaudiosinani/singlie) (187 stars) - Singly circular and linear linked lists
 - [skills](https://github.com/denoland/skills) (94 stars) - Deno skills for AI coding assistants. Covers using Deno as a package manager and runtime, migrating from npm/yarn/pnpm/bun, Fresh, and Deno Deploy.
-- [slash](https://github.com/yourselfhosted/slash) (3170 stars) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
-- [slidev](https://github.com/slidevjs/slidev) (48080 stars) - Presentation Slides for Developers
+- [slash](https://github.com/yourselfhosted/slash) (3171 stars) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
+- [slidev](https://github.com/slidevjs/slidev) (48089 stars) - Presentation Slides for Developers
 - [slipstream](https://github.com/estrattonbailey/slipstream) (13 stars) - Slipstream is a syncing and ingestion pipeline for atproto, built on Cloudflare.
 - [smocker](https://github.com/smocker-dev/smocker) (1284 stars) - Smocker is a simple and efficient HTTP mock server and proxy
-- [smov](https://github.com/sussy-code/smov) (941 stars) - Sudo-flix's source code (Allegedly)
-- [social-app](https://github.com/bluesky-social/social-app) (18209 stars) - The Bluesky Social application for Web, iOS, and Android
-- [sourcebot](https://github.com/sourcebot-dev/sourcebot) (3872 stars) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
-- [spectacle](https://github.com/FormidableLabs/spectacle) (10155 stars) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
-- [spliit](https://github.com/spliit-app/spliit) (2847 stars) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
-- [squoosh](https://github.com/GoogleChromeLabs/squoosh) (25693 stars) - Make images smaller using best-in-class codecs, right in the browser.
+- [smov](https://github.com/sussy-code/smov) (940 stars) - Sudo-flix's source code (Allegedly)
+- [social-app](https://github.com/bluesky-social/social-app) (18218 stars) - The Bluesky Social application for Web, iOS, and Android
+- [sourcebot](https://github.com/sourcebot-dev/sourcebot) (3883 stars) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
+- [spectacle](https://github.com/FormidableLabs/spectacle) (10154 stars) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
+- [spliit](https://github.com/spliit-app/spliit) (2850 stars) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) (25698 stars) - Make images smaller using best-in-class codecs, right in the browser.
 - [sre](https://github.com/SmythOS/sre) (1292 stars) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments.
-- [sst](https://github.com/anomalyco/sst) (26228 stars) - Build full-stack apps on your own infrastructure.
-- [stagehand](https://github.com/browserbase/stagehand) (23932 stars) - The SDK For Browser Agents
-- [starlight](https://github.com/withastro/starlight) (9057 stars) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+- [sst](https://github.com/anomalyco/sst) (26230 stars) - Build full-stack apps on your own infrastructure.
+- [stagehand](https://github.com/browserbase/stagehand) (23941 stars) - The SDK For Browser Agents
+- [starlight](https://github.com/withastro/starlight) (9062 stars) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [start](https://github.com/deepsweet/start) (474 stars) - :red_circle: Functional task runner for Node.js
 - [stash](https://github.com/telepath-computer/stash) (62 stars) - Keep any folder in sync across computers, conflict-free.
 - [stoat-action](https://github.com/stoat-dev/stoat-action) (69 stars) - Turn pull request comments into developer dashboards.
-- [storybook](https://github.com/storybookjs/storybook) (90848 stars) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [streamyfin](https://github.com/streamyfin/streamyfin) (5111 stars) - A modern Jellyfin client built with Expo
-- [streamystats](https://github.com/fredrikburmester/streamystats) (799 stars) - Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
+- [storybook](https://github.com/storybookjs/storybook) (90854 stars) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [streamyfin](https://github.com/streamyfin/streamyfin) (5114 stars) - A modern Jellyfin client built with Expo
+- [streamystats](https://github.com/fredrikburmester/streamystats) (803 stars) - Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
 - [strest](https://github.com/eykrehbein/strest) (1720 stars) - ⚡️ CI-ready tests for REST APIs configured in YAML
-- [studio](https://github.com/outerbase/studio) (5948 stars) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
-- [supabase](https://github.com/supabase/supabase) (107972 stars) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [super-productivity](https://github.com/super-productivity/super-productivity) (21335 stars) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [supermemory](https://github.com/supermemoryai/supermemory) (28909 stars) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-- [superset](https://github.com/superset-sh/superset) (12893 stars) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
-- [superstreamer](https://github.com/superstreamerapp/superstreamer) (1409 stars) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
+- [studio](https://github.com/outerbase/studio) (5950 stars) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
+- [supabase](https://github.com/supabase/supabase) (107995 stars) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [super-productivity](https://github.com/super-productivity/super-productivity) (21353 stars) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [supermemory](https://github.com/supermemoryai/supermemory) (28915 stars) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+- [superset](https://github.com/superset-sh/superset) (12922 stars) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [superstreamer](https://github.com/superstreamerapp/superstreamer) (1408 stars) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) (7137 stars) - A simple and composable way to validate data in JavaScript (and TypeScript).
-- [survey-library](https://github.com/surveyjs/survey-library) (4835 stars) - SurveyJS is an open-source JavaScript form builder library that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue 3), and can also be used in applications built with plain JavaScript.
-- [swc-node](https://github.com/swc-project/swc-node) (1982 stars) - Faster ts-node without typecheck
-- [t3code](https://github.com/pingdotgg/t3code) (18621 stars) - Unknown
-- [tabby](https://github.com/Eugeny/tabby) (73913 stars) - A terminal for a more modern age
-- [tabularis](https://github.com/TabularisDB/tabularis) (4094 stars) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
+- [survey-library](https://github.com/surveyjs/survey-library) (4837 stars) - Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surveys, quizzes, and other data-entry tools.
+- [swc-node](https://github.com/swc-project/swc-node) (1983 stars) - Faster ts-node without typecheck
+- [t3code](https://github.com/pingdotgg/t3code) (18757 stars) - Unknown
+- [tabby](https://github.com/Eugeny/tabby) (73925 stars) - A terminal for a more modern age
+- [tabularis](https://github.com/TabularisDB/tabularis) (4097 stars) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - [talk](https://github.com/coralproject/talk) (1996 stars) - A better commenting experience from Vox Media
 - [talkyard](https://github.com/debiki/talkyard) (1812 stars) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
-- [teable](https://github.com/teableio/teable) (21658 stars) - ✨ AI Spreadsheet for Business
+- [teable](https://github.com/teableio/teable) (21657 stars) - ✨ AI Spreadsheet for Business
 - [teal](https://github.com/teal-fm/teal) (320 stars) - Your music, beautifully tracked. All yours. (coming soon)
 - [terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) (3097 stars) - Terraform module for scalable GitHub action runners on AWS
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) (5075 stars) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [textbee](https://github.com/textbee/textbee) (3030 stars) - open-source sms-gateway. turn any android phone into an sms gateway
-- [theia](https://github.com/eclipse-theia/theia) (21631 stars) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [thelounge](https://github.com/thelounge/thelounge) (6312 stars) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [thunderbolt](https://github.com/thunderbird/thunderbolt) (4762 stars) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+- [textbee](https://github.com/textbee/textbee) (3035 stars) - open-source sms-gateway. turn any android phone into an sms gateway
+- [theia](https://github.com/eclipse-theia/theia) (21633 stars) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [thelounge](https://github.com/thelounge/thelounge) (6313 stars) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+- [thunderbolt](https://github.com/thunderbird/thunderbolt) (4764 stars) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [tigma](https://github.com/jlongster/tigma) (564 stars) - Unknown
-- [tinbase](https://github.com/tinbase/tinbase) (328 stars) - Supabase-compatible backend in a single binary — real Postgres with RLS, no Docker. Works with supabase-js unchanged.
-- [toon](https://github.com/toon-format/toon) (25159 stars) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
-- [tooscut](https://github.com/mohebifar/tooscut) (696 stars) - Professional video editing, right in your browser. Made with Rust, WebGPU, WASM, and Tanstack Start.
+- [tinbase](https://github.com/tinbase/tinbase) (329 stars) - Supabase-compatible backend in a single binary — real Postgres with RLS, no Docker. Works with supabase-js unchanged.
+- [toon](https://github.com/toon-format/toon) (25157 stars) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
+- [tooscut](https://github.com/mohebifar/tooscut) (697 stars) - Professional video editing, right in your browser. Made with Rust, WebGPU, WASM, and Tanstack Start.
 - [traceperf](https://github.com/thelastbackspace/traceperf) (125 stars) - TracePerf: Advanced console logging & performance tracking for Node.js. Visualize execution flows with ASCII art, detect bottlenecks, and get optimization suggestions. Features structured logs, conditional modes, and memory tracking. Makes debugging faster and more intuitive.
 - [trackarr](https://github.com/florianjs/trackarr) (184 stars) - Run your own private tracker in less than 5min
-- [TREK](https://github.com/liketrek/TREK) (12202 stars) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
-- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) (16008 stars) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [Trilium](https://github.com/TriliumNext/Trilium) (37405 stars) - Build your personal knowledge base with Trilium Notes
+- [TREK](https://github.com/liketrek/TREK) (12257 stars) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- [trigger.dev](https://github.com/triggerdotdev/trigger.dev) (16029 stars) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [Trilium](https://github.com/TriliumNext/Trilium) (37416 stars) - Build your personal knowledge base with Trilium Notes
 - [trpc](https://github.com/trpc/trpc) (40522 stars) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [TruckSim-Telemetry](https://github.com/kniffen/TruckSim-Telemetry) (107 stars) - Telemetry data from the scs-sdk-plugin
 - [ts-loader](https://github.com/TypeStrong/ts-loader) (3481 stars) - TypeScript loader for webpack
 - [ts-node](https://github.com/TypeStrong/ts-node) (13133 stars) - TypeScript execution and REPL for node.js
-- [tsx](https://github.com/privatenumber/tsx) (12073 stars) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
-- [tududi](https://github.com/chrisvel/tududi) (3245 stars) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
-- [tui-studio](https://github.com/jalonsogo/tui-studio) (1501 stars) - Visual design tool for building Terminal User Interfaces
-- [tunarr](https://github.com/chrisbenincasa/tunarr) (2526 stars) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
+- [tsx](https://github.com/privatenumber/tsx) (12074 stars) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
+- [tududi](https://github.com/chrisvel/tududi) (3247 stars) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
+- [tui-studio](https://github.com/jalonsogo/tui-studio) (1502 stars) - Visual design tool for building Terminal User Interfaces
+- [tunarr](https://github.com/chrisbenincasa/tunarr) (2528 stars) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [twasi-shortener](https://github.com/Twasi/twasi-shortener) (8 stars) - Simple URL-shortener that offers a GraphQL API, a beautiful UI and a chrome-extension.
-- [TypeChat](https://github.com/microsoft/TypeChat) (8679 stars) - TypeChat is a library that makes it easy to build natural language interfaces using types.
+- [TypeChat](https://github.com/microsoft/TypeChat) (8677 stars) - TypeChat is a library that makes it easy to build natural language interfaces using types.
+- [typescript-book](https://github.com/gibbok/typescript-book) (10342 stars) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [typescript-book](https://github.com/basarat/typescript-book) (21546 stars) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [typescript-book](https://github.com/gibbok/typescript-book) (10339 stars) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [typescript-starter](https://github.com/bitjson/typescript-starter) (3542 stars) - Quickly create and configure a new library or Node.js project
-- [umami](https://github.com/umami-software/umami) (38184 stars) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
-- [unleash](https://github.com/Unleash/unleash) (13736 stars) - Open-source feature management platform
-- [unmarker.it](https://github.com/ing-norante/unmarker.it) (38 stars) - A 100% client-side AI watermark disruptor. Process images entirely in your browser with no uploads, no tracking, and no servers.
+- [umami](https://github.com/umami-software/umami) (38195 stars) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [unleash](https://github.com/Unleash/unleash) (13737 stars) - Open-source feature management platform
+- [unmarker.it](https://github.com/ing-norante/unmarker.it) (39 stars) - A 100% client-side AI watermark disruptor. Process images entirely in your browser with no uploads, no tracking, and no servers.
 - [uppy](https://github.com/transloadit/uppy) (30920 stars) - The next open source file uploader for web browsers :dog: 
-- [upscayl](https://github.com/upscayl/upscayl) (48212 stars) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [upscayl](https://github.com/upscayl/upscayl) (48267 stars) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [upterm](https://github.com/railsware/upterm) (19069 stars) - A terminal emulator for the 21st century.
 - [usertour](https://github.com/usertour/usertour) (2142 stars) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to Userflow and Appcues
 - [uwu](https://github.com/context-labs/uwu) (949 stars) - Generate terminal commands with natural language
 - [valyent](https://github.com/valyentdev/valyent) (57 stars) - Deploy Docker containers at scale with Valyent.
-- [vendure](https://github.com/vendurehq/vendure) (8332 stars) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
-- [vercel](https://github.com/vercel/vercel) (16079 stars) - Develop. Preview. Ship.
+- [vendure](https://github.com/vendurehq/vendure) (8333 stars) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
+- [vercel](https://github.com/vercel/vercel) (16086 stars) - Develop. Preview. Ship.
 - [victorialogs-datasource](https://github.com/VictoriaMetrics/victorialogs-datasource) (192 stars) - Grafana datasource for VictoriaLogs
 - [victoriametrics-datasource](https://github.com/VictoriaMetrics/victoriametrics-datasource) (158 stars) - Grafana datasource for VictoriaMetrics
-- [vite](https://github.com/vitejs/vite) (82345 stars) - Next generation frontend tooling. It's fast!
-- [vitest](https://github.com/vitest-dev/vitest) (16944 stars) - Next generation testing framework powered by Vite.
+- [vite](https://github.com/vitejs/vite) (82353 stars) - Next generation frontend tooling. It's fast!
+- [vitest](https://github.com/vitest-dev/vitest) (16949 stars) - Next generation testing framework powered by Vite.
 - [vpcstudio](https://github.com/houqp/vpcstudio) (127 stars) - VPC design made easy
-- [vscode](https://github.com/microsoft/vscode) (188675 stars) - Visual Studio Code
-- [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) (9978 stars) - Copilot Chat extension for VS Code
+- [vscode](https://github.com/microsoft/vscode) (188692 stars) - Visual Studio Code
+- [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) (9977 stars) - Copilot Chat extension for VS Code
 - [vscode-front-matter](https://github.com/estruyf/vscode-front-matter) (2535 stars) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
-- [vscode-just](https://github.com/nefrob/vscode-just) (265 stars) - VSCode syntax highlighting for just files
+- [vscode-just](https://github.com/nefrob/vscode-just) (266 stars) - VSCode syntax highlighting for just files
 - [vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) (7710 stars) - Vim mode for VSCode, powered by Neovim
 - [vscode-opa](https://github.com/open-policy-agent/vscode-opa) (132 stars) - An extension for VS Code which provides support for OPA and the Rego policy language
 - [vscode-terraform-doc-snippets](https://github.com/run-at-scale/vscode-terraform-doc-snippets) (36 stars) - Snippets in vscode for all resources and data sources, as yanked directly from provider docs.
 - [vscode-winddown](https://github.com/schneefux/vscode-winddown) (321 stars) - VS Code extension that encourages you to take a break.
 - [vsr](https://github.com/vltpkg/vsr) (245 stars) - a feature-rich, npm-compatible package registry
-- [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) (3014 stars) - Scrobble music all around the web!
+- [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) (3016 stars) - Scrobble music all around the web!
 - [webamp](https://github.com/captbaritone/webamp) (11216 stars) - Winamp 2 reimplemented for the browser
-- [WebChat](https://github.com/molvqingtai/WebChat) (2427 stars) - 💬 Chat with anyone on any website.
-- [WebClients](https://github.com/ProtonMail/WebClients) (5543 stars) - Monorepo hosting the proton web clients
+- [WebChat](https://github.com/molvqingtai/WebChat) (2428 stars) - 💬 Chat with anyone on any website.
+- [WebClients](https://github.com/ProtonMail/WebClients) (5544 stars) - Monorepo hosting the proton web clients
 - [webping.cloud](https://github.com/goenning/webping.cloud) (103 stars) - Test your network latency to the nearest cloud provider in AWS, Azure, GCP, Alibaba Cloud, IBM Cloud, Oracle Cloud and DigitalOcean directly from your browser.
-- [wetty](https://github.com/butlerx/wetty) (5393 stars) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+- [wetty](https://github.com/butlerx/wetty) (5399 stars) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [wg-access-server](https://github.com/Place1/wg-access-server) (1850 stars) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [wildebeest](https://github.com/cloudflare/wildebeest) (2115 stars) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [wing](https://github.com/winglang/wing) (5397 stars) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -521,13 +521,13 @@
 - [wiredoor](https://github.com/wiredoor/wiredoor) (1620 stars) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [WolfBot](https://github.com/Ekliptor/WolfBot) (787 stars) - Crypto currency trading bot written in TypeScript for NodeJS
 - [wormhole](https://github.com/wormhole-foundation/wormhole) (1892 stars) - A reference implementation for the Wormhole blockchain interoperability protocol.
-- [wxt](https://github.com/wxt-dev/wxt) (10339 stars) - ⚡ Next-gen Web Extension Framework
+- [wxt](https://github.com/wxt-dev/wxt) (10344 stars) - ⚡ Next-gen Web Extension Framework
 - [xo](https://github.com/xojs/xo) (7993 stars) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [xstate](https://github.com/statelyai/xstate) (30014 stars) - State machines, statecharts, and actors for complex logic
-- [yaak](https://github.com/mountain-loop/yaak) (18985 stars) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [yaak](https://github.com/mountain-loop/yaak) (18993 stars) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [yamlresume](https://github.com/yamlresume/yamlresume) (1496 stars) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) (1391 stars) - Deduplication tool for yarn.lock files
 - [zasper](https://github.com/zasper-io/zasper) (2322 stars) - High Performace IDE for Jupyter Notebooks
-- [zerobyte](https://github.com/nicotsx/zerobyte) (6817 stars) - Backup automation for self-hosters. Built on top of restic
-- [Zettlr](https://github.com/Zettlr/Zettlr) (13380 stars) - Your One-Stop Publication Workbench
-- [zod](https://github.com/colinhacks/zod) (43457 stars) - TypeScript-first schema validation with static type inference
+- [zerobyte](https://github.com/nicotsx/zerobyte) (6819 stars) - Backup automation for self-hosters. Built on top of restic
+- [Zettlr](https://github.com/Zettlr/Zettlr) (13382 stars) - Your One-Stop Publication Workbench
+- [zod](https://github.com/colinhacks/zod) (43462 stars) - TypeScript-first schema validation with static type inference
