@@ -8,5 +8,5 @@
 - [SmokePing](https://github.com/oetiker/SmokePing) (1943 stars) - The Active Monitoring System
 - [sqitch](https://github.com/sqitchers/sqitch) (3151 stars) - Sensible database change management
 - [swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) (11 stars) - MC7354 revert USB compositions script
-- [trurl](https://github.com/curl/trurl) (3347 stars) - a command line tool for URL parsing and manipulation.
+- [trurl](https://github.com/curl/trurl) (3348 stars) - a command line tool for URL parsing and manipulation.
 - [vmprobe](https://github.com/vmprobe/vmprobe) (35 stars) - The control panel for your cloud's memory

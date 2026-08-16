@@ -1,13 +1,13 @@
 ## Shell (147 repositories) 
-- [A2A](https://github.com/a2aproject/A2A) (25348 stars) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+- [A2A](https://github.com/a2aproject/A2A) (25358 stars) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [alexa-remote-control](https://github.com/thorsten-gehrig/alexa-remote-control) (460 stars) - control Amazon Alexa from command Line (set volume, select station from tunein or pandora) 
-- [amplifier](https://github.com/microsoft/amplifier) (3114 stars) - Unknown
+- [amplifier](https://github.com/microsoft/amplifier) (3115 stars) - Unknown
 - [android-31](https://github.com/docker-android-sdk/android-31) (27 stars) - Docker for Android SDK 31 with preinstalled build tools and emulator image
 - [ansible-completion](https://github.com/dysosmus/ansible-completion) (157 stars) - Basic bash completion for Ansible
-- [attu](https://github.com/zilliztech/attu) (3101 stars) - The Best GUI for Milvus
+- [attu](https://github.com/zilliztech/attu) (3102 stars) - The Best GUI for Milvus
 - [aviary.sh](https://github.com/frameable/aviary.sh) (1308 stars) - Minimal distributed configuration management in bash
-- [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) (5915 stars) - An awesome & curated list of best LLMOps tools for developers
-- [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) (21261 stars) - Collections of awesome neovim plugins.
+- [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) (5916 stars) - An awesome & curated list of best LLMOps tools for developers
+- [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) (21269 stars) - Collections of awesome neovim plugins.
 - [awesome-pion](https://github.com/pion/awesome-pion) (933 stars) - A curated list of awesome things related to Pion
 - [aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit) (521 stars) - The source of the amazon/aws-for-fluent-bit container image
 - [bash-it](https://github.com/Bash-it/bash-it) (15141 stars) - A community Bash framework.
@@ -17,7 +17,7 @@
 - [bats](https://github.com/sstephenson/bats) (7105 stars) - Bash Automated Testing System
 - [bluefin](https://github.com/ublue-os/bluefin) (2564 stars) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [build](https://github.com/armbian/build) (5352 stars) - The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.
-- [build-linux](https://github.com/MichielDerhaeg/build-linux) (5201 stars) - A short tutorial about building Linux based operating systems.
+- [build-linux](https://github.com/MichielDerhaeg/build-linux) (5202 stars) - A short tutorial about building Linux based operating systems.
 - [buildtagpush](https://github.com/matti/buildtagpush) (6 stars) - Unknown
 - [charts](https://github.com/confidential-containers/charts) (15 stars) - The place for all helm charts related to Confidential Containers
 - [chimeraos](https://github.com/ChimeraOS/chimeraos) (1995 stars) - A Steam Big Picture based couch gaming OS
@@ -25,38 +25,38 @@
 - [Clear-NDR-ISO](https://github.com/StamusNetworks/Clear-NDR-ISO) (1590 stars) - A Suricata based NDR distribution
 - [cnab-spec](https://github.com/cnabio/cnab-spec) (972 stars) - Cloud Native Application Bundle Specification
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) (10188 stars) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [containers-roadmap](https://github.com/aws/containers-roadmap) (5357 stars) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
-- [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) (1603 stars) - Get up and running with Jenkins on Google Kubernetes Engine
+- [containers-roadmap](https://github.com/aws/containers-roadmap) (5356 stars) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
+- [continuous-deployment-on-kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes) (1602 stars) - Get up and running with Jenkins on Google Kubernetes Engine
 - [crunchy-containers](https://github.com/CrunchyData/crunchy-containers) (1028 stars) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [cs-nginx-bouncer](https://github.com/crowdsecurity/cs-nginx-bouncer) (64 stars) - CrowdSec bouncer for Nginx
-- [desk](https://github.com/jamesob/desk) (2576 stars) - A lightweight workspace manager for the shell
-- [DietPi](https://github.com/MichaIng/DietPi) (6192 stars) - Lightweight justice for your single-board computer!
+- [desk](https://github.com/jamesob/desk) (2575 stars) - A lightweight workspace manager for the shell
+- [DietPi](https://github.com/MichaIng/DietPi) (6193 stars) - Lightweight justice for your single-board computer!
 - [diskimage-builder](https://github.com/openstack/diskimage-builder) (360 stars) - Image building tools for OpenStack. Mirror of code maintained at opendev.org.
-- [docker-alpine](https://github.com/gliderlabs/docker-alpine) (5699 stars) - Alpine Linux Docker image. Win at minimalism!
-- [docker-bench-security](https://github.com/docker/docker-bench-security) (9686 stars) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-- [docker-k8s-lab](https://github.com/xiaopeng163/docker-k8s-lab) (210 stars) - docker and kubernetes lab
+- [docker-alpine](https://github.com/gliderlabs/docker-alpine) (5698 stars) - Alpine Linux Docker image. Win at minimalism!
+- [docker-bench-security](https://github.com/docker/docker-bench-security) (9687 stars) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [docker-k8s-lab](https://github.com/xiaopeng163/docker-k8s-lab) (211 stars) - docker and kubernetes lab
 - [docs](https://github.com/docker-library/docs) (5285 stars) - Documentation for Docker Official Images in docker-library
-- [dokku](https://github.com/dokku/dokku) (32107 stars) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [dokku](https://github.com/dokku/dokku) (32109 stars) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [ebashlib](https://github.com/eBay/ebashlib) (31 stars) -  A bash script battery which gathers several generic helper scripts for other repositories.
 - [ebs-automatic-nvme-mapping](https://github.com/oogali/ebs-automatic-nvme-mapping) (156 stars) - Automatic mapping of EBS volumes via NVMe block devices to standard block device paths
 - [eks-distro](https://github.com/aws/eks-distro) (1456 stars) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [envoy-timeouts](https://github.com/chemicL/envoy-timeouts) (80 stars) - Demonstrating Envoy timeouts and their impact on service to service communication
 - [extra-container](https://github.com/erikarvstedt/extra-container) (299 stars) - Run declarative NixOS containers without full system rebuilds
-- [fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) (1050 stars) - Fallout GRUB theme
-- [gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) (5020 stars) - Install, run and deploy your own decentralized AI agent service
+- [fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) (1051 stars) - Fallout GRUB theme
+- [gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) (5019 stars) - Install, run and deploy your own decentralized AI agent service
 - [gh-runner-krunvm](https://github.com/efrecon/gh-runner-krunvm) (28 stars) - Fully isolated microVM-based self-hosted GitHub runners
-- [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) (1227 stars) - Ubuntu/Debian (.deb) packages for Ghostty
-- [git-extras](https://github.com/tj/git-extras) (18096 stars) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+- [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) (1229 stars) - Ubuntu/Debian (.deb) packages for Ghostty
+- [git-extras](https://github.com/tj/git-extras) (18095 stars) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [git-secret](https://github.com/sobolevn/git-secret) (4035 stars) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [git-secrets](https://github.com/awslabs/git-secrets) (13371 stars) - Prevents you from committing secrets and credentials into git repositories
-- [git-sync](https://github.com/kubernetes/git-sync) (2725 stars) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
-- [gitflow](https://github.com/nvie/gitflow) (26806 stars) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+- [git-sync](https://github.com/kubernetes/git-sync) (2724 stars) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
+- [gitflow](https://github.com/nvie/gitflow) (26805 stars) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [gitops-with-kustomize](https://github.com/swade1987/gitops-with-kustomize) (130 stars) - An example repo structure for GitOps with Kustomize
 - [glftpd](https://github.com/signor-/glftpd) (8 stars) - glftpd scripts
 - [glftpd-scripts](https://github.com/glftpd-scripts/glftpd-scripts) (16 stars) - Unknown
 - [Gogh](https://github.com/Gogh-Co/Gogh) (10288 stars) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [gogo-release](https://github.com/arp242/gogo-release) (32 stars) - Build cross-platform binaries for Go
-- [Hack](https://github.com/source-foundry/Hack) (17319 stars) - A typeface designed for source code
+- [Hack](https://github.com/source-foundry/Hack) (17324 stars) - A typeface designed for source code
 - [haproxy-aws](https://github.com/jvehent/haproxy-aws) (279 stars) - Documentation on building a HTTPS stack in AWS with HAProxy
 - [haproxy-consul](https://github.com/CiscoCloud/haproxy-consul) (167 stars) - Dynamic haproxy configuration using consul
 - [harbian-audit](https://github.com/hardenedlinux/harbian-audit) (470 stars) - Hardened Debian GNU/Linux distro auditing
@@ -64,12 +64,12 @@
 - [helm-kubeval](https://github.com/instrumenta/helm-kubeval) (109 stars) - A Helm plugin for validating Charts against the Kubernetes schemas
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) (2023 stars) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [helm-tiller](https://github.com/rimusz/helm-tiller) (251 stars) - Helm v2 Tiller plugin aka Tillerless Helm
-- [hf-agents](https://github.com/huggingface/hf-agents) (429 stars) - HF CLI extension to run local coding agent powered by llmfit and llama.cpp
+- [hf-agents](https://github.com/huggingface/hf-agents) (430 stars) - HF CLI extension to run local coding agent powered by llmfit and llama.cpp
 - [historian](https://github.com/jcsalterego/historian) (552 stars) - Command-line utility for managing shell history in a SQLite database.
-- [hypertrace](https://github.com/hypertrace/hypertrace) (518 stars) - An open source distributed tracing & observability platform
+- [hypertrace](https://github.com/hypertrace/hypertrace) (517 stars) - An open source distributed tracing & observability platform
 - [imapsync](https://github.com/imapsync/imapsync) (4123 stars) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
 - [jboss-autopwn](https://github.com/SpiderLabs/jboss-autopwn) (177 stars) - A JBoss script for obtaining remote shell access
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) (12964 stars) - JetBrains Mono – the free and open-source typeface for developers
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) (12967 stars) - JetBrains Mono – the free and open-source typeface for developers
 - [jsawk](https://github.com/micha/jsawk) (1385 stars) - Like awk, but for JSON.
 - [kiali-operator](https://github.com/kiali/kiali-operator) (91 stars) - Kiali operator that is used to install, manage, and update Kiali deployments.
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) (3806 stars) - Kubernetes prompt info for bash, fish, and zsh
@@ -77,13 +77,13 @@
 - [kubernetes](https://github.com/linuxkit/kubernetes) (406 stars) - minimal and immutable Kubernetes images built with LinuxKit
 - [kubernetes-anywhere](https://github.com/kubernetes-retired/kubernetes-anywhere) (529 stars) - [EOL] {concise,reliable,cross-platform} turnup of Kubernetes clusters
 - [kubernetes-redis-cluster](https://github.com/sobotklp/kubernetes-redis-cluster) (166 stars) - Redis Cluster on Kubernetes
-- [kubetail](https://github.com/johanhaleby/kubetail) (3488 stars) - Bash script to tail Kubernetes logs from multiple pods at the same time
+- [kubetail](https://github.com/johanhaleby/kubetail) (3487 stars) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [lambci](https://github.com/lambci/lambci) (3963 stars) - A continuous integration system built on AWS Lambda
 - [library](https://github.com/copyconstruct/library) (567 stars) - A collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering
-- [linux-cachyos](https://github.com/CachyOS/linux-cachyos) (4230 stars) - Archlinux Kernel based on different schedulers and some other performance improvements.
+- [linux-cachyos](https://github.com/CachyOS/linux-cachyos) (4235 stars) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [linux-luks-tpm-boot](https://github.com/morbitzer/linux-luks-tpm-boot) (158 stars) - A guide for setting up LUKS boot with a key from TPM in Linux
-- [llm-d](https://github.com/llm-d/llm-d) (4028 stars) - Achieve state of the art inference performance with modern accelerators on Kubernetes
-- [longhorn](https://github.com/longhorn/longhorn) (7915 stars) - Cloud-Native distributed storage built on and for Kubernetes
+- [llm-d](https://github.com/llm-d/llm-d) (4033 stars) - Achieve state of the art inference performance with modern accelerators on Kubernetes
+- [longhorn](https://github.com/longhorn/longhorn) (7917 stars) - Cloud-Native distributed storage built on and for Kubernetes
 - [miuni32](https://github.com/bigtunaIO/miuni32) (13 stars) - Unknown
 - [mod_auth_cas](https://github.com/apereo/mod_auth_cas) (150 stars) - An Apache httpd module for integrating with Apereo CAS Server project.
 - [monaspace](https://github.com/githubnext/monaspace) (19553 stars) - An innovative superfamily of fonts for code
@@ -94,55 +94,55 @@
 - [nono-packs](https://github.com/always-further/nono-packs) (23 stars) - Repository for always further maintained nono packages
 - [notes](https://github.com/8483/notes) (3390 stars) - Full-stack web development notes
 - [og-aws](https://github.com/open-guides/og-aws) (36446 stars) - 📙 Amazon Web Services — a practical guide
-- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) (11374 stars) - The Fish Shell Framework
-- [open-balena](https://github.com/balena-io/open-balena) (1264 stars) - Open source software to manage connected IoT devices at scale
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) (11373 stars) - The Fish Shell Framework
+- [open-balena](https://github.com/balena-io/open-balena) (1265 stars) - Open source software to manage connected IoT devices at scale
 - [openshift-on-openstack](https://github.com/redhat-openstack/openshift-on-openstack) (136 stars) - A place to write templates, docs etc. for deploying OpenShift on OpenStack.
-- [orbstack](https://github.com/orbstack/orbstack) (9191 stars) - Fast, light, simple Docker containers & Linux machines
-- [os](https://github.com/wolfi-dev/os) (1267 stars) - Main package repository for production Wolfi images
-- [oss-fuzz](https://github.com/google/oss-fuzz) (12562 stars) - OSS-Fuzz - continuous fuzzing for open source software.
+- [orbstack](https://github.com/orbstack/orbstack) (9195 stars) - Fast, light, simple Docker containers & Linux machines
+- [os](https://github.com/wolfi-dev/os) (1268 stars) - Main package repository for production Wolfi images
+- [oss-fuzz](https://github.com/google/oss-fuzz) (12563 stars) - OSS-Fuzz - continuous fuzzing for open source software.
 - [pagerduty-monit](https://github.com/pinterest/pagerduty-monit) (60 stars) - Wrapper scripts to integrate monit and PagerDuty.
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) (108751 stars) - Papers from the computer science community to read and discuss.
-- [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (8010 stars) - Pixel perfect icon theme for Linux
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) (108774 stars) - Papers from the computer science community to read and discuss.
+- [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) (8013 stars) - Pixel perfect icon theme for Linux
 - [pds](https://github.com/bluesky-social/pds) (2601 stars) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
-- [pi-hole](https://github.com/pi-hole/pi-hole) (60366 stars) - A black hole for Internet advertisements
-- [pigsty](https://github.com/pgsty/pigsty) (5530 stars) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
+- [pi-hole](https://github.com/pi-hole/pi-hole) (60382 stars) - A black hole for Internet advertisements
+- [pigsty](https://github.com/pgsty/pigsty) (5533 stars) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) (3756 stars) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [prom-aggregation-gateway](https://github.com/weaveworks/prom-aggregation-gateway) (329 stars) - An aggregating push gateway for Prometheus
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) (41716 stars) - 📖 A collection of pure bash alternatives to external processes.
 - [pussh](https://github.com/bearstech/pussh) (264 stars) - Parallel SSH, batch and command line oriented
-- [raspotify](https://github.com/dtcooper/raspotify) (5184 stars) - A Spotify Connect client that mostly Just Works™
+- [raspotify](https://github.com/dtcooper/raspotify) (5186 stars) - A Spotify Connect client that mostly Just Works™
 - [rolespec](https://github.com/nickjj/rolespec) (231 stars) - A test library for testing Ansible roles
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) (416 stars) - Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
 - [rpi-update](https://github.com/Hexxeh/rpi-update) (1938 stars) - An easier way to update the firmware of your Raspberry Pi
-- [sbc-bench](https://github.com/ThomasKaiser/sbc-bench) (765 stars) - Simple benchmark for single board computers
+- [sbc-bench](https://github.com/ThomasKaiser/sbc-bench) (766 stars) - Simple benchmark for single board computers
 - [self-hosted](https://github.com/getsentry/self-hosted) (9500 stars) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [sierra-wireless-modems](https://github.com/danielewood/sierra-wireless-modems) (544 stars) - EM7565/EM7455/MC7455 - Modem Configuration
 - [sig-release](https://github.com/kubernetes/sig-release) (634 stars) - Repo for SIG release
 - [siji](https://github.com/stark/siji) (823 stars) - An iconic bitmap font based on Stlarch with additional glyphs.
-- [skills](https://github.com/cloudflare/skills) (2633 stars) - Skills for teaching agents how to build on Cloudflare.
-- [skills](https://github.com/mattpocock/skills) (217627 stars) - Skills for Real Engineers. Straight from my .agents directory.
+- [skills](https://github.com/cloudflare/skills) (2644 stars) - Skills for teaching agents how to build on Cloudflare.
+- [skills](https://github.com/mattpocock/skills) (218425 stars) - Skills for Real Engineers. Straight from my .agents directory.
 - [slacktee](https://github.com/coursehero/slacktee) (828 stars) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) (3948 stars) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [squashible](https://github.com/antonym/squashible) (21 stars) - Cross-Platform Linux Live Image Builder
 - [steam-runtime](https://github.com/ValveSoftware/steam-runtime) (1440 stars) - A runtime environment for Steam applications
-- [super-linter](https://github.com/super-linter/super-linter) (10544 stars) - Combination of multiple linters to run as a GitHub Action or standalone
-- [superpowers](https://github.com/obra/superpowers) (272194 stars) - An agentic skills framework & software development methodology that works.
+- [super-linter](https://github.com/super-linter/super-linter) (10547 stars) - Combination of multiple linters to run as a GitHub Action or standalone
+- [superpowers](https://github.com/obra/superpowers) (272517 stars) - An agentic skills framework & software development methodology that works.
 - [suru-plus](https://github.com/suru-plus/suru-plus) (391 stars) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [sysbox](https://github.com/nestybox/sysbox) (3825 stars) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [TALA](https://github.com/terrastruct/TALA) (297 stars) - A diagram layout engine designed specifically for software architecture diagrams
 - [tar-multibackup](https://github.com/frdmn/tar-multibackup) (47 stars) - :floppy_disk: Bash script to backup and cycle tar archives
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) (13075 stars) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) (13076 stars) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [thefly](https://github.com/joknarf/thefly) (84 stars) - shell teleporter plugin/dotfiles manager (bash/zsh/ksh/fish)
 - [tobs](https://github.com/timescale/tobs) (578 stars) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [tpm2-luks](https://github.com/vchatterji/tpm2-luks) (44 stars) - This describes a method of transparent encryption using TPM2.0 and LUKS
-- [transcrypt](https://github.com/elasticdog/transcrypt) (1702 stars) - transparently encrypt files within a git repository
+- [transcrypt](https://github.com/elasticdog/transcrypt) (1703 stars) - transparently encrypt files within a git repository
 - [try](https://github.com/binpash/try) (5486 stars) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [update-systemd-resolved](https://github.com/jonathanio/update-systemd-resolved) (808 stars) - Helper script for OpenVPN to directly update the DNS settings of a link through systemd-resolved via DBus.
 - [usernetes](https://github.com/rootless-containers/usernetes) (985 stars) - Kubernetes without the root privileges
 - [uusec-waf](https://github.com/Safe3/uusec-waf) (1701 stars) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [vagrant-bash-completion](https://github.com/brbsix/vagrant-bash-completion) (43 stars) - Bash autocomplete for Vagrant
-- [vault-helm](https://github.com/hashicorp/vault-helm) (1255 stars) - Helm chart to install Vault and other associated components.
+- [vault-helm](https://github.com/hashicorp/vault-helm) (1256 stars) - Helm chart to install Vault and other associated components.
 - [voyager](https://github.com/voyagermesh/voyager) (1351 stars) - 🚀 Secure L7/L4 (HAProxy) Ingress Controller for Kubernetes
-- [vscodium](https://github.com/VSCodium/vscodium) (32823 stars) - binary releases of VS Code without MS branding/telemetry/licensing
+- [vscodium](https://github.com/VSCodium/vscodium) (32832 stars) - binary releases of VS Code without MS branding/telemetry/licensing
 - [weffe](https://github.com/intermezzio/weffe) (131 stars) - Add effects to a webcam in Linux for Zoom, Webex, or other calls, or stream a video to a webcam, including blurred background
 - [wks-quickstart-firekube](https://github.com/weaveworks/wks-quickstart-firekube) (341 stars) - Example configuration to create Kubernetes clusters powered by ignite and gitops
