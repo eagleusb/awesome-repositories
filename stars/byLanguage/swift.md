@@ -1,12 +1,13 @@
-## Swift (11 repositories) 
-- [agent-squad](https://github.com/2FastLabs/agent-squad) (7737 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [Amethyst](https://github.com/ianyh/Amethyst) (16220 stars) - Automatic tiling window manager for macOS à la xmonad.
+## Swift (12 repositories) 
+- [agent-squad](https://github.com/2FastLabs/agent-squad) (7738 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+- [Amethyst](https://github.com/ianyh/Amethyst) (16222 stars) - Automatic tiling window manager for macOS à la xmonad.
 - [Cilicon](https://github.com/traderepublic/Cilicon) (1183 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [container](https://github.com/apple/container) (48983 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [FluidAudio](https://github.com/FluidInference/FluidAudio) (2660 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
-- [FluidVoice](https://github.com/altic-dev/FluidVoice) (10344 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
-- [iGlance](https://github.com/iglance/iGlance) (2490 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
-- [PairPods](https://github.com/wozniakpawel/PairPods) (798 stars) - Free and open source app to share audio on macOS
-- [stats](https://github.com/exelban/stats) (41213 stars) - macOS system monitor in your menu bar
+- [container](https://github.com/apple/container) (49003 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [FluidAudio](https://github.com/FluidInference/FluidAudio) (2650 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
+- [FluidVoice](https://github.com/altic-dev/FluidVoice) (10507 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
+- [iGlance](https://github.com/iglance/iGlance) (2491 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
+- [omi](https://github.com/BasedHardware/omi) (13181 stars) - AI that sees your screen, listens to your conversations and tells you what to do
+- [PairPods](https://github.com/wozniakpawel/PairPods) (804 stars) - Free and open source app to share audio on macOS
+- [stats](https://github.com/exelban/stats) (41229 stars) - macOS system monitor in your menu bar
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4180 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (5368 stars) - Free and open-source macOS menu bar toolkit.
+- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (5423 stars) - Free and open-source macOS menu bar toolkit.
