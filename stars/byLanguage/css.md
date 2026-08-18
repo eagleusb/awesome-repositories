@@ -1,8 +1,8 @@
 ## CSS (30 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11445 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82738 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [98.css](https://github.com/jdan/98.css) (11447 stars) - A design system for building faithful recreations of old UIs
+- [animate.css](https://github.com/animate-css/animate.css) (82737 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [arc-theme](https://github.com/horst3180/arc-theme) (8244 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9475 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9477 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2566 stars) - A list of history's greatest software engineers and tech pioneers
 - [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3818 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cs16.css](https://github.com/ekmas/cs16.css) (2009 stars) - CSS library based on Counter Strike 1.6 UI.
@@ -13,12 +13,12 @@
 - [gtk](https://github.com/dracula/gtk) (1056 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2310 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (422 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2797 stars) - A simple, retro theme for Hugo
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2796 stars) - A simple, retro theme for Hugo
 - [juliamono](https://github.com/cormullion/juliamono) (1684 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [Nordic](https://github.com/EliverLara/Nordic) (2717 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (171 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
-- [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3826 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
+- [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3824 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) (20 stars) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3366 stars) - ✩ Automates responsive resizing ✩
