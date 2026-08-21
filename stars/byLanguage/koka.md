@@ -1,2 +1,2 @@
 ## Koka (1 repositories) 
-- [koka](https://github.com/koka-lang/koka) (4033 stars) - Koka language compiler and interpreter
+- [koka](https://github.com/koka-lang/koka) (4037 stars) - Koka language compiler and interpreter
