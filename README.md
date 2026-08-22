@@ -1,8 +1,8 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2258 repositories, 35.20%)
-- [Python](stars/byLanguage/python.md) (884 repositories, 13.78%)
+- [Go](stars/byLanguage/go.md) (2259 repositories, 35.21%)
+- [Python](stars/byLanguage/python.md) (883 repositories, 13.76%)
 - [TypeScript](stars/byLanguage/typescript.md) (532 repositories, 8.29%)
 - [Rust](stars/byLanguage/rust.md) (505 repositories, 7.87%)
 - [JavaScript](stars/byLanguage/javascript.md) (437 repositories, 6.81%)
@@ -14,7 +14,7 @@
 - [Batchfile](stars/byLanguage/batchfile.md) (2 repositories, 0.03%)
 - [Bikeshed](stars/byLanguage/bikeshed.md) (1 repositories, 0.02%)
 - [BitBake](stars/byLanguage/bitbake.md) (1 repositories, 0.02%)
-- [C](stars/byLanguage/c.md) (359 repositories, 5.60%)
+- [C](stars/byLanguage/c.md) (360 repositories, 5.61%)
 - [C#](stars/byLanguage/c.md) (28 repositories, 0.44%)
 - [C++](stars/byLanguage/c.md) (232 repositories, 3.62%)
 - [Clojure](stars/byLanguage/clojure.md) (8 repositories, 0.12%)
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2258 repositories, 35.20%)
+- [Go](stars/byLanguage/go.md) (2259 repositories, 35.21%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -78,7 +78,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (8 repositories, 0.12%)
 - [Prolog](stars/byLanguage/prolog.md) (2 repositories, 0.03%)
-- [Python](stars/byLanguage/python.md) (884 repositories, 13.78%)
+- [Python](stars/byLanguage/python.md) (883 repositories, 13.76%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
