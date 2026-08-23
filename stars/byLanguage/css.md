@@ -1,20 +1,20 @@
 ## CSS (30 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11453 stars) - A design system for building faithful recreations of old UIs
-- [animate.css](https://github.com/animate-css/animate.css) (82744 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [arc-theme](https://github.com/horst3180/arc-theme) (8244 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9480 stars) - List of awesome CSS frameworks in 2026
+- [98.css](https://github.com/jdan/98.css) (11454 stars) - A design system for building faithful recreations of old UIs
+- [animate.css](https://github.com/animate-css/animate.css) (82742 stars) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [arc-theme](https://github.com/horst3180/arc-theme) (8243 stars) - A flat theme with transparent elements
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9484 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2567 stars) - A list of history's greatest software engineers and tech pioneers
 - [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3825 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-- [cs16.css](https://github.com/ekmas/cs16.css) (2010 stars) - CSS library based on Counter Strike 1.6 UI.
+- [cs16.css](https://github.com/ekmas/cs16.css) (2011 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [dalai](https://github.com/cocktailpeanut/dalai) (12895 stars) - The simplest way to run LLaMA on your local machine
+- [dalai](https://github.com/cocktailpeanut/dalai) (12896 stars) - The simplest way to run LLaMA on your local machine
 - [Fira](https://github.com/mozilla/Fira) (5141 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1383 stars) - A Golang based high performance, scalable and distributed workflow framework
 - [gtk](https://github.com/dracula/gtk) (1056 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2310 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (422 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2798 stars) - A simple, retro theme for Hugo
-- [juliamono](https://github.com/cormullion/juliamono) (1686 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2799 stars) - A simple, retro theme for Hugo
+- [juliamono](https://github.com/cormullion/juliamono) (1687 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [Nordic](https://github.com/EliverLara/Nordic) (2724 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (171 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites

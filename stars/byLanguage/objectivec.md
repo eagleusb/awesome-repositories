@@ -2,5 +2,5 @@
 - [AnyBar](https://github.com/tonsky/AnyBar) (6037 stars) - OS X menubar status indicator
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) (2809 stars) - Control Google Chrome from the command line
 - [darling](https://github.com/darlinghq/darling) (13099 stars) - Darwin/macOS emulation layer for Linux
-- [phoenix](https://github.com/kasper/phoenix) (4540 stars) - A lightweight macOS window and app manager scriptable with JavaScript
+- [phoenix](https://github.com/kasper/phoenix) (4541 stars) - A lightweight macOS window and app manager scriptable with JavaScript
 - [routerkeygenPC](https://github.com/routerkeygen/routerkeygenPC) (307 stars) - Qt Port for Linux, Mac OSX and Windows

@@ -4,8 +4,8 @@
 - [mirage](https://github.com/mirage/mirage) (2978 stars) - MirageOS is a library operating system that constructs unikernels
 - [opengrep](https://github.com/opengrep/opengrep) (2978 stars) - 🔎 Static code analysis engine to find security issues in code.
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (319 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
-- [pyre-check](https://github.com/facebook/pyre-check) (7168 stars) - Performant type-checking for python.
-- [reason](https://github.com/reasonml/reason) (10324 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [semgrep](https://github.com/semgrep/semgrep) (16344 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [stategraph](https://github.com/stategraph/stategraph) (1266 stars) - Terraform without the state file bottleneck
-- [unison](https://github.com/bcpierce00/unison) (5451 stars) - Unison file synchronizer
+- [pyre-check](https://github.com/facebook/pyre-check) (7169 stars) - Performant type-checking for python.
+- [reason](https://github.com/reasonml/reason) (10323 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [semgrep](https://github.com/semgrep/semgrep) (16354 stars) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [stategraph](https://github.com/stategraph/stategraph) (1268 stars) - Terraform without the state file bottleneck
+- [unison](https://github.com/bcpierce00/unison) (5453 stars) - Unison file synchronizer
