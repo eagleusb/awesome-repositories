@@ -1,5 +1,5 @@
 ## PLpgSQL (16 repositories) 
-- [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1030 stars) - Web tool for database management
+- [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1032 stars) - Web tool for database management
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3142 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (254 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (99 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.

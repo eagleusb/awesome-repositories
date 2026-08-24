@@ -2,7 +2,7 @@
 - [ddclient](https://github.com/ddclient/ddclient) (3523 stars) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [openstack-image-tools](https://github.com/cernops/openstack-image-tools) (8 stars) - Oz imput files to create SLC and Windows images
 - [pg_stat_ch](https://github.com/ClickHouse/pg_stat_ch) (122 stars) - Unknown
-- [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (585 stars) - Query Performance Monitoring Tool for PostgreSQL
+- [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (587 stars) - Query Performance Monitoring Tool for PostgreSQL
 - [pgbadger](https://github.com/darold/pgbadger) (4052 stars) - A fast PostgreSQL Log Analyzer
 - [pgcluu](https://github.com/darold/pgcluu) (347 stars) - PostgreSQL Cluster performances monitoring and auditing tool
 - [SmokePing](https://github.com/oetiker/SmokePing) (1949 stars) - The Active Monitoring System
