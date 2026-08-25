@@ -1,7 +1,7 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2262 repositories, 35.22%)
+- [Go](stars/byLanguage/go.md) (2263 repositories, 35.24%)
 - [Python](stars/byLanguage/python.md) (882 repositories, 13.73%)
 - [TypeScript](stars/byLanguage/typescript.md) (534 repositories, 8.32%)
 - [Rust](stars/byLanguage/rust.md) (505 repositories, 7.86%)
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2262 repositories, 35.22%)
+- [Go](stars/byLanguage/go.md) (2263 repositories, 35.24%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -88,7 +88,7 @@
 - [Rust](stars/byLanguage/rust.md) (505 repositories, 7.86%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.16%)
-- [Shell](stars/byLanguage/shell.md) (149 repositories, 2.32%)
+- [Shell](stars/byLanguage/shell.md) (148 repositories, 2.30%)
 - [Smarty](stars/byLanguage/smarty.md) (1 repositories, 0.02%)
 - [Starlark](stars/byLanguage/starlark.md) (4 repositories, 0.06%)
 - [Svelte](stars/byLanguage/svelte.md) (10 repositories, 0.16%)
@@ -101,8 +101,8 @@
 - [Unknown](stars/byLanguage/unknown.md) (280 repositories, 4.36%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
+- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (16 repositories, 0.25%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)

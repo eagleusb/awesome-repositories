@@ -1,6 +1,6 @@
 ## Jinja (10 repositories) 
 - [ansible-apt](https://github.com/weareinteractive/ansible-apt) (32 stars) - Ansible role that configures apt & installs/updates packages.
-- [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) (5448 stars) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) (5450 stars) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [ansible-consul](https://github.com/ansible-collections/ansible-consul) (475 stars) - :satellite: Ansible role for Hashicorp Consul clusters
 - [ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) (35 stars) - Ansible role - Fluentd (td-agent)
 - [ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx) (652 stars) - Ansible role to install and manage nginx configuration
