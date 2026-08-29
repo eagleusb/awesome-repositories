@@ -1,2 +1,2 @@
 ## templ (1 repositories) 
-- [shadcn-templ](https://github.com/axadrn/shadcn-templ) (1725 stars) - A set of beautifully-designed, accessible components and a code distribution platform. Works with Go and templ. Open Source. Open Code.
+- [shadcn-templ](https://github.com/axadrn/shadcn-templ) (1727 stars) - A set of beautifully-designed, accessible components and a code distribution platform. Works with Go and templ. Open Source. Open Code.

@@ -1,7 +1,7 @@
 ## Makefile (18 repositories) 
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
-- [deezer-linux](https://github.com/aunetx/deezer-linux) (605 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
-- [guide](https://github.com/uber-go/guide) (17667 stars) - The Uber Go Style Guide.
+- [deezer-linux](https://github.com/aunetx/deezer-linux) (606 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
+- [guide](https://github.com/uber-go/guide) (17666 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (540 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
 - [hubble](https://github.com/cilium/hubble) (4315 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
