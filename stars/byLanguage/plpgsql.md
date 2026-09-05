@@ -1,4 +1,4 @@
-## PLpgSQL (17 repositories) 
+## PLpgSQL (16 repositories) 
 - [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1033 stars) - Web tool for database management
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3149 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg_background](https://github.com/vibhorkum/pg_background) (255 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
@@ -13,6 +13,5 @@
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (55 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2222 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
-- [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) (146 stars) - PostgreSQL BM25S extension
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (262 stars) - SQLite Foreign Data Wrapper for PostgreSQL
 - [zombodb](https://github.com/zombodb/zombodb) (4718 stars) - Making Postgres and Elasticsearch work together like it's 2023
