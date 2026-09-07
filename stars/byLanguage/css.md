@@ -1,7 +1,7 @@
 ## CSS (30 repositories) 
 - [98.css](https://github.com/jdan/98.css) (11477 stars) - A design system for building faithful recreations of old UIs
 - [arc-theme](https://github.com/horst3180/arc-theme) (8239 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9507 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9509 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2567 stars) - A list of history's greatest software engineers and tech pioneers
 - [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3844 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cs16.css](https://github.com/ekmas/cs16.css) (2018 stars) - CSS library based on Counter Strike 1.6 UI.
@@ -10,10 +10,10 @@
 - [deezer-linux](https://github.com/aunetx/deezer-linux) (613 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
 - [Fira](https://github.com/mozilla/Fira) (5140 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1383 stars) - A Golang based high performance, scalable and distributed workflow framework
-- [gtk](https://github.com/dracula/gtk) (1060 stars) - 🧛🏻‍♂️ Dark theme for GTK
+- [gtk](https://github.com/dracula/gtk) (1061 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2309 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (423 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2801 stars) - A simple, retro theme for Hugo
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2802 stars) - A simple, retro theme for Hugo
 - [juliamono](https://github.com/cormullion/juliamono) (1689 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [Nordic](https://github.com/EliverLara/Nordic) (2730 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
@@ -21,11 +21,11 @@
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3824 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) (20 stars) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
-- [rfs](https://github.com/twbs/rfs) (3365 stars) - ✩ Automates responsive resizing ✩
+- [rfs](https://github.com/twbs/rfs) (3366 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (126 stars) - Universal dashboard to robotic devices based on React
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20444 stars) - Monospaced font family for user interface and coding environments
 - [source-sans](https://github.com/adobe-fonts/source-sans) (3736 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2298 stars) - React components and demo for the Tabler UI theme.
-- [tachyons](https://github.com/tachyons-css/tachyons) (11720 stars) - Functional css for humans
+- [tachyons](https://github.com/tachyons-css/tachyons) (11719 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7879 stars) - The JavaScript Way book
 - [write-ups-2015](https://github.com/ctfs/write-ups-2015) (1998 stars) - Wiki-like CTF write-ups repository, maintained by the community. 2015
