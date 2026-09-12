@@ -7,4 +7,4 @@
 - [pyre-check](https://github.com/facebook/pyre-check) (7171 stars) - Performant type-checking for python.
 - [reason](https://github.com/reasonml/reason) (10321 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [stategraph](https://github.com/stategraph/stategraph) (1281 stars) - Terraform without the state file bottleneck
-- [unison](https://github.com/bcpierce00/unison) (5470 stars) - Unison file synchronizer
+- [unison](https://github.com/bcpierce00/unison) (5472 stars) - Unison file synchronizer

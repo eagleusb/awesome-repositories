@@ -1,11 +1,11 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2264 repositories, 35.24%)
+- [Go](stars/byLanguage/go.md) (2264 repositories, 35.23%)
 - [Python](stars/byLanguage/python.md) (893 repositories, 13.90%)
 - [TypeScript](stars/byLanguage/typescript.md) (540 repositories, 8.40%)
 - [Rust](stars/byLanguage/rust.md) (508 repositories, 7.91%)
-- [JavaScript](stars/byLanguage/javascript.md) (429 repositories, 6.68%)
+- [JavaScript](stars/byLanguage/javascript.md) (430 repositories, 6.69%)
 
 ## All Languages
 - [Assembly](stars/byLanguage/assembly.md) (7 repositories, 0.11%)
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2264 repositories, 35.24%)
+- [Go](stars/byLanguage/go.md) (2264 repositories, 35.23%)
 - [Go Template](stars/byLanguage/gotemplate.md) (2 repositories, 0.03%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -48,7 +48,7 @@
 - [HolyC](stars/byLanguage/holyc.md) (1 repositories, 0.02%)
 - [HTML](stars/byLanguage/html.md) (69 repositories, 1.07%)
 - [Java](stars/byLanguage/java.md) (91 repositories, 1.42%)
-- [JavaScript](stars/byLanguage/javascript.md) (429 repositories, 6.68%)
+- [JavaScript](stars/byLanguage/javascript.md) (430 repositories, 6.69%)
 - [Jinja](stars/byLanguage/jinja.md) (10 repositories, 0.16%)
 - [Jsonnet](stars/byLanguage/jsonnet.md) (7 repositories, 0.11%)
 - [Jupyter Notebook](stars/byLanguage/jupyternotebook.md) (44 repositories, 0.68%)
@@ -101,8 +101,8 @@
 - [Unknown](stars/byLanguage/unknown.md) (276 repositories, 4.30%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
+- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (15 repositories, 0.23%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)
