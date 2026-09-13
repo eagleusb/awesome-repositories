@@ -1,20 +1,20 @@
 ## Kotlin (19 repositories) 
 - [amethyst](https://github.com/vitorpamplona/amethyst) (1599 stars) - Nostr client for Android
 - [android](https://github.com/owntracks/android) (1756 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (4039 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (24682 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [android-app](https://github.com/ProtonVPN/android-app) (4045 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (24689 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) (664 stars) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (6090 stars) - Customizable and privacy-conscious open-source keyboard
-- [KernelSU](https://github.com/tiann/KernelSU) (18343 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/librepods-org/librepods) (29840 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (12677 stars) - An alternative frontend for YouTube, for Android.
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (6097 stars) - Customizable and privacy-conscious open-source keyboard
+- [KernelSU](https://github.com/tiann/KernelSU) (18364 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/librepods-org/librepods) (29849 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (12685 stars) - An alternative frontend for YouTube, for Android.
 - [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (212 stars) - Official Android App of ListenBrainz
-- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2277 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
+- [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2280 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (546 stars) - PartiQL libraries and tools in Kotlin.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (29437 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5554 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13985 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (29459 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5557 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (13987 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2856 stars) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [trailblaze](https://github.com/block/trailblaze) (310 stars) - 🥾 AI-Driven UI Testing Framework with Recorded Trails
-- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2719 stars) - Unknown
-- [Wholphin](https://github.com/damontecres/Wholphin) (2888 stars) - An OSS Android TV client for Jellyfin
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2720 stars) - Unknown
+- [Wholphin](https://github.com/damontecres/Wholphin) (2895 stars) - An OSS Android TV client for Jellyfin
