@@ -1,6 +1,6 @@
 ## Makefile (17 repositories) 
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
-- [guide](https://github.com/uber-go/guide) (17701 stars) - The Uber Go Style Guide.
+- [guide](https://github.com/uber-go/guide) (17702 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (543 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
 - [hubble](https://github.com/cilium/hubble) (4326 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
