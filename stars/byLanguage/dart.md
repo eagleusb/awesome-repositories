@@ -1,16 +1,17 @@
-## Dart (15 repositories) 
+## Dart (16 repositories) 
 - [alfred](https://github.com/rknell/alfred) (532 stars) - A performant, expressjs like server framework with a few gadgets that make life even easier.
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) (76775 stars) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) (76809 stars) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [blokada](https://github.com/blokadaorg/blokada) (3253 stars) - The official repo for Blokada apps.
 - [Cashew](https://github.com/jameskokoska/Cashew) (4631 stars) - 💸 An app created to help users manage a budget and purchases
-- [dart_frog](https://github.com/dart-frog-dev/dart_frog) (2268 stars) - A fast, minimalistic backend framework for Dart 🎯
+- [dart_frog](https://github.com/dart-frog-dev/dart_frog) (2267 stars) - A fast, minimalistic backend framework for Dart 🎯
 - [dcli](https://github.com/onepub-dev/dcli) (265 stars) - An extensive library and tooling for building console/cli applications and scripts using the Dart programming language.
-- [ente](https://github.com/ente/ente) (28926 stars) - 💚 End-to-end encrypted cloud for everything.
+- [ente](https://github.com/ente/ente) (28939 stars) - 💚 End-to-end encrypted cloud for everything.
 - [Fladder](https://github.com/DonutWare/Fladder) (2583 stars) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
-- [flutter](https://github.com/flutter/flutter) (178978 stars) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [flutter](https://github.com/flutter/flutter) (178996 stars) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [functions-framework-dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) (549 stars) - FaaS (Function as a service) framework for writing portable Dart functions
-- [kubenav](https://github.com/kubenav/kubenav) (2294 stars) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
-- [localsend](https://github.com/localsend/localsend) (91838 stars) - An open-source cross-platform alternative to AirDrop
+- [kubenav](https://github.com/kubenav/kubenav) (2293 stars) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
+- [localsend](https://github.com/localsend/localsend) (91951 stars) - An open-source cross-platform alternative to AirDrop
+- [lotti](https://github.com/matthiasn/lotti) (1175 stars) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — servers only ever see ciphertext. Local AI optional.
 - [orchid](https://github.com/OrchidTechnologies/orchid) (704 stars) - Orchid: VPN, Personal Firewall
 - [pharaoh](https://github.com/codekeyz/pharaoh) (144 stars) - Minimalist web-server library for Dart
-- [sdk](https://github.com/dart-lang/sdk) (11282 stars) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+- [sdk](https://github.com/dart-lang/sdk) (11285 stars) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
