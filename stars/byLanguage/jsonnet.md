@@ -1,5 +1,5 @@
 ## Jsonnet (7 repositories) 
-- [argo-cd-mixin](https://github.com/adinhodovic/argo-cd-mixin) (107 stars) - Monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.
+- [argo-cd-mixin](https://github.com/adinhodovic/argo-cd-mixin) (108 stars) - Monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.
 - [etcha](https://github.com/candiddev/etcha) (31 stars) - Full-Stack Configuration Management for Developers and Sysadmins
 - [jsonnet](https://github.com/google/jsonnet) (7569 stars) - Jsonnet - The data templating language
 - [jsonnet-libs](https://github.com/grafana/jsonnet-libs) (732 stars) - Grafana Labs' Jsonnet libraries
