@@ -1,8 +1,8 @@
 ## PLpgSQL (16 repositories) 
 - [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1035 stars) - Web tool for database management
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3166 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3168 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg-trickle](https://github.com/trickle-labs/pg-trickle) (143 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
-- [pg_background](https://github.com/vibhorkum/pg_background) (256 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
+- [pg_background](https://github.com/vibhorkum/pg_background) (257 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (101 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
 - [pg_partman](https://github.com/pgpartman/pg_partman) (2824 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (342 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
@@ -14,4 +14,4 @@
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (55 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2234 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (262 stars) - SQLite Foreign Data Wrapper for PostgreSQL
-- [zombodb](https://github.com/zombodb/zombodb) (4718 stars) - Making Postgres and Elasticsearch work together like it's 2023
+- [zombodb](https://github.com/zombodb/zombodb) (4719 stars) - Making Postgres and Elasticsearch work together like it's 2023
