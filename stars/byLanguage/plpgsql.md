@@ -1,5 +1,5 @@
 ## PLpgSQL (16 repositories) 
-- [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1035 stars) - Web tool for database management
+- [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1036 stars) - Web tool for database management
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3168 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg-trickle](https://github.com/trickle-labs/pg-trickle) (143 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
 - [pg_background](https://github.com/vibhorkum/pg_background) (257 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.

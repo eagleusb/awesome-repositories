@@ -1,3 +1,3 @@
 ## Just (2 repositories) 
-- [bazzite](https://github.com/ublue-os/bazzite) (9099 stars) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-- [cosmic-epoch](https://github.com/pop-os/cosmic-epoch) (6820 stars) - Next generation Cosmic desktop environment
+- [bazzite](https://github.com/ublue-os/bazzite) (9103 stars) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+- [cosmic-epoch](https://github.com/pop-os/cosmic-epoch) (6822 stars) - Next generation Cosmic desktop environment
