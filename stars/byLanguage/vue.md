@@ -2,15 +2,15 @@
 - [automa](https://github.com/AutomaApp/automa) (21631 stars) - A browser extension for automating your browser by connecting blocks
 - [drop](https://github.com/Drop-OSS/drop) (741 stars) - Drop is an open-source game distribution platform.
 - [forum](https://github.com/sebbkw/forum) (253 stars) - Forum software created using Express, Vue, and Sequelize
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube) (21959 stars) - An Open Source YouTube app for privacy
-- [gitstalk](https://github.com/thelittlewonder/gitstalk) (690 stars) - Discover who's upto what on Github
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) (21966 stars) - An Open Source YouTube app for privacy
+- [gitstalk](https://github.com/thelittlewonder/gitstalk) (689 stars) - Discover who's upto what on Github
 - [goldfish](https://github.com/Caiyeon/goldfish) (2127 stars) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 - [nuxt-shadcn-prisma-auth](https://github.com/drobertson-dev/nuxt-shadcn-prisma-auth) (2 stars) - A production-ready Nuxt 4 starter template with authentication, database, and modern UI — designed for both human developers and AI coding agents.
-- [Piped](https://github.com/TeamPiped/Piped) (10258 stars) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [Piped](https://github.com/TeamPiped/Piped) (10259 stars) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [rbac-view](https://github.com/jasonrichardsmith/rbac-view) (160 stars) - Visualize Kubernetes RBAC rules
-- [Sink](https://github.com/miantiao-me/Sink) (7148 stars) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
+- [Sink](https://github.com/miantiao-me/Sink) (7150 stars) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [statping](https://github.com/statping/statping) (7292 stars) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) (13113 stars) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
+- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm) (13118 stars) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [victor-mono](https://github.com/rubjo/victor-mono) (3809 stars) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) (90181 stars) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [xray](https://github.com/chaitin/xray) (11749 stars) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+- [xray](https://github.com/chaitin/xray) (11750 stars) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
