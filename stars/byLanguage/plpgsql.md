@@ -1,7 +1,7 @@
 ## PLpgSQL (16 repositories) 
-- [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1036 stars) - Web tool for database management
+- [Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) (1035 stars) - Web tool for database management
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3170 stars) - OpenMapTiles Vector Tile Schema Implementation
-- [pg-trickle](https://github.com/trickle-labs/pg-trickle) (144 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
+- [pg-trickle](https://github.com/trickle-labs/pg-trickle) (145 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
 - [pg_background](https://github.com/vibhorkum/pg_background) (257 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (101 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
 - [pg_partman](https://github.com/pgpartman/pg_partman) (2824 stars) - Partition management extension for PostgreSQL

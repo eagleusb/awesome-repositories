@@ -1,9 +1,9 @@
 ## CSS (30 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11506 stars) - A design system for building faithful recreations of old UIs
-- [arc-theme](https://github.com/horst3180/arc-theme) (8238 stars) - A flat theme with transparent elements
+- [98.css](https://github.com/jdan/98.css) (11508 stars) - A design system for building faithful recreations of old UIs
+- [arc-theme](https://github.com/horst3180/arc-theme) (8237 stars) - A flat theme with transparent elements
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9529 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2570 stars) - A list of history's greatest software engineers and tech pioneers
-- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3860 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3861 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cs16.css](https://github.com/ekmas/cs16.css) (2022 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
 - [dalai](https://github.com/cocktailpeanut/dalai) (12892 stars) - The simplest way to run LLaMA on your local machine
@@ -24,7 +24,7 @@
 - [rfs](https://github.com/twbs/rfs) (3369 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (126 stars) - Universal dashboard to robotic devices based on React
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20450 stars) - Monospaced font family for user interface and coding environments
-- [source-sans](https://github.com/adobe-fonts/source-sans) (3748 stars) - Sans serif font family for user interface environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) (3750 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2297 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11724 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7879 stars) - The JavaScript Way book

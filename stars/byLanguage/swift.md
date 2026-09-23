@@ -1,12 +1,12 @@
 ## Swift (11 repositories) 
-- [agent-squad](https://github.com/2FastLabs/agent-squad) (7766 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [Amethyst](https://github.com/ianyh/Amethyst) (16272 stars) - Automatic tiling window manager for macOS à la xmonad.
-- [Cilicon](https://github.com/traderepublic/Cilicon) (1189 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [container](https://github.com/apple/container) (50105 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [FluidAudio](https://github.com/FluidInference/FluidAudio) (2839 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
-- [FluidVoice](https://github.com/altic-dev/FluidVoice) (11686 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp
-- [iGlance](https://github.com/iglance/iGlance) (2491 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
-- [PairPods](https://github.com/wozniakpawel/PairPods) (856 stars) - Free and open source app to share audio on macOS
-- [stats](https://github.com/exelban/stats) (42030 stars) - macOS system monitor in your menu bar
-- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4213 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (20437 stars) - Free and open-source macOS menu bar toolkit.
+- [agent-squad](https://github.com/2FastLabs/agent-squad) (7769 stars) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+- [Amethyst](https://github.com/ianyh/Amethyst) (16273 stars) - Automatic tiling window manager for macOS à la xmonad.
+- [Cilicon](https://github.com/traderepublic/Cilicon) (1190 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
+- [container](https://github.com/apple/container) (50128 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [FluidAudio](https://github.com/FluidInference/FluidAudio) (2848 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
+- [FluidVoice](https://github.com/altic-dev/FluidVoice) (11706 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp
+- [iGlance](https://github.com/iglance/iGlance) (2490 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
+- [PairPods](https://github.com/wozniakpawel/PairPods) (855 stars) - Free and open source app to share audio on macOS
+- [stats](https://github.com/exelban/stats) (42061 stars) - macOS system monitor in your menu bar
+- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4214 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (20787 stars) - Free and open-source macOS menu bar toolkit.
