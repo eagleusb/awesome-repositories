@@ -1,6 +1,6 @@
 ## Objective-C (5 repositories) 
-- [AnyBar](https://github.com/tonsky/AnyBar) (6043 stars) - OS X menubar status indicator
+- [AnyBar](https://github.com/tonsky/AnyBar) (6042 stars) - OS X menubar status indicator
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) (2812 stars) - Control Google Chrome from the command line
-- [darling](https://github.com/darlinghq/darling) (13386 stars) - Darwin/macOS emulation layer for Linux
+- [darling](https://github.com/darlinghq/darling) (13391 stars) - Darwin/macOS emulation layer for Linux
 - [phoenix](https://github.com/kasper/phoenix) (4538 stars) - A lightweight macOS window and app manager scriptable with JavaScript
 - [routerkeygenPC](https://github.com/routerkeygen/routerkeygenPC) (308 stars) - Qt Port for Linux, Mac OSX and Windows
