@@ -1,2 +1,2 @@
 ## MoonScript (1 repositories) 
-- [lapis](https://github.com/leafo/lapis) (3343 stars) - A web framework for Lua and OpenResty written in MoonScript
+- [lapis](https://github.com/leafo/lapis) (3344 stars) - A web framework for Lua and OpenResty written in MoonScript

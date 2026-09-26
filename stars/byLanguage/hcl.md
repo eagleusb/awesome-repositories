@@ -1,4 +1,4 @@
-## HCL (23 repositories) 
+## HCL (22 repositories) 
 - [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (104 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (217 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
@@ -8,9 +8,8 @@
 - [stack](https://github.com/segmentio/stack) (2087 stars) - A set of Terraform modules for configuring production infrastructure with AWS
 - [teks](https://github.com/particuleio/teks) (359 stars) - Full feature EKS cluster with Terragrunt/Terraform
 - [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1263 stars) - High availability implementation of AWS NAT instances.
-- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (5006 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (5005 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (84 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
-- [terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) (3135 stars) - Terraform module for scalable GitHub action runners on AWS
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (962 stars) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) (41 stars) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
 - [terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) (358 stars) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.

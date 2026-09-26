@@ -8,10 +8,10 @@
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (342 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) (8 stars) - pgEdge Labs: pg_semantic_cache allows you to leverage vector embeddings to cache and retrieve query results based on semantic similarity.
 - [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (424 stars) - Simple and focused time-series tables for PostgreSQL
-- [pgai](https://github.com/timescale/pgai) (5804 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+- [pgai](https://github.com/timescale/pgai) (5805 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (41 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (56 stars) - Helper functions for working with the OpenAI API
-- [postgis](https://github.com/postgis/postgis) (2235 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
+- [postgis](https://github.com/postgis/postgis) (2236 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (262 stars) - SQLite Foreign Data Wrapper for PostgreSQL
 - [zombodb](https://github.com/zombodb/zombodb) (4719 stars) - Making Postgres and Elasticsearch work together like it's 2023
