@@ -5,6 +5,6 @@
 - [opengrep](https://github.com/opengrep/opengrep) (3118 stars) - 🔎 Static code analysis engine to find security issues in code.
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (319 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [pyre-check](https://github.com/facebook/pyre-check) (7171 stars) - Performant type-checking for python.
-- [reason](https://github.com/reasonml/reason) (10324 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [stategraph](https://github.com/stategraph/stategraph) (1284 stars) - Terraform without the state file bottleneck
-- [unison](https://github.com/bcpierce00/unison) (5496 stars) - Unison file synchronizer
+- [reason](https://github.com/reasonml/reason) (10323 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [stategraph](https://github.com/stategraph/stategraph) (1285 stars) - Terraform without the state file bottleneck
+- [unison](https://github.com/bcpierce00/unison) (5501 stars) - Unison file synchronizer
