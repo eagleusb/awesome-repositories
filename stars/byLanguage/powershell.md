@@ -1,6 +1,6 @@
 ## PowerShell (8 repositories) 
 - [ansible-fqdn](https://github.com/holms/ansible-fqdn) (98 stars) - Sets Fully qualified domain name (FQDN)
-- [architecture-center](https://github.com/MicrosoftDocs/architecture-center) (2022 stars) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
+- [architecture-center](https://github.com/MicrosoftDocs/architecture-center) (2021 stars) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
 - [azucar](https://github.com/nccgroup/azucar) (586 stars) - Security auditing tool for Azure environments
 - [boxstarter](https://github.com/chocolatey-community/boxstarter) (1368 stars) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [iDRAC-Redfish-Scripting](https://github.com/dell/iDRAC-Redfish-Scripting) (739 stars) - Python and PowerShell scripting for Dell EMC PowerEdge iDRAC REST API with DMTF Redfish
