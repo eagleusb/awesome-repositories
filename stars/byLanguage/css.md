@@ -1,19 +1,19 @@
 ## CSS (30 repositories) 
 - [98.css](https://github.com/jdan/98.css) (11513 stars) - A design system for building faithful recreations of old UIs
-- [arc-theme](https://github.com/horst3180/arc-theme) (8234 stars) - A flat theme with transparent elements
+- [arc-theme](https://github.com/horst3180/arc-theme) (8235 stars) - A flat theme with transparent elements
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9540 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2571 stars) - A list of history's greatest software engineers and tech pioneers
-- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3876 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3878 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cs16.css](https://github.com/ekmas/cs16.css) (2025 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [dalai](https://github.com/cocktailpeanut/dalai) (12889 stars) - The simplest way to run LLaMA on your local machine
-- [deezer-linux](https://github.com/aunetx/deezer-linux) (617 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
-- [Fira](https://github.com/mozilla/Fira) (5137 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
+- [dalai](https://github.com/cocktailpeanut/dalai) (12890 stars) - The simplest way to run LLaMA on your local machine
+- [deezer-linux](https://github.com/aunetx/deezer-linux) (618 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
+- [Fira](https://github.com/mozilla/Fira) (5136 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1386 stars) - A Golang based high performance, scalable and distributed workflow framework
 - [gtk](https://github.com/dracula/gtk) (1058 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2308 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2811 stars) - A simple, retro theme for Hugo
-- [juliamono](https://github.com/cormullion/juliamono) (1690 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2814 stars) - A simple, retro theme for Hugo
+- [juliamono](https://github.com/cormullion/juliamono) (1691 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [mazanoke](https://github.com/civilblur/mazanoke) (2712 stars) - A self-hosted local image optimizer that runs in your browser.
 - [Nordic](https://github.com/EliverLara/Nordic) (2736 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
@@ -23,8 +23,8 @@
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3369 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (126 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20453 stars) - Monospaced font family for user interface and coding environments
-- [source-sans](https://github.com/adobe-fonts/source-sans) (3754 stars) - Sans serif font family for user interface environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20451 stars) - Monospaced font family for user interface and coding environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) (3753 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2296 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11726 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7880 stars) - The JavaScript Way book

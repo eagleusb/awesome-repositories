@@ -1,7 +1,7 @@
 ## Elixir (8 repositories) 
-- [analytics](https://github.com/plausible/analytics) (29273 stars) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+- [analytics](https://github.com/plausible/analytics) (29279 stars) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [cog](https://github.com/operable/cog) (920 stars) - Bringing the power of the command line to chat
-- [firezone](https://github.com/firezone/firezone) (9108 stars) - Blazing-fast remote access
+- [firezone](https://github.com/firezone/firezone) (9110 stars) - Blazing-fast remote access
 - [Lynx](https://github.com/Clivern/Lynx) (366 stars) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
 - [phoenix](https://github.com/phoenixframework/phoenix) (23169 stars) - Peace of mind from prototype to production
 - [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) (6827 stars) - Rich, real-time user experiences with server-rendered HTML
