@@ -7,4 +7,4 @@
 - [jetstream](https://github.com/nats-io/jetstream) (475 stars) - JetStream Utilities
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) (105651 stars) - ✅ The Node.js best practices list (July 2026)
 - [rockchip-bsp](https://github.com/radxa/rockchip-bsp) (103 stars) - Linux BSP for ROCK Pi
-- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (406 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+- [static-ffmpeg](https://github.com/wader/static-ffmpeg) (407 stars) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
