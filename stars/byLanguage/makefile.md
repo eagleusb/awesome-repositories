@@ -1,9 +1,9 @@
 ## Makefile (17 repositories) 
 - [community.kubernetes](https://github.com/ansible-collections/community.kubernetes) (265 stars) - Kubernetes Collection for Ansible
-- [guide](https://github.com/uber-go/guide) (17733 stars) - The Uber Go Style Guide.
+- [guide](https://github.com/uber-go/guide) (17736 stars) - The Uber Go Style Guide.
 - [hellogopher](https://github.com/vincentbernat/hellogopher) (309 stars) - Makefile to build a Go project
 - [hermit](https://github.com/pcaro90/hermit) (547 stars) - Hermit is a monospace font designed to be clear, pragmatic and very readable.
-- [hubble](https://github.com/cilium/hubble) (4354 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [hubble](https://github.com/cilium/hubble) (4355 stars) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [k8s-clusters](https://github.com/grampelberg/k8s-clusters) (25 stars) - Simple kubernetes clusters on cloud providers for development
 - [kernel](https://github.com/gokrazy/kernel) (69 stars) - (Upstream) Linux kernel build for gokrazy
 - [keydb-operator](https://github.com/krestomatio/keydb-operator) (59 stars) - A KeyDB (Drop-In Alternative to Redis) Operator for Kubernetes, based on Ansible Operator SDK. 
@@ -11,7 +11,7 @@
 - [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2823 stars) - Just enough OS for KODI
 - [mindshub](https://github.com/mindsdb/mindshub) (39780 stars) - The unified workspace where open-source models get things done for you.
 - [openhue-api](https://github.com/openhue/openhue-api) (207 stars) - OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API
-- [pragmasevka](https://github.com/shytikov/pragmasevka) (456 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
+- [pragmasevka](https://github.com/shytikov/pragmasevka) (457 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (97 stars) - Lambda Layer providing sharp with HEIC support
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) (1058 stars) - Service Mesh Interface
 - [spec](https://github.com/container-storage-interface/spec) (1493 stars) - Container Storage Interface (CSI) Specification.

@@ -1,10 +1,10 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2270 repositories, 35.18%)
-- [Python](stars/byLanguage/python.md) (902 repositories, 13.98%)
+- [Go](stars/byLanguage/go.md) (2269 repositories, 35.16%)
+- [Python](stars/byLanguage/python.md) (903 repositories, 13.99%)
 - [TypeScript](stars/byLanguage/typescript.md) (552 repositories, 8.55%)
-- [Rust](stars/byLanguage/rust.md) (514 repositories, 7.97%)
+- [Rust](stars/byLanguage/rust.md) (514 repositories, 7.96%)
 - [JavaScript](stars/byLanguage/javascript.md) (427 repositories, 6.62%)
 
 ## All Languages
@@ -16,7 +16,7 @@
 - [BitBake](stars/byLanguage/bitbake.md) (1 repositories, 0.02%)
 - [C](stars/byLanguage/c.md) (360 repositories, 5.58%)
 - [C#](stars/byLanguage/c.md) (28 repositories, 0.43%)
-- [C++](stars/byLanguage/c.md) (232 repositories, 3.60%)
+- [C++](stars/byLanguage/c.md) (233 repositories, 3.61%)
 - [Clojure](stars/byLanguage/clojure.md) (8 repositories, 0.12%)
 - [CodeQL](stars/byLanguage/codeql.md) (1 repositories, 0.02%)
 - [CoffeeScript](stars/byLanguage/coffeescript.md) (2 repositories, 0.03%)
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2270 repositories, 35.18%)
+- [Go](stars/byLanguage/go.md) (2269 repositories, 35.16%)
 - [Go Template](stars/byLanguage/gotemplate.md) (3 repositories, 0.05%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -78,14 +78,14 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (8 repositories, 0.12%)
 - [Prolog](stars/byLanguage/prolog.md) (1 repositories, 0.02%)
-- [Python](stars/byLanguage/python.md) (902 repositories, 13.98%)
+- [Python](stars/byLanguage/python.md) (903 repositories, 13.99%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
 - [RobotFramework](stars/byLanguage/robotframework.md) (1 repositories, 0.02%)
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [Ruby](stars/byLanguage/ruby.md) (81 repositories, 1.26%)
-- [Rust](stars/byLanguage/rust.md) (514 repositories, 7.97%)
+- [Rust](stars/byLanguage/rust.md) (514 repositories, 7.96%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.15%)
 - [Shell](stars/byLanguage/shell.md) (145 repositories, 2.25%)

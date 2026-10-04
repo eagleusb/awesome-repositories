@@ -1,9 +1,9 @@
 ## CSS (30 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11512 stars) - A design system for building faithful recreations of old UIs
+- [98.css](https://github.com/jdan/98.css) (11513 stars) - A design system for building faithful recreations of old UIs
 - [arc-theme](https://github.com/horst3180/arc-theme) (8233 stars) - A flat theme with transparent elements
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9539 stars) - List of awesome CSS frameworks in 2026
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9538 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2571 stars) - A list of history's greatest software engineers and tech pioneers
-- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3879 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3880 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cs16.css](https://github.com/ekmas/cs16.css) (2025 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
 - [dalai](https://github.com/cocktailpeanut/dalai) (12890 stars) - The simplest way to run LLaMA on your local machine
@@ -15,7 +15,7 @@
 - [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2814 stars) - A simple, retro theme for Hugo
 - [juliamono](https://github.com/cormullion/juliamono) (1691 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
-- [mazanoke](https://github.com/civilblur/mazanoke) (2712 stars) - A self-hosted local image optimizer that runs in your browser.
+- [mazanoke](https://github.com/civilblur/mazanoke) (2711 stars) - A self-hosted local image optimizer that runs in your browser.
 - [Nordic](https://github.com/EliverLara/Nordic) (2735 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (171 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3829 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
@@ -23,8 +23,8 @@
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3368 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (126 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20451 stars) - Monospaced font family for user interface and coding environments
-- [source-sans](https://github.com/adobe-fonts/source-sans) (3753 stars) - Sans serif font family for user interface environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20450 stars) - Monospaced font family for user interface and coding environments
+- [source-sans](https://github.com/adobe-fonts/source-sans) (3756 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2296 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11726 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7880 stars) - The JavaScript Way book

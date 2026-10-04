@@ -1,5 +1,5 @@
 ## PLpgSQL (15 repositories) 
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3177 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3178 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg-trickle](https://github.com/trickle-labs/pg-trickle) (146 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
 - [pg_background](https://github.com/vibhorkum/pg_background) (257 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (101 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
