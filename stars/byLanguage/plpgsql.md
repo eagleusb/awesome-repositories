@@ -1,7 +1,7 @@
 ## PLpgSQL (15 repositories) 
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3178 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3181 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg-trickle](https://github.com/trickle-labs/pg-trickle) (146 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
-- [pg_background](https://github.com/vibhorkum/pg_background) (257 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
+- [pg_background](https://github.com/vibhorkum/pg_background) (258 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (101 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
 - [pg_partman](https://github.com/pgpartman/pg_partman) (2827 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (342 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
@@ -11,6 +11,6 @@
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (41 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (56 stars) - Helper functions for working with the OpenAI API
-- [postgis](https://github.com/postgis/postgis) (2237 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
+- [postgis](https://github.com/postgis/postgis) (2238 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (262 stars) - SQLite Foreign Data Wrapper for PostgreSQL
-- [zombodb](https://github.com/zombodb/zombodb) (4720 stars) - Making Postgres and Elasticsearch work together like it's 2023
+- [zombodb](https://github.com/zombodb/zombodb) (4719 stars) - Making Postgres and Elasticsearch work together like it's 2023
