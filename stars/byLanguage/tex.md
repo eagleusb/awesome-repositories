@@ -1,6 +1,6 @@
 ## TeX (5 repositories) 
-- [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) (701 stars) - Best Current Practices regarding secure online communication and configuration of services using cryptography.
-- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) (26200 stars) - The most cited deep learning papers
+- [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) (700 stars) - Best Current Practices regarding secure online communication and configuration of services using cryptography.
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) (26197 stars) - The most cited deep learning papers
 - [careers](https://github.com/gravitational/careers) (170 stars) - Apply at https://jobs.lever.co/teleport
 - [lkmpg](https://github.com/sysprog21/lkmpg) (8607 stars) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
-- [model-memory-calculator](https://github.com/KolosalAI/model-memory-calculator) (85 stars) - Simple model memory requirements calculator for GGUF
+- [model-memory-calculator](https://github.com/KolosalAI/model-memory-calculator) (84 stars) - Simple model memory requirements calculator for GGUF
