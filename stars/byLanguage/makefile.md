@@ -8,11 +8,11 @@
 - [kernel](https://github.com/gokrazy/kernel) (69 stars) - (Upstream) Linux kernel build for gokrazy
 - [keydb-operator](https://github.com/krestomatio/keydb-operator) (59 stars) - A KeyDB (Drop-In Alternative to Redis) Operator for Kubernetes, based on Ansible Operator SDK. 
 - [kubeadm-workshop](https://github.com/luxas/kubeadm-workshop) (677 stars) - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring
-- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2825 stars) - Just enough OS for KODI
-- [mindshub](https://github.com/mindsdb/mindshub) (39785 stars) - The unified workspace where open-source models get things done for you.
+- [LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) (2827 stars) - Just enough OS for KODI
+- [mindshub](https://github.com/mindsdb/mindshub) (39788 stars) - The unified workspace where open-source models get things done for you.
 - [openhue-api](https://github.com/openhue/openhue-api) (207 stars) - OpenHue API is an open-source project that provides a comprehensive OpenAPI specification for the Philips Hue REST API
-- [pragmasevka](https://github.com/shytikov/pragmasevka) (458 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
+- [pragmasevka](https://github.com/shytikov/pragmasevka) (460 stars) - Pragmata Pro doppelgänger made of Iosevka SS08
 - [sharp-heic-lambda-layer](https://github.com/zoellner/sharp-heic-lambda-layer) (97 stars) - Lambda Layer providing sharp with HEIC support
 - [smi-spec](https://github.com/servicemeshinterface/smi-spec) (1059 stars) - Service Mesh Interface
 - [spec](https://github.com/container-storage-interface/spec) (1492 stars) - Container Storage Interface (CSI) Specification.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4346 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) (4349 stars) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)

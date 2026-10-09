@@ -3,7 +3,7 @@
 - [pg-trickle](https://github.com/trickle-labs/pg-trickle) (147 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
 - [pg_background](https://github.com/vibhorkum/pg_background) (259 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (101 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
-- [pg_partman](https://github.com/pgpartman/pg_partman) (2831 stars) - Partition management extension for PostgreSQL
+- [pg_partman](https://github.com/pgpartman/pg_partman) (2832 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (342 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) (8 stars) - pgEdge Labs: pg_semantic_cache allows you to leverage vector embeddings to cache and retrieve query results based on semantic similarity.
 - [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (424 stars) - Simple and focused time-series tables for PostgreSQL
