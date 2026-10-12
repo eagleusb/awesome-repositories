@@ -5,10 +5,10 @@
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
 - [pgbouncer-containers](https://github.com/cloudnative-pg/pgbouncer-containers) (20 stars) - Optimized images for PgBouncer connection pooling.
 - [quickstart](https://github.com/rancher-archives/quickstart) (392 stars) - Unknown
-- [stack](https://github.com/segmentio/stack) (2086 stars) - A set of Terraform modules for configuring production infrastructure with AWS
+- [stack](https://github.com/segmentio/stack) (2085 stars) - A set of Terraform modules for configuring production infrastructure with AWS
 - [teks](https://github.com/particuleio/teks) (359 stars) - Full feature EKS cluster with Terragrunt/Terraform
 - [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1265 stars) - High availability implementation of AWS NAT instances.
-- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (5010 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (5009 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (84 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (962 stars) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) (41 stars) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
@@ -18,6 +18,6 @@
 - [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (713 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [terraform-kubernetes-addons](https://github.com/particuleio/terraform-kubernetes-addons) (210 stars) - Terraform module to deploy curated Kubernetes middlewares on multiple cloud providers.
 - [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) (744 stars) - Generate Atlantis config for Terragrunt projects.
-- [typhoon](https://github.com/poseidon/typhoon) (2053 stars) - Minimal and free Kubernetes distribution with Terraform
+- [typhoon](https://github.com/poseidon/typhoon) (2054 stars) - Minimal and free Kubernetes distribution with Terraform
 - [vault-on-gke](https://github.com/sethvargo/vault-on-gke) (496 stars) - Run @HashiCorp Vault on Google Kubernetes Engine (GKE) with Terraform
 - [vault-raft-backup-agent](https://github.com/adfinis/vault-raft-backup-agent) (18 stars) - Vault Raft Integrated Storage Snapshot Automation
