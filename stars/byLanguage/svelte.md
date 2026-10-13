@@ -1,11 +1,11 @@
 ## Svelte (10 repositories) 
-- [agx](https://github.com/agnosticeng/agx) (263 stars) - AI Powered Analytics
-- [cobalt](https://github.com/imputnet/cobalt) (44877 stars) - best way to save what you love
+- [agx](https://github.com/agnosticeng/agx) (262 stars) - AI Powered Analytics
+- [cobalt](https://github.com/imputnet/cobalt) (44923 stars) - best way to save what you love
 - [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1116 stars) - Admin Web Interface for juanfont/headscale
 - [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2730 stars) - A web frontend for the headscale Tailscale-compatible coordination server
-- [mathesar](https://github.com/mathesar-foundation/mathesar) (5150 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.
-- [nah.pet](https://github.com/heyitswit/nah.pet) (155 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
+- [mathesar](https://github.com/mathesar-foundation/mathesar) (5151 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.
+- [nah.pet](https://github.com/heyitswit/nah.pet) (154 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
 - [networking-toolbox](https://github.com/lissy93/networking-toolbox) (2687 stars) - 🛜 100+ offline-first networking tools and utilities
 - [photon](https://github.com/Xyphyn/photon) (557 stars) - A faster, prettier, and nicer fediverse client
 - [tidal-ui](https://github.com/binimum/tidal-ui) (1342 stars) - Simple Tidal frontend. Modified version on tidal.squid.wtf
-- [webvm](https://github.com/leaningtech/webvm) (17429 stars) - Virtual Machine for the Web
+- [webvm](https://github.com/leaningtech/webvm) (17427 stars) - Virtual Machine for the Web
