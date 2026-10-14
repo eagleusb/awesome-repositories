@@ -1,9 +1,9 @@
 ## Svelte (10 repositories) 
 - [agx](https://github.com/agnosticeng/agx) (262 stars) - AI Powered Analytics
-- [cobalt](https://github.com/imputnet/cobalt) (44923 stars) - best way to save what you love
-- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1116 stars) - Admin Web Interface for juanfont/headscale
-- [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2730 stars) - A web frontend for the headscale Tailscale-compatible coordination server
-- [mathesar](https://github.com/mathesar-foundation/mathesar) (5151 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.
+- [cobalt](https://github.com/imputnet/cobalt) (44960 stars) - best way to save what you love
+- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1115 stars) - Admin Web Interface for juanfont/headscale
+- [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2729 stars) - A web frontend for the headscale Tailscale-compatible coordination server
+- [mathesar](https://github.com/mathesar-foundation/mathesar) (5149 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.
 - [nah.pet](https://github.com/heyitswit/nah.pet) (154 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
 - [networking-toolbox](https://github.com/lissy93/networking-toolbox) (2687 stars) - 🛜 100+ offline-first networking tools and utilities
 - [photon](https://github.com/Xyphyn/photon) (557 stars) - A faster, prettier, and nicer fediverse client
