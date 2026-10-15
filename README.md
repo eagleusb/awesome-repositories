@@ -1,8 +1,8 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2272 repositories, 35.12%)
-- [Python](stars/byLanguage/python.md) (901 repositories, 13.93%)
+- [Go](stars/byLanguage/go.md) (2272 repositories, 35.13%)
+- [Python](stars/byLanguage/python.md) (900 repositories, 13.91%)
 - [TypeScript](stars/byLanguage/typescript.md) (560 repositories, 8.66%)
 - [Rust](stars/byLanguage/rust.md) (519 repositories, 8.02%)
 - [JavaScript](stars/byLanguage/javascript.md) (425 repositories, 6.57%)
@@ -37,7 +37,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2272 repositories, 35.12%)
+- [Go](stars/byLanguage/go.md) (2272 repositories, 35.13%)
 - [Go Template](stars/byLanguage/gotemplate.md) (3 repositories, 0.05%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -78,7 +78,7 @@
 - [PostScript](stars/byLanguage/postscript.md) (1 repositories, 0.02%)
 - [PowerShell](stars/byLanguage/powershell.md) (8 repositories, 0.12%)
 - [Prolog](stars/byLanguage/prolog.md) (1 repositories, 0.02%)
-- [Python](stars/byLanguage/python.md) (901 repositories, 13.93%)
+- [Python](stars/byLanguage/python.md) (900 repositories, 13.91%)
 - [QML](stars/byLanguage/qml.md) (1 repositories, 0.02%)
 - [R](stars/byLanguage/r.md) (2 repositories, 0.03%)
 - [Reason](stars/byLanguage/reason.md) (2 repositories, 0.03%)
@@ -101,8 +101,8 @@
 - [Unknown](stars/byLanguage/unknown.md) (277 repositories, 4.28%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
+- [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (14 repositories, 0.22%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)
