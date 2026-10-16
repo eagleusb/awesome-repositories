@@ -1,13 +1,13 @@
 ## Swift (12 repositories) 
-- [agent-sessions](https://github.com/jazzyalex/agent-sessions) (901 stars) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
-- [Amethyst](https://github.com/ianyh/Amethyst) (16294 stars) - Automatic tiling window manager for macOS à la xmonad.
-- [bitchat](https://github.com/permissionlesstech/bitchat) (36580 stars) - bluetooth mesh chat, IRC vibes
+- [agent-sessions](https://github.com/jazzyalex/agent-sessions) (903 stars) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
+- [Amethyst](https://github.com/ianyh/Amethyst) (16295 stars) - Automatic tiling window manager for macOS à la xmonad.
+- [bitchat](https://github.com/permissionlesstech/bitchat) (36599 stars) - bluetooth mesh chat, IRC vibes
 - [Cilicon](https://github.com/traderepublic/Cilicon) (1194 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [container](https://github.com/apple/container) (50685 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [FluidAudio](https://github.com/FluidInference/FluidAudio) (3079 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
-- [FluidVoice](https://github.com/altic-dev/FluidVoice) (12144 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp
+- [container](https://github.com/apple/container) (50710 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [FluidAudio](https://github.com/FluidInference/FluidAudio) (3105 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
+- [FluidVoice](https://github.com/altic-dev/FluidVoice) (12207 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp
 - [iGlance](https://github.com/iglance/iGlance) (2490 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
-- [PairPods](https://github.com/wozniakpawel/PairPods) (861 stars) - Free and open source app to share audio on macOS
-- [stats](https://github.com/exelban/stats) (42567 stars) - macOS system monitor in your menu bar
-- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4223 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (27255 stars) - Free and open-source macOS menu bar toolkit.
+- [PairPods](https://github.com/wozniakpawel/PairPods) (862 stars) - Free and open source app to share audio on macOS
+- [stats](https://github.com/exelban/stats) (42578 stars) - macOS system monitor in your menu bar
+- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4226 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (27477 stars) - Free and open-source macOS menu bar toolkit.
