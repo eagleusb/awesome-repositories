@@ -1,11 +1,11 @@
 ## Svelte (10 repositories) 
 - [agx](https://github.com/agnosticeng/agx) (261 stars) - AI Powered Analytics
-- [cobalt](https://github.com/imputnet/cobalt) (45017 stars) - best way to save what you love
-- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1116 stars) - Admin Web Interface for juanfont/headscale
+- [cobalt](https://github.com/imputnet/cobalt) (45040 stars) - best way to save what you love
+- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1117 stars) - Admin Web Interface for juanfont/headscale
 - [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2730 stars) - A web frontend for the headscale Tailscale-compatible coordination server
-- [mathesar](https://github.com/mathesar-foundation/mathesar) (5152 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.
+- [mathesar](https://github.com/mathesar-foundation/mathesar) (5153 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.
 - [nah.pet](https://github.com/heyitswit/nah.pet) (154 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
-- [networking-toolbox](https://github.com/lissy93/networking-toolbox) (2689 stars) - 🛜 100+ offline-first networking tools and utilities
+- [networking-toolbox](https://github.com/lissy93/networking-toolbox) (2690 stars) - 🛜 100+ offline-first networking tools and utilities
 - [photon](https://github.com/Xyphyn/photon) (557 stars) - A faster, prettier, and nicer fediverse client
-- [tidal-ui](https://github.com/binimum/tidal-ui) (1342 stars) - Simple Tidal frontend. Modified version on tidal.squid.wtf
-- [webvm](https://github.com/leaningtech/webvm) (17430 stars) - Virtual Machine for the Web
+- [tidal-ui](https://github.com/binimum/tidal-ui) (1341 stars) - Simple Tidal frontend. Modified version on tidal.squid.wtf
+- [webvm](https://github.com/leaningtech/webvm) (17431 stars) - Virtual Machine for the Web
