@@ -5,7 +5,7 @@
 - [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) (593 stars) - Query Performance Monitoring Tool for PostgreSQL
 - [pgbadger](https://github.com/darold/pgbadger) (4072 stars) - A fast PostgreSQL Log Analyzer
 - [pgcluu](https://github.com/darold/pgcluu) (348 stars) - PostgreSQL Cluster performances monitoring and auditing tool
-- [SmokePing](https://github.com/oetiker/SmokePing) (1974 stars) - The Active Monitoring System
+- [SmokePing](https://github.com/oetiker/SmokePing) (1975 stars) - The Active Monitoring System
 - [sqitch](https://github.com/sqitchers/sqitch) (3173 stars) - Sensible database change management
 - [swi_setusbcomp](https://github.com/mavstuff/swi_setusbcomp) (11 stars) - MC7354 revert USB compositions script
 - [trurl](https://github.com/curl/trurl) (3359 stars) - a command line tool for URL parsing and manipulation.
