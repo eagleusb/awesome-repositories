@@ -1,21 +1,21 @@
 ## CSS (32 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11561 stars) - A design system for building faithful recreations of old UIs
+- [98.css](https://github.com/jdan/98.css) (11562 stars) - A design system for building faithful recreations of old UIs
 - [arc-theme](https://github.com/horst3180/arc-theme) (8235 stars) - A flat theme with transparent elements
-- [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) (17285 stars) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9554 stars) - List of awesome CSS frameworks in 2026
+- [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) (17294 stars) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9556 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2575 stars) - A list of history's greatest software engineers and tech pioneers
-- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3901 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-- [cs16.css](https://github.com/ekmas/cs16.css) (2028 stars) - CSS library based on Counter Strike 1.6 UI.
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3902 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [cs16.css](https://github.com/ekmas/cs16.css) (2027 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
-- [curriculum](https://github.com/opsschool/curriculum) (1632 stars) - Ops School Curriculum
+- [curriculum](https://github.com/opsschool/curriculum) (1631 stars) - Ops School Curriculum
 - [dalai](https://github.com/cocktailpeanut/dalai) (12878 stars) - The simplest way to run LLaMA on your local machine
 - [deezer-linux](https://github.com/aunetx/deezer-linux) (629 stars) - An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...
 - [Fira](https://github.com/mozilla/Fira) (5136 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1380 stars) - A Golang based high performance, scalable and distributed workflow framework
-- [gtk](https://github.com/dracula/gtk) (1057 stars) - 🧛🏻‍♂️ Dark theme for GTK
+- [gtk](https://github.com/dracula/gtk) (1056 stars) - 🧛🏻‍♂️ Dark theme for GTK
 - [http2-explained](https://github.com/bagder/http2-explained) (2306 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2813 stars) - A simple, retro theme for Hugo
-- [juliamono](https://github.com/cormullion/juliamono) (1699 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2814 stars) - A simple, retro theme for Hugo
+- [juliamono](https://github.com/cormullion/juliamono) (1700 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [mazanoke](https://github.com/civilblur/mazanoke) (2725 stars) - A self-hosted local image optimizer that runs in your browser.
 - [Nordic](https://github.com/EliverLara/Nordic) (2736 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
@@ -25,7 +25,7 @@
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
 - [rfs](https://github.com/twbs/rfs) (3371 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (126 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20457 stars) - Monospaced font family for user interface and coding environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20458 stars) - Monospaced font family for user interface and coding environments
 - [source-sans](https://github.com/adobe-fonts/source-sans) (3773 stars) - Sans serif font family for user interface environments
 - [tabler-react](https://github.com/tabler/tabler-react) (2297 stars) - React components and demo for the Tabler UI theme.
 - [tachyons](https://github.com/tachyons-css/tachyons) (11724 stars) - Functional css for humans
