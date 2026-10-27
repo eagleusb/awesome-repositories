@@ -2,99 +2,99 @@
 - [50k-addons](https://github.com/50k-Customs/50k-addons) (31 stars) - Legendary mod pack with most useful truck hookup addons for Euro Truck Simulator 2.
 - [AgileLite](https://github.com/davebs/AgileLite) (2072 stars) - Agile software development without all the burnout.
 - [Akamai-ASN-and-IPs-List](https://github.com/platformbuilds/Akamai-ASN-and-IPs-List) (98 stars) - Hourly checked and updated IP Lists of Akamai Servers using the ASN Numbers from RADB Lookups
-- [android](https://github.com/LineageOS/android) (4719 stars) - Unknown
+- [android](https://github.com/LineageOS/android) (4721 stars) - Unknown
 - [ansible-lockdown](https://github.com/ansible/ansible-lockdown) (457 stars) - Archived, new content in https://github.com/ansible-lockdown
 - [ansible-maas](https://github.com/mrlesmithjr/ansible-maas) (22 stars) - An Ansible role to install/configure MAAS
 - [anvil](https://github.com/openstack-archive/anvil) (66 stars) - MOVED: now at https://opendev.org/x/anvil
 - [api-guidelines](https://github.com/microsoft/api-guidelines) (23341 stars) - Microsoft REST API Guidelines
-- [AppImageKit](https://github.com/AppImage/AppImageKit) (9452 stars) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
+- [AppImageKit](https://github.com/AppImage/AppImageKit) (9453 stars) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 - [aptakube](https://github.com/aptakube/aptakube) (875 stars) - Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux.
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss) (2872 stars) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
-- [awesome](https://github.com/sindresorhus/awesome) (524760 stars) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
-- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) (30644 stars) - A list of AI autonomous agents
-- [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) (625 stars) - 🗣Curated list of awesome resources for the Amazon Alexa platform.
+- [awesome](https://github.com/sindresorhus/awesome) (525279 stars) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) (30667 stars) - A list of AI autonomous agents
+- [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) (626 stars) - 🗣Curated list of awesome resources for the Amazon Alexa platform.
 - [awesome-analytics](https://github.com/oxnr/awesome-analytics) (4327 stars) - A curated list of analytics frameworks, software and other tools.
 - [awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) (4013 stars) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) (139 stars) - Resources to learn and implement authentication in your application
-- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) (23622 stars) - A curated list of awesome computer vision resources
-- [awesome-consensus](https://github.com/dgryski/awesome-consensus) (2149 stars) - Awesome list for Paxos and friends
-- [awesome-console-services](https://github.com/chubin/awesome-console-services) (6581 stars) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) (23623 stars) - A curated list of awesome computer vision resources
+- [awesome-consensus](https://github.com/dgryski/awesome-consensus) (2150 stars) - Awesome list for Paxos and friends
+- [awesome-console-services](https://github.com/chubin/awesome-console-services) (6584 stars) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [awesome-consul](https://github.com/josegonzalez/awesome-consul) (276 stars) - A list of awesome consul projects, libraries
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) (72236 stars) - :books: List of awesome university courses for learning Computer Science!
-- [awesome-crawler](https://github.com/BruceDone/awesome-crawler) (7351 stars) - A collection of awesome web crawler,spider in different languages
-- [awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) (2541 stars) - Awesome crypto trading bots
-- [awesome-datascience](https://github.com/academic/awesome-datascience) (30241 stars) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) (49503 stars) - A curated list of software and architecture related design patterns.
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (37108 stars) - :whale: A curated list of Docker resources and projects
-- [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) (10915 stars) - A curated list of dotfiles resources.
-- [awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) (2535 stars) - 🦆 A curated list of awesome DuckDB resources
-- [awesome-etl](https://github.com/pawl/awesome-etl) (3597 stars) - A curated list of awesome ETL frameworks, libraries, and software.
-- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) (27798 stars) - 😱 Falsehoods Programmers Believe in
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) (72273 stars) - :books: List of awesome university courses for learning Computer Science!
+- [awesome-crawler](https://github.com/BruceDone/awesome-crawler) (7352 stars) - A collection of awesome web crawler,spider in different languages
+- [awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) (2542 stars) - Awesome crypto trading bots
+- [awesome-datascience](https://github.com/academic/awesome-datascience) (30244 stars) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) (49515 stars) - A curated list of software and architecture related design patterns.
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) (37117 stars) - :whale: A curated list of Docker resources and projects
+- [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) (10914 stars) - A curated list of dotfiles resources.
+- [awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) (2536 stars) - 🦆 A curated list of awesome DuckDB resources
+- [awesome-etl](https://github.com/pawl/awesome-etl) (3598 stars) - A curated list of awesome ETL frameworks, libraries, and software.
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) (27801 stars) - 😱 Falsehoods Programmers Believe in
 - [awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) (947 stars) - A list of awesome things related to FeathersJS
-- [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) (24550 stars) - 🐬 A collection of awesome resources for the Flipper Zero device.
-- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) (2563 stars) - A curated list of awesome things related to functional programming in Python.
-- [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) (1566 stars) - A collection of awesome things regarding the gemini protocol ecosystem.
-- [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) (12770 stars) - A curated list of modern Generative Artificial Intelligence projects and services
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) (2212 stars) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [awesome-gitops](https://github.com/weaveworks/awesome-gitops) (1730 stars) - A curated list for awesome GitOps resources
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) (123642 stars) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [awesome-hacking](https://github.com/carpedm20/awesome-hacking) (17351 stars) - A curated list of awesome Hacking tutorials, tools and resources
+- [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) (24558 stars) - 🐬 A collection of awesome resources for the Flipper Zero device.
+- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) (2564 stars) - A curated list of awesome things related to functional programming in Python.
+- [awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) (1567 stars) - A collection of awesome things regarding the gemini protocol ecosystem.
+- [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) (12775 stars) - A curated list of modern Generative Artificial Intelligence projects and services
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) (2213 stars) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+- [awesome-gitops](https://github.com/weaveworks/awesome-gitops) (1731 stars) - A curated list for awesome GitOps resources
+- [awesome-hacking](https://github.com/carpedm20/awesome-hacking) (17358 stars) - A curated list of awesome Hacking tutorials, tools and resources
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) (123732 stars) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) (1117 stars) - A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
-- [awesome-he](https://github.com/jonaschn/awesome-he) (1261 stars) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources
-- [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) (9502 stars) - A curated list of tools for incident response
-- [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) (819 stars) - A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
-- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) (85204 stars) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
-- [awesome-iroh](https://github.com/n0-computer/awesome-iroh) (587 stars) - Curated list of awesome stuff built on & with iroh
+- [awesome-he](https://github.com/jonaschn/awesome-he) (1262 stars) - ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources
+- [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) (9506 stars) - A curated list of tools for incident response
+- [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) (820 stars) - A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) (85231 stars) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
+- [awesome-iroh](https://github.com/n0-computer/awesome-iroh) (590 stars) - Curated list of awesome stuff built on & with iroh
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) (35036 stars) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) (4243 stars) - A curated list of awesome Kubernetes tools and resources.
-- [awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) (886 stars) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+- [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) (4244 stars) - A curated list of awesome Kubernetes tools and resources.
+- [awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) (887 stars) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) (1009 stars) - Curated list of kubectl plugins
 - [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) (922 stars) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
-- [awesome-lua](https://github.com/LewisJEllis/awesome-lua) (4589 stars) - A curated list of quality Lua packages and resources.
-- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) (19390 stars) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) (31045 stars) - Use your macOS terminal shell to do awesome things.
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) (96873 stars) - A collection of MCP servers.
+- [awesome-lua](https://github.com/LewisJEllis/awesome-lua) (4590 stars) - A curated list of quality Lua packages and resources.
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) (19394 stars) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) (31052 stars) - Use your macOS terminal shell to do awesome things.
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) (96911 stars) - A collection of MCP servers.
 - [awesome-microvm](https://github.com/myugan/awesome-microvm) (81 stars) - 📚 A curated list of awesome microVM resources 
-- [awesome-mlops](https://github.com/visenger/awesome-mlops) (14250 stars) - A curated list of references for MLOps 
-- [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) (780 stars) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) (67269 stars) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
+- [awesome-mlops](https://github.com/visenger/awesome-mlops) (14253 stars) - A curated list of references for MLOps 
+- [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) (781 stars) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) (67282 stars) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [awesome-open](https://github.com/paulhendricks/awesome-open) (100 stars) - A curated list of awesome Open Organizations and Communities!
-- [awesome-operators](https://github.com/operator-framework/awesome-operators) (3505 stars) - A resource tracking a number of Operators out in the wild.
+- [awesome-operators](https://github.com/operator-framework/awesome-operators) (3506 stars) - A resource tracking a number of Operators out in the wild.
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) (3435 stars) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
-- [awesome-pentest](https://github.com/enaqx/awesome-pentest) (27552 stars) - A collection of awesome penetration testing resources and tools
-- [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) (6631 stars) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
-- [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) (13143 stars) - Collection of awesome podcasts
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest) (27564 stars) - A collection of awesome penetration testing resources and tools
+- [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) (6632 stars) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) (13145 stars) - Collection of awesome podcasts
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) (12124 stars) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) (21037 stars) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) (79743 stars) - A topic-centric list of HQ open datasets.
-- [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) (3287 stars) - A curated list of awesome quantum computing learning and developing resources.
-- [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) (7784 stars) - A curated list of projects related to the reMarkable tablet
-- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) (49882 stars) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) (21043 stars) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) (79765 stars) - A topic-centric list of HQ open datasets.
+- [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) (3289 stars) - A curated list of awesome quantum computing learning and developing resources.
+- [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) (7785 stars) - A curated list of projects related to the reMarkable tablet
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) (49932 stars) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [awesome-resty](https://github.com/bungle/awesome-resty) (2481 stars) - A List of Quality OpenResty Libraries, and Resources.
-- [awesome-ruby](https://github.com/markets/awesome-ruby) (14180 stars) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) (75095 stars) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [awesome-security](https://github.com/sbilly/awesome-security) (15035 stars) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (330478 stars) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [awesome-ruby](https://github.com/markets/awesome-ruby) (14181 stars) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) (75117 stars) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [awesome-security](https://github.com/sbilly/awesome-security) (15039 stars) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (330816 stars) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-serverless](https://github.com/anaibol/awesome-serverless) (7591 stars) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-- [awesome-shell](https://github.com/alebcay/awesome-shell) (37840 stars) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) (5890 stars) - A collection of ergonomic split keyboards ⌨
-- [awesome-sre](https://github.com/dastergon/awesome-sre) (13742 stars) - A curated list of Site Reliability and Production Engineering resources.
-- [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) (2974 stars) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
-- [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) (3831 stars) - Awesome list of status page open source software, services and public status pages of major internet companies
-- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (35506 stars) - A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-tf](https://github.com/shuaibiyy/awesome-tf) (6625 stars) - Curated list of resources on HashiCorp's Terraform and OpenTofu
-- [awesome-tmux](https://github.com/rothgar/awesome-tmux) (10416 stars) - A list of awesome resources for tmux
-- [awesome-tuis](https://github.com/rothgar/awesome-tuis) (20986 stars) - List of projects that provide terminal user interfaces
-- [awesome-unix](https://github.com/sirredbeard/awesome-unix) (1788 stars) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [awesome-v](https://github.com/vlang/awesome-v) (2119 stars) - A curated list of awesome V frameworks, libraries, software and resources.
-- [awesome-vue](https://github.com/vuejs/awesome-vue) (73509 stars) - 🎉 A curated list of awesome things related to Vue.js
-- [awesome-wasm](https://github.com/mbasso/awesome-wasm) (9657 stars) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
+- [awesome-shell](https://github.com/alebcay/awesome-shell) (37841 stars) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) (5889 stars) - A collection of ergonomic split keyboards ⌨
+- [awesome-sre](https://github.com/dastergon/awesome-sre) (13740 stars) - A curated list of Site Reliability and Production Engineering resources.
+- [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) (2976 stars) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
+- [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) (3832 stars) - Awesome list of status page open source software, services and public status pages of major internet companies
+- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (35519 stars) - A curated list of amazingly awesome open-source sysadmin resources.
+- [awesome-tf](https://github.com/shuaibiyy/awesome-tf) (6626 stars) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+- [awesome-tmux](https://github.com/rothgar/awesome-tmux) (10418 stars) - A list of awesome resources for tmux
+- [awesome-tuis](https://github.com/rothgar/awesome-tuis) (20994 stars) - List of projects that provide terminal user interfaces
+- [awesome-unix](https://github.com/sirredbeard/awesome-unix) (1789 stars) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [awesome-v](https://github.com/vlang/awesome-v) (2120 stars) - A curated list of awesome V frameworks, libraries, software and resources.
+- [awesome-vue](https://github.com/vuejs/awesome-vue) (73505 stars) - 🎉 A curated list of awesome things related to Vue.js
+- [awesome-wasm](https://github.com/mbasso/awesome-wasm) (9658 stars) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 - [awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) (4452 stars) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
-- [awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) (1508 stars) - A curated list of WireGuard tools, projects, and resources.
-- [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) (7953 stars) - A curated list of awesome open source workflow engines
+- [awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) (1509 stars) - A curated list of WireGuard tools, projects, and resources.
+- [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) (7954 stars) - A curated list of awesome open source workflow engines
 - [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) (936 stars) - A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
 - [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) (16987 stars) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
-- [bash-guide](https://github.com/Idnan/bash-guide) (12452 stars) - A guide to learn bash
+- [bash-guide](https://github.com/Idnan/bash-guide) (12453 stars) - A guide to learn bash
 - [BoilingFrogs](https://github.com/gchq/BoilingFrogs) (631 stars) - GCHQ's internal Boiling Frogs research paper on software development and organisational change in the face of disruption #boilingfrogs
 - [boo-grub](https://github.com/PROxZIMA/boo-grub) (21 stars) - A dark GRUB bootloader theme based on Dracula grub
 - [branca-spec](https://github.com/tuupola/branca-spec) (236 stars) - Authenticated and encrypted API tokens using modern crypto
@@ -102,58 +102,58 @@
 - [careers](https://github.com/edgee-ai/careers) (5 stars) - Check out our current job openings on the issues page.
 - [case](https://github.com/kiibohd/case) (225 stars) - Cad files for cases plates and related mechanicals.
 - [cernvm-kernel](https://github.com/cernvm/cernvm-kernel) (2 stars) - Build configuration for µCernVM Linux kernel and busybox
-- [Cloud-Product-Mapping](https://github.com/milanm/Cloud-Product-Mapping) (927 stars) - All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages. 
+- [Cloud-Product-Mapping](https://github.com/milanm/Cloud-Product-Mapping) (928 stars) - All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages. 
 - [cn-ref](https://github.com/mhausenblas/cn-ref) (79 stars) - A collection of tools and references around container networking
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) (363390 stars) - A complete computer science study plan to become a software engineer.
-- [community](https://github.com/aws-controllers-k8s/community) (2637 stars) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) (363435 stars) - A complete computer science study plan to become a software engineer.
+- [community](https://github.com/aws-controllers-k8s/community) (2636 stars) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) (2833 stars) - Collection of resources spanning key areas of Computer Science
 - [Condensation](https://github.com/CondensationDS/Condensation) (442 stars) - Condensation is an open-source data system for building cloud applications while keeping the ownership of data.
 - [ContainerApplicationGenericLabels](https://github.com/projectatomic/ContainerApplicationGenericLabels) (66 stars) - Default Containerized Application Labels used to document the application and/or image
 - [Contra](https://github.com/ai03-2725/Contra) (196 stars) - Contra - Lowest cost ortholinear keyboard kit possible
 - [ContraPlates](https://github.com/ai03-2725/ContraPlates) (25 stars) - A basic PCB case for Contra
-- [copilot-docs](https://github.com/github/copilot-docs) (23173 stars) - Documentation for GitHub Copilot
+- [copilot-docs](https://github.com/github/copilot-docs) (23172 stars) - Documentation for GitHub Copilot
 - [country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) (920 stars) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror.
 - [coupler](https://github.com/OpenIPC/coupler) (121 stars) - Seamless transition between video cameras firmware
 - [cozy](https://github.com/cozy/cozy) (447 stars) - Simple, Versatile, Yours
 - [cryfs-gui](https://github.com/mhogomchungu/cryfs-gui) (20 stars) - A Qt/C++ GUI front end to cryfs,gocryptfs and encfs
 - [CryptoList](https://github.com/coinpride/CryptoList) (4490 stars) - Curated collection of blockchain & cryptocurrency resources.
-- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) (83768 stars) - List of Computer Science courses with video lectures.
-- [curriculum](https://github.com/cncf/curriculum) (6858 stars) - 📚Open Source Curriculum for CNCF Certification Courses
-- [cursor](https://github.com/cursor/cursor) (33290 stars) - Unknown
-- [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) (4038 stars) - A list of useful resources to learn Data Engineering from scratch
-- [data-science](https://github.com/ossu/data-science) (22318 stars) - 📊 Path to a free self-taught education in Data Science!
-- [daytona](https://github.com/daytonaio/daytona) (71481 stars) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (91957 stars) - Unknown
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) (83771 stars) - List of Computer Science courses with video lectures.
+- [curriculum](https://github.com/cncf/curriculum) (6860 stars) - 📚Open Source Curriculum for CNCF Certification Courses
+- [cursor](https://github.com/cursor/cursor) (33293 stars) - Unknown
+- [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) (4037 stars) - A list of useful resources to learn Data Engineering from scratch
+- [data-science](https://github.com/ossu/data-science) (22325 stars) - 📊 Path to a free self-taught education in Data Science!
+- [daytona](https://github.com/daytonaio/daytona) (71463 stars) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (91964 stars) - Unknown
 - [discipline](https://github.com/coseyfannitutti/discipline) (1007 stars) - 65% keyboard assembled with only through hole components, including usb type-c
-- [dmls-book](https://github.com/chiphuyen/dmls-book) (5422 stars) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
+- [dmls-book](https://github.com/chiphuyen/dmls-book) (5424 stars) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 - [dnsguide](https://github.com/EmilHernvall/dnsguide) (4687 stars) - A guide to writing a DNS Server from scratch in Rust
 - [ebiose](https://github.com/ebiose-ai/ebiose) (105 stars) - The self-evolving AI factory: an open-source framework that builds, evaluates and evolves AI agents for your task. An Inria spin-off.
 - [EightBit-Atari-Fonts](https://github.com/a8bit/EightBit-Atari-Fonts) (519 stars) - Fonts generated from original bitmaps from Atari 8bit computers
-- [eng-practices](https://github.com/google/eng-practices) (23280 stars) - Google's Engineering Practices documentation
+- [eng-practices](https://github.com/google/eng-practices) (23279 stars) - Google's Engineering Practices documentation
 - [engineering-principles](https://github.com/zalando/engineering-principles) (408 stars) - Our guidelines for building new applications and managing legacy systems
-- [ErgoDash](https://github.com/omkbd/ErgoDash) (726 stars) - keyboard
+- [ErgoDash](https://github.com/omkbd/ErgoDash) (727 stars) - keyboard
 - [Ergodox_BLE](https://github.com/harshitgoel96/Ergodox_BLE) (40 stars) - PCB to make Ergodox work with bluemicro and protonc
 - [ES6-Learning](https://github.com/ericdouglas/ES6-Learning) (4519 stars) - :clipboard: List of resources to learn ECMAScript 6!
-- [ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) (1750 stars) - A categorized collection of FFmpeg commands for video automation pipelines.
+- [ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) (1751 stars) - A categorized collection of FFmpeg commands for video automation pipelines.
 - [FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX) (372 stars) - A set of AMD provided GPU effects with provided source and sample implementations
 - [fleet](https://github.com/kolide/fleet) (1098 stars) - A flexible control server for osquery fleets
 - [fluent-bit-kubernetes-logging](https://github.com/fluent/fluent-bit-kubernetes-logging) (467 stars) - Fluent Bit Kubernetes Daemonset
 - [formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18) (321 stars) - Formation PostgreSQL 18 | De débutant à avancé | 21 chapitres + 7 annexes | Architecture, SQL avancé, Performance, HA, Production | Français
 - [france.code-civil](https://github.com/steeve/france.code-civil) (2687 stars) - Le code civil français sous git
-- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) (47672 stars) - Manually curated collection of resources for frontend web developers.
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) (47680 stars) - Manually curated collection of resources for frontend web developers.
 - [fwupdate](https://github.com/rhboot/fwupdate) (100 stars) - System firmware update support for UEFI machines
-- [geckodriver](https://github.com/mozilla/geckodriver) (7476 stars) - WebDriver Classic proxy for automating Firefox through Marionette
+- [geckodriver](https://github.com/mozilla/geckodriver) (7475 stars) - WebDriver Classic proxy for automating Firefox through Marionette
 - [getting-started](https://github.com/operator-framework/getting-started) (527 stars) - An end-to-end scenario showing how to use the Operator Framework.
 - [gh60](https://github.com/komar007/gh60) (873 stars) - GH60 - an open-source mechanical keyboard PCB designed for the community at geekhack.org
-- [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) (7486 stars) - :octocat: git and git flow cheat sheet
-- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) (42583 stars) - Flight rules for git
-- [gitignore](https://github.com/github/gitignore) (176058 stars) - A collection of useful .gitignore templates
-- [go-perfbook](https://github.com/dgryski/go-perfbook) (10892 stars) - Thoughts on Go performance optimization
-- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) (8034 stars) - A curated selection of blog posts on Go
+- [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) (7485 stars) - :octocat: git and git flow cheat sheet
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) (42582 stars) - Flight rules for git
+- [gitignore](https://github.com/github/gitignore) (176070 stars) - A collection of useful .gitignore templates
+- [go-perfbook](https://github.com/dgryski/go-perfbook) (10891 stars) - Thoughts on Go performance optimization
+- [gopher-reading-list](https://github.com/enocom/gopher-reading-list) (8033 stars) - A curated selection of blog posts on Go
 - [gostart](https://github.com/alco/gostart) (1809 stars) - A getting started guide for Go newcomers
 - [guide](https://github.com/hobby-kube/guide) (5660 stars) -  Kubernetes clusters for the hobbyist.
 - [hamlet](https://github.com/vmware-archive/hamlet) (86 stars) - Multi-Vendor Service Mesh Interoperation
-- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) (6706 stars) - A list of (almost) all headless web browsers in existence
+- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) (6705 stars) - A list of (almost) all headless web browsers in existence
 - [http3-explained](https://github.com/bagder/http3-explained) (2230 stars) - A document describing the HTTP/3 and QUIC protocols
 - [ipfs](https://github.com/ipfs/ipfs) (23054 stars) - Peer-to-peer hypermedia protocol
 - [itpol](https://github.com/lfit/itpol) (4882 stars) - Useful IT policies
@@ -163,46 +163,46 @@
 - [Keyboard-files](https://github.com/RGBKB/Keyboard-files) (113 stars) - Public files for keyboards and more
 - [keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) (4976 stars) - Guide on how to design keyboard PCBs with KiCad
 - [keyboard_pcb](https://github.com/ahtn/keyboard_pcb) (96 stars) - Unknown
-- [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) (3801 stars) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
+- [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) (3804 stars) - Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 - [krew-index](https://github.com/kubernetes-sigs/krew-index) (703 stars) - Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
 - [kubernetes-internals](https://github.com/shubheksha/kubernetes-internals) (740 stars) - This is a collection of resources that shed light on the inner workings of Kubernetes
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) (6193 stars) - Example recipes for Kubernetes Network Policies that you can just copy paste
-- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) (50466 stars) - Bootstrap Kubernetes the hard way. No scripts.
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) (50477 stars) - Bootstrap Kubernetes the hard way. No scripts.
 - [learn-istio](https://github.com/meganokeefe/learn-istio) (1334 stars) - ⛵️ Istio resources 🕸
 - [learn-programming-languages](https://github.com/jeanqasaur/learn-programming-languages) (337 stars) - Resources for the working programmer to learn more about the fundamentals and theory of programming languages.
-- [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) (15848 stars) -  Oxford Deep NLP 2017 course
+- [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) (15845 stars) -  Oxford Deep NLP 2017 course
 - [lens](https://github.com/lensapp/lens) (23248 stars) - Lens - The way the world runs Kubernetes
-- [letta](https://github.com/letta-ai/letta) (25255 stars) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
-- [libp2p](https://github.com/libp2p/libp2p) (3146 stars) - A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
+- [letta](https://github.com/letta-ai/letta) (25264 stars) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [libp2p](https://github.com/libp2p/libp2p) (3148 stars) - A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
 - [Lily58](https://github.com/kata0510/Lily58) (2309 stars) - 6×4+4keys column-staggered split keyboard.
 - [Liminal_P3D_Assembly](https://github.com/The-Royal/Liminal_P3D_Assembly) (2 stars) - Basic Assembly Set-Up for the P3D 3D Printed Liminal Case
 - [linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) (1651 stars) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) (5830 stars) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [linux-re-101](https://github.com/michalmalik/linux-re-101) (2084 stars) - A collection of resources for linux reverse engineering 
-- [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) (5344 stars) - Collection of Linux Sysadmin/DevOps interview questions
+- [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) (5349 stars) - Collection of Linux Sysadmin/DevOps interview questions
 - [llm-app-stack](https://github.com/a16z-infra/llm-app-stack) (1320 stars) - Unknown
-- [llm-course](https://github.com/mlabonne/llm-course) (84701 stars) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) (12763 stars) - How to be low-level programmer
+- [llm-course](https://github.com/mlabonne/llm-course) (84726 stars) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) (12762 stars) - How to be low-level programmer
 - [Lubrigante](https://github.com/Zambumon/Lubrigante) (225 stars) - Acrylic TGR Alice revision by Zambumon
 - [mcp-toolbox-plugin](https://github.com/GoogleCloudPlatform/mcp-toolbox-plugin) (109 stars) - Unknown
-- [mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) (3431 stars) - DIY mechanical keyboard and where to find them
+- [mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) (3430 stars) - DIY mechanical keyboard and where to find them
 - [Medias_francais](https://github.com/mdiplo/Medias_francais) (532 stars) - Qui possède quoi ?
 - [mentorship](https://github.com/nodejs/mentorship) (575 stars) - Node.js Mentorship Program Initiative
 - [MeshSlide](https://github.com/Prokuon/MeshSlide) (80 stars) - Enclosure for Heltec V4
-- [MeshT2](https://github.com/Prokuon/MeshT2) (25 stars) - Enclosure for Heltec Wireless Tracker V2
+- [MeshT2](https://github.com/Prokuon/MeshT2) (26 stars) - Enclosure for Heltec Wireless Tracker V2
 - [Mini-LoRa](https://github.com/hallard/Mini-LoRa) (179 stars) - Arduino Mini Lora Battery/Sensors Board
 - [misbrands](https://github.com/mkrl/misbrands) (9039 stars) - The world's most hated IT stickers
-- [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) (8883 stars) - Explanation to key concepts in ML
+- [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) (8913 stars) - Explanation to key concepts in ML
 - [modern-unix](https://github.com/ibraheemdev/modern-unix) (33022 stars) - A collection of modern/faster/saner alternatives to common unix commands.
-- [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) (2557 stars) - Keep your coding agent up to date with the latest web best practices
+- [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) (2558 stars) - Keep your coding agent up to date with the latest web best practices
 - [msgpack](https://github.com/msgpack/msgpack) (7518 stars) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [mysos](https://github.com/twitter-archive/mysos) (584 stars) - Cotton (formerly known as Mysos)
-- [nostr](https://github.com/nostr-protocol/nostr) (12111 stars) - a truly censorship-resistant alternative to Twitter that has a chance of working
-- [notable](https://github.com/notable/notable) (23491 stars) - The Markdown-based note-taking app that doesn't suck.
+- [nostr](https://github.com/nostr-protocol/nostr) (12113 stars) - a truly censorship-resistant alternative to Twitter that has a chance of working
+- [notable](https://github.com/notable/notable) (23489 stars) - The Markdown-based note-taking app that doesn't suck.
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) (17605 stars) - Build and run Docker containers leveraging NVIDIA GPUs
 - [olkb_parts](https://github.com/olkb/olkb_parts) (425 stars) - 3D CAD files for OLKB boards
-- [open-infra-index](https://github.com/deepseek-ai/open-infra-index) (8112 stars) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
-- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) (23777 stars) - Video discussing this curriculum:
+- [open-infra-index](https://github.com/deepseek-ai/open-infra-index) (8116 stars) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
+- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) (23776 stars) - Video discussing this curriculum:
 - [openebs](https://github.com/openebs/openebs) (9839 stars) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [osops-tools-contrib](https://github.com/openstack-archive/osops-tools-contrib) (55 stars) - MOVED: now at https://opendev.org/x/osops-tools-contrib
 - [osops-tools-generic](https://github.com/openstack-archive/osops-tools-generic) (48 stars) - MOVED: now at https://opendev.org/x/osops-tools-generic
@@ -216,32 +216,32 @@
 - [plain60-c](https://github.com/evyd13/plain60-c) (228 stars) - Universally compatible 60% PCB with minimal layout support and USB-C
 - [plugin](https://github.com/gofrp/plugin) (195 stars) - Plugins for frp.
 - [postgres-plugin](https://github.com/GoogleCloudPlatform/postgres-plugin) (96 stars) - Unknown
-- [prism](https://github.com/lone-cloud/prism) (31 stars) - Self-hosted notification gateway
-- [prism-android](https://github.com/lone-cloud/prism-android) (43 stars) - A UnifiedPush distributor with optional self-hosted Prism server integration.
+- [prism](https://github.com/lone-cloud/prism) (32 stars) - Self-hosted notification gateway
+- [prism-android](https://github.com/lone-cloud/prism-android) (44 stars) - A UnifiedPush distributor with optional self-hosted Prism server integration.
 - [project](https://github.com/open-gitops/project) (1220 stars) - Repository for top-level information about the OpenGitOps project
-- [Public-APIs](https://github.com/n0shake/Public-APIs) (24036 stars) - 📚 A public list of APIs from round the web.
+- [Public-APIs](https://github.com/n0shake/Public-APIs) (24039 stars) - 📚 A public list of APIs from round the web.
 - [puppet-rally](https://github.com/openstack-archive/puppet-rally) (15 stars) - OpenStack Rally Puppet Module. Mirror of code maintained at opendev.org.
 - [pwc](https://github.com/zziz/pwc) (15303 stars) - This repository is no longer maintained.
 - [rdo-release](https://github.com/rdo-infra/rdo-release) (12 stars) - RDO release repository
 - [reactor](https://github.com/transatomic/reactor) (684 stars) - Transatomic reactor design documentation
-- [releases](https://github.com/the-via/releases) (2362 stars) - Unknown
-- [resilience-engineering](https://github.com/lorin/resilience-engineering) (3074 stars) - Resilience engineering papers
+- [releases](https://github.com/the-via/releases) (2363 stars) - Unknown
+- [resilience-engineering](https://github.com/lorin/resilience-engineering) (3075 stars) - Resilience engineering papers
 - [riff](https://github.com/projectriff/riff) (787 stars) - riff is for functions
 - [rock-pi-4b](https://github.com/radxa-build/rock-pi-4b) (51 stars) - ROCK Pi 4B
-- [sbx-releases](https://github.com/docker/sbx-releases) (474 stars) - Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
+- [sbx-releases](https://github.com/docker/sbx-releases) (478 stars) - Docker Sandboxes run AI coding agents in isolated environments on your machine or on Docker-managed cloud infrastructure
 - [scrapoxy](https://github.com/scrapoxy/scrapoxy) (2406 stars) - Scrapoxy has been discontinued.
-- [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) (21102 stars) - Security Guide for Developers
+- [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) (21101 stars) - Security Guide for Developers
 - [send-instances](https://github.com/timvisee/send-instances) (1143 stars) - 🌍 A list of public Send instances. Mirror.
 - [services-engineering](https://github.com/mmcgrana/services-engineering) (3697 stars) - A reading list for services engineering, with a focus on cloud infrastructure services
 - [shade](https://github.com/openstack-archive/shade) (78 stars) - Client library for OpenStack containing Infra business logic. Mirror of code maintained at opendev.org.
 - [SharkPCB](https://github.com/AcheronProject/SharkPCB) (145 stars) - SharkPCB
-- [shipyard](https://github.com/ehazlett/shipyard) (6312 stars) - Composable Docker Management
+- [shipyard](https://github.com/ehazlett/shipyard) (6313 stars) - Composable Docker Management
 - [sites-using-cloudflare](https://github.com/pirate/sites-using-cloudflare) (1925 stars) - :broken_heart: Archived list of domains using Cloudflare DNS at the time of the CloudBleed announcement.
 - [SL-060-PCB](https://github.com/0xCB-dev/SL-060-PCB) (9 stars) - Synth Labs 060 PCB Hardware Files
 - [slate](https://github.com/slatedocs/slate) (36004 stars) - Beautiful static documentation for your API
-- [Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) (2408 stars) - Unknown
+- [Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) (2411 stars) - Unknown
 - [SnowRunner](https://github.com/vsTerminus/SnowRunner) (17 stars) - Modifications to initial.pak for general improvements
-- [software-architecture-books](https://github.com/mhadidg/software-architecture-books) (11409 stars) - A comprehensive list of books on Software Architecture.
+- [software-architecture-books](https://github.com/mhadidg/software-architecture-books) (11411 stars) - A comprehensive list of books on Software Architecture.
 - [spec](https://github.com/app-registry/spec) (18 stars) - the working specification for a standard application registry
 - [st40](https://github.com/coarse/st40) (19 stars) - Open source 40% ortholinear keyboard PCB powered by STM32F072
 - [stacktach](https://github.com/openstack-archive/stacktach) (83 stars) - MOVED: now at https://opendev.org/x/stacktach
@@ -249,31 +249,31 @@
 - [stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) (3004 stars) - VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) (7150 stars) - A list of command-line tools for manipulating structured text data
 - [switch-scores](https://github.com/ThereminGoat/switch-scores) (1219 stars) - PDF Repository of switch score sheets.
-- [system-design-101](https://github.com/ByteByteGoHq/system-design-101) (90735 stars) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [system-design-academy](https://github.com/systemdesign42/system-design-academy) (29459 stars) - If you want to become good at AI engineering & system design, join this newsletter 👇
-- [system-design-interview](https://github.com/checkcheckzz/system-design-interview) (23862 stars) - System design interview for IT companies
-- [system-design-resources](https://github.com/InterviewReady/system-design-resources) (18540 stars) - These are the best resources for System Design on the Internet
-- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) (144259 stars) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101) (90762 stars) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [system-design-academy](https://github.com/systemdesign42/system-design-academy) (29464 stars) - If you want to become good at AI engineering & system design, join this newsletter 👇
+- [system-design-interview](https://github.com/checkcheckzz/system-design-interview) (23861 stars) - System design interview for IT companies
+- [system-design-resources](https://github.com/InterviewReady/system-design-resources) (18541 stars) - These are the best resources for System Design on the Internet
+- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) (144285 stars) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [systems-reading](https://github.com/lorin/systems-reading) (204 stars) - Systems and failure reading list
-- [tembo](https://github.com/tembo/tembo) (1265 stars) - Unknown
+- [tembo](https://github.com/tembo/tembo) (1266 stars) - Unknown
 - [terracotta](https://github.com/openstack-archive/terracotta) (22 stars) - MOVED: now at https://opendev.org/x/terracotta
-- [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) (11892 stars) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) (162597 stars) - Master the command line, in one page
+- [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) (11893 stars) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) (162600 stars) - Master the command line, in one page
 - [The_RoMac_rev2.1](https://github.com/The-Royal/The_RoMac_rev2.1) (84 stars) - A "Plaid" Inspired 12-Key Macro Pad
 - [TLS-Padding-Oracles](https://github.com/tls-attacker/TLS-Padding-Oracles) (125 stars) - New TLS Padding Oracles
 - [tokyo60ispflashing](https://github.com/davidfriar/tokyo60ispflashing) (11 stars) - Getting QMK programming up and running for the Tokyo 60 v3 - a quick guide for the reckless and impatient
-- [trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) (687 stars) - Track 500+ Awesome List Updates, Track it - not just star it!
-- [trackerslist](https://github.com/ngosang/trackerslist) (55519 stars) - Updated list of public BitTorrent trackers
+- [trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) (689 stars) - Track 500+ Awesome List Updates, Track it - not just star it!
+- [trackerslist](https://github.com/ngosang/trackerslist) (55523 stars) - Updated list of public BitTorrent trackers
 - [UT47.2](https://github.com/ai03-2725/UT47.2) (53 stars) - Hotswappable 40% keyboard based on Gnap
 - [ut47.2_keyboard_cases](https://github.com/elasticrash/ut47.2_keyboard_cases) (9 stars) - Unknown
 - [UT47.3](https://github.com/coarse/UT47.3) (7 stars) - STM32 40% keyboard based on Gnap
 - [vtlog-map](https://github.com/edoaxyz/vtlog-map) (25 stars) - Interactive map for ETS2 and ATS based on Leaflet
-- [webcontainer-core](https://github.com/stackblitz/webcontainer-core) (4648 stars) - Dev environments. In your web app.
+- [webcontainer-core](https://github.com/stackblitz/webcontainer-core) (4650 stars) - Dev environments. In your web app.
 - [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) (3334 stars) - Using a library in your webpack project? Here’s how to optimize it
 - [wg-serverless](https://github.com/cncf/wg-serverless) (1527 stars) - CNCF Serverless WG
 - [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) (5107 stars) - 🤔  What happens when I type kubectl run?
 - [Wheels-Pack](https://github.com/50k-Customs/Wheels-Pack) (20 stars) - ETS2 mod presenting wheels pack by 50keda
-- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) (12691 stars) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
-- [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) (8331 stars) - Win32 port of OpenSSH
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (184834 stars) - A book series (2 published editions) on the JS language.
+- [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) (12693 stars) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+- [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) (8333 stars) - Win32 port of OpenSSH
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (184835 stars) - A book series (2 published editions) on the JS language.
 - [ziglings](https://github.com/ratfactor/ziglings) (4675 stars) - Learn the Zig programming language by fixing tiny broken programs.

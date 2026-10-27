@@ -1,2 +1,2 @@
 ## Visual Basic .NET (1 repositories) 
-- [staxrip](https://github.com/staxrip/staxrip) (3020 stars) - 🎞 Video encoding GUI for Windows.
+- [staxrip](https://github.com/staxrip/staxrip) (3021 stars) - 🎞 Video encoding GUI for Windows.

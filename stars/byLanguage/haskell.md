@@ -1,14 +1,14 @@
 ## Haskell (13 repositories) 
-- [cachix](https://github.com/cachix/cachix) (1139 stars) - Command line client for Nix binary cache hosting:
+- [cachix](https://github.com/cachix/cachix) (1140 stars) - Command line client for Nix binary cache hosting:
 - [hstream](https://github.com/hstreamdb/hstream) (723 stars) - HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.
 - [klfc](https://github.com/39aldo39/klfc) (237 stars) - Keyboard Layout Files Creator
-- [linux_notification_center](https://github.com/phuhl/linux_notification_center) (1045 stars) - A notification daemon/center for linux
-- [postgrest](https://github.com/PostgREST/postgrest) (27728 stars) - REST API for any Postgres database
+- [linux_notification_center](https://github.com/phuhl/linux_notification_center) (1044 stars) - A notification daemon/center for linux
+- [postgrest](https://github.com/PostgREST/postgrest) (27731 stars) - REST API for any Postgres database
 - [purescript](https://github.com/purescript/purescript) (8916 stars) - A strongly-typed language that compiles to JavaScript
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) (912 stars) - A peer-to-peer stack for code collaboration
-- [shellcheck](https://github.com/koalaman/shellcheck) (40239 stars) - ShellCheck, a static analysis tool for shell scripts
-- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (19596 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-- [simplexmq](https://github.com/simplex-chat/simplexmq) (858 stars) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+- [shellcheck](https://github.com/koalaman/shellcheck) (40251 stars) - ShellCheck, a static analysis tool for shell scripts
+- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (19603 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [simplexmq](https://github.com/simplex-chat/simplexmq) (859 stars) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 - [squee](https://github.com/KMahoney/squee) (105 stars) - A Typed, Composable Database Query Language
 - [taffybar](https://github.com/taffybar/taffybar) (709 stars) - A gtk based status bar for tiling window managers such as XMonad
-- [wire-server](https://github.com/wireapp/wire-server) (2779 stars) - 🇪🇺 Wire back-end services
+- [wire-server](https://github.com/wireapp/wire-server) (2780 stars) - 🇪🇺 Wire back-end services
