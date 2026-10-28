@@ -1,2 +1,2 @@
 ## Hack (1 repositories) 
-- [fbctf](https://github.com/facebookarchive/fbctf) (6540 stars) - Platform to host Capture the Flag competitions
+- [fbctf](https://github.com/facebookarchive/fbctf) (6539 stars) - Platform to host Capture the Flag competitions
