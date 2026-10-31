@@ -5,8 +5,8 @@
 - [ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) (35 stars) - Ansible role - Fluentd (td-agent)
 - [ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx) (652 stars) - Ansible role to install and manage nginx configuration
 - [ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) (270 stars) - [DEPRECATED] Setup unattended-upgrades on Debian-based systems
-- [autobase](https://github.com/autobase-tech/autobase) (4429 stars) - Automated database platform for PostgreSQL® - Your own DBaaS.
+- [autobase](https://github.com/autobase-tech/autobase) (4428 stars) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [build](https://github.com/nodejs/build) (544 stars) - Better build and test infra for Node.
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) (18804 stars) - Deploy a Production Ready Kubernetes Cluster
-- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (12577 stars) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) (18805 stars) - Deploy a Production Ready Kubernetes Cluster
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) (12578 stars) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) (72 stars) - Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.

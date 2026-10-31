@@ -17,7 +17,7 @@
 - [terraform-guides](https://github.com/hashicorp/terraform-guides) (1504 stars) - Example usage of HashiCorp Terraform
 - [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (719 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [terraform-kubernetes-addons](https://github.com/particuleio/terraform-kubernetes-addons) (209 stars) - Terraform module to deploy curated Kubernetes middlewares on multiple cloud providers.
-- [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) (746 stars) - Generate Atlantis config for Terragrunt projects.
-- [typhoon](https://github.com/poseidon/typhoon) (2056 stars) - Minimal and free Kubernetes distribution with Terraform
+- [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) (747 stars) - Generate Atlantis config for Terragrunt projects.
+- [typhoon](https://github.com/poseidon/typhoon) (2055 stars) - Minimal and free Kubernetes distribution with Terraform
 - [vault-on-gke](https://github.com/sethvargo/vault-on-gke) (496 stars) - Run @HashiCorp Vault on Google Kubernetes Engine (GKE) with Terraform
 - [vault-raft-backup-agent](https://github.com/adfinis/vault-raft-backup-agent) (18 stars) - Vault Raft Integrated Storage Snapshot Automation
