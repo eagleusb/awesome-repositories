@@ -1,10 +1,10 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2268 repositories, 34.95%)
+- [Go](stars/byLanguage/go.md) (2268 repositories, 34.94%)
 - [Python](stars/byLanguage/python.md) (905 repositories, 13.94%)
 - [TypeScript](stars/byLanguage/typescript.md) (566 repositories, 8.72%)
-- [Rust](stars/byLanguage/rust.md) (529 repositories, 8.15%)
+- [Rust](stars/byLanguage/rust.md) (530 repositories, 8.17%)
 - [JavaScript](stars/byLanguage/javascript.md) (425 repositories, 6.55%)
 
 ## All Languages
@@ -38,7 +38,7 @@
 - [Fluent](stars/byLanguage/fluent.md) (2 repositories, 0.03%)
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2268 repositories, 34.95%)
+- [Go](stars/byLanguage/go.md) (2268 repositories, 34.94%)
 - [Go Template](stars/byLanguage/gotemplate.md) (3 repositories, 0.05%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -86,7 +86,7 @@
 - [RobotFramework](stars/byLanguage/robotframework.md) (1 repositories, 0.02%)
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [Ruby](stars/byLanguage/ruby.md) (80 repositories, 1.23%)
-- [Rust](stars/byLanguage/rust.md) (529 repositories, 8.15%)
+- [Rust](stars/byLanguage/rust.md) (530 repositories, 8.17%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.15%)
 - [Shell](stars/byLanguage/shell.md) (145 repositories, 2.23%)
@@ -102,8 +102,8 @@
 - [Unknown](stars/byLanguage/unknown.md) (278 repositories, 4.28%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
+- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (14 repositories, 0.22%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)
