@@ -10,8 +10,8 @@
 - [pgai](https://github.com/timescale/pgai) (5795 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (41 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (5368 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq](https://github.com/pgmq/pgmq) (5370 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (56 stars) - Helper functions for working with the OpenAI API
-- [postgis](https://github.com/postgis/postgis) (2257 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
+- [postgis](https://github.com/postgis/postgis) (2258 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (264 stars) - SQLite Foreign Data Wrapper for PostgreSQL
 - [zombodb](https://github.com/zombodb/zombodb) (4718 stars) - Making Postgres and Elasticsearch work together like it's 2023
