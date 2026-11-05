@@ -1,10 +1,10 @@
 ## OCaml (9 repositories) 
 - [fastpack](https://github.com/fastpack/fastpack) (2256 stars) - Pack JS code fast & easy
-- [liquidsoap](https://github.com/savonet/liquidsoap) (1752 stars) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
-- [mirage](https://github.com/mirage/mirage) (3023 stars) - MirageOS is a library operating system that constructs unikernels
-- [opengrep](https://github.com/opengrep/opengrep) (3281 stars) - 🔎 Static code analysis engine to find security issues in code.
+- [liquidsoap](https://github.com/savonet/liquidsoap) (1753 stars) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
+- [mirage](https://github.com/mirage/mirage) (3022 stars) - MirageOS is a library operating system that constructs unikernels
+- [opengrep](https://github.com/opengrep/opengrep) (3285 stars) - 🔎 Static code analysis engine to find security issues in code.
 - [openinfraquote](https://github.com/terrateamio/openinfraquote) (319 stars) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
-- [pyre-check](https://github.com/meta/pyre-check) (7180 stars) - Performant type-checking for python.
-- [reason](https://github.com/reasonml/reason) (10337 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-- [stategraph](https://github.com/stategraph/stategraph) (1326 stars) - Terraform without the state file bottleneck
-- [unison](https://github.com/bcpierce00/unison) (5565 stars) - Unison file synchronizer
+- [pyre-check](https://github.com/meta/pyre-check) (7181 stars) - Performant type-checking for python.
+- [reason](https://github.com/reasonml/reason) (10339 stars) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [stategraph](https://github.com/stategraph/stategraph) (1325 stars) - Terraform without the state file bottleneck
+- [unison](https://github.com/bcpierce00/unison) (5569 stars) - Unison file synchronizer
