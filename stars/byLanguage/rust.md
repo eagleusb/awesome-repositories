@@ -1,308 +1,308 @@
-## Rust (531 repositories) 
+## Rust (532 repositories) 
 - [adm-controller](https://github.com/kubewarden/adm-controller) (246 stars) - Manage admission policies in your Kubernetes cluster with ease
 - [agent-access](https://github.com/bitwarden/agent-access) (220 stars) - Agent Access is an open protocol, CLI tool, and SDK to provide agents with credentials without exposing their entire vault
-- [agent-browser](https://github.com/vercel-labs/agent-browser) (46102 stars) - Browser automation CLI for AI agents
-- [agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) (4585 stars) -  A protocol for connecting any editor to any agent
-- [agentgateway](https://github.com/agentgateway/agentgateway) (5968 stars) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [agentos](https://github.com/rivet-dev/agentos) (4853 stars) - Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly.
+- [agent-browser](https://github.com/vercel-labs/agent-browser) (46345 stars) - Browser automation CLI for AI agents
+- [agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) (4591 stars) -  A protocol for connecting any editor to any agent
+- [agentgateway](https://github.com/agentgateway/agentgateway) (6006 stars) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [agentos](https://github.com/rivet-dev/agentos) (4857 stars) - Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly.
 - [agnos](https://github.com/krtab/agnos) (360 stars) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
 - [ahnlich](https://github.com/deven96/ahnlich) (249 stars) - Suite of tools containing an in-memory vector datastore and AI proxy
 - [ai-memory-mcp](https://github.com/alphaonedev/ai-memory-mcp) (56 stars) - Persistent memory for any AI — MCP server, HTTP API, CLI. Works with Claude, ChatGPT, Grok, Gemini, Codex, Cursor, OpenClaw, and any MCP client. One Rust binary; SQLite or PostgreSQL + Apache AGE + pgvector; rust-a2a wake plane. Apache-2.0.
 - [akri](https://github.com/project-akri/akri) (1265 stars) - A Kubernetes Resource Interface for the Edge
-- [alacritty](https://github.com/alacritty/alacritty) (66122 stars) - A cross-platform, OpenGL terminal emulator.
+- [alacritty](https://github.com/alacritty/alacritty) (66124 stars) - A cross-platform, OpenGL terminal emulator.
 - [alien](https://github.com/alienplatform/alien) (252 stars) - Infrastructure for software outside your cloud
-- [am-i-isolated](https://github.com/edera-dev/am-i-isolated) (326 stars) - Validate the isolation posture of your container environment.
+- [am-i-isolated](https://github.com/edera-dev/am-i-isolated) (325 stars) - Validate the isolation posture of your container environment.
 - [angle-grinder](https://github.com/rcoh/angle-grinder) (3769 stars) - Slice and dice logs on the command line
-- [anki](https://github.com/ankitects/anki) (32606 stars) - Anki is a smart spaced repetition flashcard program
+- [anki](https://github.com/ankitects/anki) (32635 stars) - Anki is a smart spaced repetition flashcard program
 - [anylinuxfs](https://github.com/nohajc/anylinuxfs) (1671 stars) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [appview](https://github.com/colibri-social/appview) (22 stars) - The AppView (backend server) for Colibri
-- [aquatic](https://github.com/greatest-ape/aquatic) (629 stars) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
+- [aquatic](https://github.com/greatest-ape/aquatic) (630 stars) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 - [Arcadia](https://github.com/Arcadia-Solutions/Arcadia) (367 stars) - Content-agnostic torrent site & tracker framework
-- [arnis](https://github.com/louis-e/arnis) (18547 stars) - Generate any location from the real world in Minecraft with a high level of detail.
-- [arroyo](https://github.com/ArroyoSystems/arroyo) (5076 stars) - Distributed stream processing engine in Rust
+- [arnis](https://github.com/louis-e/arnis) (18560 stars) - Generate any location from the real world in Minecraft with a high level of detail.
+- [arroyo](https://github.com/ArroyoSystems/arroyo) (5077 stars) - Distributed stream processing engine in Rust
 - [asciinema](https://github.com/asciinema/asciinema) (17946 stars) - Terminal session recorder, streamer and player 📹
 - [asroute](https://github.com/stevenpack/asroute) (155 stars) - Interpret traceroute output to show names of ASN traversed
-- [ast-grep](https://github.com/ast-grep/ast-grep) (16464 stars) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [asusctl](https://github.com/OpenGamingCollective/asusctl) (672 stars) - Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
+- [ast-grep](https://github.com/ast-grep/ast-grep) (16470 stars) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [asusctl](https://github.com/OpenGamingCollective/asusctl) (675 stars) - Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [atm0s-media-server](https://github.com/8xFF/atm0s-media-server) (330 stars) - Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip)
-- [atuin](https://github.com/atuinsh/atuin) (32222 stars) - ✨ Making your shell magical
-- [aube](https://github.com/aubepkg/aube) (2059 stars) - A fast Node.js package manager
+- [atuin](https://github.com/atuinsh/atuin) (32227 stars) - ✨ Making your shell magical
+- [aube](https://github.com/aubepkg/aube) (2060 stars) - A fast Node.js package manager
 - [aurae](https://github.com/aurae-runtime/aurae) (1918 stars) - Distributed systems runtime daemon written in Rust.
-- [autopush-rs](https://github.com/mozilla-services/autopush-rs) (360 stars) - Push Server in Rust
+- [autopush-rs](https://github.com/mozilla-services/autopush-rs) (361 stars) - Push Server in Rust
 - [aws-lambda-web-adapter](https://github.com/aws/aws-lambda-web-adapter) (2760 stars) - Run web applications on AWS Lambda
 - [aws-nitro-enclaves-cli](https://github.com/aws/aws-nitro-enclaves-cli) (159 stars) - Tooling for Nitro Enclave Management
-- [bacon](https://github.com/Canop/bacon) (3468 stars) - background code checker
-- [baml](https://github.com/BoundaryML/baml) (9485 stars) - The programming language for agents
+- [bacon](https://github.com/Canop/bacon) (3470 stars) - background code checker
+- [baml](https://github.com/BoundaryML/baml) (9491 stars) - The programming language for agents
 - [bark](https://github.com/haileys/bark) (694 stars) - live sync audio streaming for local networks
-- [bat](https://github.com/sharkdp/bat) (61109 stars) - A cat(1) clone with wings.
+- [bat](https://github.com/sharkdp/bat) (61207 stars) - A cat(1) clone with wings.
 - [bingrep](https://github.com/m4b/bingrep) (1786 stars) - like ~~grep~~ UBER, but for binaries
-- [binsider](https://github.com/orhun/binsider) (4513 stars) - Analyze ELF binaries like a boss 😼🕵️‍♂️
-- [biome](https://github.com/biomejs/biome) (26052 stars) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) (2406 stars) - Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and systems.
-- [blades](https://github.com/grego/blades) (348 stars) - Blazing fast dead simple static site generator
+- [binsider](https://github.com/orhun/binsider) (4514 stars) - Analyze ELF binaries like a boss 😼🕵️‍♂️
+- [biome](https://github.com/biomejs/biome) (26054 stars) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) (2407 stars) - Bionic is sovereign Agentic AI for the enterprise — Runs on-premise and can securely work with your sensitive data and systems.
+- [blades](https://github.com/grego/blades) (349 stars) - Blazing fast dead simple static site generator
 - [blogr](https://github.com/bahdotsh/blogr) (344 stars) - Write, edit, and publish your blog without ever leaving your terminal!
 - [bloom](https://github.com/skerkour/bloom) (1527 stars) - Unknown
-- [bore](https://github.com/ekzhang/bore) (11577 stars) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [boringtun](https://github.com/cloudflare/boringtun) (7252 stars) - Userspace WireGuard® Implementation in Rust
-- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) (9698 stars) - An operating system designed for hosting containers
+- [bore](https://github.com/ekzhang/bore) (11578 stars) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [boringtun](https://github.com/cloudflare/boringtun) (7253 stars) - Userspace WireGuard® Implementation in Rust
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) (9700 stars) - An operating system designed for hosting containers
 - [bottlerocket-update-operator](https://github.com/bottlerocket-os/bottlerocket-update-operator) (221 stars) - A Kubernetes operator for automated updates to Bottlerocket
 - [bottom](https://github.com/ClementTsang/bottom) (14165 stars) - Yet another cross-platform graphical process/system monitor.
-- [broot](https://github.com/Canop/broot) (13134 stars) - A new way to see and navigate directory trees
-- [buck2](https://github.com/meta/buck2) (4516 stars) - Build system, successor to Buck
+- [broot](https://github.com/Canop/broot) (13135 stars) - A new way to see and navigate directory trees
+- [buck2](https://github.com/meta/buck2) (4518 stars) - Build system, successor to Buck
 - [buffdb](https://github.com/buffdb/buffdb) (304 stars) - Embedded storage built for AI model management over gRPC. Smart machines don't need to read JSON, they only need protocol buffers. The world's first MODMS (Machine-Oriented Database Management System), built to support SQLite and eventually DuckDB as backends.
-- [bun](https://github.com/oven-sh/bun) (96582 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [bun](https://github.com/oven-sh/bun) (96671 stars) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [bupstash](https://github.com/andrewchambers/bupstash) (925 stars) - Easy and efficient encrypted backups.
-- [buzz](https://github.com/block/buzz) (36762 stars) - A hive mind communication platform
-- [cachey](https://github.com/s2-streamstore/cachey) (692 stars) - Read-through cache for object storage
+- [buzz](https://github.com/block/buzz) (36780 stars) - A hive mind communication platform
+- [cachey](https://github.com/s2-streamstore/cachey) (693 stars) - Read-through cache for object storage
 - [cake](https://github.com/evilsocket/cake) (3133 stars) - Distributed inference for mobile, desktop and server.
-- [candle](https://github.com/huggingface/candle) (21278 stars) - Minimalist ML framework for Rust
-- [Cap](https://github.com/CapSoftware/Cap) (24466 stars) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [candle](https://github.com/huggingface/candle) (21280 stars) - Minimalist ML framework for Rust
+- [Cap](https://github.com/CapSoftware/Cap) (24554 stars) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) (2706 stars) - Compile Cargo project with zig as linker
 - [cavif-rs](https://github.com/kornelski/cavif-rs) (682 stars) - AVIF image creator in pure Rust
-- [cc-switch](https://github.com/farion1231/cc-switch) (152236 stars) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
-- [ccusage](https://github.com/ccusage/ccusage) (19342 stars) - npx ccusage
-- [cedar](https://github.com/cedar-policy/cedar) (1848 stars) - Implementation of the Cedar Policy Language
-- [celld](https://github.com/denoland/celld) (6249 stars) - self-hosted, distributed Durable Objects
+- [cc-switch](https://github.com/farion1231/cc-switch) (152442 stars) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
+- [ccusage](https://github.com/ccusage/ccusage) (19350 stars) - npx ccusage
+- [cedar](https://github.com/cedar-policy/cedar) (1850 stars) - Implementation of the Cedar Policy Language
+- [celld](https://github.com/denoland/celld) (6254 stars) - self-hosted, distributed Durable Objects
 - [cfnts](https://github.com/cloudflare/cfnts) (174 stars) - Cloudflare's implementation of the NTS protocol written in Rust
 - [chainlink](https://github.com/dollspace-gay/chainlink) (366 stars) - A CLI issue tracker for AI Agents
-- [ChatGPT](https://github.com/lencx/ChatGPT) (54663 stars) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
-- [chirpstack](https://github.com/chirpstack/chirpstack) (1133 stars) - ChirpStack open-source LoRaWAN Network Server
-- [chroma](https://github.com/chroma-core/chroma) (29648 stars) - Search infrastructure for AI
-- [Ciphey](https://github.com/bee-san/Ciphey) (21748 stars) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [ChatGPT](https://github.com/lencx/ChatGPT) (54665 stars) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
+- [chirpstack](https://github.com/chirpstack/chirpstack) (1134 stars) - ChirpStack open-source LoRaWAN Network Server
+- [chroma](https://github.com/chroma-core/chroma) (29651 stars) - Search infrastructure for AI
+- [Ciphey](https://github.com/bee-san/Ciphey) (21747 stars) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [claudelytics](https://github.com/nwiizo/claudelytics) (90 stars) - A fast CLI tool for analyzing Claude Code usage patterns, token consumption, and costs
 - [cli](https://github.com/rustfs/cli) (179 stars) - A S3-compatible command-line client written in Rust.
-- [cli](https://github.com/googleworkspace/cli) (32139 stars) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [cli](https://github.com/googleworkspace/cli) (32150 stars) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [click](https://github.com/databricks/click) (1511 stars) - The "Command Line Interactive Controller for Kubernetes"
-- [clock-bound](https://github.com/aws/clock-bound) (356 stars) - Used to generate and compare bounded timestamps.
-- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) (6470 stars) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
-- [cocoindex](https://github.com/cocoindex-io/cocoindex) (11830 stars) - Incremental engine for long horizon agents 🌟 Star if you like it!
+- [clock-bound](https://github.com/aws/clock-bound) (357 stars) - Used to generate and compare bounded timestamps.
+- [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) (6480 stars) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+- [cocoindex](https://github.com/cocoindex-io/cocoindex) (11832 stars) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [code](https://github.com/just-every/code) (4046 stars) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
-- [codex](https://github.com/openai/codex) (133401 stars) - Lightweight coding agent that runs in your terminal
-- [comprehensive-rust](https://github.com/google/comprehensive-rust) (33497 stars) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [context-builder](https://github.com/igorls/context-builder) (40 stars) - Fast Rust CLI that packs a codebase into one LLM-friendly markdown file
-- [coop](https://github.com/trailofbits/coop) (807 stars) - Isolated VM environment for running Claude Code and Codex
+- [codex](https://github.com/openai/codex) (133507 stars) - Lightweight coding agent that runs in your terminal
+- [comprehensive-rust](https://github.com/google/comprehensive-rust) (33498 stars) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [context-builder](https://github.com/igorls/context-builder) (41 stars) - Fast Rust CLI that packs a codebase into one LLM-friendly markdown file
+- [coop](https://github.com/trailofbits/coop) (808 stars) - Isolated VM environment for running Claude Code and Codex
 - [core](https://github.com/secluso/core) (1693 stars) - A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.
-- [coreutils](https://github.com/uutils/coreutils) (24336 stars) - Cross-platform Rust rewrite of the GNU coreutils
-- [corrosion](https://github.com/superfly/corrosion) (1872 stars) - Gossip-based service discovery (and more) for large distributed systems.
-- [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) (3825 stars) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
-- [cross](https://github.com/cross-rs/cross) (8354 stars) - “Zero setup” cross compilation and “cross testing” of Rust crates
+- [coreutils](https://github.com/uutils/coreutils) (24342 stars) - Cross-platform Rust rewrite of the GNU coreutils
+- [corrosion](https://github.com/superfly/corrosion) (1874 stars) - Gossip-based service discovery (and more) for large distributed systems.
+- [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) (3826 stars) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
+- [cross](https://github.com/cross-rs/cross) (8356 stars) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [crossfyre-toolchain](https://github.com/clickswave/crossfyre-toolchain) (256 stars) - Recon and vulnerability scanning tools that run in your terminal. Find subdomains, scan ports, discover hidden paths, fingerprint what's running, and check it for vulns.
 - [crush](https://github.com/liljencrantz/crush) (1890 stars) - Crush is a command line shell that is also a powerful modern programming language.
-- [crux](https://github.com/redbadger/crux) (2811 stars) - Cross-platform app development in Rust
+- [crux](https://github.com/redbadger/crux) (2814 stars) - Cross-platform app development in Rust
 - [crw-camofox](https://github.com/adambenhassen/crw-camofox) (79 stars) - Fast, lightweight and stealth Firecrawl alternative in Rust. Web scraper, crawler & search API with MCP server for AI agents. Drop-in Firecrawl-compatible. Low RAM, single binary. Self-hosted only.
 - [cryfs](https://github.com/cryfs/cryfs) (2332 stars) - Cryptographic filesystem for the cloud
 - [cship](https://github.com/stephenleo/cship) (429 stars) - ⚡ A beautiful, fully customizable statusline for Claude Code - Starship-style TOML config, themeable colours, Nerd Font glyphs, and tunable cost/context/usage thresholds.
-- [cua](https://github.com/trycua/cua) (31839 stars) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
-- [cube](https://github.com/cube-js/cube) (21179 stars) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+- [cua](https://github.com/trycua/cua) (31905 stars) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
+- [cube](https://github.com/cube-js/cube) (21186 stars) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [cursor-bridge](https://github.com/hkc5/cursor-bridge) (71 stars) - Claude Code that runs on your Cursor subscription. One Rust binary, zero config.
-- [Daft](https://github.com/Eventual-Inc/Daft) (5828 stars) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
+- [Daft](https://github.com/Eventual-Inc/Daft) (5830 stars) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [daphne](https://github.com/cloudflare/daphne) (146 stars) - Implementation of DAP
 - [datafusion-ballista](https://github.com/apache/datafusion-ballista) (2170 stars) - Apache DataFusion Ballista Distributed Query Engine
 - [deciduous](https://github.com/notactuallytreyanastasio/deciduous) (169 stars) - Decision graph tooling for AI-assisted development - track every choice, query your reasoning
-- [delta](https://github.com/dandavison/delta) (32671 stars) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-- [deno](https://github.com/denoland/deno) (108835 stars) - A modern runtime for JavaScript and TypeScript.
-- [devenv](https://github.com/cachix/devenv) (7804 stars) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [delta](https://github.com/dandavison/delta) (32680 stars) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [deno](https://github.com/denoland/deno) (108906 stars) - A modern runtime for JavaScript and TypeScript.
+- [devenv](https://github.com/cachix/devenv) (7808 stars) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [diem](https://github.com/diem/diem) (16656 stars) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-- [difftastic](https://github.com/Wilfred/difftastic) (26157 stars) - a structural diff that understands syntax 🟥🟩
-- [dijo](https://github.com/oppiliappan/dijo) (2923 stars) - scriptable, curses-based, digital habit tracker
+- [difftastic](https://github.com/Wilfred/difftastic) (26158 stars) - a structural diff that understands syntax 🟥🟩
+- [dijo](https://github.com/oppiliappan/dijo) (2924 stars) - scriptable, curses-based, digital habit tracker
 - [dispatch](https://github.com/alexkirsz/dispatch) (635 stars) - Combine internet connections, increase your download speed
 - [distill-cli](https://github.com/awslabs/distill-cli) (230 stars) - Unknown
 - [dog](https://github.com/ogham/dog) (6690 stars) - A command-line DNS client.
-- [dotslash](https://github.com/meta/dotslash) (914 stars) - Simplified executable deployment
+- [dotslash](https://github.com/meta/dotslash) (915 stars) - Simplified executable deployment
 - [dotter](https://github.com/SuperCuber/dotter) (2027 stars) - A dotfile manager and templater written in rust 🦀
 - [drop-app](https://github.com/Drop-OSS/drop-app) (181 stars) - Moved to a monorepo at https://github.com/Drop-OSS/drop
-- [dumbpipe](https://github.com/n0-computer/dumbpipe) (816 stars) - Unix pipes between devices
+- [dumbpipe](https://github.com/n0-computer/dumbpipe) (817 stars) - Unix pipes between devices
 - [duplodocus](https://github.com/allenai/duplodocus) (99 stars) - Tooling for exact and MinHash deduplication of large-scale text datasets
-- [dynamo](https://github.com/ai-dynamo/dynamo) (8447 stars) - A Datacenter Scale Distributed Inference Serving Framework
-- [EasyTier](https://github.com/EasyTier/EasyTier) (14586 stars) - A simple, decentralized mesh VPN with WireGuard support.
+- [dynamo](https://github.com/ai-dynamo/dynamo) (8452 stars) - A Datacenter Scale Distributed Inference Serving Framework
+- [EasyTier](https://github.com/EasyTier/EasyTier) (14596 stars) - A simple, decentralized mesh VPN with WireGuard support.
 - [edgee](https://github.com/edgee-ai/edgee) (143 stars) - Official Edgee CLI to interract with Edgee's Agent Gateway. Route Claude Code, Codex, Cursor, VS Code + Copilot, and more through Edgee's hosted gateway to cut token spend.
 - [eksup](https://github.com/clowdhaus/eksup) (182 stars) - EKS cluster upgrade guidance
 - [emval](https://github.com/bnkc/emval) (230 stars) - emval is a blazingly fast email validator.
 - [engine](https://github.com/Qovery/engine) (2475 stars) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
-- [enroute](https://github.com/enroute-sh/enroute) (342 stars) - Programmable git infrastructure on top of object storage. Think turbopuffer for git. Open source alternative to Pierre (code.storage) and Cloudflare Artifacts.
+- [enroute](https://github.com/enroute-sh/enroute) (352 stars) - Programmable git infrastructure on top of object storage. Think turbopuffer for git. Open source alternative to Pierre (code.storage) and Cloudflare Artifacts.
 - [envio](https://github.com/humblepenguinn/envio) (990 stars) - A secure command-line tool for managing environment variables
-- [espanso](https://github.com/espanso/espanso) (14721 stars) - A Privacy-first, Cross-platform Text Expander written in Rust
+- [espanso](https://github.com/espanso/espanso) (14731 stars) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [etl](https://github.com/supabase/etl) (2350 stars) - A high-performance Postgres replication engine written in Rust. Embed it in your Rust application or run it as a standalone binary.
 - [extism](https://github.com/extism/extism) (5827 stars) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [FalkorDB](https://github.com/FalkorDB/FalkorDB) (10505 stars) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
-- [fallow](https://github.com/fallow-rs/fallow) (5305 stars) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
-- [fd](https://github.com/sharkdp/fd) (44998 stars) - A simple, fast and user-friendly alternative to 'find'
+- [FalkorDB](https://github.com/FalkorDB/FalkorDB) (10504 stars) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
+- [fallow](https://github.com/fallow-rs/fallow) (5311 stars) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.
+- [fd](https://github.com/sharkdp/fd) (45091 stars) - A simple, fast and user-friendly alternative to 'find'
 - [ffdash](https://github.com/bcherb2/ffdash) (145 stars) - A terminal UI for batch AV1 & VP9 video encoding with hardware acceleration, real-time progress monitoring, and full control over quality settings.  Made to work as a viable encoding dashboard over SSH.
 - [ffsend](https://github.com/timvisee/ffsend) (7423 stars) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [figcraft](https://github.com/storytold/figcraft) (4462 stars) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
-- [firecracker](https://github.com/firecracker-microvm/firecracker) (37853 stars) - Secure and fast microVMs for serverless computing.
-- [fish-shell](https://github.com/fish-shell/fish-shell) (34404 stars) - The user-friendly command line shell.
-- [flowgger](https://github.com/awslabs/flowgger) (880 stars) - A fast data collector in Rust
-- [flox](https://github.com/flox/flox) (4194 stars) - The Deterministic Foundation for your SDLC
+- [figcraft](https://github.com/storytold/figcraft) (4552 stars) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
+- [firecracker](https://github.com/firecracker-microvm/firecracker) (37878 stars) - Secure and fast microVMs for serverless computing.
+- [fish-shell](https://github.com/fish-shell/fish-shell) (34412 stars) - The user-friendly command line shell.
+- [flowgger](https://github.com/awslabs/flowgger) (881 stars) - A fast data collector in Rust
+- [flox](https://github.com/flox/flox) (4195 stars) - The Deterministic Foundation for your SDLC
 - [fluvio](https://github.com/fluvio-community/fluvio) (5261 stars) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
-- [fnm](https://github.com/Schniz/fnm) (27310 stars) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [fnm](https://github.com/Schniz/fnm) (27322 stars) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [fnox](https://github.com/jdx/fnox) (2361 stars) - encrypted/remote secret manager
 - [freeq](https://github.com/freeq-irc/freeq) (90 stars) - What if we could go back to using irc?
-- [fresh](https://github.com/sinelaw/fresh) (9416 stars) - Terminal based IDE & text editor: easy, powerful and fast
+- [fresh](https://github.com/sinelaw/fresh) (9419 stars) - Terminal based IDE & text editor: easy, powerful and fast
 - [Fyin](https://github.com/shadowfax92/Fyin) (236 stars) - Open source alternative to Perplexity AI with ability to run locally
 - [gcsf](https://github.com/harababurel/gcsf) (2385 stars) - a FUSE file system based on Google Drive
 - [gig](https://github.com/dgerlanc/gig) (1 stars) - Simple CLI for multi-language .gitignore creation
 - [git-branchless](https://github.com/arxanas/git-branchless) (4142 stars) - High-velocity, monorepo-scale workflow for Git
-- [git-cliff](https://github.com/orhun/git-cliff) (12387 stars) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [git-cliff](https://github.com/orhun/git-cliff) (12490 stars) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [git-dit](https://github.com/git-dit/git-dit) (463 stars) - Decentralized Issue Tracking for git
 - [git-mirror](https://github.com/bachp/git-mirror) (171 stars) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
-- [gitbutler](https://github.com/gitbutlerapp/gitbutler) (21937 stars) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [gitlogue](https://github.com/unhappychoice/gitlogue) (5260 stars) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [gitoxide](https://github.com/GitoxideLabs/gitoxide) (12103 stars) - A tasteful, lean, fast & safe pure Rust implementation of Git
+- [gitbutler](https://github.com/gitbutlerapp/gitbutler) (21942 stars) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [gitlogue](https://github.com/unhappychoice/gitlogue) (5259 stars) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+- [gitoxide](https://github.com/GitoxideLabs/gitoxide) (12108 stars) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [gitu](https://github.com/altsem/gitu) (2948 stars) - A TUI Git client inspired by Magit
-- [gitui](https://github.com/gitui-org/gitui) (22623 stars) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [gleam](https://github.com/gleam-lang/gleam) (22026 stars) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [gluesql](https://github.com/gluesql/gluesql) (3135 stars) - GlueSQL is quite sticky. It sticks to anything.
-- [goose](https://github.com/aaif-goose/goose) (56278 stars) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [gitui](https://github.com/gitui-org/gitui) (22629 stars) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gleam](https://github.com/gleam-lang/gleam) (22030 stars) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [gluesql](https://github.com/gluesql/gluesql) (3134 stars) - GlueSQL is quite sticky. It sticks to anything.
+- [goose](https://github.com/aaif-goose/goose) (56315 stars) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [gotatun](https://github.com/mullvad/gotatun) (1396 stars) - Userspace WireGuard® Implementation in Rust
-- [gping](https://github.com/orf/gping) (12732 stars) - Ping, but with a graph
-- [Graphite](https://github.com/GraphiteEditor/Graphite) (27845 stars) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
-- [greptimedb](https://github.com/GreptimeTeam/greptimedb) (6789 stars) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
-- [habitat](https://github.com/habitat-sh/habitat) (2750 stars) - Modern applications with built-in automation
-- [halloy](https://github.com/squidowl/halloy) (4594 stars) - IRC application written in Rust
-- [Handy](https://github.com/cjpais/Handy) (37727 stars) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [harper](https://github.com/Automattic/harper) (17432 stars) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [gping](https://github.com/orf/gping) (12733 stars) - Ping, but with a graph
+- [Graphite](https://github.com/GraphiteEditor/Graphite) (27856 stars) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+- [greptimedb](https://github.com/GreptimeTeam/greptimedb) (6791 stars) - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
+- [habitat](https://github.com/habitat-sh/habitat) (2751 stars) - Modern applications with built-in automation
+- [halloy](https://github.com/squidowl/halloy) (4595 stars) - IRC application written in Rust
+- [Handy](https://github.com/cjpais/Handy) (37846 stars) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [harper](https://github.com/Automattic/harper) (17457 stars) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [headroom-zed](https://github.com/chopratejas/headroom-zed) (69 stars) - Zed extension for Headroom — context compression for AI agents
-- [helix](https://github.com/helix-editor/helix) (46823 stars) - A post-modern modal text editor.
+- [helix](https://github.com/helix-editor/helix) (46901 stars) - A post-modern modal text editor.
 - [hermit](https://github.com/facebookexperimental/hermit) (1424 stars) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.
 - [hexyl](https://github.com/sharkdp/hexyl) (10300 stars) - A command-line hex viewer
-- [hibiki](https://github.com/kyutai-labs/hibiki) (1536 stars) - Hibiki is a model for streaming speech translation (also known as simultaneous translation). Unlike offline translation—where one waits for the end of the source utterance to start translating--- Hibiki adapts its flow to accumulate just enough context to produce a correct translation in real-time, chunk by chunk. 
-- [hickory-dns](https://github.com/hickory-dns/hickory-dns) (5482 stars) - A Rust based DNS client, server, and resolver
-- [hk](https://github.com/jdx/hk) (1303 stars) - git hooks and project lints
-- [hl](https://github.com/pamburus/hl) (3324 stars) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
+- [hibiki](https://github.com/kyutai-labs/hibiki) (1537 stars) - Hibiki is a model for streaming speech translation (also known as simultaneous translation). Unlike offline translation—where one waits for the end of the source utterance to start translating--- Hibiki adapts its flow to accumulate just enough context to produce a correct translation in real-time, chunk by chunk. 
+- [hickory-dns](https://github.com/hickory-dns/hickory-dns) (5483 stars) - A Rust based DNS client, server, and resolver
+- [hk](https://github.com/jdx/hk) (1304 stars) - git hooks and project lints
+- [hl](https://github.com/pamburus/hl) (3326 stars) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [hook0](https://github.com/hook0/hook0) (1507 stars) - Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
 - [hopp](https://github.com/gethopp/hopp) (733 stars) - The best OSS remote pair programming app.
 - [hub](https://github.com/traceloop/hub) (233 stars) - High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included
-- [hurl](https://github.com/Orange-OpenSource/hurl) (19304 stars) - Hurl, run and test HTTP requests with plain text.
-- [hydradb](https://github.com/hydra-db/hydradb) (13076 stars) - HydraDB - fast graph database on object storage
-- [hyperfine](https://github.com/sharkdp/hyperfine) (29215 stars) - A command-line benchmarking tool
-- [hyperlight](https://github.com/hyperlight-dev/hyperlight) (4782 stars) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
-- [hyperswitch](https://github.com/juspay/hyperswitch) (45720 stars) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
+- [hurl](https://github.com/Orange-OpenSource/hurl) (19305 stars) - Hurl, run and test HTTP requests with plain text.
+- [hydradb](https://github.com/hydra-db/hydradb) (13081 stars) - HydraDB - fast graph database on object storage
+- [hyperfine](https://github.com/sharkdp/hyperfine) (29221 stars) - A command-line benchmarking tool
+- [hyperlight](https://github.com/hyperlight-dev/hyperlight) (4786 stars) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+- [hyperswitch](https://github.com/juspay/hyperswitch) (45733 stars) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 - [i3-style](https://github.com/altdesktop/i3-style) (674 stars) - 🎨 Make your i3 config a little more stylish.
 - [i3status-rust](https://github.com/greshake/i3status-rust) (3158 stars) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [iam-policy-autopilot](https://github.com/awslabs/iam-policy-autopilot) (502 stars) - IAM Policy Autopilot is an open source static code analysis tool that helps you quickly create baseline AWS IAM policies that you can refine as your application evolves. This tool is available as a command-line utility and MCP server for use within AI coding assistants for quickly building IAM policies.
+- [iam-policy-autopilot](https://github.com/awslabs/iam-policy-autopilot) (503 stars) - IAM Policy Autopilot is an open source static code analysis tool that helps you quickly create baseline AWS IAM policies that you can refine as your application evolves. This tool is available as a command-line utility and MCP server for use within AI coding assistants for quickly building IAM policies.
 - [icm](https://github.com/rtk-ai/icm) (613 stars) - Permanent memory for AI agents. Single binary, zero dependencies, MCP native.
 - [iftta](https://github.com/graze-social/iftta) (76 stars) - AT Protocol automation service written in Rust
-- [iggy](https://github.com/apache/iggy) (5242 stars) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
+- [iggy](https://github.com/apache/iggy) (5245 stars) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 - [iii](https://github.com/iii-hq/iii) (18926 stars) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [imager](https://github.com/imager-io/imager) (729 stars) - Automated image compression for efficiently distributing images on the web.
-- [impeccable](https://github.com/pbakaus/impeccable) (104204 stars) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- [influxdb](https://github.com/influxdata/influxdb) (31802 stars) - Scalable datastore for metrics, events, and real-time analytics
+- [impeccable](https://github.com/pbakaus/impeccable) (104967 stars) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+- [influxdb](https://github.com/influxdata/influxdb) (31803 stars) - Scalable datastore for metrics, events, and real-time analytics
 - [innernet](https://github.com/tonarino/innernet) (5574 stars) - A private network system that uses WireGuard under the hood.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) (1303 stars) - Like IntelliSense, but for shells
-- [iroh](https://github.com/n0-computer/iroh) (12933 stars) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
+- [iroh](https://github.com/n0-computer/iroh) (12939 stars) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) (333 stars) - SSH to any machine without ip
-- [IronCalc](https://github.com/ironcalc/IronCalc) (4251 stars) - Main engine of the IronCalc ecosystem
+- [IronCalc](https://github.com/ironcalc/IronCalc) (4253 stars) - Main engine of the IronCalc ecosystem
 - [island](https://github.com/landlock-lsm/island) (358 stars) - Sandboxing tool powered by Landlock
-- [jan](https://github.com/janhq/jan) (45507 stars) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [jan](https://github.com/janhq/jan) (45542 stars) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jaq](https://github.com/01mf02/jaq) (3825 stars) - A jq clone focussed on correctness, speed, and simplicity
-- [jj](https://github.com/jj-vcs/jj) (32376 stars) - A Git-compatible VCS that is both simple and powerful
-- [just](https://github.com/casey/just) (36588 stars) - 🤖 Just a command runner
-- [kanidm](https://github.com/kanidm/kanidm) (5542 stars) - Kanidm: A simple, secure, and fast identity management platform
+- [jj](https://github.com/jj-vcs/jj) (32388 stars) - A Git-compatible VCS that is both simple and powerful
+- [just](https://github.com/casey/just) (36599 stars) - 🤖 Just a command runner
+- [kanidm](https://github.com/kanidm/kanidm) (5544 stars) - Kanidm: A simple, secure, and fast identity management platform
 - [kaskada](https://github.com/datastax-archive/kaskada) (362 stars) - Modern, open-source event-processing
-- [kata-containers](https://github.com/kata-containers/kata-containers) (9089 stars) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+- [kata-containers](https://github.com/kata-containers/kata-containers) (9096 stars) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kcl](https://github.com/kcl-lang/kcl) (2441 stars) - KCL Language Core and API
 - [kdash](https://github.com/kdash-rs/kdash) (2559 stars) - A simple and fast dashboard for Kubernetes
-- [kerla](https://github.com/nuta/kerla) (3467 stars) - A new operating system kernel with Linux binary compatibility written in Rust.
+- [kerla](https://github.com/nuta/kerla) (3468 stars) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [keyberon](https://github.com/TeXitoi/keyberon) (1192 stars) - A rust crate to create a pure rust keyboard firmware.
 - [kftray](https://github.com/hcavarsan/kftray) (1576 stars) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available
 - [kiro-editor](https://github.com/rhysd/kiro-editor) (765 stars) - A small terminal UTF-8 text editor written in Rust 📝🦀
 - [kmon](https://github.com/orhun/kmon) (2970 stars) - Linux Kernel Manager and Activity Monitor 🐧💻
-- [komodo](https://github.com/moghtech/komodo) (12865 stars) - 🦎 a tool to build and deploy software on many servers 🦎
+- [komodo](https://github.com/moghtech/komodo) (12873 stars) - 🦎 a tool to build and deploy software on many servers 🦎
 - [Kooha](https://github.com/SeaDve/Kooha) (3558 stars) - Elegantly record your screen
-- [krunkit](https://github.com/libkrun/krunkit) (384 stars) - Launch configurable virtual machines with libkrun
-- [krunvm](https://github.com/libkrun/krunvm) (1781 stars) - Create microVMs from OCI images
+- [krunkit](https://github.com/libkrun/krunkit) (389 stars) - Launch configurable virtual machines with libkrun
+- [krunvm](https://github.com/libkrun/krunvm) (1782 stars) - Create microVMs from OCI images
 - [krustlet](https://github.com/krustlet/krustlet) (3599 stars) - Kubernetes Rust Kubelet
 - [ktrl](https://github.com/ItayGarin/ktrl) (352 stars) - A Supercharged Keyboard Programming Daemon ⌨️
 - [kuasar](https://github.com/kuasar-io/kuasar) (1458 stars) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [kubie](https://github.com/kubie-org/kubie) (2657 stars) - A more powerful alternative to kubectx and kubens
-- [kuna](https://github.com/Noelo-Lab/kuna) (824 stars) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
-- [LACT](https://github.com/ilya-zlobintsev/LACT) (5867 stars) - Linux GPU Configuration And Monitoring Tool
-- [lapce](https://github.com/lapce/lapce) (38987 stars) - Lightning-fast and Powerful Code Editor written in Rust
+- [kuna](https://github.com/Noelo-Lab/kuna) (831 stars) - An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was originally ported from Ghidra.
+- [LACT](https://github.com/ilya-zlobintsev/LACT) (5875 stars) - Linux GPU Configuration And Monitoring Tool
+- [lapce](https://github.com/lapce/lapce) (38986 stars) - Lightning-fast and Powerful Code Editor written in Rust
 - [leftwm](https://github.com/leftwm/leftwm) (3050 stars) - A tiling window manager for Adventurers
 - [legba](https://github.com/evilsocket/legba) (1952 stars) - The fastest and more comprehensive multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
-- [lemmy](https://github.com/LemmyNet/lemmy) (14669 stars) - 🐀 A decentralised discussion platform for communities.
+- [lemmy](https://github.com/LemmyNet/lemmy) (14670 stars) - 🐀 A decentralised discussion platform for communities.
 - [lexe](https://github.com/Ray-D-Song/lexe) (643 stars) - Package your Node.js application into a single executable file, but only 10MB.🔥
-- [libkrun](https://github.com/libkrun/libkrun) (2863 stars) - A dynamic library providing Virtualization-based process isolation capabilities
-- [librespot](https://github.com/librespot-org/librespot) (7370 stars) - Open Source Spotify client library
-- [lightcraft](https://github.com/storytold/lightcraft) (15560 stars) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
+- [libkrun](https://github.com/libkrun/libkrun) (2870 stars) - A dynamic library providing Virtualization-based process isolation capabilities
+- [librespot](https://github.com/librespot-org/librespot) (7377 stars) - Open Source Spotify client library
+- [lightcraft](https://github.com/storytold/lightcraft) (15609 stars) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
 - [linkerd-tcp](https://github.com/linkerd/linkerd-tcp) (531 stars) - A TCP/TLS load balancer for Linkerd 1.x.
-- [litebox](https://github.com/microsoft/litebox) (3267 stars) - A security-focused library OS supporting kernel- and user-mode execution
-- [liteparse](https://github.com/run-llama/liteparse) (12989 stars) - A fast, helpful, and open-source document parser
+- [litebox](https://github.com/microsoft/litebox) (3268 stars) - A security-focused library OS supporting kernel- and user-mode execution
+- [liteparse](https://github.com/run-llama/liteparse) (12995 stars) - A fast, helpful, and open-source document parser
 - [LlamaEdge](https://github.com/LlamaEdge/LlamaEdge) (1663 stars) - The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge
-- [llmfit](https://github.com/AlexsJones/llmfit) (38701 stars) - Hundreds of models & providers. One command to find what runs on your hardware.
+- [llmfit](https://github.com/AlexsJones/llmfit) (38726 stars) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [llrt](https://github.com/awslabs/llrt) (8833 stars) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [llumen](https://github.com/pinkfuwa/llumen) (101 stars) - 🕯️ A lightweight but powerful LLM chat application
 - [lm.rs](https://github.com/samuel-vitorino/lm.rs) (1032 stars) - Minimal LLM inference in Rust
-- [loco](https://github.com/loco-rs/loco) (9580 stars) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+- [loco](https://github.com/loco-rs/loco) (9588 stars) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [LocustDB](https://github.com/cswinter/LocustDB) (1648 stars) - Blazingly fast analytics database that will rapidly devour all of your data.
 - [Loop](https://github.com/Miserlou/Loop) (695 stars) - UNIX's missing `loop` command
-- [lsd](https://github.com/lsd-rs/lsd) (16283 stars) - The next gen ls command
-- [lucet](https://github.com/bytecodealliance/lucet) (4039 stars) - Lucet, the Sandboxing WebAssembly Compiler.
+- [lsd](https://github.com/lsd-rs/lsd) (16280 stars) - The next gen ls command
+- [lucet](https://github.com/bytecodealliance/lucet) (4038 stars) - Lucet, the Sandboxing WebAssembly Compiler.
 - [maelstrom](https://github.com/maelstrom-software/maelstrom) (738 stars) - Maelstrom is a fast Rust, Go, and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 - [magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) (1058 stars) - Rust implementation of Magic Wormhole, with new features and enhancements
-- [magika](https://github.com/google/magika) (18770 stars) - Fast and accurate AI powered file content types detection 
-- [martin](https://github.com/maplibre/martin) (4055 stars) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
-- [matano](https://github.com/matanolabs/matano) (1709 stars) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
-- [materialize](https://github.com/MaterializeInc/materialize) (6395 stars) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
+- [magika](https://github.com/google/magika) (18775 stars) - Fast and accurate AI powered file content types detection 
+- [martin](https://github.com/maplibre/martin) (4061 stars) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
+- [matano](https://github.com/matanolabs/matano) (1708 stars) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
+- [materialize](https://github.com/MaterializeInc/materialize) (6396 stars) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 - [mcfly](https://github.com/cantino/mcfly) (7826 stars) - Fly through your shell history. Great Scott!
 - [mcfly-fzf](https://github.com/bnprks/mcfly-fzf) (60 stars) - Integrate Mcfly with fzf to combine a solid command history database with a widely-loved fuzzy search UI
 - [mcp](https://github.com/rustfs/mcp) (29 stars) - High-performance MCP server providing S3-compatible object storage operations for AI/LLM integration
-- [mdBook](https://github.com/rust-lang/mdBook) (22270 stars) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [meetily](https://github.com/Zackriya-Solutions/meetily) (32477 stars) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
-- [meilisearch](https://github.com/meilisearch/meilisearch) (59793 stars) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [memvid](https://github.com/memvid/memvid) (17378 stars) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [microbin](https://github.com/szabodanika/microbin) (4633 stars) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [microsandbox](https://github.com/superradcompany/microsandbox) (8961 stars) - 🧱 easy, fast, programmable and local-first microVM runtime and library
-- [minutes](https://github.com/silverstein/minutes) (1592 stars) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
-- [mirrord](https://github.com/metalbear-co/mirrord) (5402 stars) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
-- [mise](https://github.com/jdx/mise) (35842 stars) - dev tools, env vars, task runner
-- [mistral.rs](https://github.com/EricLBuehler/mistral.rs) (7813 stars) - Fast, flexible LLM inference
+- [mdBook](https://github.com/rust-lang/mdBook) (22277 stars) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [meetily](https://github.com/Zackriya-Solutions/meetily) (32502 stars) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai
+- [meilisearch](https://github.com/meilisearch/meilisearch) (59806 stars) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [memvid](https://github.com/memvid/memvid) (17384 stars) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+- [microbin](https://github.com/szabodanika/microbin) (4635 stars) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+- [microsandbox](https://github.com/superradcompany/microsandbox) (8975 stars) - 🧱 easy, fast, programmable and local-first microVM runtime and library
+- [minutes](https://github.com/silverstein/minutes) (1594 stars) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
+- [mirrord](https://github.com/metalbear-co/mirrord) (5404 stars) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
+- [mise](https://github.com/jdx/mise) (35884 stars) - dev tools, env vars, task runner
+- [mistral.rs](https://github.com/EricLBuehler/mistral.rs) (7816 stars) - Fast, flexible LLM inference
 - [moon](https://github.com/moonrepo/moon) (4177 stars) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-- [moq](https://github.com/moq-dev/moq) (1597 stars) - Media over QUIC: Real-time latency at massive scale
-- [mountpoint-s3](https://github.com/awslabs/mountpoint-s3) (5796 stars) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) (7749 stars) - The Mullvad VPN client app for desktop and mobile
-- [muvm](https://github.com/AsahiLinux/muvm) (986 stars) - muvm - run programs from your system in a microVM
-- [mxc](https://github.com/microsoft/mxc) (3098 stars) - Policy-driven, layered isolation and containment 
-- [nativelink](https://github.com/TraceMachina/nativelink) (1630 stars) - NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
-- [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) (31285 stars) - Production-grade Rust-native trading engine with deterministic event-driven architecture
-- [neon](https://github.com/neondatabase/neon) (23305 stars) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- [moq](https://github.com/moq-dev/moq) (1599 stars) - Media over QUIC: Real-time latency at massive scale
+- [mountpoint-s3](https://github.com/awslabs/mountpoint-s3) (5797 stars) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) (7753 stars) - The Mullvad VPN client app for desktop and mobile
+- [muvm](https://github.com/AsahiLinux/muvm) (987 stars) - muvm - run programs from your system in a microVM
+- [mxc](https://github.com/microsoft/mxc) (3106 stars) - Policy-driven, layered isolation and containment 
+- [nativelink](https://github.com/TraceMachina/nativelink) (1633 stars) - NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
+- [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) (31316 stars) - Production-grade Rust-native trading engine with deterministic event-driven architecture
+- [neon](https://github.com/neondatabase/neon) (23308 stars) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [neond](https://github.com/matisiekpl/neond) (141 stars) - DX-focused control plane for Postgres dedicated to non-critical workloads. Your postgres:latest replacement 🐘 
-- [neovide](https://github.com/neovide/neovide) (15295 stars) - No Nonsense Neovim Client in Rust
+- [neovide](https://github.com/neovide/neovide) (15296 stars) - No Nonsense Neovim Client in Rust
 - [network-flow-monitor-agent](https://github.com/aws/network-flow-monitor-agent) (32 stars) - Amazon CloudWatch Network Monitoring - Network Flow Monitor agent repository
-- [niri](https://github.com/niri-wm/niri) (28921 stars) - A scrollable-tiling Wayland compositor.
-- [nix-installer](https://github.com/DeterminateSystems/nix-installer) (3715 stars) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
+- [niri](https://github.com/niri-wm/niri) (28933 stars) - A scrollable-tiling Wayland compositor.
+- [nix-installer](https://github.com/DeterminateSystems/nix-installer) (3716 stars) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [nmstate](https://github.com/nmstate/nmstate) (400 stars) - Nmstate is a library with an accompanying command line tool that manages host networking settings in a declarative manner.
-- [nono](https://github.com/nolabs-ai/nono) (4866 stars) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
+- [nono](https://github.com/nolabs-ai/nono) (4882 stars) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 - [noria](https://github.com/mit-pdos/noria) (5247 stars) - Fast web applications through dynamic, partially-stateful dataflow
-- [nub](https://github.com/nubjs/nub) (4431 stars) - The fast all-in-one Node.js toolkit
-- [numa](https://github.com/razvandimescu/numa) (1974 stars) - Portable DNS resolver in Rust: .numa local domains, ad blocking, developer overrides, DoT/DoH/ODoH, DNSSEC
+- [nub](https://github.com/nubjs/nub) (4434 stars) - The fast all-in-one Node.js toolkit
+- [numa](https://github.com/razvandimescu/numa) (1977 stars) - Portable DNS resolver in Rust: .numa local domains, ad blocking, developer overrides, DoT/DoH/ODoH, DNSSEC
 - [numaflow](https://github.com/numaproj/numaflow) (2836 stars) - Kubernetes-native platform to run massively parallel data/streaming jobs
-- [nushell](https://github.com/nushell/nushell) (40792 stars) - A new type of shell
+- [nushell](https://github.com/nushell/nushell) (41022 stars) - A new type of shell
 - [omicron](https://github.com/oxidecomputer/omicron) (617 stars) - Omicron: Oxide control plane
-- [omnigraph](https://github.com/ModernRelay/omnigraph) (1899 stars) - Object-storage native graph database with branching and typed ontology
+- [omnigraph](https://github.com/ModernRelay/omnigraph) (1917 stars) - Object-storage native graph database with branching and typed ontology
 - [openab](https://github.com/openabdev/openab) (832 stars) - A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI.
-- [openinterpreter](https://github.com/openinterpreter/openinterpreter) (68810 stars) - A coding agent for open models like Kimi K3 and GLM 5.3
-- [OpenShell](https://github.com/NVIDIA/OpenShell) (21185 stars) - OpenShell is the safe, private runtime for autonomous AI agents.
-- [OpenSK](https://github.com/google/OpenSK) (3475 stars) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [openinterpreter](https://github.com/openinterpreter/openinterpreter) (68822 stars) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [OpenShell](https://github.com/NVIDIA/OpenShell) (21230 stars) - OpenShell is the safe, private runtime for autonomous AI agents.
+- [OpenSK](https://github.com/google/OpenSK) (3476 stars) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [openvas-scanner](https://github.com/greenbone/openvas-scanner) (4924 stars) - This repository contains the scanner component for Greenbone Community Edition.
-- [openvmm](https://github.com/microsoft/openvmm) (1960 stars) - Home of OpenVMM and OpenHCL
+- [openvmm](https://github.com/microsoft/openvmm) (1961 stars) - Home of OpenVMM and OpenHCL
 - [openworkers-runner](https://github.com/openworkers/openworkers-runner) (239 stars) - Unknown
-- [oryx](https://github.com/pythops/oryx) (2612 stars) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
+- [oryx](https://github.com/pythops/oryx) (2613 stars) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [oso](https://github.com/osohq/oso) (3483 stars) - Legacy Oso open source library (archived)
 - [otelite](https://github.com/planetf1/otelite) (96 stars) - Lightweight OpenTelemetry receiver and local dashboard for LLM development — single binary, zero dependencies
-- [ouch](https://github.com/ouch-org/ouch) (3814 stars) - Painless compression and decompression in the terminal
+- [ouch](https://github.com/ouch-org/ouch) (3815 stars) - Painless compression and decompression in the terminal
 - [ox](https://github.com/curlpipe/ox) (3749 stars) - The simple but flexible text editor
-- [oxc](https://github.com/oxc-project/oxc) (23350 stars) - ⚓ A collection of high-performance JavaScript tools.
+- [oxc](https://github.com/oxc-project/oxc) (23358 stars) - ⚓ A collection of high-performance JavaScript tools.
 - [oxdraw](https://github.com/RohanAdwankar/oxdraw) (2353 stars) - Diagram as Code Tool Written in Rust with Draggable Editing
-- [OxiCloud](https://github.com/AtalayaLabs/OxiCloud) (3679 stars) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
+- [OxiCloud](https://github.com/AtalayaLabs/OxiCloud) (3682 stars) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [pacquet](https://github.com/pnpm/pacquet) (1158 stars) - The official pnpm rewrite in Rust
-- [paddler](https://github.com/intentee/paddler) (1689 stars) - Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple deployments built around ggml ecosystem. Runs on CPU and GPU.
+- [paddler](https://github.com/intentee/paddler) (1690 stars) - Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple deployments built around ggml ecosystem. Runs on CPU and GPU.
 - [papito](https://github.com/pepsighan/papito) (51 stars) - A Beginner Friendly Rusty WASM Framework
-- [paradedb](https://github.com/paradedb/paradedb) (9489 stars) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
-- [parcel](https://github.com/parcel-bundler/parcel) (44014 stars) - The zero configuration build tool for the web. 📦🚀
-- [parseable](https://github.com/parseablehq/parseable) (2571 stars) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.
-- [pdfcraft](https://github.com/storytold/pdfcraft) (19735 stars) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+- [paradedb](https://github.com/paradedb/paradedb) (9496 stars) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [parcel](https://github.com/parcel-bundler/parcel) (44012 stars) - The zero configuration build tool for the web. 📦🚀
+- [parseable](https://github.com/parseablehq/parseable) (2572 stars) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.
+- [pdfcraft](https://github.com/storytold/pdfcraft) (19847 stars) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 - [pds-migration-backend](https://github.com/NorthskySocial/pds-migration-backend) (38 stars) - Backend Application for user PDS migration
 - [pg-ferret](https://github.com/ChrisBellew/pg-ferret) (121 stars) - 🔍️ All-in-one tracing toolkit for Postgres
 - [pg_doorman](https://github.com/ozontech/pg_doorman) (288 stars) - PostgreSQL Pooler
@@ -312,95 +312,95 @@
 - [pg_later](https://github.com/ChuckHend/pg_later) (376 stars) - Execute SQL now and get the results later.
 - [pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) (2014 stars) - Real-time analytics on Postgres tables
 - [pg_parquet](https://github.com/CrunchyData/pg_parquet) (695 stars) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
-- [pg_vectorize](https://github.com/ChuckHend/pg_vectorize) (834 stars) - Full-text and semantic search on any Postgres
-- [pgcat](https://github.com/postgresml/pgcat) (4032 stars) - PostgreSQL pooler with sharding, load balancing and failover support.
+- [pg_vectorize](https://github.com/ChuckHend/pg_vectorize) (835 stars) - Full-text and semantic search on any Postgres
+- [pgcat](https://github.com/postgresml/pgcat) (4031 stars) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [pgdog](https://github.com/pgdogdev/pgdog) (5600 stars) - PostgreSQL connection pooler, load balancer and database sharder.
 - [pgfmt](https://github.com/gmr/pgfmt) (94 stars) - A PostgreSQL specific SQL statement formatter
 - [pgmicro](https://github.com/glommer/pgmicro) (1208 stars) - An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine
-- [pgrust](https://github.com/malisper/pgrust) (5759 stars) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
+- [pgrust](https://github.com/malisper/pgrust) (5765 stars) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [pgrx](https://github.com/pgcentralfoundation/pgrx) (4823 stars) - Build Postgres Extensions with Rust!
 - [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) (2191 stars) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
-- [pgvectorscale](https://github.com/timescale/pgvectorscale) (3160 stars) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
+- [pgvectorscale](https://github.com/timescale/pgvectorscale) (3161 stars) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
 - [pgwire](https://github.com/sunng87/pgwire) (811 stars) - PostgreSQL wire protocol implemented as a rust library.
-- [photocraft](https://github.com/storytold/photocraft) (77299 stars) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [photocraft](https://github.com/storytold/photocraft) (77538 stars) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [photondb](https://github.com/photondb/photondb) (519 stars) - A high-performance storage engine for modern hardware and platforms.
 - [picomq](https://github.com/PicoMQ/picomq) (378 stars) - Durable streams and Kafka on object storage
-- [pingap](https://github.com/vicanso/pingap) (1419 stars) - A reverse proxy like nginx, built on pingora, simple and efficient.
+- [pingap](https://github.com/vicanso/pingap) (1420 stars) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [pingoo](https://github.com/pingooio/pingoo) (1042 stars) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
-- [pingora](https://github.com/cloudflare/pingora) (27807 stars) - A library for building fast, reliable and evolvable network services.
-- [pivot](https://github.com/pivotlake/pivot) (133 stars) - Pivot is a high-performance real time analytics database on open data formats.
-- [pixi](https://github.com/prefix-dev/pixi) (7956 stars) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
-- [pkarr](https://github.com/pubky/pkarr) (467 stars) - Public Key Addressable Resource Records (sovereign TLDs)
+- [pingora](https://github.com/cloudflare/pingora) (27812 stars) - A library for building fast, reliable and evolvable network services.
+- [pivot](https://github.com/pivotlake/pivot) (145 stars) - Pivot is a high-performance real time analytics database on open data formats.
+- [pixi](https://github.com/prefix-dev/pixi) (7960 stars) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+- [pkarr](https://github.com/pubky/pkarr) (468 stars) - Public Key Addressable Resource Records (sovereign TLDs)
 - [pkdns](https://github.com/pubky/pkdns) (197 stars) - DNS server resolving pkarr self-sovereign domains
 - [plano](https://github.com/katanemo/plano) (7110 stars) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [pleezer](https://github.com/roderickvd/pleezer) (59 stars) - Headless Deezer Connect player 💜
-- [plz-cli](https://github.com/m1guelpf/plz-cli) (1589 stars) - Copilot for your terminal
-- [pnpm](https://github.com/pnpm/pnpm) (37011 stars) - Fast, disk space efficient package manager
+- [plz-cli](https://github.com/m1guelpf/plz-cli) (1588 stars) - Copilot for your terminal
+- [pnpm](https://github.com/pnpm/pnpm) (37018 stars) - Fast, disk space efficient package manager
 - [polaris](https://github.com/agersant/polaris) (2736 stars) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
-- [polars](https://github.com/pola-rs/polars) (40271 stars) - Extremely fast Query Engine for DataFrames, written in Rust
+- [polars](https://github.com/pola-rs/polars) (40276 stars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [policy-server](https://github.com/kubewarden/policy-server) (149 stars) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests
 - [polybar-forecast](https://github.com/kamek-pf/polybar-forecast) (100 stars) - A weather forecast module for Polybar
 - [portier-broker](https://github.com/portier/portier-broker) (580 stars) - Portier Broker reference implementation, written in Rust
-- [postgres-language-server](https://github.com/supabase-community/postgres-language-server) (5264 stars) - A Language Server for Postgres
-- [postgresml](https://github.com/postgresml/postgresml) (6828 stars) - Postgres with GPUs for ML/AI apps.
+- [postgres-language-server](https://github.com/supabase-community/postgres-language-server) (5263 stars) - A Language Server for Postgres
+- [postgresml](https://github.com/postgresml/postgresml) (6829 stars) - Postgres with GPUs for ML/AI apps.
 - [pr-reviewer](https://github.com/NicholaiVogel/pr-reviewer) (7 stars) -  A self-hosted PR review daemon written in Rust. It watches your GitHub repositories for pull requests, spawns a local AI coding CLI to review them, and posts comments back to GitHub automatically.
-- [presenterm](https://github.com/mfontanini/presenterm) (8959 stars) - A markdown terminal slideshow tool
-- [procs](https://github.com/dalance/procs) (6219 stars) - A modern replacement for ps written in Rust
+- [presenterm](https://github.com/mfontanini/presenterm) (8961 stars) - A markdown terminal slideshow tool
+- [procs](https://github.com/dalance/procs) (6217 stars) - A modern replacement for ps written in Rust
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) (3661 stars) - A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [protocol](https://github.com/PrimeIntellect-ai/protocol) (140 stars) -  peer-to-peer compute and intelligence network that enables decentralized AI development at scale
 - [psst](https://github.com/jpochyla/psst) (9510 stars) - Fast and multi-platform Spotify client with native GUI
 - [pueue](https://github.com/Nukesor/pueue) (6414 stars) - :stars: Manage your shell commands.
-- [py-spy](https://github.com/benfred/py-spy) (15627 stars) - Sampling profiler for Python programs
-- [pyrefly](https://github.com/meta/pyrefly) (7188 stars) - A fast type checker and language server for Python
-- [qdrant](https://github.com/qdrant/qdrant) (35442 stars) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [py-spy](https://github.com/benfred/py-spy) (15629 stars) - Sampling profiler for Python programs
+- [pyrefly](https://github.com/meta/pyrefly) (7187 stars) - A fast type checker and language server for Python
+- [qdrant](https://github.com/qdrant/qdrant) (35458 stars) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [qobine](https://github.com/SofusA/qobine) (283 stars) - Tui, web and rfid player for Qobuz
-- [quiche](https://github.com/cloudflare/quiche) (12850 stars) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [quickwit](https://github.com/quickwit-oss/quickwit) (11771 stars) - Cloud-native OSS search engine for observability
+- [quiche](https://github.com/cloudflare/quiche) (12853 stars) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [quickwit](https://github.com/quickwit-oss/quickwit) (11773 stars) - Cloud-native OSS search engine for observability
 - [quilkin](https://github.com/EmbarkStudios/quilkin) (1601 stars) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) (5398 stars) - 🐸 a database tool for the terminal
-- [rathole](https://github.com/rathole-org/rathole) (14421 stars) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [rauthy](https://github.com/sebadob/rauthy) (1429 stars) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
+- [rathole](https://github.com/rathole-org/rathole) (14423 stars) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [rauthy](https://github.com/sebadob/rauthy) (1432 stars) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [rayhunter](https://github.com/EFForg/rayhunter) (6046 stars) - Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [rdedup](https://github.com/dpc/rdedup) (858 stars) - Data deduplication engine, supporting optional compression and public key encryption.
 - [readyset](https://github.com/readysettech/readyset) (5299 stars) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
-- [RedisJSON](https://github.com/RedisJSON/RedisJSON) (3943 stars) - RedisJSON - a JSON data type for Redis
-- [redlib](https://github.com/redlib-org/redlib) (3977 stars) -  Private front-end for Reddit 
-- [redox](https://github.com/redox-os/redox) (16688 stars) - Mirror of https://gitlab.redox-os.org/redox-os/redox
+- [RedisJSON](https://github.com/RedisJSON/RedisJSON) (3942 stars) - RedisJSON - a JSON data type for Redis
+- [redlib](https://github.com/redlib-org/redlib) (3984 stars) -  Private front-end for Reddit 
+- [redox](https://github.com/redox-os/redox) (16694 stars) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [refact](https://github.com/smallcloudai/refact) (3531 stars) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [Replibyte](https://github.com/Qovery/Replibyte) (4419 stars) - Seed your development database with real data ⚡️
 - [rezolus](https://github.com/twitter/rezolus) (1603 stars) - Systems performance telemetry
-- [rio](https://github.com/raphamorim/rio) (7704 stars) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) (69751 stars) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [rio](https://github.com/raphamorim/rio) (7708 stars) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) (69850 stars) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [risingwave](https://github.com/risingwavelabs/risingwave) (9403 stars) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
-- [rivet](https://github.com/rivet-dev/rivet) (6696 stars) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.
-- [rolldown](https://github.com/rolldown/rolldown) (13997 stars) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+- [rivet](https://github.com/rivet-dev/rivet) (6765 stars) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.
+- [rolldown](https://github.com/rolldown/rolldown) (14002 stars) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [rotel](https://github.com/rotel-dev/rotel) (411 stars) - High Performance, Resource Efficient OpenTelemetry Collection
 - [rspack](https://github.com/web-infra-dev/rspack) (12969 stars) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
-- [rtk](https://github.com/rtk-ai/rtk) (85691 stars) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [rtk](https://github.com/rtk-ai/rtk) (85775 stars) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [rudr](https://github.com/oam-dev/rudr) (1525 stars) - A Kubernetes implementation of the Open Application Model specification
-- [ruff](https://github.com/astral-sh/ruff) (50474 stars) - An extremely fast Python linter and code formatter, written in Rust.
+- [ruff](https://github.com/astral-sh/ruff) (50756 stars) - An extremely fast Python linter and code formatter, written in Rust.
 - [runscript](https://github.com/TheOnlyMrCat/runscript) (9 stars) - A tool to manage a project's build and run commands
-- [runwasi](https://github.com/containerd/runwasi) (1347 stars) - Facilitates running Wasm / WASI workloads managed by containerd
+- [runwasi](https://github.com/containerd/runwasi) (1348 stars) - Facilitates running Wasm / WASI workloads managed by containerd
 - [ruroco](https://github.com/beac0n/ruroco) (556 stars) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.
-- [Rust](https://github.com/TheAlgorithms/Rust) (26149 stars) -  All Algorithms implemented in Rust 
+- [Rust](https://github.com/TheAlgorithms/Rust) (26153 stars) -  All Algorithms implemented in Rust 
 - [rustbgpd](https://github.com/lance0/rustbgpd) (66 stars) - An API-first BGP daemon in Rust for programmable route-server and control-plane use cases
-- [rustdesk](https://github.com/rustdesk/rustdesk) (128378 stars) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [rustfs](https://github.com/rustfs/rustfs) (35797 stars) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustdesk](https://github.com/rustdesk/rustdesk) (128492 stars) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [rustfs](https://github.com/rustfs/rustfs) (35818 stars) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [RustGPT](https://github.com/tekaratzas/RustGPT) (3193 stars) - An transformer based LLM. Written completely in Rust
-- [rustpad](https://github.com/ekzhang/rustpad) (4085 stars) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [RustPython](https://github.com/RustPython/RustPython) (22457 stars) - A Python Interpreter written in Rust
-- [RustScan](https://github.com/bee-san/RustScan) (20677 stars) - 🤖 The Modern Port Scanner 🤖
-- [RuVector](https://github.com/ruvnet/RuVector) (4668 stars) - RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust.
-- [RuView](https://github.com/ruvnet/RuView) (102620 stars) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [rustpad](https://github.com/ekzhang/rustpad) (4086 stars) - Efficient and minimal collaborative code editor, self-hosted, no database required
+- [RustPython](https://github.com/RustPython/RustPython) (22460 stars) - A Python Interpreter written in Rust
+- [RustScan](https://github.com/bee-san/RustScan) (20681 stars) - 🤖 The Modern Port Scanner 🤖
+- [RuVector](https://github.com/ruvnet/RuVector) (4672 stars) - RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust.
+- [RuView](https://github.com/ruvnet/RuView) (102750 stars) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [s3grep](https://github.com/dacort/s3grep) (227 stars) - CLI tool for searching logs and unstructured content in Amazon S3 buckets
-- [safetensors](https://github.com/safetensors/safetensors) (3940 stars) - Simple, safe way to store and distribute tensors
+- [safetensors](https://github.com/safetensors/safetensors) (3941 stars) - Simple, safe way to store and distribute tensors
 - [sail](https://github.com/lakehq/sail) (3488 stars) - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 - [Samira](https://github.com/jsnli/Samira) (271 stars) - Steam Achievement Manager for Linux. Created with Tauri and Rust.
-- [sandstorm](https://github.com/deeplethe/sandstorm) (5118 stars) - Run thousands of AI agent sandboxes on the cheapest machines.
-- [sapling](https://github.com/meta/sapling) (7244 stars) - A Scalable, User-Friendly Source Control System.
-- [Satty](https://github.com/Satty-org/Satty) (2488 stars) - Satty - Modern Screenshot Annotation.
+- [sandstorm](https://github.com/deeplethe/sandstorm) (5441 stars) - Run thousands of AI agent sandboxes on the cheapest machines.
+- [sapling](https://github.com/meta/sapling) (7245 stars) - A Scalable, User-Friendly Source Control System.
+- [Satty](https://github.com/Satty-org/Satty) (2490 stars) - Satty - Modern Screenshot Annotation.
 - [scaphandre](https://github.com/hubblo-org/scaphandre) (2017 stars) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
-- [sd](https://github.com/chmln/sd) (7414 stars) - Intuitive find & replace CLI (sed alternative)
+- [sd](https://github.com/chmln/sd) (7413 stars) - Intuitive find & replace CLI (sed alternative)
 - [sear](https://github.com/iqlusioninc/sear) (352 stars) - Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support
 - [secondwind](https://github.com/orchetron/secondwind) (40 stars) - Losslessly compress the tool output your AI agent sends the model, prove every value survived, and report the exact tokens removed. Run it as a proxy, a library, or middleware.
 - [sem](https://github.com/Ataraxy-Labs/sem) (3442 stars) - Semantic version control => entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
@@ -413,120 +413,121 @@
 - [shisho](https://github.com/flatt-security/shisho) (384 stars) - Lightweight static analyzer for several programming languages
 - [shorty](https://github.com/ffissore/shorty) (32 stars) - URL shortener available as library, microservice (even containerized), aws lambda, and azure function
 - [signway](https://github.com/gabotechs/signway) (100 stars) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
-- [silicon](https://github.com/Aloxaf/silicon) (3593 stars) - Create beautiful image of your source code.
+- [silicon](https://github.com/Aloxaf/silicon) (3591 stars) - Create beautiful image of your source code.
 - [simkube](https://github.com/acrlabs/simkube) (403 stars) - Record-and-replay Kubernetes simulator based on KWOK
 - [skytable](https://github.com/skytable/skytable) (2666 stars) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences
-- [slatedb](https://github.com/slatedb/slatedb) (3622 stars) - A cloud native embedded storage engine built on object storage.
-- [slint](https://github.com/slint-ui/slint) (24411 stars) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [smolvm](https://github.com/smol-machines/smolvm) (6959 stars) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
-- [sniffnet](https://github.com/GyulyVGC/sniffnet) (41908 stars) - Comfortably monitor your network traffic 🕵️‍♂️
+- [slatedb](https://github.com/slatedb/slatedb) (3624 stars) - A cloud native embedded storage engine built on object storage.
+- [slint](https://github.com/slint-ui/slint) (24437 stars) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+- [smolvm](https://github.com/smol-machines/smolvm) (7002 stars) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
+- [sniffnet](https://github.com/GyulyVGC/sniffnet) (41942 stars) - Comfortably monitor your network traffic 🕵️‍♂️
 - [sonic](https://github.com/valeriansaliou/sonic) (21379 stars) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [sonnerie](https://github.com/njaard/sonnerie) (277 stars) - A simple timeseries database
 - [sozu](https://github.com/sozu-proxy/sozu) (3753 stars) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
-- [spacedrive](https://github.com/spacedriveapp/spacedrive) (39435 stars) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) (25523 stars) - Development at the speed of light
+- [spacedrive](https://github.com/spacedriveapp/spacedrive) (39449 stars) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) (25529 stars) - Development at the speed of light
 - [spiceai](https://github.com/spiceai/spiceai) (3130 stars) - Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.
-- [spin](https://github.com/spinframework/spin) (6564 stars) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+- [spin](https://github.com/spinframework/spin) (6563 stars) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [spooled-backend](https://github.com/Spooled-Cloud/spooled-backend) (86 stars) - High-performance webhook queue and job scheduler for distributed systems.    10k+ jobs/sec with PostgreSQL, Redis, and WebSocket real-time updates.    Includes REST & gRPC APIs, multi-tenant isolation, and production monitoring.
-- [spotifyd](https://github.com/Spotifyd/spotifyd) (10826 stars) - A spotify daemon
-- [sshx](https://github.com/ekzhang/sshx) (7711 stars) - Fast, collaborative live terminal sharing over the web
-- [stalwart](https://github.com/stalwartlabs/stalwart) (15746 stars) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+- [spotifyd](https://github.com/Spotifyd/spotifyd) (10828 stars) - A spotify daemon
+- [sshx](https://github.com/ekzhang/sshx) (7710 stars) - Fast, collaborative live terminal sharing over the web
+- [stalwart](https://github.com/stalwartlabs/stalwart) (15768 stars) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [starina](https://github.com/starina-os/starina) (432 stars) - Unknown
-- [starship](https://github.com/starship/starship) (60616 stars) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) (14874 stars) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-- [stoatchat](https://github.com/stoatchat/stoatchat) (3451 stars) - The software powering Stoat
-- [stoolap](https://github.com/stoolap/stoolap) (1248 stars) - A Modern Embedded SQL Database written in Rust
+- [starship](https://github.com/starship/starship) (60623 stars) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) (14875 stars) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [stoatchat](https://github.com/stoatchat/stoatchat) (3453 stars) - The software powering Stoat
+- [stoolap](https://github.com/stoolap/stoolap) (1249 stars) - A Modern Embedded SQL Database written in Rust
 - [stratisd](https://github.com/stratis-storage/stratisd) (880 stars) - Easy to use local storage management for Linux.
 - [stu](https://github.com/lusingander/stu) (924 stars) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 - [sui](https://github.com/MystenLabs/sui) (7782 stars) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [sui](https://github.com/denoland/sui) (153 stars) - Embed custom RO data into precompiled executables
-- [surrealdb](https://github.com/surrealdb/surrealdb) (33287 stars) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [swc](https://github.com/swc-project/swc) (34207 stars) - Rust-based platform for the Web
+- [surrealdb](https://github.com/surrealdb/surrealdb) (33289 stars) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [swc](https://github.com/swc-project/swc) (34208 stars) - Rust-based platform for the Web
 - [syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) (1838 stars) - Sync Storage server in Rust
-- [system76-scheduler](https://github.com/pop-os/system76-scheduler) (645 stars) - Auto-configure CFS and process priorities for improved desktop responsiveness
-- [tabby](https://github.com/TabbyML/tabby) (33919 stars) - Self-hosted AI coding assistant
-- [tantivy](https://github.com/quickwit-oss/tantivy) (16401 stars) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [tauri](https://github.com/tauri-apps/tauri) (112552 stars) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+- [system76-scheduler](https://github.com/pop-os/system76-scheduler) (644 stars) - Auto-configure CFS and process priorities for improved desktop responsiveness
+- [tabby](https://github.com/TabbyML/tabby) (33923 stars) - Self-hosted AI coding assistant
+- [tantivy](https://github.com/quickwit-oss/tantivy) (16405 stars) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [tauri](https://github.com/tauri-apps/tauri) (112572 stars) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [television](https://github.com/alexpasmantier/television) (6408 stars) - A very fast, portable and hackable fuzzy finder.
 - [tenere](https://github.com/pythops/tenere) (686 stars) - 🤖 TUI for LLMs 
 - [tensorzero](https://github.com/tensorzero/tensorzero) (11705 stars) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [terrashine](https://github.com/Isawan/terrashine) (63 stars) - A terraform provider network mirror with dynamic provider fetching
 - [terustry](https://github.com/veepee-oss/terustry) (73 stars) - Open Source terraform provider registry 
-- [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) (5108 stars) - A blazing fast inference solution for text embeddings models
+- [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) (5109 stars) - A blazing fast inference solution for text embeddings models
 - [tfs](https://github.com/redox-os/tfs) (2937 stars) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
-- [tikv](https://github.com/tikv/tikv) (16935 stars) - Distributed transactional key-value database, originally created to complement TiDB
+- [tikv](https://github.com/tikv/tikv) (16937 stars) - Distributed transactional key-value database, originally created to complement TiDB
 - [tmpo](https://github.com/perryrh0dan/tmpo) (30 stars) - Command line interface to create new workspaces based on templates
 - [toast](https://github.com/stepchowfun/toast) (1635 stars) - Containerize your development and continuous integration environments. 🥂
-- [tokenizers](https://github.com/huggingface/tokenizers) (11224 stars) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [tokenizers](https://github.com/huggingface/tokenizers) (11225 stars) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [toktrack](https://github.com/mag123c/toktrack) (196 stars) - Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)
 - [torrust-index](https://github.com/torrust/torrust-index) (97 stars) - This repository serves as the backend for the Torrust Index project.
 - [torrust-tracker](https://github.com/torrust/torrust-tracker) (536 stars) - A modern and feature-rich (private) BitTorrent tracker.
 - [Toshi](https://github.com/toshi-search/Toshi) (4258 stars) - A full-text search engine in rust
 - [tract](https://github.com/sonos/tract) (3111 stars) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
-- [trailbase](https://github.com/trailbaseio/trailbase) (5740 stars) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime.
-- [trippy](https://github.com/fujiapple852/trippy) (8139 stars) - A network diagnostic tool 
+- [trailbase](https://github.com/trailbaseio/trailbase) (5744 stars) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime.
+- [trippy](https://github.com/fujiapple852/trippy) (8142 stars) - A network diagnostic tool 
 - [trow](https://github.com/Trow-Registry/trow) (1032 stars) - Container Registry and Image Management for Kubernetes Clusters
-- [tsrs](https://github.com/oxc-project/tsrs) (2915 stars) - Rust port of the TypeScript 7 type checker
+- [tsrs](https://github.com/oxc-project/tsrs) (2975 stars) - Rust port of the TypeScript 7 type checker
 - [ttl](https://github.com/lance0/ttl) (1492 stars) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
 - [turbo-cache-server](https://github.com/brunojppb/turbo-cache-server) (223 stars) - Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS
 - [turborepo](https://github.com/vercel/turborepo) (31308 stars) - The build system for coding agents.
-- [turso](https://github.com/tursodatabase/turso) (25175 stars) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
-- [typst](https://github.com/typst/typst) (57008 stars) - A markup-based typesetting system that is powerful and easy to learn.
+- [turso](https://github.com/tursodatabase/turso) (25182 stars) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
+- [typst](https://github.com/typst/typst) (57021 stars) - A markup-based typesetting system that is powerful and easy to learn.
 - [ubi](https://github.com/houseabsolute/ubi) (600 stars) - The Universal Binary Installer
 - [undermoon](https://github.com/doyoubi/undermoon) (705 stars) - Mordern Redis Cluster solution for easy operation.
-- [uv](https://github.com/astral-sh/uv) (91611 stars) - An extremely fast Python package and project manager, written in Rust.
-- [uzu](https://github.com/trymirai/uzu) (3227 stars) - A high-performance inference engine for AI models
-- [vaultwarden](https://github.com/dani-garcia/vaultwarden) (70315 stars) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [vector](https://github.com/vectordotdev/vector) (22806 stars) - A high-performance observability data pipeline.
-- [VectorChord](https://github.com/supervc-stack/VectorChord) (1836 stars) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
-- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) (28606 stars) - Get 10X more out of Claude Code, Codex or any coding agent
-- [viddy](https://github.com/sachaos/viddy) (5443 stars) - 👀 A modern watch command. Time machine and pager etc.
-- [vlpds](https://github.com/jazware/vlpds) (55 stars) - Very Large PDS, a world-scale, incredibly efficient, incredibly resilient, atproto personal data server
+- [uv](https://github.com/astral-sh/uv) (91716 stars) - An extremely fast Python package and project manager, written in Rust.
+- [uzu](https://github.com/trymirai/uzu) (3236 stars) - A high-performance inference engine for AI models
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden) (70353 stars) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [vector](https://github.com/vectordotdev/vector) (22811 stars) - A high-performance observability data pipeline.
+- [VectorChord](https://github.com/supervc-stack/VectorChord) (1837 stars) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) (28612 stars) - Get 10X more out of Claude Code, Codex or any coding agent
+- [viddy](https://github.com/sachaos/viddy) (5444 stars) - 👀 A modern watch command. Time machine and pager etc.
+- [vlpds](https://github.com/jazware/vlpds) (57 stars) - Very Large PDS, a world-scale, incredibly efficient, incredibly resilient, atproto personal data server
 - [void](https://github.com/void-rs/void) (1142 stars) - terminal-based personal organizer
-- [vortex](https://github.com/vortex-data/vortex) (3305 stars) - An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
+- [vortex](https://github.com/vortex-data/vortex) (3308 stars) - An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
 - [wadm](https://github.com/wasmCloud/wadm) (128 stars) - wasmCloud Application Deployment Manager (wadm) is a Wasm-native orchestrator for managing and scaling declarative wasmCloud applications.
 - [wadm-operator](https://github.com/wasmCloud/wadm-operator) (42 stars) - Kubernetes operator for declaratively deploying wasmCloud applications (via wadm) and hosts on Kubernetes.
 - [wagi](https://github.com/deislabs/wagi) (897 stars) - Write HTTP handlers in WebAssembly with a minimal amount of work
 - [walker](https://github.com/abenz1267/walker) (3101 stars) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [walrus](https://github.com/nubskr/walrus) (1942 stars) - 🦭 Distributed log streaming engine built from first principles
-- [warp](https://github.com/warpdotdev/warp) (65887 stars) - Warp is an agentic development environment, born out of the terminal.
-- [warpgate](https://github.com/warp-tech/warpgate) (8207 stars) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
+- [warp](https://github.com/warpdotdev/warp) (65901 stars) - Warp is an agentic development environment, born out of the terminal.
+- [warpgate](https://github.com/warp-tech/warpgate) (8212 stars) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [wasmCloud](https://github.com/wasmCloud/wasmCloud) (2478 stars) - wasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
-- [wasmer](https://github.com/wasmerio/wasmer) (21221 stars) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
+- [wasmer](https://github.com/wasmerio/wasmer) (21223 stars) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [wasmer-postgres](https://github.com/wasmerio/wasmer-postgres) (430 stars) - 💽🕸 Postgres library to run WebAssembly binaries.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) (18832 stars) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-- [watchexec](https://github.com/watchexec/watchexec) (7271 stars) - Executes commands in response to file modifications
+- [watchexec](https://github.com/watchexec/watchexec) (7272 stars) - Executes commands in response to file modifications
 - [wdcrypt](https://github.com/stefins/wdcrypt) (45 stars) - 🔐A CLI to encrypt all the files and folder in your current working directory.
-- [wealthfolio](https://github.com/wealthfolio/wealthfolio) (9336 stars) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
-- [wezterm](https://github.com/wezterm/wezterm) (29462 stars) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wealthfolio](https://github.com/wealthfolio/wealthfolio) (9349 stars) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+- [wezterm](https://github.com/wezterm/wezterm) (29473 stars) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [wifi-connect](https://github.com/balena-os/wifi-connect) (1515 stars) - Easy WiFi setup for Linux devices from your mobile phone or laptop
-- [windmill](https://github.com/windmill-labs/windmill) (18422 stars) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.
-- [wonnx](https://github.com/webonnx/wonnx) (1755 stars) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
-- [wordcraft](https://github.com/storytold/wordcraft) (17423 stars) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+- [windmill](https://github.com/windmill-labs/windmill) (18444 stars) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.
+- [wonnx](https://github.com/webonnx/wonnx) (1753 stars) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
+- [wordcraft](https://github.com/storytold/wordcraft) (17489 stars) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 - [wstunnel](https://github.com/erebe/wstunnel) (7168 stars) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 - [wtftw](https://github.com/Kintaro/wtftw) (2375 stars) - Window Tiling For The Win. A tiling window manager written in Rust
-- [xberg](https://github.com/xberg-io/xberg) (9548 stars) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
+- [xberg](https://github.com/xberg-io/xberg) (9558 stars) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [xfr](https://github.com/lance0/xfr) (585 stars) - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust.
 - [xh](https://github.com/ducaale/xh) (8170 stars) - Friendly and fast tool for sending HTTP requests
-- [xi-editor](https://github.com/xi-editor/xi-editor) (19801 stars) - A modern editor with a backend written in Rust.
-- [xray](https://github.com/atom-archive/xray) (8418 stars) - An experimental next-generation Electron-based text editor
+- [xi-editor](https://github.com/xi-editor/xi-editor) (19799 stars) - A modern editor with a backend written in Rust.
+- [xray](https://github.com/atom-archive/xray) (8416 stars) - An experimental next-generation Electron-based text editor
 - [xsv](https://github.com/BurntSushi/xsv) (10751 stars) - A fast CSV command line toolkit written in Rust.
-- [yek](https://github.com/mohsen1/yek) (2476 stars) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [yaak](https://github.com/mountain-loop/yaak) (19453 stars) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [yek](https://github.com/mohsen1/yek) (2475 stars) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [yes-rs](https://github.com/jedisct1/yes-rs) (333 stars) - 🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀
 - [yew](https://github.com/yewstack/yew) (32839 stars) - Rust / Wasm framework for creating reliable and efficient web applications
 - [yomo](https://github.com/yomorun/yomo) (1930 stars) - 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
-- [zbox](https://github.com/zboxfs/zbox) (1542 stars) - Zero-details, privacy-focused in-app file system.
-- [zed](https://github.com/zed-industries/zed) (92920 stars) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [zellij](https://github.com/zellij-org/zellij) (35953 stars) - A terminal workspace with batteries included
-- [zen](https://github.com/gorules/zen) (2111 stars) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
+- [zbox](https://github.com/zboxfs/zbox) (1541 stars) - Zero-details, privacy-focused in-app file system.
+- [zed](https://github.com/zed-industries/zed) (93830 stars) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zellij](https://github.com/zellij-org/zellij) (35964 stars) - A terminal workspace with batteries included
+- [zen](https://github.com/gorules/zen) (2112 stars) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [zenith](https://github.com/bvaisvil/zenith) (3068 stars) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-- [zeroboot](https://github.com/zerobootdev/zeroboot) (2468 stars) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+- [zeroboot](https://github.com/zerobootdev/zeroboot) (2469 stars) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [ZeroFS](https://github.com/Barre/ZeroFS) (3176 stars) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD. 
-- [zizmor](https://github.com/zizmorcore/zizmor) (6914 stars) - Static analysis for GitHub Actions (and more)
-- [zksync-era](https://github.com/matter-labs/zksync-era) (3231 stars) - zkSync era
-- [ZLUDA](https://github.com/vosen/ZLUDA) (15172 stars) - CUDA on non-NVIDIA GPUs
-- [zola](https://github.com/getzola/zola) (17583 stars) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [zoxide](https://github.com/ajeetdsouza/zoxide) (40472 stars) - A smarter cd command. Supports all major shells.
-- [ztunnel](https://github.com/istio/ztunnel) (490 stars) - The `ztunnel` component of ambient mesh
+- [zizmor](https://github.com/zizmorcore/zizmor) (6926 stars) - Static analysis for GitHub Actions (and more)
+- [zksync-era](https://github.com/matter-labs/zksync-era) (3232 stars) - zkSync era
+- [ZLUDA](https://github.com/vosen/ZLUDA) (15169 stars) - CUDA on non-NVIDIA GPUs
+- [zola](https://github.com/getzola/zola) (17586 stars) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [zoxide](https://github.com/ajeetdsouza/zoxide) (40483 stars) - A smarter cd command. Supports all major shells.
+- [ztunnel](https://github.com/istio/ztunnel) (491 stars) - The `ztunnel` component of ambient mesh
 - [zuri](https://github.com/zuri-lang/zuri) (200 stars) -  One language, one binary, the entire development lifecycle.
-- [zvec-grep](https://github.com/zvec-ai/zvec-grep) (4230 stars) - Local-first search across your workspace, built for humans and AI agents.
+- [zvec-grep](https://github.com/zvec-ai/zvec-grep) (4283 stars) - Local-first search across your workspace, built for humans and AI agents.

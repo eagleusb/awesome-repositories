@@ -1,20 +1,20 @@
 ## Kotlin (19 repositories) 
 - [amethyst](https://github.com/vitorpamplona/amethyst) (1620 stars) - Nostr client for Android
 - [android](https://github.com/owntracks/android) (1778 stars) - OwnTracks Android App
-- [android-app](https://github.com/ProtonVPN/android-app) (4251 stars) - Official ProtonVPN Android app
-- [gallery](https://github.com/google-ai-edge/gallery) (25226 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) (666 stars) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
-- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (6507 stars) - Customizable and privacy-conscious open-source keyboard
-- [KernelSU](https://github.com/tiann/KernelSU) (20155 stars) - A Kernel based root solution for Android
-- [librepods](https://github.com/librepods-org/librepods) (30630 stars) - AirPods liberated from Apple's ecosystem.
-- [LibreTube](https://github.com/libre-tube/LibreTube) (12949 stars) - An alternative frontend for YouTube, for Android.
+- [android-app](https://github.com/ProtonVPN/android-app) (4257 stars) - Official ProtonVPN Android app
+- [gallery](https://github.com/google-ai-edge/gallery) (25228 stars) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) (667 stars) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
+- [HeliBoard](https://github.com/HeliBorg/HeliBoard) (6513 stars) - Customizable and privacy-conscious open-source keyboard
+- [KernelSU](https://github.com/tiann/KernelSU) (20220 stars) - A Kernel based root solution for Android
+- [librepods](https://github.com/librepods-org/librepods) (30646 stars) - AirPods liberated from Apple's ecosystem.
+- [LibreTube](https://github.com/libre-tube/LibreTube) (12962 stars) - An alternative frontend for YouTube, for Android.
 - [listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) (219 stars) - Official Android App of ListenBrainz
 - [pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) (2346 stars) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) (547 stars) - PartiQL libraries and tools in Kotlin.
-- [revanced-manager](https://github.com/ReVanced/revanced-manager) (30077 stars) - 💊 Application to use ReVanced on Android 
-- [tasks](https://github.com/tasks/tasks) (5719 stars) - Bringing Astrid Tasks back from the dead
-- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (14186 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (2998 stars) - An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.
+- [revanced-manager](https://github.com/ReVanced/revanced-manager) (30087 stars) - 💊 Application to use ReVanced on Android 
+- [tasks](https://github.com/tasks/tasks) (5723 stars) - Bringing Astrid Tasks back from the dead
+- [thunderbird-android](https://github.com/thunderbird/thunderbird-android) (14191 stars) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [Trail-Sense](https://github.com/kylecorry31/Trail-Sense) (3013 stars) - An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.
 - [trailblaze](https://github.com/block/trailblaze) (327 stars) - 🥾 AI-Driven UI Testing Framework with Recorded Trails
-- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2719 stars) - Unknown
-- [Wholphin](https://github.com/damontecres/Wholphin) (3260 stars) - An OSS Android TV client for Jellyfin
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) (2718 stars) - Unknown
+- [Wholphin](https://github.com/damontecres/Wholphin) (3269 stars) - An OSS Android TV client for Jellyfin
