@@ -4,11 +4,11 @@
 - [klfc](https://github.com/39aldo39/klfc) (237 stars) - Keyboard Layout Files Creator
 - [linux_notification_center](https://github.com/phuhl/linux_notification_center) (1044 stars) - A notification daemon/center for linux
 - [postgrest](https://github.com/PostgREST/postgrest) (27744 stars) - REST API for any Postgres database
-- [purescript](https://github.com/purescript/purescript) (8914 stars) - A strongly-typed language that compiles to JavaScript
+- [purescript](https://github.com/purescript/purescript) (8915 stars) - A strongly-typed language that compiles to JavaScript
 - [radicle-alpha](https://github.com/radicle-dev/radicle-alpha) (911 stars) - A peer-to-peer stack for code collaboration
-- [shellcheck](https://github.com/koalaman/shellcheck) (40295 stars) - ShellCheck, a static analysis tool for shell scripts
-- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (19653 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [shellcheck](https://github.com/koalaman/shellcheck) (40299 stars) - ShellCheck, a static analysis tool for shell scripts
+- [simplex-chat](https://github.com/simplex-chat/simplex-chat) (19660 stars) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [simplexmq](https://github.com/simplex-chat/simplexmq) (859 stars) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 - [squee](https://github.com/KMahoney/squee) (105 stars) - A Typed, Composable Database Query Language
-- [taffybar](https://github.com/taffybar/taffybar) (710 stars) - A gtk based status bar for tiling window managers such as XMonad
+- [taffybar](https://github.com/taffybar/taffybar) (711 stars) - A gtk based status bar for tiling window managers such as XMonad
 - [wire-server](https://github.com/wireapp/wire-server) (2780 stars) - 🇪🇺 Wire back-end services
