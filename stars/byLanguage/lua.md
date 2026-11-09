@@ -1,17 +1,17 @@
 ## Lua (19 repositories) 
 - [APIcast](https://github.com/3scale/APIcast) (323 stars) - 3scale API Gateway
-- [apisix](https://github.com/apache/apisix) (17303 stars) - The Cloud-Native API Gateway and AI Gateway
-- [AstroNvim](https://github.com/AstroNvim/AstroNvim) (14479 stars) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
-- [awesome](https://github.com/awesomeWM/awesome) (6991 stars) - awesome window manager
+- [apisix](https://github.com/apache/apisix) (17305 stars) - The Cloud-Native API Gateway and AI Gateway
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) (14481 stars) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
+- [awesome](https://github.com/awesomeWM/awesome) (6995 stars) - awesome window manager
 - [haproxy-lua-acme](https://github.com/haproxytech/haproxy-lua-acme) (104 stars) - Unknown
 - [haproxy-lua-oauth](https://github.com/haproxytech/haproxy-lua-oauth) (118 stars) - JWT Validation implementation for HAProxy Lua host
-- [kong](https://github.com/Kong/kong) (44366 stars) - 🦍 The API and AI Gateway
-- [LazyVim](https://github.com/LazyVim/LazyVim) (27821 stars) - Neovim config for the lazy
+- [kong](https://github.com/Kong/kong) (44370 stars) - 🦍 The API and AI Gateway
+- [LazyVim](https://github.com/LazyVim/LazyVim) (27831 stars) - Neovim config for the lazy
 - [lite](https://github.com/rxi/lite) (8244 stars) - A lightweight text editor written in Lua
-- [lsyncd](https://github.com/lsyncd/lsyncd) (6077 stars) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
+- [lsyncd](https://github.com/lsyncd/lsyncd) (6078 stars) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) (1073 stars) - OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty
-- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (8176 stars) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-- [ntopng](https://github.com/ntop/ntopng) (8338 stars) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
+- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (8177 stars) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [ntopng](https://github.com/ntop/ntopng) (8339 stars) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [nvim-hardline](https://github.com/ojroques/nvim-hardline) (213 stars) - A simple Neovim statusline
 - [packer.nvim](https://github.com/wbthomason/packer.nvim) (8088 stars) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [paq-nvim](https://github.com/savq/paq-nvim) (704 stars) - 🌚  Neovim package manager

@@ -1,30 +1,30 @@
 ## C# (29 repositories) 
-- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) (13795 stars) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-- [Axiom](https://github.com/MattMcManis/Axiom) (1714 stars) - An FFmpeg GUI for Windows
-- [dev-tunnels-ssh](https://github.com/microsoft/dev-tunnels-ssh) (162 stars) - SSH library for dev-tunnels
+- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) (13797 stars) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+- [Axiom](https://github.com/MattMcManis/Axiom) (1715 stars) - An FFmpeg GUI for Windows
+- [dev-tunnels-ssh](https://github.com/microsoft/dev-tunnels-ssh) (163 stars) - SSH library for dev-tunnels
 - [docker-lambda](https://github.com/lambci/docker-lambda) (5774 stars) - Docker images and test runners that replicate the live AWS Lambda environment
 - [drasi-platform](https://github.com/drasi-project/drasi-platform) (1256 stars) - The Data Change Processing platform
-- [duplicati](https://github.com/duplicati/duplicati) (15190 stars) - Store securely encrypted backups in the cloud!
+- [duplicati](https://github.com/duplicati/duplicati) (15192 stars) - Store securely encrypted backups in the cloud!
 - [ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server) (748 stars) - ETS2/ATS Telemetry Web Server + Mobile Dashboard
 - [FASTER](https://github.com/microsoft/FASTER) (6635 stars) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
-- [g-helper](https://github.com/seerge/g-helper) (15950 stars) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
-- [garnet](https://github.com/microsoft/garnet) (12079 stars) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+- [g-helper](https://github.com/seerge/g-helper) (15968 stars) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
+- [garnet](https://github.com/microsoft/garnet) (12084 stars) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 - [GraphEngine](https://github.com/microsoft/GraphEngine) (2264 stars) - Microsoft Graph Engine
-- [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) (1748 stars) - A touch optimized GUI to increase your handheld gaming computer experience.
+- [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) (1747 stars) - A touch optimized GUI to increase your handheld gaming computer experience.
 - [ilSFV](https://github.com/judwhite/ilSFV) (37 stars) - SFV, MD5 and SHA-1 file verification utility for Windows.
-- [Jackett](https://github.com/Jackett/Jackett) (16330 stars) - API Support for your favorite torrent trackers
-- [jellyfin](https://github.com/jellyfin/jellyfin) (59115 stars) - The Free Software Media System - Server Backend & API
+- [Jackett](https://github.com/Jackett/Jackett) (16337 stars) - API Support for your favorite torrent trackers
+- [jellyfin](https://github.com/jellyfin/jellyfin) (59142 stars) - The Free Software Media System - Server Backend & API
 - [jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) (266 stars) - Automatically delete media according to configurable rules.
 - [Kavita](https://github.com/Kareadita/Kavita) (12078 stars) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-- [kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) (1694 stars) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
-- [legacy](https://github.com/ErsatzTV/legacy) (3037 stars) - Open-source platform that transforms your personal media library into live, custom TV channels.
-- [Lidarr](https://github.com/Lidarr/Lidarr) (5811 stars) - Looks and smells like Sonarr but made for music.
-- [lingarr](https://github.com/lingarr-translate/lingarr) (907 stars) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.
-- [OpenCiv3](https://github.com/C7-Game/OpenCiv3) (690 stars) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.
+- [kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) (1693 stars) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
+- [legacy](https://github.com/ErsatzTV/legacy) (3039 stars) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [Lidarr](https://github.com/Lidarr/Lidarr) (5812 stars) - Looks and smells like Sonarr but made for music.
+- [lingarr](https://github.com/lingarr-translate/lingarr) (906 stars) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.
+- [OpenCiv3](https://github.com/C7-Game/OpenCiv3) (691 stars) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.
 - [Pinta](https://github.com/PintaProject/Pinta) (4133 stars) - Simple GTK Paint Program
-- [Prowlarr](https://github.com/Prowlarr/Prowlarr) (7520 stars) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
-- [qmk_toolbox](https://github.com/qmk/qmk_toolbox) (3121 stars) - A Toolbox companion for QMK Firmware
+- [Prowlarr](https://github.com/Prowlarr/Prowlarr) (7524 stars) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+- [qmk_toolbox](https://github.com/qmk/qmk_toolbox) (3122 stars) - A Toolbox companion for QMK Firmware
 - [scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) (284 stars) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
-- [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) (9373 stars) - A manager for game achievements in Steam.
+- [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) (9377 stars) - A manager for game achievements in Steam.
 - [tricycle](https://github.com/kmcclive/tricycle) (94 stars) - Video transcoding... easier than riding a bike.
 - [ts-map](https://github.com/dariowouters/ts-map) (128 stars) - ATS/ETS2 map renderer
