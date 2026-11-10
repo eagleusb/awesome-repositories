@@ -1,6 +1,6 @@
 ## Scala (9 repositories) 
-- [chronon](https://github.com/airbnb/chronon) (1068 stars) - Chronon is a data platform for serving for AI/ML applications.
-- [chronos](https://github.com/mesos/chronos) (4371 stars) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
+- [chronon](https://github.com/airbnb/chronon) (1069 stars) - Chronon is a data platform for serving for AI/ML applications.
+- [chronos](https://github.com/mesos/chronos) (4370 stars) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 - [collins](https://github.com/tumblr/collins) (573 stars) - groovy kind of love
 - [finagle](https://github.com/twitter/finagle) (8870 stars) - A fault tolerant, protocol-agnostic RPC system
 - [gatling](https://github.com/gatling/gatling) (6959 stars) - Modern Load Testing as Code
