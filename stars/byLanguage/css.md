@@ -1,10 +1,10 @@
 ## CSS (32 repositories) 
-- [98.css](https://github.com/jdan/98.css) (11608 stars) - A design system for building faithful recreations of old UIs
-- [arc-theme](https://github.com/horst3180/arc-theme) (8229 stars) - A flat theme with transparent elements
-- [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) (17440 stars) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9587 stars) - List of awesome CSS frameworks in 2026
+- [98.css](https://github.com/jdan/98.css) (11614 stars) - A design system for building faithful recreations of old UIs
+- [arc-theme](https://github.com/horst3180/arc-theme) (8231 stars) - A flat theme with transparent elements
+- [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) (17447 stars) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) (9586 stars) - List of awesome CSS frameworks in 2026
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) (2576 stars) - A list of history's greatest software engineers and tech pioneers
-- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3917 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) (3918 stars) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [cs16.css](https://github.com/ekmas/cs16.css) (2029 stars) - CSS library based on Counter Strike 1.6 UI.
 - [csstyle](https://github.com/csstyle-org/csstyle) (49 stars) - clean, simple styling for styling the web.
 - [curriculum](https://github.com/opsschool/curriculum) (1631 stars) - Ops School Curriculum
@@ -13,21 +13,21 @@
 - [Fira](https://github.com/mozilla/Fira) (5130 stars) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [goflow](https://github.com/s8sg/goflow) (1381 stars) - A Golang based high performance, scalable and distributed workflow framework
 - [gtk](https://github.com/dracula/gtk) (1058 stars) - 🧛🏻‍♂️ Dark theme for GTK
-- [http2-explained](https://github.com/bagder/http2-explained) (2305 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2826 stars) - A simple, retro theme for Hugo
-- [juliamono](https://github.com/cormullion/juliamono) (1704 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
+- [http2-explained](https://github.com/bagder/http2-explained) (2304 stars) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) (2827 stars) - A simple, retro theme for Hugo
+- [juliamono](https://github.com/cormullion/juliamono) (1705 stars) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [LookingGlass](https://github.com/ramnode/LookingGlass) (95 stars) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [mazanoke](https://github.com/civilblur/mazanoke) (2738 stars) - A self-hosted local image optimizer that runs in your browser.
-- [Nordic](https://github.com/EliverLara/Nordic) (2746 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+- [Nordic](https://github.com/EliverLara/Nordic) (2745 stars) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) (172 stars) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) (3846 stars) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [pyets2_telemetry_server](https://github.com/thomasa88/pyets2_telemetry_server) (20 stars) - pyets2_telemetry_server provides a web dashboard for Euro Truck Simulator 2 in Linux, allowing the dashboard to be shown on a separate screen or phone/tablet.
 - [reshifter](https://github.com/mhausenblas/reshifter) (291 stars) - Kubernetes cluster state management
-- [rfs](https://github.com/twbs/rfs) (3369 stars) - ✩ Automates responsive resizing ✩
+- [rfs](https://github.com/twbs/rfs) (3370 stars) - ✩ Automates responsive resizing ✩
 - [robeaux](https://github.com/hybridgroup/robeaux) (126 stars) - Universal dashboard to robotic devices based on React
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20454 stars) - Monospaced font family for user interface and coding environments
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) (20456 stars) - Monospaced font family for user interface and coding environments
 - [source-sans](https://github.com/adobe-fonts/source-sans) (3783 stars) - Sans serif font family for user interface environments
-- [tabler-react](https://github.com/tabler/tabler-react) (2293 stars) - React components and demo for the Tabler UI theme.
-- [tachyons](https://github.com/tachyons-css/tachyons) (11725 stars) - Functional css for humans
+- [tabler-react](https://github.com/tabler/tabler-react) (2294 stars) - React components and demo for the Tabler UI theme.
+- [tachyons](https://github.com/tachyons-css/tachyons) (11726 stars) - Functional css for humans
 - [thejsway](https://github.com/thejsway/thejsway) (7883 stars) - The JavaScript Way book
 - [write-ups-2015](https://github.com/ctfs/write-ups-2015) (2000 stars) - Wiki-like CTF write-ups repository, maintained by the community. 2015

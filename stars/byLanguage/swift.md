@@ -1,14 +1,14 @@
 ## Swift (13 repositories) 
-- [agent-sessions](https://github.com/jazzyalex/agent-sessions) (944 stars) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
-- [Amethyst](https://github.com/ianyh/Amethyst) (16319 stars) - Automatic tiling window manager for macOS à la xmonad.
-- [bitchat](https://github.com/permissionlesstech/bitchat) (37115 stars) - bluetooth mesh chat, IRC vibes
+- [agent-sessions](https://github.com/jazzyalex/agent-sessions) (945 stars) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
+- [Amethyst](https://github.com/ianyh/Amethyst) (16323 stars) - Automatic tiling window manager for macOS à la xmonad.
+- [bitchat](https://github.com/permissionlesstech/bitchat) (37123 stars) - bluetooth mesh chat, IRC vibes
 - [Cilicon](https://github.com/traderepublic/Cilicon) (1198 stars) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
-- [container](https://github.com/apple/container) (51125 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [FluidAudio](https://github.com/FluidInference/FluidAudio) (3283 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
-- [FluidVoice](https://github.com/altic-dev/FluidVoice) (12935 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more
-- [iGlance](https://github.com/iglance/iGlance) (2489 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
+- [container](https://github.com/apple/container) (51145 stars) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [FluidAudio](https://github.com/FluidInference/FluidAudio) (3285 stars) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. 
+- [FluidVoice](https://github.com/altic-dev/FluidVoice) (12954 stars) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more
+- [iGlance](https://github.com/iglance/iGlance) (2488 stars) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
 - [PairPods](https://github.com/wozniakpawel/PairPods) (864 stars) - Free and open source app to share audio on macOS
-- [stats](https://github.com/exelban/stats) (43277 stars) - macOS system monitor in your menu bar
+- [stats](https://github.com/exelban/stats) (43305 stars) - macOS system monitor in your menu bar
 - [till-dusk](https://github.com/mattBonfanti/till-dusk) (1 stars) - Menu-bar battery forecast for macOS, powered by Mistral's Timestral
-- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4241 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (33932 stars) - Free and open-source macOS menu bar toolkit.
+- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) (4242 stars) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+- [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (34061 stars) - Free and open-source macOS menu bar toolkit.
