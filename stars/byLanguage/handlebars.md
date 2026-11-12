@@ -1,2 +1,2 @@
 ## Handlebars (1 repositories) 
-- [vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) (1738 stars) - A mobile friendly Vim cheat sheet
+- [vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) (1739 stars) - A mobile friendly Vim cheat sheet

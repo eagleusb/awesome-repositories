@@ -1,9 +1,9 @@
 ## Elixir (8 repositories) 
-- [analytics](https://github.com/plausible/analytics) (29818 stars) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+- [analytics](https://github.com/plausible/analytics) (29827 stars) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [cog](https://github.com/operable/cog) (917 stars) - Bringing the power of the command line to chat
-- [firezone](https://github.com/firezone/firezone) (9181 stars) - Blazing-fast remote access
+- [firezone](https://github.com/firezone/firezone) (9182 stars) - Blazing-fast remote access
 - [Lynx](https://github.com/Clivern/Lynx) (368 stars) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
-- [phoenix](https://github.com/phoenixframework/phoenix) (23216 stars) - Peace of mind from prototype to production
-- [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) (6838 stars) - Rich, real-time user experiences with server-rendered HTML
+- [phoenix](https://github.com/phoenixframework/phoenix) (23217 stars) - Peace of mind from prototype to production
+- [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) (6839 stars) - Rich, real-time user experiences with server-rendered HTML
 - [serviceradar](https://github.com/carverauto/serviceradar) (933 stars) - Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics
-- [supavisor](https://github.com/supabase/supavisor) (2285 stars) - A cloud-native, multi-tenant Postgres connection pooler.
+- [supavisor](https://github.com/supabase/supavisor) (2286 stars) - A cloud-native, multi-tenant Postgres connection pooler.
