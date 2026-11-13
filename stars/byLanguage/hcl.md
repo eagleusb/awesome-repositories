@@ -1,6 +1,6 @@
 ## HCL (23 repositories) 
 - [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (110 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
-- [agent-skills](https://github.com/hashicorp/agent-skills) (926 stars) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
+- [agent-skills](https://github.com/hashicorp/agent-skills) (928 stars) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (217 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
@@ -8,7 +8,7 @@
 - [quickstart](https://github.com/rancher-archives/quickstart) (392 stars) - Unknown
 - [stack](https://github.com/segmentio/stack) (2085 stars) - A set of Terraform modules for configuring production infrastructure with AWS
 - [teks](https://github.com/particuleio/teks) (358 stars) - Full feature EKS cluster with Terragrunt/Terraform
-- [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1268 stars) - High availability implementation of AWS NAT instances.
+- [terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) (1270 stars) - High availability implementation of AWS NAT instances.
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (5015 stars) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) (85 stars) - Terraform module to  setup OIDC with AWS and GH Actions 
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (961 stars) - Terraform module to create AWS RDS resources 🇺🇦
@@ -16,7 +16,7 @@
 - [terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) (359 stars) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.
 - [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1287 stars) - Configures opinionated GKE clusters
 - [terraform-guides](https://github.com/hashicorp/terraform-guides) (1505 stars) - Example usage of HashiCorp Terraform
-- [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (726 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
+- [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (727 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [terraform-kubernetes-addons](https://github.com/particuleio/terraform-kubernetes-addons) (209 stars) - Terraform module to deploy curated Kubernetes middlewares on multiple cloud providers.
 - [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) (748 stars) - Generate Atlantis config for Terragrunt projects.
 - [typhoon](https://github.com/poseidon/typhoon) (2055 stars) - Minimal and free Kubernetes distribution with Terraform

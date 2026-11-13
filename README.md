@@ -1,9 +1,9 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2269 repositories, 34.89%)
+- [Go](stars/byLanguage/go.md) (2268 repositories, 34.88%)
 - [Python](stars/byLanguage/python.md) (902 repositories, 13.87%)
-- [TypeScript](stars/byLanguage/typescript.md) (567 repositories, 8.72%)
+- [TypeScript](stars/byLanguage/typescript.md) (568 repositories, 8.73%)
 - [Rust](stars/byLanguage/rust.md) (537 repositories, 8.26%)
 - [JavaScript](stars/byLanguage/javascript.md) (426 repositories, 6.55%)
 
@@ -39,7 +39,7 @@
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
 - [GLSL](stars/byLanguage/glsl.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2269 repositories, 34.89%)
+- [Go](stars/byLanguage/go.md) (2268 repositories, 34.88%)
 - [Go Template](stars/byLanguage/gotemplate.md) (3 repositories, 0.05%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -99,12 +99,12 @@
 - [templ](stars/byLanguage/templ.md) (1 repositories, 0.02%)
 - [TeX](stars/byLanguage/tex.md) (5 repositories, 0.08%)
 - [Tree-sitter Query](stars/byLanguage/treesitterquery.md) (1 repositories, 0.02%)
-- [TypeScript](stars/byLanguage/typescript.md) (567 repositories, 8.72%)
+- [TypeScript](stars/byLanguage/typescript.md) (568 repositories, 8.73%)
 - [Unknown](stars/byLanguage/unknown.md) (281 repositories, 4.32%)
 - [V](stars/byLanguage/v.md) (5 repositories, 0.08%)
 - [Vala](stars/byLanguage/vala.md) (1 repositories, 0.02%)
-- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Vim script](stars/byLanguage/vimscript.md) (1 repositories, 0.02%)
+- [Vim Script](stars/byLanguage/vimscript.md) (4 repositories, 0.06%)
 - [Visual Basic .NET](stars/byLanguage/visualbasicnet.md) (1 repositories, 0.02%)
 - [Vue](stars/byLanguage/vue.md) (14 repositories, 0.22%)
 - [WebAssembly](stars/byLanguage/webassembly.md) (1 repositories, 0.02%)

@@ -1,2 +1,2 @@
 ## GLSL (1 repositories) 
-- [ghostty-shaders](https://github.com/hackrdotsh/ghostty-shaders) (1573 stars) - A repository containing many free shaders to use with ghostty (the terminal)
+- [ghostty-shaders](https://github.com/hackrdotsh/ghostty-shaders) (1574 stars) - A repository containing many free shaders to use with ghostty (the terminal)
