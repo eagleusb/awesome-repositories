@@ -1,12 +1,12 @@
 ## Svelte (11 repositories) 
 - [agx](https://github.com/agnosticeng/agx) (263 stars) - AI Powered Analytics
-- [cobalt](https://github.com/imputnet/cobalt) (46203 stars) - best way to save what you love
-- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1131 stars) - Admin Web Interface for juanfont/headscale
-- [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2745 stars) - A web frontend for the headscale Tailscale-compatible coordination server
+- [cobalt](https://github.com/imputnet/cobalt) (46218 stars) - best way to save what you love
+- [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1132 stars) - Admin Web Interface for juanfont/headscale
+- [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2746 stars) - A web frontend for the headscale Tailscale-compatible coordination server
 - [mathesar](https://github.com/mathesar-foundation/mathesar) (5178 stars) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.
 - [nah.pet](https://github.com/heyitswit/nah.pet) (154 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
-- [networking-toolbox](https://github.com/lissy93/networking-toolbox) (2722 stars) - 🛜 100+ offline-first networking tools and utilities
-- [open-webui](https://github.com/open-webui/open-webui) (158528 stars) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [networking-toolbox](https://github.com/lissy93/networking-toolbox) (2724 stars) - 🛜 100+ offline-first networking tools and utilities
+- [open-webui](https://github.com/open-webui/open-webui) (158605 stars) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [photon](https://github.com/Xyphyn/photon) (557 stars) - A faster, prettier, and nicer fediverse client
 - [tidal-ui](https://github.com/binimum/tidal-ui) (1336 stars) - Simple Tidal frontend. Modified version on tidal.squid.wtf
-- [webvm](https://github.com/leaningtech/webvm) (17470 stars) - Virtual Machine for the Web
+- [webvm](https://github.com/leaningtech/webvm) (17473 stars) - Virtual Machine for the Web

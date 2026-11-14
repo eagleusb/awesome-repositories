@@ -1,16 +1,16 @@
 ## Zig (15 repositories) 
 - [boo](https://github.com/coder/boo) (790 stars) - A GNU screen style terminal multiplexer built on libghostty.
-- [browser](https://github.com/lightpanda-io/browser) (41964 stars) - Lightpanda: the headless browser designed for AI and automation
+- [browser](https://github.com/lightpanda-io/browser) (42026 stars) - Lightpanda: the headless browser designed for AI and automation
 - [cyber](https://github.com/fubark/cyber) (1520 stars) - Fast and concurrent scripting.
-- [fx](https://github.com/vercel-labs/fx) (3824 stars) - Unix like coding agent
-- [ghostty](https://github.com/ghostty-org/ghostty) (64062 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [fx](https://github.com/vercel-labs/fx) (3834 stars) - Unix like coding agent
+- [ghostty](https://github.com/ghostty-org/ghostty) (64084 stars) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hys](https://github.com/paulilaaso/hys) (271 stars) - Terminal RSS Reader for Digital Minimalists — Tool for Escaping the Doomscroll
-- [ly](https://github.com/fairyglade/ly) (7678 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [ly](https://github.com/fairyglade/ly) (7679 stars) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [meshguard](https://github.com/igorls/meshguard) (21 stars) - Decentralized, serverless, WireGuard®-compatible mesh VPN daemon.
-- [native](https://github.com/vercel-labs/native) (7844 stars) - Toolkit for building native desktop apps
-- [zig](https://github.com/ziglang/zig) (43281 stars) - Moved to Codeberg
-- [zml](https://github.com/zml/zml) (4254 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-- [zmx](https://github.com/neurosnap/zmx) (2285 stars) - Session attach/detach for the terminal
+- [native](https://github.com/vercel-labs/native) (7846 stars) - Toolkit for building native desktop apps
+- [zig](https://github.com/ziglang/zig) (43263 stars) - Moved to Codeberg
+- [zml](https://github.com/zml/zml) (4259 stars) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
+- [zmx](https://github.com/neurosnap/zmx) (2284 stars) - Session attach/detach for the terminal
 - [zpdf](https://github.com/Lulzx/zpdf) (925 stars) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 - [zs3](https://github.com/Lulzx/zs3) (202 stars) - S3-compatible storage in Zig. Zero dependencies.
 - [ztick](https://github.com/awf-project/ztick) (2 stars) - A time-based job scheduler written in Zig

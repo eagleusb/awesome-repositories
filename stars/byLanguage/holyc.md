@@ -1,2 +1,2 @@
 ## HolyC (1 repositories) 
-- [TempleOS](https://github.com/cia-foundation/TempleOS) (4953 stars) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
+- [TempleOS](https://github.com/cia-foundation/TempleOS) (4955 stars) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
