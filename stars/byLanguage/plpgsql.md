@@ -1,5 +1,5 @@
 ## PLpgSQL (16 repositories) 
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3230 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3231 stars) - OpenMapTiles Vector Tile Schema Implementation
 - [pg-trickle](https://github.com/trickle-labs/pg-trickle) (150 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
 - [pg_background](https://github.com/vibhorkum/pg_background) (262 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 - [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (103 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
@@ -10,7 +10,7 @@
 - [pgai](https://github.com/timescale/pgai) (5792 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (41 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (5396 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq](https://github.com/pgmq/pgmq) (5398 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (56 stars) - Helper functions for working with the OpenAI API
 - [postgis](https://github.com/postgis/postgis) (2265 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (265 stars) - SQLite Foreign Data Wrapper for PostgreSQL
