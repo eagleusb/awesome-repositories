@@ -1,10 +1,10 @@
 # awesome-repositories
 
 ## Top 5 Languages
-- [Go](stars/byLanguage/go.md) (2270 repositories, 34.87%)
+- [Go](stars/byLanguage/go.md) (2269 repositories, 34.86%)
 - [Python](stars/byLanguage/python.md) (903 repositories, 13.87%)
 - [TypeScript](stars/byLanguage/typescript.md) (571 repositories, 8.77%)
-- [Rust](stars/byLanguage/rust.md) (542 repositories, 8.33%)
+- [Rust](stars/byLanguage/rust.md) (543 repositories, 8.34%)
 - [JavaScript](stars/byLanguage/javascript.md) (426 repositories, 6.54%)
 
 ## All Languages
@@ -39,7 +39,7 @@
 - [G-code](stars/byLanguage/gcode.md) (1 repositories, 0.02%)
 - [GDScript](stars/byLanguage/gdscript.md) (1 repositories, 0.02%)
 - [GLSL](stars/byLanguage/glsl.md) (1 repositories, 0.02%)
-- [Go](stars/byLanguage/go.md) (2270 repositories, 34.87%)
+- [Go](stars/byLanguage/go.md) (2269 repositories, 34.86%)
 - [Go Template](stars/byLanguage/gotemplate.md) (3 repositories, 0.05%)
 - [Groovy](stars/byLanguage/groovy.md) (2 repositories, 0.03%)
 - [Hack](stars/byLanguage/hack.md) (1 repositories, 0.02%)
@@ -87,7 +87,7 @@
 - [RobotFramework](stars/byLanguage/robotframework.md) (1 repositories, 0.02%)
 - [Roff](stars/byLanguage/roff.md) (3 repositories, 0.05%)
 - [Ruby](stars/byLanguage/ruby.md) (80 repositories, 1.23%)
-- [Rust](stars/byLanguage/rust.md) (542 repositories, 8.33%)
+- [Rust](stars/byLanguage/rust.md) (543 repositories, 8.34%)
 - [Scala](stars/byLanguage/scala.md) (9 repositories, 0.14%)
 - [SCSS](stars/byLanguage/scss.md) (10 repositories, 0.15%)
 - [Shell](stars/byLanguage/shell.md) (146 repositories, 2.24%)

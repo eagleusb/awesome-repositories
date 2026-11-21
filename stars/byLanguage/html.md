@@ -1,21 +1,21 @@
 ## HTML (67 repositories) 
 - [agenda](https://github.com/agenda/agenda) (9716 stars) - Lightweight job scheduling for Node.js
 - [allure2](https://github.com/allure-framework/allure2) (5588 stars) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
-- [alpine](https://github.com/alpinejs/alpine) (32038 stars) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
+- [alpine](https://github.com/alpinejs/alpine) (32036 stars) - A rugged, minimal framework for composing JavaScript behavior in your markup. 
 - [awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) (1521 stars) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
-- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) (30346 stars) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+- [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) (30357 stars) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) (1082 stars) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) (500 stars) - Curated list of Polybar 
 - [b612](https://github.com/polarsys/b612) (1531 stars) - Eclipse B612
-- [computer-science](https://github.com/ossu/computer-science) (211345 stars) - 🎓 Path to a free self-taught education in Computer Science!
-- [contour](https://github.com/projectcontour/contour) (3969 stars) - Contour is a Kubernetes ingress controller using Envoy proxy.
+- [computer-science](https://github.com/ossu/computer-science) (211376 stars) - 🎓 Path to a free self-taught education in Computer Science!
+- [contour](https://github.com/projectcontour/contour) (3968 stars) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [cosr-back](https://github.com/commonsearch/cosr-back) (122 stars) - Backend of Common Search. Analyses webpages and sends them to the index.
 - [Danet](https://github.com/Savory/Danet) (531 stars) - The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !
-- [doks](https://github.com/thuliteio/doks) (2365 stars) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
-- [easyeffects](https://github.com/wwmm/easyeffects) (10526 stars) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+- [doks](https://github.com/thuliteio/doks) (2364 stars) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
+- [easyeffects](https://github.com/wwmm/easyeffects) (10529 stars) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [eng-hiring](https://github.com/18F/eng-hiring) (46 stars) - 18F Engineering's guide to candidate selection, from resume screen to offer.
 - [fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) (67 stars) - What is browser fingerprinting and how should specification authors address it.
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) (143239 stars) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) (143291 stars) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) (1821 stars) - The resources and tools for learning about the practice of front-end development. 
 - [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) (3772 stars) - 2017 edition of our front-end development guide
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) (4174 stars) - 2018 edition of our front-end development handbook
@@ -26,43 +26,43 @@
 - [helm-operator-get-started](https://github.com/fluxcd/helm-operator-get-started) (449 stars) - Managing Helm releases with Flux Helm Operator
 - [hermit](https://github.com/Track3/hermit) (1148 stars) - A minimal & fast Hugo theme for bloggers
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) (143 stars) - A Hugo theme component to cloak email adresses
-- [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (423 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
+- [hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam) (422 stars) - A Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) (1250 stars) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 - [js-the-right-way](https://github.com/jstherightway/js-the-right-way) (8663 stars) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
-- [keeweb](https://github.com/keeweb/keeweb) (13041 stars) - Free cross-platform password manager compatible with KeePass
+- [keeweb](https://github.com/keeweb/keeweb) (13043 stars) - Free cross-platform password manager compatible with KeePass
 - [klipse](https://github.com/viebel/klipse) (3131 stars) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [krtk](https://github.com/ajarmoszuk/krtk) (17 stars) - krtk.ee is an easy-to-use url shortener written in go
 - [kube2iam](https://github.com/jtblin/kube2iam) (2041 stars) - kube2iam  provides different AWS IAM roles for pods running on Kubernetes
-- [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) (5960 stars) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
-- [languagemodels](https://github.com/jncraton/languagemodels) (1186 stars) - Explore large language models in 512MB of RAM
+- [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) (5961 stars) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
+- [languagemodels](https://github.com/jncraton/languagemodels) (1185 stars) - Explore large language models in 512MB of RAM
 - [LetoReader](https://github.com/DavideWiest/LetoReader) (318 stars) - A free self-hostable speed reader. Highly customizable. Implements chunking (RSVP), pacing and highlighting. Modern UI and local-storage only.
 - [lever](https://github.com/github/lever) (298 stars) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations.
-- [libsodium.js](https://github.com/jedisct1/libsodium.js) (1165 stars) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
+- [libsodium.js](https://github.com/jedisct1/libsodium.js) (1166 stars) - libsodium compiled to Webassembly and pure JavaScript, with convenient wrappers.
 - [llm-prices](https://github.com/simonw/llm-prices) (200 stars) - Prices of various LLMs
-- [material-design-lite](https://github.com/google/material-design-lite) (32191 stars) - Material Design Components in HTML/CSS/JS
+- [material-design-lite](https://github.com/google/material-design-lite) (32193 stars) - Material Design Components in HTML/CSS/JS
 - [microweber](https://github.com/microweber/microweber) (3441 stars) - Drag and Drop Website Builder and CMS with E-commerce
 - [open-source-billing](https://github.com/vteams/open-source-billing) (773 stars) - Open Source Billing a super simple way to create and send invoices and receive payments online. 
-- [open-source-rover](https://github.com/nasa-jpl/open-source-rover) (9794 stars) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+- [open-source-rover](https://github.com/nasa-jpl/open-source-rover) (9795 stars) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [openfaas-flux](https://github.com/stefanprodan/openfaas-flux) (79 stars) - OpenFaaS Kubernetes cluster state management with FluxCD
 - [openstack-manuals](https://github.com/openstack/openstack-manuals) (427 stars) - OpenStack Manuals. Mirror of code maintained at opendev.org.
-- [pdfs](https://github.com/tpn/pdfs) (10260 stars) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
+- [pdfs](https://github.com/tpn/pdfs) (10261 stars) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
 - [plural](https://github.com/pluralsh/plural) (1510 stars) - Enterprise Kubernetes management, accelerated. 🚀
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) (9823 stars) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) (1732 stars) - An open collection of Python anti-patterns and worst practices.
-- [recipes](https://github.com/TandoorRecipes/recipes) (8744 stars) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [recipes](https://github.com/TandoorRecipes/recipes) (8745 stars) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [SCS](https://github.com/innoq/SCS) (348 stars) - Self-Contained Systems
 - [security-txt](https://github.com/securitytxt/security-txt) (1888 stars) - A proposed standard that allows websites to define security policies.
 - [selfoss](https://github.com/fossar/selfoss) (2476 stars) - multipurpose rss reader, live stream, mashup, aggregation web application
-- [slsa](https://github.com/slsa-framework/slsa) (1965 stars) - Supply-chain Levels for Software Artifacts
-- [SONiC](https://github.com/sonic-net/SONiC) (2973 stars) - Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/
+- [slsa](https://github.com/slsa-framework/slsa) (1969 stars) - Supply-chain Levels for Software Artifacts
+- [SONiC](https://github.com/sonic-net/SONiC) (2974 stars) - Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/
 - [spinnaker-deploymentmanager](https://github.com/GoogleCloudPlatform/spinnaker-deploymentmanager) (56 stars) - Unknown
 - [subspace](https://github.com/subspacecommunity/subspace) (1803 stars) - A fork of the simple WireGuard VPN server GUI community maintained
 - [systematically-improving-rag](https://github.com/jxnl/systematically-improving-rag) (252 stars) - Unknown
 - [tag-security](https://github.com/cncf/tag-security) (2264 stars) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
-- [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) (2646 stars) - Curated list of resources on testing distributed systems
+- [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) (2650 stars) - Curated list of resources on testing distributed systems
 - [the-zen-of-go](https://github.com/davecheney/the-zen-of-go) (246 stars) - https://the-zen-of-go.netlify.com
 - [tianocore.github.io](https://github.com/tianocore/tianocore.github.io) (1418 stars) - Tianocore website
-- [tools](https://github.com/standardebooks/tools) (1690 stars) - The Standard Ebooks toolset for producing our ebook files.
-- [web-starter-kit](https://github.com/google/web-starter-kit) (18256 stars) - Web Starter Kit - a workflow for multi-device websites
+- [tools](https://github.com/standardebooks/tools) (1691 stars) - The Standard Ebooks toolset for producing our ebook files.
+- [web-starter-kit](https://github.com/google/web-starter-kit) (18255 stars) - Web Starter Kit - a workflow for multi-device websites
 - [website](https://github.com/kubernetes/website) (5431 stars) - Kubernetes website and documentation repo: 
-- [zoraxy](https://github.com/tobychui/zoraxy) (5586 stars) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
+- [zoraxy](https://github.com/tobychui/zoraxy) (5587 stars) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!

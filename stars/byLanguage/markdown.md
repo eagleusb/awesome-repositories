@@ -1,7 +1,7 @@
 ## Markdown (6 repositories) 
-- [awesome-canvas](https://github.com/raphamorim/awesome-canvas) (1874 stars) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
-- [awesomo](https://github.com/lk-geimfari/awesomo) (9977 stars) - Cool open source projects. Choose your project and get involved in Open Source development now.
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) (564008 stars) - Master programming by recreating your favorite technologies from scratch.
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (31327 stars) - The OpenAPI Specification Repository
-- [tldr](https://github.com/tldr-pages/tldr) (64257 stars) - Collaborative cheatsheets for console commands 📚.
-- [upptime](https://github.com/upptime/upptime) (17210 stars) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [awesome-canvas](https://github.com/raphamorim/awesome-canvas) (1875 stars) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+- [awesomo](https://github.com/lk-geimfari/awesomo) (9978 stars) - Cool open source projects. Choose your project and get involved in Open Source development now.
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) (564196 stars) - Master programming by recreating your favorite technologies from scratch.
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (31328 stars) - The OpenAPI Specification Repository
+- [tldr](https://github.com/tldr-pages/tldr) (64264 stars) - Collaborative cheatsheets for console commands 📚.
+- [upptime](https://github.com/upptime/upptime) (17211 stars) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
