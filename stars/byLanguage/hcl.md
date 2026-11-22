@@ -1,6 +1,6 @@
 ## HCL (23 repositories) 
 - [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (110 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
-- [agent-skills](https://github.com/hashicorp/agent-skills) (935 stars) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
+- [agent-skills](https://github.com/hashicorp/agent-skills) (936 stars) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (217 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
