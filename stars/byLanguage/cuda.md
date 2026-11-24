@@ -1,2 +1,2 @@
 ## Cuda (1 repositories) 
-- [HVM1](https://github.com/HigherOrderCO/HVM1) (11376 stars) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
+- [HVM1](https://github.com/HigherOrderCO/HVM1) (11377 stars) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
