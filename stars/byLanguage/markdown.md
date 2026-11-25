@@ -1,7 +1,7 @@
 ## Markdown (6 repositories) 
 - [awesome-canvas](https://github.com/raphamorim/awesome-canvas) (1875 stars) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [awesomo](https://github.com/lk-geimfari/awesomo) (9982 stars) - Cool open source projects. Choose your project and get involved in Open Source development now.
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) (565133 stars) - Master programming by recreating your favorite technologies from scratch.
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (31332 stars) - The OpenAPI Specification Repository
-- [tldr](https://github.com/tldr-pages/tldr) (64291 stars) - Collaborative cheatsheets for console commands 📚.
-- [upptime](https://github.com/upptime/upptime) (17211 stars) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) (565391 stars) - Master programming by recreating your favorite technologies from scratch.
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) (31335 stars) - The OpenAPI Specification Repository
+- [tldr](https://github.com/tldr-pages/tldr) (64299 stars) - Collaborative cheatsheets for console commands 📚.
+- [upptime](https://github.com/upptime/upptime) (17213 stars) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
