@@ -1,17 +1,17 @@
 ## PLpgSQL (16 repositories) 
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3245 stars) - OpenMapTiles Vector Tile Schema Implementation
-- [pg-trickle](https://github.com/trickle-labs/pg-trickle) (151 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
-- [pg_background](https://github.com/vibhorkum/pg_background) (262 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
-- [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (104 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
-- [pg_partman](https://github.com/pgpartman/pg_partman) (2856 stars) - Partition management extension for PostgreSQL
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) (3246 stars) - OpenMapTiles Vector Tile Schema Implementation
+- [pg-trickle](https://github.com/trickle-labs/pg-trickle) (152 stars) - A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
+- [pg_background](https://github.com/vibhorkum/pg_background) (263 stars) - Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
+- [pg_column_tetris](https://github.com/rogerwelin/pg_column_tetris) (105 stars) - A PostgreSQL extension that can enforce optimal column alignment to minimize row padding waste.
+- [pg_partman](https://github.com/pgpartman/pg_partman) (2857 stars) - Partition management extension for PostgreSQL
 - [pg_qualstats](https://github.com/powa-team/pg_qualstats) (345 stars) - A PostgreSQL extension for collecting statistics about predicates, helping find what indices are missing
 - [pg_semantic_cache](https://github.com/pgEdge/pg_semantic_cache) (8 stars) - pgEdge Labs: pg_semantic_cache allows you to leverage vector embeddings to cache and retrieve query results based on semantic similarity.
 - [pg_timeseries](https://github.com/ChuckHend/pg_timeseries) (423 stars) - Simple and focused time-series tables for PostgreSQL
-- [pgai](https://github.com/timescale/pgai) (5788 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+- [pgai](https://github.com/timescale/pgai) (5791 stars) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgedge-vectorizer](https://github.com/pgEdge/pgedge-vectorizer) (41 stars) - A PostgreSQL extension to create chunk tables for existing text data, and populate them with embeddings using your favourite LLM.
 - [pgmonitor-extension](https://github.com/CrunchyData/pgmonitor-extension) (93 stars) - Unknown
-- [pgmq](https://github.com/pgmq/pgmq) (5414 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq](https://github.com/pgmq/pgmq) (5416 stars) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [pgsql-openai](https://github.com/pramsey/pgsql-openai) (56 stars) - Helper functions for working with the OpenAI API
-- [postgis](https://github.com/postgis/postgis) (2272 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
+- [postgis](https://github.com/postgis/postgis) (2273 stars) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [sqlite_fdw](https://github.com/pgspider/sqlite_fdw) (265 stars) - SQLite Foreign Data Wrapper for PostgreSQL
 - [zombodb](https://github.com/zombodb/zombodb) (4713 stars) - Making Postgres and Elasticsearch work together like it's 2023
