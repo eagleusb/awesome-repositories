@@ -1,6 +1,6 @@
 ## HCL (23 repositories) 
 - [accelerated-platforms](https://github.com/GoogleCloudPlatform/accelerated-platforms) (110 stars) - This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.
-- [agent-skills](https://github.com/hashicorp/agent-skills) (941 stars) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
+- [agent-skills](https://github.com/hashicorp/agent-skills) (942 stars) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
 - [boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) (217 stars) - Example reference architecture for a high availability Boundary deployment on AWS.
 - [consul-aws](https://github.com/hashicorp-modules/consul-aws) (9 stars) - Unknown
 - [module-aws](https://github.com/sighupio/module-aws) (14 stars) - AWS Module: additional components for EKS-based clusters on AWS
@@ -14,7 +14,7 @@
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) (962 stars) - Terraform module to create AWS RDS resources 🇺🇦
 - [terraform-aws-route53](https://github.com/mineiros-io/terraform-aws-route53) (41 stars) - A Terraform module to create a Route53 Domain Name System (DNS) on Amazon Web Services (AWS). https://aws.amazon.com/route53/
 - [terraform-google-gke](https://github.com/gruntwork-io/terraform-google-gke) (358 stars) - Terraform code and scripts for deploying a Google Kubernetes Engine (GKE) cluster.
-- [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1286 stars) - Configures opinionated GKE clusters
+- [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) (1287 stars) - Configures opinionated GKE clusters
 - [terraform-guides](https://github.com/hashicorp/terraform-guides) (1506 stars) - Example usage of HashiCorp Terraform
 - [terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) (732 stars) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [terraform-kubernetes-addons](https://github.com/particuleio/terraform-kubernetes-addons) (210 stars) - Terraform module to deploy curated Kubernetes middlewares on multiple cloud providers.

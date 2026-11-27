@@ -1,11 +1,11 @@
 ## Svelte (10 repositories) 
-- [agx](https://github.com/agnosticeng/agx) (263 stars) - AI Powered Analytics
-- [cobalt](https://github.com/imputnet/cobalt) (47282 stars) - best way to save what you love
+- [agx](https://github.com/agnosticeng/agx) (264 stars) - AI Powered Analytics
+- [cobalt](https://github.com/imputnet/cobalt) (47370 stars) - best way to save what you love
 - [headscale-admin](https://github.com/GoodiesHQ/headscale-admin) (1134 stars) - Admin Web Interface for juanfont/headscale
 - [headscale-ui](https://github.com/gurucomputing/headscale-ui) (2747 stars) - A web frontend for the headscale Tailscale-compatible coordination server
 - [nah.pet](https://github.com/heyitswit/nah.pet) (154 stars) - Rewriting paths with bad energy - An alternative to TinyURL, YOURLS, Shlink
 - [networking-toolbox](https://github.com/lissy93/networking-toolbox) (2740 stars) - 🛜 100+ offline-first networking tools and utilities
-- [open-webui](https://github.com/open-webui/open-webui) (159597 stars) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [open-webui](https://github.com/open-webui/open-webui) (159668 stars) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [photon](https://github.com/Xyphyn/photon) (559 stars) - A faster, prettier, and nicer fediverse client
 - [tidal-ui](https://github.com/binimum/tidal-ui) (1332 stars) - Simple Tidal frontend. Modified version on tidal.squid.wtf
-- [webvm](https://github.com/leaningtech/webvm) (17494 stars) - Virtual Machine for the Web
+- [webvm](https://github.com/leaningtech/webvm) (17497 stars) - Virtual Machine for the Web
